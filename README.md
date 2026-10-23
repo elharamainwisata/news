@@ -4,7 +4,7 @@ Alat bantu otomasi untuk [news.elharamainwisata.com](https://news.elharamainwisa
 
 ## Isi
 
-- `routine/prompt.md` — prompt routine Claude Code (cloud) yang setiap hari pukul 06:00 WIB membuat 9 artikel (1 per kategori), dijadwalkan terbit tiap jam 09:00–17:00 WIB, lengkap dengan caption sosmed.
+- `routine/prompt_ronde_a.md` dan `routine/prompt_ronde_b.md` — prompt dua routine Claude Code (cloud): Ronde A pukul 05:00 WIB dan Ronde B pukul 11:00 WIB, masing-masing 10 artikel (9 kategori + 1 kegiatan jemaah), terbit tiap 45 menit 07:00–21:15 WIB.
 - `sosmed/buat_kartu.py` — pembuat kartu Instagram gaya @elharamainnews (feed 1080x1350 / story 1080x1920).
 - `sosmed/fonts/` — font Poppins (SIL Open Font License).
 
