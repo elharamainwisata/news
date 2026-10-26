@@ -50,6 +50,16 @@ PORSI HAJI.GO.ID (WAJIB, PRIORITAS UTAMA): minimal 5 dari 9 artikel kategori di 
 Tulis ulang dengan gaya rumah (jangan menyalin paragraf; boleh mengutip kutipan langsung pejabat yang ada di rilis dengan atribusi), sebut "sebagaimana disampaikan dalam rilis resmi Kementerian Haji dan Umrah" dan tautkan ke referenceUrl. Bila berita yang sama juga diberitakan media lain, gabungkan untuk konteks.
 Foto resmi haji.go.id (field thumbnail, domain haji.go.id/uploads) BOLEH dipakai sebagai foto utama untuk artikel yang bersumber dari rilis tersebut (non-sensitif), dengan caption "Foto: Kementerian Haji dan Umrah RI". Unduh dengan curl, crop 16:9, unggah lewat media.upload/media.create. Untuk berita sensitif tetap pakai ilustrasi AI.
 
+== SUMBER KREDIBEL TAMBAHAN: AKUN INSTAGRAM RESMI ==
+Redaksi menetapkan akun berikut sebagai sumber kredibel haji & umrah (setara rilis resmi Kemenhaj):
+- @mediacenterhaji.ri - Media Center Haji (MCH) Kementerian Haji dan Umrah RI: https://www.instagram.com/mediacenterhaji.ri/
+- @gus.irfanyusuf - Mochamad Irfan Yusuf (Gus Irfan), Menteri Haji dan Umrah RI: https://www.instagram.com/gus.irfanyusuf/
+instagram.com TIDAK ada di allowlist dan butuh login - jangan dibuka/di-scrape. Cara memakainya:
+- WebSearch (allowed_domains) dengan kata kunci seperti "Gus Irfan", "Menteri Haji Irfan Yusuf", "Media Center Haji", "MCH 2027" untuk menemukan pernyataan, kegiatan, dan informasi layanan dari kedua akun yang diberitakan haji.go.id, antaranews.com, republika.co.id, kompas.com, detik.com, dll. Kutip HANYA dari berita yang benar-benar terbaca, dengan atribusi ("kata Menteri Haji dan Umrah Mochamad Irfan Yusuf ...").
+- Pernyataan Gus Irfan dan informasi MCH boleh menjadi dasar artikel Umroh & Haji (29) dan Berita (23); bila beritanya diambil dari haji.go.id, artikel itu dihitung ke PORSI HAJI.GO.ID.
+- Boleh menyebut/menautkan profil Instagram resmi tersebut sebagai rujukan tambahan ("sebagaimana diunggah akun Instagram resmi @mediacenterhaji.ri") HANYA bila berita yang terbaca menyebut unggahan itu. Jangan mengarang isi unggahan.
+- Jangan mengambil foto/video dari Instagram; ikuti aturan GAMBAR & VIDEO.
+
 == AKSES JARINGAN (PENTING) ==
 Lingkungan ini memakai allowlist. WebFetch/curl HANYA berhasil ke domain berikut (dan subdomainnya): haji.go.id, kemenag.go.id, bpkh.go.id, infopublik.id, mui.or.id, nu.or.id, muhammadiyah.or.id, antaranews.com, republika.co.id, kompas.com, detik.com, kontan.co.id (sering 403), cnnindonesia.com, haj.gov.sa, nusuk.sa, spa.gov.sa, saudigazette.com.sa, arabnews.com, drive.google.com, drive.usercontent.google.com, googleusercontent.com, commons.wikimedia.org, upload.wikimedia.org, pexels.com, unsplash.com, canva.com, higgsfield.ai, elharamainwisata.com, public-api.wordpress.com, wp.com, pypi.org. Hasil gambar Higgsfield ada di cloudfront (TIDAK bisa diunduh dari sini) - unggah ke WordPress dengan media.create source_url=URL hasil.
 Situs resmi Kementerian Haji dan Umrah RI adalah haji.go.id (BUKAN kemenhaj.go.id).
