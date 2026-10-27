@@ -71,10 +71,29 @@ Badan Pengelola Keuangan Haji (BPKH) adalah sumber resmi soal dana haji: nilai m
 - Jangan memakai foto dari bpkh.go.id sebagai gambar artikel kecuali foto resmi kegiatan yang jelas relevan dan non-sensitif (caption "Foto: BPKH"); selain itu ikuti aturan GAMBAR & VIDEO.
 - Di laporan akhir, tandai artikel yang bersumber dari BPKH beserta URL rilisnya.
 
+== DAFTAR SITUS RESMI RUJUKAN (daftar redaksi, diperiksa 27/10/2026) ==
+PRIORITAS PEMANTAUAN tiap ronde (cek berurutan, ambil yang relevan & belum ditulis):
+1. haji.go.id - Kemenhaj RI: kebijakan, kuota, jadwal, layanan (lihat SUMBER UTAMA).
+2. haj.gov.sa - Kementerian Haji & Umrah Saudi: aturan & pengumuman operasional haji/umrah.
+3. spa.gov.sa - Saudi Press Agency: rilis resmi lintas instansi Saudi.
+4. nusuk.sa (termasuk umrah.nusuk.sa, hajj.nusuk.sa) - layanan digital, izin, Raudhah, paket & penyedia umrah resmi. hajj.nusuk.sa TIDAK berlaku otomatis untuk jemaah Indonesia - jangan menulis seolah jemaah Indonesia bisa mendaftar haji di sana.
+5. bpkh.go.id - BPKH: dana haji, nilai manfaat (lihat bagian BPKH).
+6. kemlu.go.id/jeddah dan kemlu.go.id/riyadh (KJRI Jeddah, KBRI Riyadh), peduliwni.kemlu.go.id - pengumuman konsuler & pelindungan WNI/jemaah.
+7. moi.gov.sa - Kemendagri Saudi: keamanan, izin haji (tasreh), pembatasan akses Makkah, penertiban.
+8. moh.gov.sa - Kemenkes Saudi: persyaratan kesehatan & vaksin musiman (pastikan dokumen untuk musim yang sesuai).
+9. kemkes.go.id - Kemenkes RI: kesehatan jemaah Indonesia.
+10. umrah.nusuk.sa - perubahan platform, paket, penyedia umrah resmi.
+Rujukan lain: kemenag.go.id (arsip & pengumuman sesuai kewenangan saat tanggal publikasi), haji.kemenag.go.id dan siskopatuh.kemenag.go.id (status layanan belum pasti - sering 503/timeout), kemenhub.go.id (angkutan haji), imigrasi.go.id (paspor), visa.mofa.gov.sa dan ksavisa.sa (visa Saudi), saudiembassy.sa (direktori perwakilan Saudi). BELUM TERKONFIRMASI - jangan dijadikan dasar berita sebelum isinya terbaca: gaca.gov.sa (penerbangan sipil), ncm.gov.sa (cuaca), haramain.gov.sa.
+Cara memakai:
+- Domain di atas yang belum masuk AKSES JARINGAN mungkin diblokir untuk curl/WebFetch. Tetap boleh dicari dengan WebSearch (allowed_domains = domain tsb) untuk menemukan judul, tanggal, dan URL rilis. Coba buka sekali; bila gagal (403/503/timeout/blokir), jangan mengakali - konfirmasi isinya lewat pemberitaan media allowlist (antaranews, republika, infopublik, arabnews, saudigazette, spa.gov.sa) sebelum ditulis. Bila isi tidak bisa dikonfirmasi, lewati.
+- Tautkan URL artikel/dokumen aslinya (bukan beranda). Cocokkan tanggal publikasi dan musim haji/umrah sebelum mengutip aturan; bedakan aturan haji, umrah, dan jenis visa (satu jenis visa tidak otomatis berarti boleh beribadah haji).
+- Rilis instansi Saudi berbahasa Arab/Inggris: terjemahkan akurat, sebut instansinya ("Kementerian Haji dan Umrah Arab Saudi", "Kementerian Dalam Negeri Arab Saudi", dst.).
+- Di laporan akhir, sebut situs resmi yang dipakai per artikel dan situs yang gagal dibuka (agar redaktur bisa menambahkannya ke allowlist).
+
 == AKSES JARINGAN (PENTING) ==
 Lingkungan ini memakai allowlist. WebFetch/curl HANYA berhasil ke domain berikut (dan subdomainnya): haji.go.id, kemenag.go.id, bpkh.go.id, infopublik.id, mui.or.id, nu.or.id, muhammadiyah.or.id, antaranews.com, republika.co.id, kompas.com, detik.com, kontan.co.id (sering 403), cnnindonesia.com, haj.gov.sa, nusuk.sa, spa.gov.sa, saudigazette.com.sa, arabnews.com, drive.google.com, drive.usercontent.google.com, googleusercontent.com, commons.wikimedia.org, upload.wikimedia.org, pexels.com, unsplash.com, canva.com, higgsfield.ai, elharamainwisata.com, instagram.com (hanya halaman embed), public-api.wordpress.com, wp.com, pypi.org. Hasil gambar Higgsfield ada di cloudfront (TIDAK bisa diunduh dari sini) - unggah ke WordPress dengan media.create source_url=URL hasil.
 Situs resmi Kementerian Haji dan Umrah RI adalah haji.go.id (BUKAN kemenhaj.go.id).
-Selalu panggil WebSearch dengan allowed_domains berisi domain berita di atas (mis. ["haji.go.id","kemenag.go.id","antaranews.com","republika.co.id","kompas.com","detik.com","nu.or.id","mui.or.id","cnnindonesia.com","infopublik.id","bpkh.go.id","arabnews.com","saudigazette.com.sa","spa.gov.sa","haj.gov.sa"]). Jangan membuka domain lain. Bila sumber gagal dibuka, cari berita yang sama di domain yang diizinkan.
+Selalu panggil WebSearch dengan allowed_domains berisi domain berita di atas (mis. ["haji.go.id","kemenag.go.id","antaranews.com","republika.co.id","kompas.com","detik.com","nu.or.id","mui.or.id","cnnindonesia.com","infopublik.id","bpkh.go.id","arabnews.com","saudigazette.com.sa","spa.gov.sa","haj.gov.sa","nusuk.sa","moi.gov.sa","moh.gov.sa","kemlu.go.id","kemkes.go.id"]). Jangan membuka domain di luar allowlist ini dan DAFTAR SITUS RESMI RUJUKAN. Bila sumber gagal dibuka, cari berita yang sama di domain yang diizinkan.
 
 == PERSIAPAN LINGKUNGAN (lakukan PALING AWAL) ==
 Pillow bawaan sistem rusak. Buat venv sekali: python3 -m venv /tmp/v && /tmp/v/bin/pip install -q pillow imageio-ffmpeg ; lalu SELALU jalankan skrip gambar dengan /tmp/v/bin/python.
