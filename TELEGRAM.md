@@ -45,3 +45,19 @@ claude --channels plugin:telegram@claude-plugins-official
 - `jalankan Ronde A sekarang`
 
 Dokumentasi: https://code.claude.com/docs/en/channels.md
+
+## Server 24 jam (sejak 31/10/2026)
+
+Bot sekarang jalan di VPS `elharamain` (Ubuntu 24.04, `ssh elharamain`), **bukan di Mac**. Jangan jalankan bot di Mac bersamaan.
+
+- Service `claude-telegram` (systemd) menjalankan `claude --channels plugin:telegram@claude-plugins-official` di sesi tmux `bot`, folder `~/news`, otomatis hidup lagi setelah reboot.
+- Service `rclone-claude-memory` me-mount Google Drive `claude-memory-elharamain` ke `~/gdrive-memory`; memori Claude server (`~/.claude/projects/-home-ubuntu-news/memory`) menunjuk ke sana, sama dengan Mac.
+- Akses: `dmPolicy allowlist`, hanya akun Telegram yang sudah dipasangkan.
+
+Perintah berguna (di server):
+```
+tmux attach -t bot                      # lihat/setujui sesi bot (keluar: Ctrl+B lalu D)
+sudo systemctl restart claude-telegram  # restart bot
+systemctl status claude-telegram rclone-claude-memory
+cd ~/news && git pull                   # ambil perubahan prompt terbaru
+```
