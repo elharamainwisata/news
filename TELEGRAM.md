@@ -51,7 +51,7 @@ Dokumentasi: https://code.claude.com/docs/en/channels.md
 Bot jalan di **Mac mini** (Ubuntu, Tailscale `100.125.20.102`, user `khaeruddien`), bukan di Mac lain dan **bukan di VPS Tencent `elharamain`** (server itu untuk pekerjaan lain, jangan dipasangi apa pun). Jangan jalankan bot di dua mesin bersamaan.
 
 - Repo: `~/elharamain-news` (folder `~/news` di Mac mini adalah folder lain, jangan disentuh).
-- Skrip start: `~/elharamain-news-bot.sh` — mount memori Google Drive (`~/.local/bin/rclone`, folder `claude-memory-elharamain` → `~/gdrive-memory`), lalu menjalankan `claude --channels plugin:telegram@claude-plugins-official` di tmux sesi `bot`.
+- Skrip start: `~/elharamain-news-bot.sh` — mount memori Google Drive (`~/.local/bin/rclone`, folder `claude-memory-elharamain` → `~/gdrive-memory`), lalu menjalankan `claude --model sonnet --channels plugin:telegram@claude-plugins-official` (model Sonnet agar hemat kuota) di tmux sesi `bot`.
 - Otomatis saat restart: baris `@reboot` di crontab user (ditambahkan manual oleh pemilik).
 - Akses: `dmPolicy allowlist`, hanya akun Telegram pemilik.
 
