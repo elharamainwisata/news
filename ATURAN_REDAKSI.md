@@ -6,8 +6,9 @@ Ringkasan aturan dari pemilik untuk artikel news.elharamainwisata.com. Aturan le
 
 | Routine | Jadwal (WIB) | Isi |
 |---|---|---|
-| Ronde A | 05:00, terbit 07:00–13:45 | 10 artikel (9 kategori + 1 Kegiatan jemaah) |
-| Ronde B | 11:00, terbit 14:30–21:15 | 10 artikel, topik berbeda dari Ronde A |
+| Ronde A | 05:00, terbit 07:00–14:20 (jeda 40 menit) | 12 artikel: Umroh & Haji 3, Berita 3, Fiqih, Sejarah Islam, Tanya Jawab, Kegiatan, Dunia Islam, Media Arab |
+| Ronde B | 11:00, terbit 15:00–22:20 (jeda 40 menit) | 12 artikel: Umroh & Haji 2, Berita 3, Sejarah Islam, Kegiatan, Dunia Islam, Media Arab, Hikmah, Wisata Halal, Lifestyle Muslim; topik berbeda dari Ronde A |
+| Cadangan Ronde B | 14:00 | Cek slot sore; bila Ronde B gagal, isi slot yang kosong. Bila lengkap, langsung berhenti |
 | Laporan WA | 07:00 | Judul + link artikel kemarin ke grup WA redaksi (OneSender) |
 
 - Artikel dijadwalkan (status *future*), tidak pernah langsung *publish*.
@@ -15,11 +16,12 @@ Ringkasan aturan dari pemilik untuk artikel news.elharamainwisata.com. Aturan le
 
 ## Sumber berita
 
-1. **haji.go.id** (Kementerian Haji dan Umrah RI) – sumber utama, minimal 5 dari 9 artikel per ronde. Termasuk ppid.haji.go.id dan **subdomain provinsi** (`dki.haji.go.id`, `jabar.haji.go.id`, `banten.haji.go.id`, dst.); prioritas DKI, Jabar, Banten, usahakan 1–2 artikel per ronde dari situs provinsi.
+1. **haji.go.id** (Kementerian Haji dan Umrah RI) – sumber utama, minimal 5 dari 10 artikel kategori per ronde (di luar Kegiatan dan Media Arab). Termasuk ppid.haji.go.id dan **subdomain provinsi** (`dki.haji.go.id`, `jabar.haji.go.id`, `banten.haji.go.id`, dst.); prioritas DKI, Jabar, Banten, usahakan 1–2 artikel per ronde dari situs provinsi.
 2. **BPKH** (bpkh.go.id) – dana haji, nilai manfaat, BPIH.
-3. **Instagram resmi**: @mediacenterhaji.ri (Media Center Haji) dan @gus.irfanyusuf (Menteri Haji dan Umrah).
-4. Situs resmi lain: haj.gov.sa, spa.gov.sa, nusuk.sa, kemlu.go.id, moi.gov.sa, moh.gov.sa, kemkes.go.id.
-5. Media: Antara, Republika, Kompas, Detik, NU Online, MUI, Muhammadiyah, dll.
+3. **Media Arab** (Arab News, SPA, haj.gov.sa, Nusuk, Saudi Gazette) – 2 artikel per hari (pagi 1, sore 1), kategori Umroh & Haji atau Dunia Islam sesuai isi.
+4. **Instagram resmi**: @mediacenterhaji.ri (Media Center Haji) dan @gus.irfanyusuf (Menteri Haji dan Umrah).
+5. Situs resmi lain: haj.gov.sa, spa.gov.sa, nusuk.sa, kemlu.go.id, moi.gov.sa, moh.gov.sa, kemkes.go.id.
+6. Media: Antara, Republika, Kompas, Detik, NU Online, MUI, Muhammadiyah, dll.
 
 Semua fakta, angka, dan kutipan harus dari sumber yang benar-benar dibaca. Tidak boleh mengarang.
 
