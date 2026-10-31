@@ -80,7 +80,7 @@ Ketentuan pemilik: satu slot per ronde khusus berita yang sumber utamanya media/
 - Pilih berita 72 jam terakhir (maksimal 7 hari) yang relevan bagi calon jemaah Indonesia: kebijakan visa umrah/haji, Nusuk, Raudhah, kalender umrah, layanan Masjidil Haram/Nabawi, transportasi Haramain, sanksi/aturan perusahaan umrah, kesehatan/cuaca, kabar Makkah-Madinah, atau kabar dunia Islam dari Saudi. Hindari berita yang hanya berlaku untuk warga/ekspatriat Saudi dan berita politik/militer tanpa kaitan jemaah.
 - Kategori: Umroh & Haji (29) bila menyangkut aturan/layanan jemaah; Dunia islam (25) untuk kabar lainnya. Artikel ini TAMBAHAN di luar slot Umroh & Haji/Dunia islam biasa, jadi topiknya WAJIB berbeda dari artikel lain hari ini. Artikel MEDIA ARAB tidak dihitung ke PORSI HAJI.GO.ID.
 - Terjemahkan akurat; atribusi dalam kalimat ("dilansir Arab News", "sebagaimana dilaporkan Saudi Press Agency (SPA)", "Kementerian Haji dan Umrah Arab Saudi menyampaikan ...") dan tautkan URL artikel asli. Bedakan aturan visa umrah, visa haji, dan visa turis. Angka dan tanggal persis seperti sumber; konversi jam ke WIB bila disebut.
-- Gambar ikuti aturan GAMBAR & VIDEO (jangan pakai foto Arab News/SPA/Saudi Gazette).
+- Gambar ikuti aturan GAMBAR & VIDEO (jangan pakai foto Arab News/Saudi Gazette; foto SPA HANYA untuk foto tokoh sesuai aturan TOKOH PENTING, dengan kredit kecil di gambar).
 - Di laporan, tandai artikel ini "MEDIA ARAB" beserta URL sumbernya.
 
 == DAFTAR SITUS RESMI RUJUKAN (daftar redaksi, diperiksa 27/10/2026) ==
