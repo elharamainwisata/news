@@ -36,6 +36,7 @@ Semua fakta, angka, dan kutipan harus dari sumber yang benar-benar dibaca. Tidak
 ### Wajib
 - **Utamakan foto asli.** AI hanya pilihan terakhir.
 - **Masjid, tempat ibadah, dan landmark** (Masjidil Haram, Nabawi, Quba, Al-Azhar, Hagia Sophia, Jabal Rahmah, dll.) **tidak boleh AI** – wajib foto asli.
+- **Tokoh penting** (mis. Imam Besar Masjidil Haram Syekh Abdurrahman As-Sudais, Raja Saudi, menteri, pejabat, ulama) **wajib foto asli tokoh itu** – tidak boleh AI, tidak boleh foto orang lain yang mirip. Sumber: rilis resmi lembaga (caption "Foto: <lembaga>") atau Wikimedia CC0/Public Domain. Bila tidak ada, pakai foto asli tempat/acara terkait, tetap bukan AI.
 - **Berita negatif** (gagal berangkat, tidak lolos kesehatan, sakit/wafat, penipuan, deportasi, sanksi, keluhan layanan, dll.) **tidak boleh memakai foto Elharamain dalam bentuk apa pun**, agar pembaca tidak mengira jemaah/layanan Elharamain yang bermasalah. Pakai gambar ilustrasi.
 - **Gambar AI harus 99% seperti foto asli** (gaya foto dokumenter, kulit dan cahaya natural). Kalau terlihat buatan, buat ulang.
 - **Caption gambar AI cukup "Ilustrasi"** – tanpa kata "AI".
