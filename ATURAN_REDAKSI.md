@@ -15,7 +15,7 @@ Ringkasan aturan dari pemilik untuk artikel news.elharamainwisata.com. Aturan le
 
 ## Sumber berita
 
-1. **haji.go.id** (Kementerian Haji dan Umrah RI) – sumber utama, minimal 5 dari 9 artikel per ronde.
+1. **haji.go.id** (Kementerian Haji dan Umrah RI) – sumber utama, minimal 5 dari 9 artikel per ronde. Termasuk ppid.haji.go.id dan **subdomain provinsi** (`dki.haji.go.id`, `jabar.haji.go.id`, `banten.haji.go.id`, dst.); prioritas DKI, Jabar, Banten, usahakan 1–2 artikel per ronde dari situs provinsi.
 2. **BPKH** (bpkh.go.id) – dana haji, nilai manfaat, BPIH.
 3. **Instagram resmi**: @mediacenterhaji.ri (Media Center Haji) dan @gus.irfanyusuf (Menteri Haji dan Umrah).
 4. Situs resmi lain: haj.gov.sa, spa.gov.sa, nusuk.sa, kemlu.go.id, moi.gov.sa, moh.gov.sa, kemkes.go.id.
