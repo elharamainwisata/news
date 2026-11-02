@@ -35,6 +35,8 @@ Semua fakta, angka, dan kutipan harus dari sumber yang benar-benar dibaca. Tidak
 
 ### Wajib
 - **Utamakan foto asli.** AI hanya pilihan terakhir.
+- **Artikel Media Arab memakai foto SPA dari sumber beritanya**, di-crop 16:9 (logo SPA di pojok kiri atas ikut dipotong) dan diberi tulisan kecil "Foto: SPA" di pojok kanan bawah gambar. Foto Arab News hanya boleh dipakai bila kreditnya (SPA); foto dari AFP/Reuters/staf Arab News tidak dipakai (contoh: post 16564 museum Sirah Nabi, 2 Nov 2026).
+- **Topik objek spesifik wajib tampil di foto.** Artikel tentang merpati, Zamzam, kiswah, museum, kereta Haramain, dll. harus memakai foto objek itu – bukan foto rombongan jemaah atau suasana umum Masjidil Haram hanya karena lokasinya sama (contoh keliru: artikel merpati Tanah Haram, 1 Nov 2026).
 - **Masjid, tempat ibadah, dan landmark** (Masjidil Haram, Nabawi, Quba, Al-Azhar, Hagia Sophia, Jabal Rahmah, dll.) **tidak boleh AI** – wajib foto asli.
 - **Berita negatif** (gagal berangkat, tidak lolos kesehatan, sakit/wafat, penipuan, deportasi, sanksi, keluhan layanan, dll.) **tidak boleh memakai foto Elharamain dalam bentuk apa pun**, agar pembaca tidak mengira jemaah/layanan Elharamain yang bermasalah. Pakai gambar ilustrasi.
 - **Gambar AI harus 99% seperti foto asli** (gaya foto dokumenter, kulit dan cahaya natural). Kalau terlihat buatan, buat ulang.
