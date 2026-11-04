@@ -25,7 +25,28 @@ Ringkasan aturan dari pemilik untuk artikel news.elharamainwisata.com. Aturan le
 
 Semua fakta, angka, dan kutipan harus dari sumber yang benar-benar dibaca. Tidak boleh mengarang.
 
+### Sortir berita (perintah pemilik 2026-11-04)
+Elharamain News adalah media milik travel, **bukan media bebas**, jadi setiap calon berita disortir dulu. Yang lolos hanya berita yang:
+1. Bermanfaat dan relevan bagi jemaah/calon jemaah atau umat Islam Indonesia.
+2. Bersumber resmi atau media kredibel, bukan rumor, unggahan viral tanpa konfirmasi, atau opini.
+3. Membawa informasi baru, bukan pengulangan artikel 7 hari terakhir.
+4. Aman bagi citra media: tanpa politik praktis, SARA, gosip, polemik antarormas/antartokoh, serangan kepada pemerintah Indonesia/Saudi, dan tanpa menyebut travel lain.
+5. Bila negatif, punya nilai imbauan yang jelas bagi jemaah dan ditulis tenang.
+
+Bila ragu, gugurkan. Laporan routine mencantumkan calon topik yang digugurkan beserta alasannya.
+
 ## Aturan gambar
+
+### Gerbang gambar (ketat, perintah pemilik 2026-11-02)
+Setiap gambar (foto utama dan sisipan) baru boleh dipasang bila lolos semua pemeriksaan ini. Bila satu gagal, gambar ditolak:
+1. **Dilihat dulu**: tulis satu kalimat tentang apa yang benar-benar terlihat, bukan yang diharapkan dari nama file atau folder.
+2. **Subjek sama dengan berita**: tokoh, masjid/tempat, objek, atau kegiatan yang diberitakan. "Masih satu kota" atau "nuansa Islami" tidak cukup.
+3. **Identitas terbukti tertulis** di sumber foto (deskripsi Wikimedia, caption SPA/haji.go.id, nama subfolder Drive). Mirip saja tidak cukup.
+4. **Nada sesuai**: berita negatif tanpa foto Elharamain, tanpa close-up wajah jemaah atau anak-anak.
+5. **Mutu**: tidak buram, tanpa watermark media lain, crop rapi, dan bukan foto yang dipakai dalam 7 hari terakhir.
+6. **Lisensi & kredit** sesuai aturan.
+
+Bila ragu, anggap tidak cocok. Lebih baik tanpa gambar sisipan daripada gambar yang salah. **Audit akhir**: setelah semua artikel dibuat, setiap gambar diunduh ulang dari WordPress, dilihat, dan dicocokkan lagi dengan judul. Gambar yang tidak lolos diganti sebelum laporan, dan laporan mencantumkan hasil audit per gambar.
 
 ### Urutan pilihan gambar
 1. Foto resmi haji.go.id (bila artikel dari rilisnya).
@@ -55,6 +76,10 @@ Semua fakta, angka, dan kutipan harus dari sumber yang benar-benar dibaca. Tidak
 - Setiap gambar dilihat dulu sebelum dipasang.
 
 ## Gaya tulisan
+- **Tulis seperti wartawan, bukan seperti AI** (perintah pemilik 2026-11-04). Sebelum menulis, baca 1–2 berita serupa di Kompas atau Detik dan tiru cara menulisnya (bukan menyalin isinya): lead langsung ke fakta inti, kalimat pendek, setiap paragraf membawa fakta, angka, nama, atau kutipan.
+- **Dilarang ciri tulisan AI**: pembuka klise ("Di tengah...", "Dalam era..."), frasa pengisi ("Hal ini menunjukkan", "Perlu diketahui", "Tidak hanya... tetapi juga", "Secara keseluruhan", "Dengan demikian"), pertanyaan retoris, ajakan "mari", deretan tiga kata sifat, kata berlebihan ("luar biasa", "momen berharga", "langkah strategis"), paragraf yang mengulang atau ditutup petuah moral, dan tanda pisah panjang (—) di tengah kalimat.
+- Draf dibaca ulang seperti redaktur Kompas/Detik sebelum dijadwalkan.
 - Dibuka dengan **ELHARAMAIN NEWS –**, gaya berita lurus, Bahasa Indonesia baku.
 - Tanpa subjudul dan bullet; 450–600 kata (Sejarah 250–450, Tanya Jawab s.d. 700).
 - Ditutup dengan tips praktis bagi calon jemaah, lalu CTA WhatsApp 6281287292422.
+- **Dilarang mengomentari travel lain** (perintah pemilik 2026-11-04): tidak menilai, mengkritik, menyindir, membandingkan, atau memuji biro travel umrah/haji lain. **Nama travel lain juga dilarang disebut sama sekali**, termasuk di berita penipuan atau pencabutan izin PPIU walau sumber resminya menyebut nama. Tulis "sebuah biro perjalanan" atau angkat imbauan umumnya saja; bila berita tidak bisa ditulis tanpa nama travel, jangan ditulis.
