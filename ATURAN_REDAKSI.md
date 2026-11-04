@@ -10,6 +10,7 @@ Ringkasan aturan dari pemilik untuk artikel news.elharamainwisata.com. Aturan le
 | Ronde B | 11:00, terbit 15:00–22:20 (jeda 40 menit) | 12 artikel: Umroh & Haji 2, Berita 3, Sejarah Islam, Kegiatan, Dunia Islam, Media Arab, Hikmah, Wisata Halal, Lifestyle Muslim; topik berbeda dari Ronde A |
 | Cadangan Ronde B | 14:00 | Cek slot sore; bila Ronde B gagal, isi slot yang kosong. Bila lengkap, langsung berhenti |
 | Laporan WA | 07:00 | Judul + link artikel kemarin ke grup WA redaksi (OneSender) |
+| Pemimpin Redaksi (QC) | 06:30 & 12:30 | Kroscek semua artikel terjadwal hasil Ronde A/B sebelum terbit: sortir, nama travel lain, fakta vs sumber, kalimat salinan, gaya AI, gambar. Memperbaiki yang salah, menahan (draft) yang tidak layak, lalu melapor. Prompt: `routine/prompt_pemred.md` |
 
 - Artikel dijadwalkan (status *future*), tidak pernah langsung *publish*.
 - Tidak ada lagi caption media sosial.
