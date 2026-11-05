@@ -66,6 +66,7 @@ Bila ragu, anggap tidak cocok. Lebih baik tanpa gambar sisipan daripada gambar y
 - **Berita negatif** (gagal berangkat, tidak lolos kesehatan, sakit/wafat, penipuan, deportasi, sanksi, keluhan layanan, dll.) **tidak boleh memakai foto Elharamain dalam bentuk apa pun**, agar pembaca tidak mengira jemaah/layanan Elharamain yang bermasalah. Pakai gambar ilustrasi.
 - **Gambar AI harus 99% seperti foto asli** (gaya foto dokumenter, kulit dan cahaya natural). Kalau terlihat buatan, buat ulang.
 - **Caption gambar AI cukup "Ilustrasi"** – tanpa kata "AI".
+- **Artikel internal (Kegiatan/tentang Elharamain): semua gambar hanya dari Google Drive Elharamain**. Tidak boleh gambar dari luar maupun ilustrasi AI (perintah pemilik 2026-11-05).
 - **Ilustrasi AI harus sangat realistis dan sesuai artikel**: adegan menggambarkan tempat/kegiatan yang diberitakan, orangnya berwajah Indonesia/Melayu atau Arab sesuai latar. **Dilarang wajah bule/Barat** (perintah pemilik 2026-11-04).
 - **Foto stok gratis dipasang tanpa kredit.** Foto yang lisensinya wajib kredit (Wikimedia CC BY / CC BY-SA) tidak dipakai, dan tidak boleh diedit untuk menghindari kredit.
 - Foto Elharamain diberi caption "Foto: Dokumentasi Elharamain Wisata"; foto haji.go.id "Foto: Kementerian Haji dan Umrah RI".
