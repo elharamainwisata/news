@@ -20,3 +20,9 @@ python3 sosmed/buat_kartu.py --foto foto.jpg --judul "Judul artikel" --out kartu
 
 Caption ditulis routine ke meta `jetpack_publicize_message` (tersimpan sebagai `_wpas_mess`).
 Plugin Bit Social Pro memposting saat artikel terbit dengan template `{custom_field_[_wpas_mess]}`.
+
+## Cadangan Claude API (laptop)
+
+Bila routine cloud gagal karena limit langganan, `backup/cadangan_api.sh` (cron 07:40 dan 15:40 WIB) mengecek slot Ronde A/B. Bila kurang dari 10 post dan jumlahnya tidak bertambah dalam 20 menit, prompt ronde yang sama dijalankan lewat Claude API (`claude --bare -p`, model claude-opus-5-5, batas biaya per run `BATAS_BIAYA_USD`). WordPress diakses lewat `backup/wp.py` (REST + Application Password). Mode ini tidak membuat ilustrasi AI.
+
+Kredensial: `~/.config/elharamain-news/api-backup.env` (ANTHROPIC_API_KEY, WP_NEWS_USER, WP_NEWS_PASS, BATAS_BIAYA_USD). Log: `backup/log/`. Jalankan manual: `backup/cadangan_api.sh B --paksa`.
