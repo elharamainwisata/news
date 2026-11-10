@@ -11,3 +11,5 @@
   Final: A 14 Juni Platinum ~11:20 | B 24 Juni 12 Hari ~13:20 | C 12 Juli Turki ~18:00 (17:40 = slot grid Ronde B) | D 29 Juli ~20:00. Status per artikel ditulis di bawah.
 - STATUS ~09:20 WIB: 4 naskah+foto siap di kegiatan-1110/tambahan/ (a=14 Juni Platinum 11:20, b=24 Juni 12 Hari 13:20, c=12 Juli Turki 18:00, d=29 Juli 20:00). Post BELUM dibuat: MCP wordpress-com sesi News ditolak otorisasi. Lihat tambahan/STATUS.md. Album ini tetap TERKLAIM (jangan dipakai Ronde B/Cadangan B).
   -> Status 10 Nov 09:50: 4 post TAMBAHAN sudah dibuat (17456 a/Platinum 14 Juni 11:20, 17457 b/12 Hari 24 Juni 13:20, 17458 c/Turki 12 Juli 18:00, 17459 d/29 Juli 20:00). Makassar diganti 24 Juni 12 Hari. Ronde B: jangan pakai keempat album ini.
+- RONDE B (cron news-ronde-b, 10 Nov ~11:03 WIB): 1448 H / 2.JULI 2026 / 3 JULI 2026 PREM - folder 1OnHj_CxE_BOvf1_JOPwydAuPVfYCHuW2 - tema kegiatan ibadah/ziarah rombongan di Tanah Suci (tanpa keberangkatan) -> slot 21:40
+  -> post 17495 (Kegiatan, terjadwal 21:40 WIB 10 Nov). Foto: depan Ka'bah malam (utama), dalam Nabawi, Quba, pelataran Nabawi.
