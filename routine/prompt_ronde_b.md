@@ -89,7 +89,7 @@ PRIORITAS PEMANTAUAN tiap ronde (cek berurutan, ambil yang relevan & belum ditul
 1. haji.go.id - Kemenhaj RI: kebijakan, kuota, jadwal, layanan (lihat SUMBER UTAMA).
 2. haj.gov.sa - Kementerian Haji & Umrah Saudi: aturan & pengumuman operasional haji/umrah.
 3. spa.gov.sa - Saudi Press Agency: rilis resmi lintas instansi Saudi.
-4. nusuk.sa (termasuk umrah.nusuk.sa, hajj.nusuk.sa) - layanan digital, izin, Raudhah, paket & penyedia umrah resmi. hajj.nusuk.sa TIDAK berlaku otomatis untuk jemaah Indonesia - jangan menulis seolah jemaah Indonesia bisa mendaftar haji di sana.
+4. nusuk.sa (termasuk umrah.nusuk.sa, hajj.nusuk.sa) - layanan digital, izin, Raudhah, paket & penyedia umrah resmi. hajj.nusuk.sa TIDAK berlaku otomatis untuk jemaah Indonesia - jangan menulis seolah jemaah Indonesia bisa mendaftar haji di sana. CATATAN AKSES (dicek 11 Nov 2026): nusuk.sa dan www.nusuk.sa MENOLAK WebFetch/curl (HTTP 406 "bot"); umrah.nusuk.sa bisa dibaca tetapi isinya katalog paket, bukan berita. Bahan terbaru Nusuk (fitur aplikasi, izin, Raudhah, layanan baru) diambil dari liputan Arab News, SPA, Saudi Gazette, haj.gov.sa, atau lewat Chrome desktop bila tersedia. Jangan memecahkan captcha; tulis hanya yang benar-benar terbaca.
 5. bpkh.go.id - BPKH: dana haji, nilai manfaat (lihat bagian BPKH).
 6. kemlu.go.id/jeddah dan kemlu.go.id/riyadh (KJRI Jeddah, KBRI Riyadh), peduliwni.kemlu.go.id - pengumuman konsuler & pelindungan WNI/jemaah.
 7. moi.gov.sa - Kemendagri Saudi: keamanan, izin haji (tasreh), pembatasan akses Makkah, penertiban.

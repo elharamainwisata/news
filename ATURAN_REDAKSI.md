@@ -22,6 +22,7 @@ Ringkasan aturan dari pemilik untuk artikel news.elharamainwisata.com. Aturan le
 3. **Media Arab** (Arab News, SPA, haj.gov.sa, Nusuk, Saudi Gazette) – 2 artikel per hari (pagi 1, sore 1), kategori Umroh & Haji atau Dunia Islam sesuai isi.
 4. **Instagram resmi**: @mediacenterhaji.ri (Media Center Haji) dan @gus.irfanyusuf (Menteri Haji dan Umrah).
 5. Situs resmi lain: haj.gov.sa, spa.gov.sa, nusuk.sa, kemlu.go.id, moi.gov.sa, moh.gov.sa, kemkes.go.id.
+   - **Nusuk (perintah pemilik 2026-11-11: banyak update terbaru, boleh jadi bahan berita):** fitur aplikasi, izin, Raudhah, layanan baru. Akses (dicek 11 Nov): nusuk.sa menolak WebFetch/curl (HTTP 406 "bot"); umrah.nusuk.sa terbaca tetapi hanya katalog paket. Ambil dari liputan Arab News, SPA, Saudi Gazette, haj.gov.sa, atau Chrome desktop bila tersedia. Tidak memecahkan captcha; fakta hanya dari yang terbaca. Tetap lolos sortir berita dan perhatikan: hajj.nusuk.sa tidak otomatis berlaku untuk jemaah Indonesia.
 6. Media: Antara, Republika, Kompas, Detik, NU Online, MUI, Muhammadiyah, dll.
 
 Semua fakta, angka, dan kutipan harus dari sumber yang benar-benar dibaca. Tidak boleh mengarang.
