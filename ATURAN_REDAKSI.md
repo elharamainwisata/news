@@ -88,4 +88,5 @@ Bila ragu, anggap tidak cocok. Lebih baik tanpa gambar sisipan daripada gambar y
 - Dibuka dengan **ELHARAMAIN NEWS –**, gaya berita lurus, Bahasa Indonesia baku.
 - Tanpa subjudul dan bullet; 450–600 kata (Sejarah 250–450, Tanya Jawab s.d. 700).
 - Ditutup dengan tips praktis bagi calon jemaah, lalu CTA WhatsApp 6281287292422.
+- **Link keluar maksimal 1 per artikel** (perintah pemilik 2026-11-13): hanya satu link ke sumber utama; sumber lain disebut namanya tanpa link. Link internal news.elharamainwisata.com, CTA WhatsApp, dan situs utama elharamainwisata.com tidak dihitung.
 - **Dilarang mengomentari travel lain** (perintah pemilik 2026-11-04): tidak menilai, mengkritik, menyindir, membandingkan, atau memuji biro travel umrah/haji lain. **Nama travel lain juga dilarang disebut sama sekali**, termasuk di berita penipuan atau pencabutan izin PPIU walau sumber resminya menyebut nama. Tulis "sebuah biro perjalanan" atau angkat imbauan umumnya saja; bila berita tidak bisa ditulis tanpa nama travel, jangan ditulis.

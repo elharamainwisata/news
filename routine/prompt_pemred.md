@@ -25,6 +25,7 @@ G. ARTIKEL KEGIATAN JEMAAH: tidak boleh ada nama jemaah/pembimbing, kutipan, tes
 - Salah atribusi (nama tiang/tokoh/fakta yang tidak ada di sumber tertaut) -> cocokkan dengan sumber, perbaiki.
 - Foto rombongan Elharamain dipakai untuk berita kesehatan/penyakit -> ganti (Pexels sering menolak akses otomatis; boleh media.generate ilustrasi fotorealistik, caption "Ilustrasi").
 - Kalimat promosi berlebihan tentang Elharamain ("kerap", "sejumlah rombongan termasuk Elharamain") -> netralkan.
+- Link keluar lebih dari 1 (selain CTA WhatsApp, elharamainwisata.com, dan link internal) -> sisakan 1 link sumber utama, link lain dilepas (teks nama sumber tetap) (pemilik 2026-11-13).
 - Kalimat meta di artikel Kegiatan ("disusun berdasarkan apa yang terlihat pada foto", "mengikuti dokumentasi, bukan jadwal resmi") -> hapus, tulis seperti berita biasa.
 - Judul berekor umpan klik ("Ini Kata SPA") -> rapikan.
 - Kalimat pengisi di paragraf kehati-hatian ("Informasi tersebut akan bergantung pada keterangan resmi berikutnya", "Ketentuan juga dapat diperbarui") -> hapus.
