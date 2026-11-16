@@ -1,0 +1,32 @@
+{
+ "slot": "2026-11-17T10:20:00",
+ "category": 23,
+ "title": "BPKH Targetkan Dana Kelolaan Rp195,29 Triliun pada 2027, Nilai Manfaat Dipatok Rp13,49 Triliun",
+ "excerpt": "Di rapat kerja Komisi VIII DPR, BPKH menargetkan dana kelolaan Rp195,29 triliun dan nilai manfaat Rp13,49 triliun pada 2027 serta 495.312 pendaftar baru.",
+ "tags": [
+  34,
+  151,
+  600,
+  750,
+  1109
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/1020/jemaah-haji-berihram-di-sekitar-kabah.jpg",
+   "alt": "Jemaah haji berpakaian ihram putih memadati pelataran tawaf di sekitar Ka'bah, Masjidil Haram",
+   "caption": "",
+   "seen": "Kerumunan jemaah berihram putih dan jemaah perempuan bergamis hitam di pelataran mataf, Ka'bah di tengah, dua menara dan selasar Masjidil Haram, langit biru siang.",
+   "evidence": "Pexels 40483736 'Crowd of pilgrims in white garments at the Holy Kaaba during the annual Hajj' (hasil pencarian pexels.com/search/hajj pilgrims), unduh images.pexels.com w=1600 (1600x900, tanpa crop); lisensi Pexels tanpa kredit. Belum ada di article.json 7 hari terakhir.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 466,
+ "sources": [
+  "https://www.antaranews.com/berita/5857611/bpkh-targetkan-dana-kelolaan-capai-rp19529-triliun-pada-2027",
+  "https://www.antaranews.com/berita/5857495/bpkh-targetkan-jadi-pengelola-dana-haji-berkelas-dunia-pada-2027"
+ ],
+ "haji_go_id": "tidak (BPKH, via Antara)",
+ "notes": "Sumber BPKH: rapat kerja BPKH-Komisi VIII DPR RI, Senin 16/11/2026, diliput Antara (2 berita, Asep Firmansyah). bpkh.go.id 403 untuk curl (tidak diakali); WebSearch bpkh.go.id tidak menemukan siaran pers khusus raker ini, maka atribusi ke Antara (1 link keluar), bukan 'siaran pers BPKH'. Kandidat digugurkan: siaran pers 'BPKH Perkuat Ekosistem Ekonomi Haji di Arab Saudi' (10 Nov) karena bertopik ekosistem ekonomi haji yang sama dengan Berita 07:40 (UMKM Gorontalo) dan isinya tidak terbaca (403); 'BPKH Fasilitasi 675 Perantau Lampung Balik Kerja' (program mudik, kurang relevan jemaah); 'BPKH Sabet Most Trusted Financial Brands 2026' (penghargaan, tanggal tak jelas, isi 403). Cadangan sumut Dairi PB3S manasik TIDAK dipakai karena ada bahan BPKH baru. Angka: dana kelolaan 2026 ditulis Antara Rp188,55 T (berita RKAT) dan Rp188,5 T per 31 Okt (berita kinerja) - keduanya dipakai sesuai konteks. Target 2027 masih usulan RKAT (ada kalimat kehati-hatian). Pernyataan Ketua Komisi VIII soal imbal hasil min. 10% dikutip netral. Foto: tidak ada foto resmi BPKH yang terbaca (bpkh.go.id 403, foto Antara tidak boleh); dipakai foto stok Pexels jemaah haji di Masjidil Haram tanpa caption. Bila induk/redaktur punya foto resmi BPKH raker, lebih tepat."
+}

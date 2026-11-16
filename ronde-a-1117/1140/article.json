@@ -1,0 +1,39 @@
+{
+ "slot": "2026-11-17T11:40:00",
+ "category": 25,
+ "title": "Cuaca Mulai Bersahabat, Corniche Jeddah Ramai Pengunjung Menanti Senja di Tepi Laut Merah",
+ "excerpt": "Corniche dan taman Jeddah ramai warga serta pengunjung menjelang senja. Kota lama Jeddah juga diangkat sebagai gerbang jemaah di Konferensi Haji.",
+ "tags": [
+  34,
+  233,
+  71,
+  1162
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/1140/corniche-jeddah-senja-pengunjung-spa.jpg",
+   "alt": "Pengunjung berjalan di dermaga Corniche Jeddah saat matahari terbenam di Laut Merah",
+   "caption": "",
+   "seen": "Dermaga/promenade tepi laut saat matahari terbenam, pohon kurma di tengah, puluhan pengunjung berjalan dan duduk di pagar tepi laut; kredit kecil 'Foto: SPA' di kanan bawah, logo SPA sudah terpotong.",
+   "evidence": "Foto resmi SPA rilis N2727798 'Sunset Outings Draw Visitors to Jeddah's Corniche and Parks' (16/11/2026), file https://portalcdn.spa.gov.sa/backend/original/202611/M11245534.jpg (is_main). Crop 0,150,1600,1050 + tools/spa_credit.py. Raw di 1420/raw/.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/1140/tepi-laut-corniche-jeddah-spa.jpg",
+   "alt": "Kawasan tepi laut Corniche Jeddah dengan gedung tinggi dan bangunan putih bermenara di atas air",
+   "caption": "",
+   "seen": "Pemandangan tepi laut Jeddah siang hari: air biru, deretan gedung tinggi, bangunan putih dengan kubah dan satu menara berdiri di atas tiang di tepi laut; kredit 'Foto: SPA'. Nama masjid tidak tertulis di rilis, jadi tidak disebut di naskah/alt.",
+   "evidence": "Foto resmi SPA rilis N2727798, file https://portalcdn.spa.gov.sa/backend/original/202611/M11245535.jpg (caption media = judul rilis). Crop 200,0,1600,787 (logo terbuang) -> 1600x899 + kredit.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 474,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2727798 (link keluar satu-satunya; Corniche & taman Jeddah, 16/11/2026; versi Arab N2727686 untuk 'cuaca lebih sejuk' dan program kebersihan/disinfeksi Amanah Jeddah)",
+  "https://www.spa.gov.sa/en/N2725520 (tanpa link; Historic Jeddah Program dihargai di Konferensi Haji, Pelabuhan Al-Bunt, UNESCO 2014; 12/11/2026)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "MEDIA ARAB. Kategori 25 (kabar kota, bukan aturan layanan jemaah). Link internal: post 17763 (Konferensi Haji keenam) dan 18418 (haji Nusantara era kapal layar); link situs utama /paket-umroh-musim-dingin/. Rilis Historic Jeddah 12/11 (5 hari, masih dalam batas 7 hari) dipakai sebagai pendukung; berita utama 16/11 (dalam 72 jam). Kandidat digugurkan: penandatanganan pengaturan haji 1448 H N2726145 (sudah tercakup post 17763 '74 negara final'); Universitas Islam Madinah (dipakai slot 14:20); Madinah Health Cluster award N2727119 (teks terlalu tipis); Presiden Mauritania ziarah Nabawi N2728186 (kunjungan kenegaraan, teks 2 kalimat); hujan Makkah/Madinah N2726535/N2725839 (peringatan banjir = nada negatif, teks tipis); Houthi/coalition (militer); KSrelief Flores & Sultan bin Abdulaziz-UNESCO (topik draft 16 Nov). Arab News /saudi-arabia dirender JS dan tidak terbaca lewat curl."
+}

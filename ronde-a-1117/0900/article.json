@@ -1,0 +1,39 @@
+{
+ "slot": "2026-11-17T09:00:00",
+ "category": 29,
+ "title": "Kemenhaj Batam Siapkan Data Jemaah Umrah untuk Penjajakan Penerbangan Langsung ke Jeddah",
+ "excerpt": "Kemenhaj Kota Batam siapkan data jemaah umrah 2025–2026 untuk maskapai yang berminat buka rute Batam–Jeddah/Madinah. Pelunasan Bipih baru 3,33 persen.",
+ "tags": [
+  34,
+  153,
+  324,
+  43,
+  1711
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/0900/utama-kemenhaj-batam-rapat-pelunasan-penerbangan.jpg",
+   "alt": "Kepala Kantor Kemenhaj Kota Batam bersama jajaran duduk di ruang layanan berdinding hijau",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Lima orang (tiga perempuan berjilbab berseragam, dua pria; satu berpeci hitam dan berompi krem) duduk di sofa hitam mengelilingi meja di ruang tunggu berdinding hijau dengan papan 'CHARGING STATION', 'TEMPAT DUDUK PRIORITAS', pintu 'RUANG KEPALA', kursi roda dan kruk; crop 16:9 dari 1280x960 lalu 1600x900.",
+   "evidence": "thumbnail rilis kepri.haji.go.id https://kepri.haji.go.id/uploads/general/ba6f2e56-5d5f-47ea-a38e-ff78f599b583-1794818627858.jpeg (rilis rapat Kemenhaj Kota Batam 16/11/2026). Rilis tidak mencantumkan keterangan nama orang di foto, jadi alt/caption tidak menyebut nama.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/0900/sisip-peta-penerbangan-menuju-jeddah.jpg",
+   "alt": "Layar peta penerbangan di kabin pesawat menunjukkan pesawat mendekati Jeddah",
+   "caption": "",
+   "seen": "Layar hiburan kabin menampilkan peta Jazirah Arab dengan garis hijau dari arah Riyadh dan ikon pesawat tepat sebelum titik bertuliskan 'Jeddah' di tepi Laut Merah; sedikit lembut (bingkai video).",
+   "evidence": "Drive Elharamain perpustakaan 1cg353egFOuGmZVuvhLQ3KhUdHNiv-3x9 > 'Landing Jeddah' (104R-AKoF4cXPpDsrMqr8jGy5slV7E8-2), video IMG_0533.MOV (file 1OPRlXFTe9kP4IcchnbP_E5E5QcWYhqBQ), thumbnail Drive 1080x1920, crop y500-1108 lalu 1200x676 q82. Belum dipakai 7 hari (paket 1112/1113 hanya memakai IMG_0538 dari folder ini). Ilustrasi Elharamain -> tanpa caption; tidak ada orang/logo di gambar.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 486,
+ "sources": [
+  "https://kepri.haji.go.id/berita/tak-hanya-pelunasan-haji-kemenhaj-batam-siapkan-langkah-strategis-buka-akses-penerbangan-langsung-ke-saudi-1794818627862"
+ ],
+ "haji_go_id": "kepri https://kepri.haji.go.id/berita/tak-hanya-pelunasan-haji-kemenhaj-batam-siapkan-langkah-strategis-buka-akses-penerbangan-langsung-ke-saudi-1794818627862",
+ "notes": "Rilis utama lolos sortir (informasi baru: penjajakan rute langsung Batam-Jeddah/Madinah + pelunasan Batam 3,33 persen); cadangan Sri Mulelni tidak dipakai. Beda topik dari 18308 (PIHK Batam) dan 16908 (347 cadangan Batam). Ditegaskan rute baru penjajakan; rilis tidak menyebut maskapai/target waktu. Fakta 'pelunasan tahap I dibuka hingga 10 Desember 2026' diambil dari artikel internal 17378 (bersumber haji.go.id). Gelar 'Hj.' pada nama kasi dihilangkan sesuai gaya. Sisipan %%IMG2%% setelah paragraf ke-4 (paragraf rute langsung). Tag 153 penerbangan, 324 pelunasan haji, 43 istithaah kesehatan, 1711 Haji 2027. Link internal: 17378, 16908."
+}

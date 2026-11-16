@@ -1,0 +1,27 @@
+NUSUK RONDE A 17 Nov 2026 (slot 08:00, 10:40, 13:20): KOSONG, 0 artikel ditulis.
+Dicek oleh subagen Nusuk pada Selasa 17/11/2026 pagi WIB.
+
+ALASAN
+Tidak ada kabar Nusuk baru setelah 13 Nov 2026 di sumber yang terbaca. Bahan yang muncul hanya berita lama
+(2024-Mei 2026) atau topik yang sudah ditulis 11-14 Nov (lihat judul_14hari.txt). nusuk.sa tidak dicoba diakali.
+
+YANG SUDAH DICEK
+1. SPA API Inggris (portalapi.spa.gov.sa/api/v1/news?page=1..14&locale=en): 280 judul, 12/11 18:52 UTC s.d. 16/11 21:28 UTC
+   (belum ada berita 17/11 saat dicek). Isi lengkap 173 berita sejak 15/11 00:00 UTC diambil via /api/v1/news/<uuid>
+   lalu dicari kata "Nusuk": 0 hasil. Berita SPA terkait Haramain/jemaah periode ini: gelang pengaman Masjidil Haram
+   (N2726815, 15/11, sudah dicatat ronde 16/11), Presiden Mauritania ke Masjid Nabawi (N2728137/N2728186, 16/11),
+   pintu kayu bersejarah Makkah (N2726422, 14/11), Madinah jalur warisan budaya (N2726425, sudah ditulis 15/11),
+   hujan Makkah/Madinah, festival kuda. Tidak ada yang menyebut Nusuk.
+2. Arab News /saudi-arabia (dibaca 17/11 pagi): judul 16-17/11 tidak ada yang menyebut Nusuk/umrah/haji/Raudhah.
+3. WebSearch (arabnews, saudigazette, spa, haj.gov.sa, media Indonesia allowlist) "Nusuk new service November 2026",
+   "Nusuk app pilgrims Rawdah Umrah permit update", "aplikasi Nusuk jemaah umrah terbaru November 2026":
+   - haj.gov.sa: Nusuk Umrah (layanan langsung tanpa perantara), Nusuk Hajj 58 negara, Nusuk tanpa kuota internet,
+     layanan keagamaan baru (doa, zikir, tasbih, Al-Qur'an elektronik), Nusuk Masar. Semuanya bahan lama; tanggal di
+     hasil pencarian adalah tanggal perayapan, bukan terbit.
+   - haj.gov.sa "Nusuk masar Supports Operational Readiness with Over 500 Digital Services": terbit 23 Mei 2026
+     (hanya "last updated" 15/11/2026), bahan lama, tidak relevan langsung bagi jemaah umrah Indonesia.
+   - Saudi Gazette/SPA: jam Raudhah (sudah ditulis 13/11), Nusuk tanpa data (Agustus 2025), 51 juta pengguna (Mei 2026).
+   - Kompas/Detik: kompetisi/undian umrah gratis Nusuk (sudah ditulis 12/11), artikel lama Raudhah & kartu Nusuk.
+4. nusuk.sa / @mynusuk: tidak diakses (blokir otomatis, tidak diakali).
+
+Folder nusuk_0800/nusuk_1040/nusuk_1320 tidak diisi. WordPress tidak disentuh.

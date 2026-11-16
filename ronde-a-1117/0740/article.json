@@ -1,0 +1,42 @@
+{
+ "slot": "2026-11-17T07:40:00",
+ "category": 23,
+ "title": "Haji dan Umrah Store Dikenalkan ke UMKM Gorontalo, Pendaftar Siapkan KTP hingga Sertifikat Halal",
+ "excerpt": "Kemenhaj kenalkan Haji dan Umrah Store ke UMKM Gorontalo; pendaftar wajib siapkan KTP, izin usaha, dan sertifikat halal, lalu lolos verifikasi.",
+ "tags": [
+  34,
+  1120,
+  984,
+  2074,
+  388
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/0740/fgd-umkm-haji-umrah-store-asrama-haji-gorontalo.jpg",
+   "alt": "Dua narasumber Kementerian Haji dan Umrah memaparkan materi dalam FGD Kemitraan dengan UMKM di Aula Muzdalifah, Asrama Haji Gorontalo",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Dua pria berseragam putih duduk di sofa ungu, satu berbicara memegang mikrofon; di belakang spanduk terbaca 'Focus Group Discussion (FGD) Kemitraan dengan UMKM dalam Kerangka Ekosistem Ekonomi Haji dan Umrah, Aula Muzdalifah, Asrama Haji Gorontalo, Senin 16-17 November 2026'.",
+   "evidence": "Thumbnail resmi rilis gorontalo.haji.go.id slug kemenhaj-gorontalo-perkenalkan-haji-dan-umrah-store-...-1794822218208 (uploads/general/caf6cf9c-...-1794822218202.jpeg, 1500x1000), crop 0,110,1500,954 -> 1600x900",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/0740/sesditjen-pe2hu-chandra-sulistio-fgd-gorontalo.jpg",
+   "alt": "Pemateri dari Kementerian Haji dan Umrah berbicara di podium berlogo kementerian dalam FGD Kemitraan dengan UMKM di Asrama Haji Gorontalo",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Pria berkacamata berkemeja putih berbicara dengan mikrofon di balik podium kayu berlogo 'Kementerian Haji dan Umrah'; latar dinding abu-abu dan AC berdiri.",
+   "evidence": "Thumbnail resmi rilis gorontalo.haji.go.id slug chandra-sulistio-potensi-ekonomi-haji-dan-umrah-rp74-triliun-...-1794815933668 (uploads/general/5555c766-...-1794815933664.jpeg), crop 16:9. Nama di name tag tidak terbaca, maka alt tidak menyebut nama; ditaruh dekat paragraf Chandra.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 551,
+ "sources": [
+  "https://gorontalo.haji.go.id/berita/kemenhaj-gorontalo-perkenalkan-haji-dan-umrah-store-buka-peluang-umkm-masuk-ekosistem-ekonomi-haji-1794822218208",
+  "https://gorontalo.haji.go.id/berita/chandra-sulistio-potensi-ekonomi-haji-dan-umrah-rp74-triliun-harus-dinikmati-umkm-indonesia-1794815933668",
+  "https://gorontalo.haji.go.id/berita/umkm-perhatikan-standar-produk-untuk-tembus-pasar-arab-saudi-1794816371685",
+  "https://gorontalo.haji.go.id/berita/chandra-sulistio-paparkan-empat-strategi-penguatan-umkm-dalam-ekosistem-ekonomi-haji-1794816105684"
+ ],
+ "haji_go_id": "gorontalo https://gorontalo.haji.go.id/berita/kemenhaj-gorontalo-perkenalkan-haji-dan-umrah-store-buka-peluang-umkm-masuk-ekosistem-ekonomi-haji-1794822218208 (+3 rilis FGD yang sama, 16/11/2026; referenceUrl di API null, URL disusun dari slug)",
+ "notes": "Gabungan 4 rilis gorontalo FGD Kemitraan UMKM 16/11/2026 (Store, Rp74 T, standar produk Saudi, empat strategi); tandai keempat slug terpakai. Link keluar 1 (rilis Store). Rilis gorontalo serumpun yang TIDAK dipakai dan sebaiknya tidak ditulis terpisah karena peristiwa sama: 'Mansur Basir: Ekosistem Ekonomi Haji Harus Beri Dampak Nyata bagi UMKM Lokal', Boalemo/Kab. Gorontalo hadiri FGD, Pohuwato UMKM. Haji dan Umrah Store sudah pernah diberitakan 26 Okt (post 16296) dan 28 Okt (16404); sudut baru: syarat dokumen, verifikasi, KMHU 62/2026, Rp74 T. Rilis menulis 'Kategori produk ... kain ihram'; 'Hingga berita ini disusun ... belum mencantumkan tanggal pembukaan & alamat unduhan' adalah pengamatan atas isi rilis. Gambar 2: identitas Chandra tidak tertulis di foto, hanya thumbnail rilis tentang dia; alt dibuat generik. Venv /tmp/v tidak ada, dipakai python3 sistem (Pillow 10.2)."
+}

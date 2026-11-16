@@ -1,0 +1,35 @@
+{
+ "slot": "2026-11-17T09:40:00",
+ "category": 27,
+ "title": "Stasiun Kereta Api Hijaz di Madinah, Ujung Rel Utsmaniyah untuk Jemaah Haji yang Kini Jadi Museum",
+ "excerpt": "Stasiun batu di Madinah ini menyambut kereta pertama dari Damaskus pada 1908, lalu terhenti setelah Perang Dunia I dan kini menampung museum.",
+ "tags": [34, 240, 171, 517, 977],
+ "content_file": "content.html",
+ "images": {
+   "1": {
+     "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/0940/stasiun-hijaz-madinah-utama.jpg",
+     "alt": "Bangunan Stasiun Kereta Api Hijaz di Madinah dengan dinding batu gelap dan deretan lengkung",
+     "caption": "",
+     "seen": "Fasad bangunan stasiun dua lantai dari batu vulkanik gelap dengan bingkai krem, jendela lengkung bermotif dan serambi berderet lengkung di lantai bawah, halaman tanah lapang, langit biru, satu orang kecil berjalan di serambi; kredit kecil 'Foto: Mortel/CC BY' di pojok kanan bawah.",
+     "evidence": "Wikimedia Commons File:Hijaz Railway Station 2020.jpg, deskripsi 'Hijaz Railway Station, 1908, Madinah, Saudi Arabia. August 2020.', pemotret Richard Mortel, lisensi CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Hijaz_Railway_Station_2020.jpg). Landmark/tempat bersejarah: CC BY dibolehkan dengan kredit kecil di dalam gambar.",
+     "ai_prompt": ""
+   },
+   "2": {
+     "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/0940/stasiun-madinah-1914.jpg",
+     "alt": "Foto hitam putih Stasiun Kereta Api Hijaz di Madinah pada 1914 dengan gerbong di sisi kanan dan masjid bermenara dua",
+     "caption": "",
+     "seen": "Foto lama sepia: bangunan stasiun panjang berlengkung yang sama (masih tampak dalam pengerjaan, ada perancah/tangga), rel dan gerbong barang di kanan, masjid berkubah dengan dua menara ramping di sisi kanan, halaman kerikil luas.",
+     "evidence": "Wikimedia Commons File:Medina. Hauptbahnhof vor dem Westtor. 1914. LCCN2002714726.jpg (Library of Congress), lisensi Public domain - tanpa kewajiban kredit. Bentuk lengkung dan jendela cocok dengan foto utama.",
+     "ai_prompt": ""
+   }
+ },
+ "sensitive": false,
+ "word_count": 373,
+ "sources": [
+   "https://www.arabnews.com/node/1475651/saudi-arabia (Arab News, 1/4/2019, 'The short history of the Hijaz Railway in Saudi Arabia' - satu-satunya link keluar)",
+   "https://www.arabnews.com/node/272289 (Arab News 2005, terminal = Stasiun Anbariyah; disebut tanpa link)",
+   "https://www.arabnews.com/saudi-arabia/the-sacred-sites-in-makkah-and-madinah-that-hajj-pilgrims-have-a-chance-to-experience-2532466 (Arab News 17/6/2024, museum di stasiun Madinah: lokomotif, foto, dokumen; disebut tanpa link)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Topik evergreen Sejarah Madinah, belum pernah ditulis (cek kategori 27 seluruh arsip). Tidak ada link keluar selain 1 Arab News. Fakta jam buka museum, tahun alih fungsi menjadi museum (1998) dan jarak ke Nabawi TIDAK ditulis karena sumbernya (Saudi Gazette) tidak terbaca (402). Tanggal kereta pertama: Arab News 2019 = 22 Agustus 1908, laporan Arab News 2005 = 23 Agustus; dipakai 22 Agustus. Caption WP kosong: foto utama berkredit di dalam gambar; foto 1914 domain publik (redaktur boleh menambah caption deskriptif 'Stasiun Madinah pada 1914' bila diinginkan). Masjid di foto 1914 tidak diidentifikasi di teks karena namanya tidak tertulis di sumber foto. Calon digugurkan: pintu kayu bersejarah Makkah (SPA N2726422, terlalu mirip artikel Rawasyin 3/11); Masjid Khaif/Namirah (sudah disinggung di artikel Mina 2/11 dan Arafah 29/10). Gambar dibuat dengan python3 sistem (Pillow 10.2) karena /tmp/v tidak ada."
+}

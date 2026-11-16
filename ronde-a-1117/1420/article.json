@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-17T14:20:00",
+ "category": 25,
+ "title": "Pekan Riset Universitas Islam Madinah Dibuka, Kampus Catat 1.964 Publikasi Ilmiah Sepanjang 2026",
+ "excerpt": "Universitas Islam Madinah membuka Pekan Riset Ilmiah lima hari. Kampus mencatat 1.964 publikasi pada 2026 dan menyetujui 3.676 proyek riset.",
+ "tags": [
+  34,
+  2094,
+  240,
+  71,
+  1079
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/1420/forum-pekan-riset-universitas-islam-madinah-spa.jpg",
+   "alt": "Peserta Pekan Riset Ilmiah Universitas Islam Madinah menyimak paparan data riset di layar besar",
+   "caption": "",
+   "seen": "Aula dengan puluhan peserta bergamis dan bersorban/peci duduk membelakangi kamera, layar biru besar berlogo Islamic University of Madinah menampilkan angka-angka riset (5,245; 26950 dst.), pembicara di podium kiri dengan bendera Saudi; kredit 'Foto: SPA'.",
+   "evidence": "Foto resmi SPA rilis N2727250 'Scientific Research Week Kicks Off at Islamic University' (15/11/2026), file https://portalcdn.spa.gov.sa/backend/original/202611/M11239258.jpg (caption media = judul rilis). Crop 140,140,1600,961 -> 1600x900 + tools/spa_credit.py. Raw di 1140/raw/.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/1420/pameran-pekan-riset-universitas-islam-madinah-spa.jpg",
+   "alt": "Pengunjung meninjau panel pameran capaian riset di Pekan Riset Ilmiah Universitas Islam Madinah",
+   "caption": "",
+   "seen": "Lorong berkarpet biru, dinding panel pameran berisi profil peneliti dan kode QR, tiga pria berbisht/gamis meninjau panel sambil menunjuk; kredit 'Foto: SPA'. Nama pejabat tidak tertulis di rilis, tidak dinamai.",
+   "evidence": "Foto resmi SPA rilis N2727250, file https://portalcdn.spa.gov.sa/backend/original/202611/M11239262.jpg. Crop 0,166,1600,1066 (logo terbuang) + kredit.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 477,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2727866 (link keluar satu-satunya; 1.964 publikasi, 93%, 25,2%, 20 inisiatif/4.947/3.676/74,30%, SAR50,53 juta, THE/QS growth; versi Arab N2727804)",
+  "https://www.spa.gov.sa/en/N2727250 (tanpa link; pembukaan Pekan Riset 15/11, 5 hari; versi Arab N2726999 untuk tema, nama dekan, penghargaan peneliti, isi pameran)",
+  "https://www.spa.gov.sa/en/N2726690 (tanpa link; naik >406 peringkat di 4 pemeringkatan; versi Arab N2726670 untuk rincian THE 701-800 dan QS Arab 86)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Dunia islam, topik beda dari 11:40 (Jeddah) dan judul_14hari. Overlap sebagian dengan post 17085 (6 Nov, THE Arab peringkat 41): sudut baru = Pekan Riset + statistik publikasi; peringkat hanya disebut singkat dengan link ke 17085. Nama dekan dari teks Arab 'عبدالله بن محمد نعمون' ditransliterasi 'Na'moun' - mohon cek ejaan. Layar di foto utama memuat angka (mis. 35 peneliti top 2%) yang TIDAK dipakai di naskah karena tidak ada di teks rilis. Link internal: 17085 dan 14729."
+}

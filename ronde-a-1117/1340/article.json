@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-17T13:40:00",
+ "category": 23,
+ "title": "Kemenhaj Bengkulu Utara Pantau Pemeriksaan Kesehatan Tiga Calon Haji Kuota Lansia di Puskesmas",
+ "excerpt": "Tiga calon haji tambahan kuota lansia Bengkulu Utara diperiksa kesehatannya di Puskesmas Arga Makmur. Simak kriteria prioritas lansia dan jadwal pelunasan.",
+ "tags": [
+  34,
+  22,
+  582,
+  43,
+  1711
+ ],
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/1340/pemeriksaan-kesehatan-cjh-lansia-bengkulu-utara.jpg",
+   "alt": "Petugas puskesmas menerangkan berkas kepada warga yang menandatangani formulir, disaksikan petugas berkemeja putih di Puskesmas Arga Makmur, Bengkulu Utara",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Ruang pelayanan berdinding kuning: petugas berkerudung kuning bermasker di balik meja menunjuk berkas, seorang perempuan berkerudung hitam menandatangani formulir didampingi pria berkemeja, tiga petugas berkemeja putih dan seorang petugas berkerudung abu berdiri menyaksikan, pria berpeci hitam membelakangi kamera di kanan.",
+   "evidence": "thumbnail rilis bengkulu.haji.go.id (uploads/general/92952c81-...-1794797184417.jpeg), crop 16:9 1280x720 (asli 1280x960, tidak di-upscale)",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/1340/petugas-kemenhaj-bengkulu-utara-puskesmas-arga-makmur.jpg",
+   "alt": "Empat petugas berkemeja putih berpose di depan pintu masuk Puskesmas Arga Makmur, Bengkulu Utara",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Empat orang berkemeja putih (satu pria, tiga perempuan berkerudung abu) berpose dengan gestur tangan di depan pintu masuk bertuliskan PUSKESMAS ARGA MAKMUR / KECAMATAN ARGA MAKMUR.",
+   "evidence": "gambar di badan rilis bengkulu.haji.go.id (uploads/general/ad818ab9-...-1794797173090.jpeg), crop 16:9 1280x720",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "sources": [
+  "https://bengkulu.haji.go.id/berita/kemenhaj-bengkulu-utara-monitor-pemeriksaan-kesehatan-cjh-tambahan-tahun-2027-1794797184424 (utama, satu-satunya link keluar)",
+  "https://haji.go.id/berita/kemenhaj-resmi-buka-pelunasan-bipih-haji-reguler-1448-h2027-m-mulai-10-november-2026-1794226696483 (kuota 203.320/10.166 lansia, kriteria, jadwal, kutipan Nurchalis; tanpa link)",
+  "https://jambi.haji.go.id/berita/kemenhaj-jambi-perketat-pengawasan-pelimpahan-porsi-haji-2027-utamakan-keadilan-antrean-1794380900632 (aturan pendamping lansia, atribusi Kakanwil Jambi; tanpa link)"
+ ],
+ "haji_go_id": "bengkulu | https://bengkulu.haji.go.id/berita/kemenhaj-bengkulu-utara-monitor-pemeriksaan-kesehatan-cjh-tambahan-tahun-2027-1794797184424",
+ "notes": "Non-sensitif (pemantauan pemeriksaan, belum ada hasil). Rilis sangat tipis; diperkaya konteks rilis pusat pelunasan (9/11) dan arahan Kakanwil Jambi soal pendamping lansia (anak kandung saja) - keduanya diatribusikan jelas. Foto 1280px (di bawah 1600 tapi >1200, tidak di-upscale). Foto utama: wajah perempuan penanda tangan tertutup sebagian kerudung, bukan close-up; redaktur boleh cek. Sisipan: pose petugas, identitas lokasi terbaca di papan. Cadangan (NTT 40 jemaah / Siskohat Kalteng) tidak dipakai. Internal link: 18516, 18520.",
+ "content_file": "content.html",
+ "word_count": 471
+}

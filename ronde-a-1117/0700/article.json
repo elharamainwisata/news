@@ -1,0 +1,31 @@
+{
+ "slot": "2026-11-17T07:00:00",
+ "category": 29,
+ "title": "Dirjen Puji Raharjo Buka ToT PPIH Arab Saudi 2027: Petugas Wajib Pahami Alur Jemaah Utuh",
+ "excerpt": "Haji 2027 memakai skema full board lewat syarikah. Dirjen Bina Haji Puji Raharjo minta PPIH Arab Saudi kuasai alur jemaah dari berangkat hingga pulang.",
+ "tags": [
+  34,
+  538,
+  611,
+  292,
+  1711
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/0700/utama-tot-ppih-arab-saudi-2027-pondok-gede.jpg",
+   "alt": "Jajaran Kementerian Haji dan Umrah bersama peserta ToT PPIH Arab Saudi 2027 berseragam TNI dan Polri berfoto di aula Asrama Haji Pondok Gede",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Deretan pejabat berkemeja putih (beberapa berpeci hitam, satu berompi krem) berdiri di depan dengan tangan di dada, di belakangnya puluhan peserta berseragam loreng TNI, seragam Polri, dan pakaian dinas di aula berplafon lampu sorot; foto resmi asli 855x415, di-crop 16:9 dan diperbesar ke 1600x900 (sedikit lembut, masih layak).",
+   "evidence": "thumbnail rilis haji.go.id https://haji.go.id/uploads/general/8faf7d7d-a06a-4e2e-9a6e-f5cf5c515cbc-1794830678394.jpg (rilis pembukaan ToT PPIH Arab Saudi 2027, Pondok Gede). Bukan foto Drive; belum dipakai.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 558,
+ "sources": [
+  "https://haji.go.id/berita/transformasi-layanan-haji-2027-ppih-dituntut-lebih-responsif-dan-berorientasi-jemaah-1794830678403"
+ ],
+ "haji_go_id": "pusat https://haji.go.id/berita/transformasi-layanan-haji-2027-ppih-dituntut-lebih-responsif-dan-berorientasi-jemaah-1794830678403",
+ "notes": "Sumber tunggal rilis pusat (Siaran Pers, 16/11/2026 19:03 WIB); API referenceUrl kosong, link dibentuk dari slug (HTTP 200). Sudut beda dari 18310 (ToT lapor Menhaj di Jeddah, 14 Nov) dan 17270 (Menhaj: layanan ditangani syarikah, 8 Nov): artikel ini pembukaan ToT PPIH Arab Saudi di Pondok Gede, fokus pemahaman alur jemaah utuh + rombongan 40-45 orang. Rilis tidak merinci penyesuaian murur/tanazul; ditulis sebagai catatan kehati-hatian. Tidak ada gambar sisipan (tidak ada foto kedua yang relevan dari rilis; foto Drive tidak cocok dengan subjek pelatihan petugas). Tag 538 PPIH, 611 PPIH Arab Saudi, 292 petugas haji, 1711 Haji 2027. Link internal: 18310, 17378."
+}

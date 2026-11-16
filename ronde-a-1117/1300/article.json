@@ -1,0 +1,34 @@
+{
+ "slot": "2026-11-17T13:00:00",
+ "category": 29,
+ "title": "Kemenhaj Katingan Layani Pembatalan Haji Jemaah Sakit Permanen di Rumah lewat Si Jempol P3",
+ "excerpt": "Petugas Kemenhaj Katingan mendatangi rumah jemaah sakit permanen untuk mengurus pembatalan haji. Ini aturan pembatalan dan pelimpahan porsi bagi keluarga.",
+ "tags": [
+  34,
+  22,
+  273,
+  2096,
+  1711
+ ],
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1117/1300/petugas-kemenhaj-layani-jemaah-lansia-di-rumah.jpg",
+   "alt": "Petugas Kementerian Haji dan Umrah berkemeja putih membantu pengurusan dokumen haji jemaah lansia di rumahnya",
+   "caption": "Ilustrasi",
+   "seen": "Ilustrasi: dua petugas berkemeja putih (pria berpeci, wanita berjilbab abu) duduk di tikar rumah papan bersama lansia berbatik (tampak belakang) dan putrinya, petugas menyodorkan papan berkas",
+   "evidence": "Berita sensitif (pembatalan haji karena sakit) -> wajib ilustrasi AI; foto rilis kalteng (lansia sakit di rumah, wajah jelas) sengaja TIDAK dipakai",
+   "ai_prompt": "Ultra-realistic documentary news photograph, shot on full-frame DSLR with 35mm lens, natural window daylight. Inside a simple Indonesian village house in Central Kalimantan with a wooden plank wall and a woven rattan floor mat. Two Indonesian government officers, a man in a plain white long-sleeve shirt and black peci and a woman in a plain white shirt and grey hijab, sit cross-legged on the mat beside a frail elderly Indonesian woman in a modest batik house dress and loose headscarf who is seen mostly from the side and back, her face not prominent. The female officer gently holds out a clipboard with blank forms and a pen, the male officer holds a closed laptop and a plain folder; an adult daughter in a black hijab sits next to the elderly woman, holding her hand. Calm, respectful, caring mood, candid unposed moment. Indonesian Southeast Asian people with tan brown skin, no Caucasian, no Western-looking people. Realistic skin texture with pores and fine wrinkles, natural imperfect expressions, authentic everyday clothing and setting in Indonesia, slight film grain, shallow depth of field, true-to-life colors, not CGI, not 3D render, not painting, not illustration, not plastic or airbrushed skin. No readable text on papers or walls, no logos, no brand names, no flags, no badges with text, no weapons, no blood, no fire, no medical equipment close-up, all people fictional (not real public figures), modest Muslim clothing, no Kaaba, no Masjid al-Haram, no Masjid an-Nabawi, no mosque. 16:9 aspect ratio."
+  }
+ },
+ "sensitive": true,
+ "sources": [
+  "https://kalteng.haji.go.id/berita/hadirkan-pelayanan-jemput-bola-kantor-kemenhaj-kabupaten-katingan-fasilitasi-pembatalan-haji-jemaah-karena-sakit-1794800440223 (utama, satu-satunya link keluar)",
+  "PMHU No. 3 Tahun 2025 tentang Penyelenggaraan Ibadah Haji Reguler, PDF https://haji.go.id/uploads/general/53de0f4a-22cf-4710-adb1-01b89d9b9f49-1769065687583.pdf (Pasal 15, 17, 18, 27; disebut tanpa link)",
+  "https://jambi.haji.go.id/berita/kemenhaj-jambi-perketat-pengawasan-pelimpahan-porsi-haji-2027-utamakan-keadilan-antrean-1794380900632 (konteks jemput bola pelimpahan, tanpa link)",
+  "https://haji.go.id/berita/kemenhaj-resmi-buka-pelunasan-bipih-haji-reguler-1448-h2027-m-mulai-10-november-2026-1794226696483 (jadwal pelunasan tahap I, tanpa link)"
+ ],
+ "haji_go_id": "kalteng | https://kalteng.haji.go.id/berita/hadirkan-pelayanan-jemput-bola-kantor-kemenhaj-kabupaten-katingan-fasilitasi-pembatalan-haji-jemaah-karena-sakit-1794800440223",
+ "notes": "SENSITIF: foto utama ilustrasi AI (ai_prompt), file kosong; tanpa foto Elharamain dan tanpa foto rilis (lansia sakit, wajah jelas). Tanpa gambar sisipan. Rilis tidak memuat tanggal kunjungan, nama/usia/penyakit jemaah; artikel menyebut 'Senin (16/11/2026)' sebagai tanggal rilis (publishDate 15 Nov 20:40 UTC = 16 Nov WIB). Ketentuan pembatalan/pengembalian saldo/pelimpahan diambil langsung dari teks PDF PMHU 3/2025 (Pasal 15 ayat 3-4 'atau melalui layanan keliling', Pasal 17-18, Pasal 27). Rilis Jambi & pusat pelunasan hanya konteks (bukan sumber utama). Cadangan Mukomuko tidak dipakai. Internal link: 18473, 17278.",
+ "content_file": "content.html",
+ "word_count": 569
+}
