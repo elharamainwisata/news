@@ -1,0 +1,22 @@
+NUSUK Ronde A Rabu 18 Nov 2026 - slot 08:00, 10:40, 13:20: KOSONG (0 artikel)
+Dicek 18 Nov 2026 sekitar 05:10-05:30 WIB oleh subagen 13:40/Nusuk.
+
+Alasan: tidak ada kabar Nusuk BARU (setelah 17 Nov pagi) yang terbaca dari sumber resmi/kredibel. Tidak mengarang.
+
+Yang dicek:
+1. SPA portalapi https://portalapi.spa.gov.sa/api/v1/news?page=1..12&locale=en
+   (rentang 15 Nov 20:28 WIB s.d. 18 Nov 04:43 WIB, +-600 rilis). Pencarian teks penuh (judul+isi) kata "Nusuk" di halaman 1-7 (16 Nov 22:16 WIB s.d. 18 Nov 04:43 WIB): NOL hasil.
+   Rilis terkait jemaah yang ada tetapi tanpa Nusuk / bukan bahan Nusuk:
+   - "Taif Governor Chairs Meeting to Enhance Umrah Services" (18 Nov 01:46 WIB) - rapat gubernur, tanpa layanan Nusuk.
+   - "Prophet's Mosque Services Enhance Readiness for Mid-Semester Break Crowds" (17 Nov 20:43 WIB) - kesiapan Nabawi, tanpa Nusuk (bahan MEDIA ARAB/Dunia islam, bukan slot Nusuk).
+   - "NCM Raises Weather Alert to Red for Heavy Rain, Strong Winds in Makkah" (18 Nov 01:36 WIB) - cuaca, bukan Nusuk.
+   - "Makkah Royal Commission Secures Guinness Records ..." / "Madinah Region Governor Receives Indonesian Consul General" - bukan Nusuk.
+2. Arab News rubrik Saudi Arabia (https://www.arabnews.com/saudi-arabia, 13 judul bertanggal 17 Nov): tidak ada judul Nusuk/Umrah/Hajj/Rawdah.
+3. WebSearch (arabnews.com, spa.gov.sa, haj.gov.sa, saudigazette.com.sa, nusuk.sa): hasil Nusuk terbaru = kereta listrik tawaf/sa'i (SPA N2710068, 25 Okt; SUDAH ditulis 17907), fitur offline, 130+ layanan, Nusuk Umrah (lama). Tidak ada pengumuman November 2026 yang baru.
+4. haj.gov.sa/en/Media-Center/Ministry-News: halaman HTTP 200 tetapi daftar berita dirender JavaScript (tidak ada tautan berita di HTML) - tidak bisa dibaca daftar terbarunya; WebSearch domain itu tidak memunculkan berita baru.
+5. WebSearch media Indonesia (antaranews, republika, kompas, detik, haji.go.id, cnnindonesia) "Nusuk November 2026": hanya artikel lama (2025 s.d. Agustus 2026).
+6. nusuk.sa: TIDAK dibuka (memblokir bot sejak 13 Nov; sesuai BRIEF tidak diakali).
+
+Topik Nusuk yang sudah ditulis 14 hari (tidak boleh diulang): undian umrah gratis (18772), penghitung putaran tawaf AI (18306), kereta listrik tawaf/sa'i (17907), jam Raudhah (17905), tiket pesawat (17904), Adahi (17853), hotel (17848), Wallet (17843), Family&Friends (17744), sertifikat (17766), SIM/eSIM (17765), eksplorasi (17762), izin umrah (17761), Mutawif Digital (17654), kereta Haramain (17655), kompetisi (17664), zamzam (17606), salat/kiblat/khutbah (17592), kepadatan Nabawi (17570), izin Raudhah (17591), Nusuk AI (17605), 70 juta pengguna (17304).
+
+Saran untuk Ronde B: cek ulang SPA portalapi halaman 1-3 setelah 11:00 WIB; bila tetap nihil, kosongkan lagi.
