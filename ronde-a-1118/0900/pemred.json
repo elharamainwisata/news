@@ -1,0 +1,10 @@
+{
+ "post_id": 18796,
+ "verdict": "DIPERBAIKI",
+ "alasan_tahan": "",
+ "replacements": [],
+ "title_new": null,
+ "excerpt_new": "Per 16 November 2026, 240 dari 1.078 jemaah haji Kepri sudah melunasi Bipih 2027, sementara Batam baru 16,19 persen dan tahap I berakhir 10 Desember.",
+ "gambar": "Foto utama (infografis-pelunasan-istithaah-haji-kepri-16-november-2026.jpg): infografis resmi Kemenhaj Kepri 16:9, tiga kotak Total Kuota 1.078 / Istithaah 620 (57,51%) / Lunas 240 (22,26%), tabel 7 kabupaten/kota dan label 'Update per 16 November 2026 15.30 WIB'; angka semuanya cocok dengan rilis, judul bergambar AI sudah dipotong (sisa ikon kecil Ka'bah di kotak kuota, wajar). Bidang putih atas-bawah agak lebar tapi layak. LOLOS. Tanpa gambar sisipan.",
+ "catatan": "Fakta dicek via API kepri.haji.go.id: 240/1.078 (22,26%), 620 istithaah (57,51%), tahap I 10 Nov-10 Des, tahap II 16-31 Des, data 16/11 15.30 WIB, rincian 7 kab/kota (kuota, istithaah, lunas, persen) semua cocok; total kuota/istithaah/lunas dijumlah ulang cocok. Senin 16/11 dan Selasa 17/11 (publishDate rilis) benar. 'Enam hari setelah dibuka' dan 'tersisa sekitar tiga pekan' benar. Bipih Embarkasi Batam Rp51.531.279 cocok dengan artikel internal tertaut (3 link internal hidup, 200). Link keluar 1 (rilis Kepri, halaman benar, 200). Excerpt semula dua kalimat -> diganti satu kalimat 149 karakter. Judul 83 karakter OK. Kalimat 'selisih 380 orang ... sudah bisa melunasi' adalah inferensi redaksi (istithaah = syarat pelunasan, didukung artikel internal), dibiarkan. Tidak ada frasa AI terlarang/salinan kalimat rilis yang perlu diubah."
+}

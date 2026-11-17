@@ -1,0 +1,27 @@
+{
+ "post_id": 18801,
+ "verdict": "DIPERBAIKI",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": "menjelaskan bahwa istitaah menilai kemampuan fisik, jiwa, dan fungsional jemaah, bukan sekadar sehat atau sakit.",
+   "new": "menegaskan penilaian istitaah tidak berhenti pada status sehat atau sakit, tetapi mengukur kemampuan fisik, kejiwaan, dan fungsional jemaah."
+  },
+  {
+   "old": "Dalam sesi tanya jawab, mereka membahas kondisi jemaah di daerah masing-masing bersama tim Pusat Kesehatan Haji Kemenhaj RI.",
+   "new": "Saat tanya jawab, peserta memaparkan kondisi jemaah di wilayahnya kepada tim Pusat Kesehatan Haji Kemenhaj RI."
+  },
+  {
+   "old": "Namun, jemaah yang ternyata mengidap penyakit dalam kriteria tidak istitaah versi Saudi, seperti gagal ginjal dengan cuci darah, kanker yang sedang menjalani kemoterapi, atau demensia, bisa tidak ditanggung. Kasus <a href=\"https://news.elharamainwisata.com/dana-asuransi-14-juta-riyal-kembali-ke-e-wallet-kemenhaj-perketat-istithaah-kesehatan-haji-2027/\">dana asuransi 14 juta riyal yang sempat dipotong Saudi</a> berkaitan dengan ketentuan serupa.",
+   "new": "Pengecualiannya, perawatan bisa tidak ditanggung bila jemaah ternyata menderita penyakit yang oleh Saudi digolongkan tidak istitaah, misalnya gagal ginjal yang memerlukan cuci darah, kanker dalam masa kemoterapi, atau demensia. Ketentuan sejenis pernah berujung pada pemotongan <a href=\"https://news.elharamainwisata.com/dana-asuransi-14-juta-riyal-kembali-ke-e-wallet-kemenhaj-perketat-istithaah-kesehatan-haji-2027/\">dana asuransi 14 juta riyal oleh Saudi</a>, yang belakangan dikembalikan ke e-Wallet."
+  },
+  {
+   "old": "Karena itu, jemaah dianjurkan memeriksakan diri lebih awal, jujur tentang kondisinya, dan menjalani pengobatan sampai penyakit kronis terkendali. Pemeriksaan penetapan istitaah dilakukan enam hingga empat bulan sebelum pelunasan Bipih. Jemaah yang belum memenuhi syarat tidak otomatis kehilangan kesempatan, sebab keberangkatannya bisa ditunda atau porsinya dilimpahkan.",
+   "new": "Tim Pusat Kesehatan Haji menyarankan jemaah tidak menunda pemeriksaan, terbuka soal riwayat penyakitnya, dan berobat teratur hingga penyakit kronis terkendali, sebab hasil pemeriksaan yang ditutupi justru merugikan jemaah sendiri. Penetapan istitaah berlangsung pada rentang enam sampai empat bulan menjelang pelunasan Bipih. Calon jemaah yang dinyatakan belum memenuhi syarat masih punya jalan, yakni menunda keberangkatan atau melimpahkan porsinya."
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": null,
+ "gambar": "Foto utama sosialisasi-istitaah-kesehatan-haji-asrama-haji-ambon.jpg: perempuan berjilbab krem berbaju batik hijau-hitam berdiri berbicara memegang mikrofon dan ponsel, di kanan pria beruban berbatik duduk di kursi hijau, ruangan berdinding putih; foto resmi dari badan rilis maluku.haji.go.id (IMG_4612), tajam, tanpa nama di alt -> LOLOS. Sisipan sambutan-kanwil-kemenhaj-maluku-sosialisasi-kmhu-82-2026.jpg (4:5): pria berpeci hitam berkacamata, kemeja batik gelap dengan pin Garuda, berbicara dengan mikrofon di balik podium kayu; foto resmi rilis (IMG_4443) yang dipasang tepat setelah paragraf pembukaan Kakanwil, alt tidak menyebut nama -> LOLOS. Caption keduanya 'Foto: Kementerian Haji dan Umrah RI' sesuai aturan.",
+ "catatan": "Rilis maluku.haji.go.id dibaca ulang via API (/api/news/<slug>), halaman berita HTTP 200 = satu-satunya link keluar, benar. Cocok: KMHU Nomor 82 Tahun 2026, Aula Jabal Nur UPT Asrama Haji Kelas II Ambon, Selasa (17/11/2026), H. Djumadi Wali Kakanwil, kutipan Djumadi (dipotong di akhir kalimat pertama, isi persis), akses pemeriksaan tahap 1 & 2 termasuk 3T, menyamakan persepsi, peserta sebagian daring, dr. Citra Kurniasari Nampira Sp.KP, 367 wafat & 2.225 dirawat (haji 2026), hipertensi/jantung/diabetes, kutipan KKHI dan Armuzna persis, safari wukuf ditiadakan dua tahun, asuransi 200.000 riyal, tiga contoh penyakit, pemeriksaan 6-4 bulan sebelum pelunasan, tunda/limpah porsi. Perbaikan: (1) empat kalimat yang hampir menyalin kalimat rilis ditulis ulang (definisi istitaah, sesi tanya jawab, pengecualian asuransi, paragraf anjuran periksa awal); (2) kalimat 'Kasus dana asuransi 14 juta riyal yang sempat dipotong Saudi berkaitan dengan ketentuan serupa' tidak ada di rilis dan tak lengkap - diluruskan sesuai artikel internal 12/11/2026 (dipotong lalu dikembalikan ke e-Wallet). Link internal 2 buah HTTP 200. Judul 97 karakter, excerpt satu kalimat 150 karakter. Tanpa travel lain, tanpa frasa AI terlarang; paragraf 'Hingga berita ini disusun' relevan (bukan pengisi)."
+}

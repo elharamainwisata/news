@@ -1,0 +1,23 @@
+{
+ "post_id": 18800,
+ "verdict": "DIPERBAIKI",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": "Perbedaan data antara Surat Pendaftaran Haji (SPH) dan kartu tanda penduduk (KTP) sering baru disadari calon jemaah saat mengurus paspor atau menjelang pelunasan.",
+   "new": "Perbedaan data antara Surat Pendaftaran Haji (SPH) dan kartu tanda penduduk (KTP) dapat menyulitkan calon jemaah saat mengurus paspor atau menjelang pelunasan."
+  },
+  {
+   "old": "menyampaikan pentingnya memastikan kelengkapan dan kesesuaian data identitas kependudukan dengan dokumen perjalanan, khususnya paspor.",
+   "new": "membawakan materi keimigrasian. Ia menekankan bahwa data kependudukan calon jemaah harus lengkap dan cocok dengan data di paspor."
+  },
+  {
+   "old": "Bagaimana bila nomor porsi justru berstatus batal karena salah ketik data? Peraturan Menteri Haji dan Umrah Nomor 3 Tahun 2025 membuka jalan pengaktifan kembali nomor porsi yang batal akibat kesalahan input data atau pembatalan sepihak oleh pihak selain jemaah.",
+   "new": "Untuk nomor porsi yang telanjur berstatus batal karena salah ketik data, Peraturan Menteri Haji dan Umrah Nomor 3 Tahun 2025 membuka jalan pengaktifan kembali. Ketentuan itu berlaku bagi pembatalan akibat kesalahan input data atau pembatalan sepihak oleh pihak selain jemaah."
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": null,
+ "gambar": "Foto utama (sosialisasi-pendaftaran-pembatalan-haji-1448-h-asrama-haji-bengkulu.jpg, 1280x720): pria berpeci hitam dan batik biru-hitam berbicara di podium kayu berlogo Kementerian Haji dan Umrah, peserta duduk di aula berpilar putih (latar agak diputihkan, gaya kolase rilis) — cocok dengan acara sosialisasi di Asrama Haji Bengkulu, thumbnail resmi rilis bengkulu.haji.go.id, caption 'Foto: Kementerian Haji dan Umrah RI' sesuai; pembicara tidak dinamai (benar, rilis tak menyebut). LOLOS. Tanpa sisipan.",
+ "catatan": "Rilis bengkulu.haji.go.id (API) dicek: Selasa (17/11/2026) benar; Bona Roy Simanungkalit (Kasi Lalu Lintas Keimigrasian Kanim Kelas I TPI Bengkulu) & H. Allazi (Ketua Tim Pendaftaran Haji dan Umrah, Kepdirjen 13/2026, pembatalan & pengembalian saldo Bipih) sesuai. PMHU 3/2025 (raw/pmhu.txt) dicek: Pasal 2 ayat 5-7 syarat pendaftaran, Pasal 10 lima data perlu persetujuan Kanwil, Pasal 11 permohonan tertulis/bukti/bukti perubahan SPH, Pasal 20 pengaktifan nomor porsi (salah input, pembatalan sepihak, diteruskan ke Dirjen PH, setelah verifikasi), Pasal 61 paspor dikoordinasikan Kantor Kemenhaj kab/kota — semua cocok. Link keluar 1 (rilis yang dikutip, HTTP 200); 2 link internal HTTP 200. Judul 79 kar, excerpt 150 kar. Perbaikan: lead diganti dari klaim umum 'sering baru disadari' (tak bersumber) menjadi netral; kalimat Bona Roy yang hampir menyalin rilis ditulis ulang; pertanyaan retoris di paragraf pengaktifan porsi diganti kalimat berita. Catatan: saran 'perbaiki dulu di Dukcapil' dan 'tanpa perantara' adalah saran redaksi, tidak dari sumber (dibiarkan sebagai penutup praktis)."
+}

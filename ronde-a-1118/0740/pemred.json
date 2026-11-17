@@ -1,0 +1,23 @@
+{
+ "post_id": 18795,
+ "verdict": "DIPERBAIKI",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": "Ada beberapa pokok yang dibahas. Panitia menyusun jadwal dan agenda diklat, memeriksa kesiapan sarana dan prasarana, peralatan pendukung, serta kebutuhan teknis dan administrasi. Rapat juga menyusun materi dan substansi pembelajaran, pengaturan sesi pelatihan, dan aspek pendukung lain agar diklat berjalan sesuai rencana.",
+   "new": "Ada beberapa pokok yang dibahas. Panitia mengulas jadwal dan agenda diklat, kesiapan ruang dan fasilitas, peralatan, serta urusan teknis dan administrasi. Isi materi, pembagian sesi, dan dukungan lain bagi peserta juga dibicarakan agar pelatihan tidak meleset dari rencana."
+  },
+  {
+   "old": "Pembukaan ToT PPIH Arab Saudi di Asrama Haji Pondok Gede pada Senin (16/11/2026) dapat dibaca dalam ulasan",
+   "new": "Setelah itu, ToT PPIH Arab Saudi 2027 dibuka di Asrama Haji Pondok Gede pada Senin (16/11/2026), sebagaimana diulas dalam artikel"
+  },
+  {
+   "old": " Petugas diarahkan menjadi penghubung antara kebutuhan jemaah Indonesia dan layanan syarikah. Karena itu, materi diklat di daerah ikut menentukan kesiapan petugas di lapangan.</p>",
+   "new": " Petugas diarahkan menjadi penghubung antara kebutuhan jemaah Indonesia dan layanan syarikah.</p>"
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": null,
+ "gambar": "Foto utama (rapat-persiapan-diklat-ppih-kanwil-kemenhaj-dki.jpg, 1600x900): sekitar sepuluh pegawai berbatik/berhijab di meja rapat bentuk U, seorang perempuan mengetik di laptop di depan; thumbnail resmi rilis dki.haji.go.id, cocok subjek - LOLOS. Sisipan (paparan-rapat-diklat-ppih-dki-jakarta.jpg): pria berkemeja putih bermotif menunjuk layar sentuh berisi angka 1-9 di depan peserta rapat; foto badan rilis yang sama, pria tidak dinamai di teks - LOLOS. Caption 'Foto: Kementerian Haji dan Umrah RI' sesuai.",
+ "catatan": "Fakta dicek via API dki.haji.go.id (rilis diklat 17/11: Suviyanto, Irfan Darmawan Syah, pokok bahasan, harapan - cocok; Selasa 17/11/2026 benar), rilis CAT PHD DKI (Sabtu 14/11, Grha Ali Sadikin, 47 = 27+19+1 - cocok), haji.go.id ToT Saudi (11 bidang - cocok) dan rilis pusat 16/11 (Puji Raharjo Dirjen Bina Haji buka ToT PPIH Arab Saudi di Pondok Gede, full board via syarikah, PPIH penghubung - cocok). Pelunasan Bipih reguler dibuka sejak 10/11 (rilis pusat) sehingga penutup aman. Perbaikan: paragraf pokok bahasan hampir menyalin kalimat rilis -> ditulis ulang; kalimat transisi ToT diperjelas karena ToT di Saudi (rampung) dan ToT PPIH Arab Saudi di Pondok Gede (16/11) adalah dua kegiatan berbeda; kalimat simpulan tanpa sumber 'materi diklat di daerah ikut menentukan...' dihapus. Link keluar 1 (rilis yang dikutip, 200), 2 link internal 200. Judul 86 kar, excerpt 155 kar satu kalimat. Tidak ada travel lain, topik layak."
+}

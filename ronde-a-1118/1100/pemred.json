@@ -1,0 +1,21 @@
+{
+ "post_id": 18798,
+ "verdict": "DIPERBAIKI",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": "Semua jemaah mengenakan tanda pengenal bertali biru.",
+   "new": "Para jemaah mengenakan tanda pengenal bertali biru."
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": null,
+ "gambar": "Foto utama (kebun-kurma, 1280x720): puluhan jemaah berseragam biru tua berbaris di jalan setapak berbatu di bawah pohon kurma membentangkan spanduk Elharamain Wisata 'BRONZE' (tanggal grup hanya tampak di spanduk foto, tidak di teks) - LOLOS. Sisipan pelataran-nabawi: jemaah melingkar mengelilingi pria berjubah hitam berpeci putih di pelataran Nabawi, payung raksasa dan gedung 'Prophet's Mosque ... Exhibition' (Arab+Latin) di kiri - LOLOS. Sisipan mukena-seragam: sekitar 20 jemaah perempuan bermukena putih motif bunga ungu di sisi Masjid Nabawi, menara dan Kubah Hijau terlihat, badan masjid tampak - LOLOS. Sisipan naik-unta: dua jemaah perempuan di unta berpelana kuning di gurun, ATV terparkir dan bukit batu di latar - LOLOS. Semua dari album Drive Elharamain 17 AGUSTUS 2026; caption 'Foto: Dokumentasi Elharamain Wisata' sesuai (foto dari kegiatan yang diberitakan), tidak ada AI/foto luar.",
+ "catatan": "Aturan G: tidak ada tanggal keberangkatan/maskapai/kota asal/hotel di judul, isi, excerpt, alt, caption, teks link; tidak ada nama jemaah/pembimbing, kutipan, testimoni; angka hanya 'puluhan'. Klaim teks dicocokkan dengan album Drive (raw/full & raw/th): Quba 19/8 (bendera biru Elharamain, foto 26), ATV dikendarai jemaah (35), stasiun kereta cepat atap berpola + jemaah berihram & di gerbong 20/8 (43-50), pelataran Ka'bah langit gelap 21/8 (51-61), gerbang 'Bab Abdullah bin Abbas' (80/82, teks Arab terbaca) & bingkai hati bunga mawar (73) 22/8, Jabal Rahmah dengan tugu putih, spanduk, payung 23/8 (85) - semua cocok; hari-tanggal 18-23/8/2026 konsisten (Selasa-Minggu). Lokasi Thaif disimpulkan dari gerbang Abdullah bin Abbas, tidak tertulis eksplisit di foto. Tanggal berasal dari stempel nama file WhatsApp (waktu kirim) -> kalimat tanggal pertama diberi bingkai 'foto bertanggal'. 'Semua jemaah' dilunakkan jadi 'Para jemaah'. Hadis Quba (Ibnu Majah) & ajwa (Bukhari-Muslim) sesuai riwayat umum, tanpa link. Link keluar 0; 2 link internal 200 dan judulnya cocok. Judul 92 kar, excerpt 151 kar satu kalimat. Tidak ada travel lain, tidak ada frasa AI terlarang.",
+ "replacements_ditolak_induk": [
+  {
+   "old": "<p>Pada Selasa (18/8/2026), puluhan jemaah berdiri melingkar",
+   "new": "<p>Dalam foto bertanggal Selasa (18/8/2026), puluhan jemaah berdiri melingkar"
+  }
+ ]
+}

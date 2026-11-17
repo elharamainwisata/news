@@ -1,0 +1,15 @@
+{
+ "post_id": 18799,
+ "verdict": "DIPERBAIKI",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": " Rincian fasilitas dan jadwal masih bisa berubah sesuai keputusan otoritas setempat.",
+   "new": ""
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": null,
+ "gambar": "Foto utama taman-al-misfalah-makkah-udara.jpg: foto udara asli taman lengkung dengan petak rumput, jalur pejalan kaki melingkar, amfiteater bundar di kiri, diapit jalan raya bermobil dan gedung, area bus/terminal kanan atas; dari SPA N2728368 (M11251321), logo SPA terpotong, kredit kecil 'Foto: SPA' kanan bawah, caption WP kosong -> LOLOS. Sisipan taman-al-misfalah-makkah-senja.jpg: taman berpohon muda dan lampu jalan dengan deretan hotel tinggi dan bukit batu saat matahari terbenam, dari SPA N2728368 (M11251320), kredit 'Foto: SPA', tanpa caption -> LOLOS.",
+ "catatan": "Sortir: kabar pembangunan kota, bukan militer/politik -> layak. Sumber SPA N2728368 dibaca ulang lewat portalapi.spa.gov.sa (terbit 17/11/2026 12:02 waktu Saudi, Selasa): 900 juta riyal, Al-Balad Al-Ameen Company, Makkah Construction and Development Company, 109.000 m2, kontrak 25 tahun, sewa 25,8 juta riyal/tahun belum PPN, naik 10% tiap 5 tahun, 76% = 79.300 m2, daftar fasilitas, parkir 794 kendaraan, tepat di selatan Masjidil Haram, 4 akses jalan/terminal, Visi 2030 - semua cocok. SPA N2728477 (17/11/2026): dua rekor Guinness, museum 426,875 m dan dek observasi 560,875 m - cocok. Link keluar 1 (SPA N2728368, halaman berita yang dikutip, HTTP 200); link internal (terbit 7/11/2026) dan elharamainwisata.com/paket-umroh-musim-dingin HTTP 200. Perbaikan: hapus kalimat pengisi di paragraf kehati-hatian ('Rincian fasilitas dan jadwal masih bisa berubah ...', pola kesalahan terdaftar). Judul 88 karakter, excerpt satu kalimat 147 karakter. Tanpa travel lain, tanpa frasa AI terlarang."
+}

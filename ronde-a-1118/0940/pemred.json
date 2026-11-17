@@ -1,0 +1,15 @@
+{
+ "post_id": 18808,
+ "verdict": "DIPERBAIKI",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": " Nama Namirah dikaitkan dengan bukit kecil di sebelahnya yang bernama sama.",
+   "new": ""
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": null,
+ "gambar": "Foto utama masjid-namirah-arafah-spa.jpg: Masjid Namirah malam hari, fasad putih panjang berjendela lengkung, tiga menara bercahaya hijau utuh, jemaah di pelataran, atap tenda di depan, latar buram di sisi, kredit 'Foto: SPA' kanan bawah; foto asli dari rilis SPA N2123165 'Namira Mosque' (URL 37LBt... terkonfirmasi di media_images API), badan masjid terlihat, 16:9 1600x900 -> LOLOS. Sisipan jemaah-melintas-masjid-namirah-spa.jpg: jemaah berihram berpayung di jalur berpagar merah di samping fasad Masjid Namirah, papan oranye 'Namirah Mosque / Mosquee De Namira / مسجد نمرة' terbaca, kredit 'Foto: SPA'; dari rilis SPA N2334767 (URL S9pl... terkonfirmasi), tanpa caption WP -> LOLOS. Keduanya tidak ada di used_prev.txt.",
+ "catatan": "Fakta dicek vs API SPA N2334767 (5/6/2025): abad ke-2 H, >110.000 m2, ~350.000 jemaah, 6 menara 60 m, 3 kubah, 10 pintu utama/64 pintu, ruang radio, karpet 125.000 m2, 19 kanopi (-10 C), 117 kipas kabut - semua cocok. SPA N2123165 (15/6/2024): awal Abbasiyah, terbesar kedua di wilayah Makkah setelah Masjidil Haram - cocok. Republika 25/4/2020: hikayat Wadi Uranah, waktu Dhuha, tenda merah, bergerak ke dekat Jabal Rahmah, dibangun khalifah Abbasiyah - cocok. Republika 31/7/2020: sebagian bangunan di luar tanah Arafah - cocok (penyebutan 'Lembah Uranah' adalah pengetahuan fiqih umum, tidak tertulis di sumber). Dihapus: kalimat 'Nama Namirah dikaitkan dengan bukit kecil...' karena tidak ada di sumber mana pun dan terbaca seolah catatan SPA. Hadis HR Ibnu Majah sudah tidak ada di final.html (hanya di src.txt). Link keluar 1 (spa.gov.sa/en/N2334767, judul halaman cocok, HTTP 200); 2 link internal hidup. Judul 96 karakter, excerpt 140 karakter satu kalimat (batas bawah). Gaya: pembuka & CTA baku, tanpa frasa terlarang/em-dash. Catatan minor: paragraf fiqih dan penutup sama-sama mengingatkan batas Arafah (agak berulang, dibiarkan)."
+}

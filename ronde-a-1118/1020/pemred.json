@@ -1,0 +1,31 @@
+{
+ "post_id": 18797,
+ "verdict": "DIPERBAIKI",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": "Pemerintah Provinsi Sulawesi Tengah (Sulteng) dan Kantor Wilayah Kementerian Haji dan Umrah (Kanwil Kemenhaj) Sulteng menyiapkan satu gedung khusus di Asrama Haji Palu untuk mendukung rencana Embarkasi Haji Antara (EHA). Garuda Indonesia juga diusulkan sebagai salah satu opsi utama maskapai pengangkut jemaah.",
+   "new": "Kantor Wilayah Kementerian Haji dan Umrah (Kanwil Kemenhaj) Sulawesi Tengah (Sulteng) menyiapkan satu gedung khusus di Asrama Haji Palu untuk mendukung rencana Embarkasi Haji Antara (EHA) yang dimatangkan bersama Pemerintah Provinsi Sulteng. Garuda Indonesia juga diusulkan sebagai salah satu opsi utama maskapai pengangkut jemaah."
+  },
+  {
+   "old": "Pembahasan dalam rapat meliputi tiga aspek, yakni kelayakan fasilitas asrama haji, kesiapan maskapai, serta dukungan infrastruktur bandara untuk pemberangkatan jemaah.",
+   "new": "Ada tiga hal yang dibahas: kelayakan asrama haji, kesiapan maskapai, dan dukungan infrastruktur bandara."
+  },
+  {
+   "old": "Muchlis menyampaikan bahwa Asrama Haji Palu saat ini sudah memiliki fasilitas untuk melayani jemaah haji. Kanwil Kemenhaj Sulteng, kata dia, telah menyiapkan satu gedung khusus dengan lima kamar utama yang siap dioperasikan.",
+   "new": "Menurut Muchlis, fasilitas Asrama Haji Palu kini sudah siap untuk melayani jemaah haji. Kanwil Kemenhaj Sulteng, kata dia, menyediakan satu gedung khusus berisi lima kamar utama yang siap dioperasikan."
+  },
+  {
+   "old": "Rapat ini merupakan kelanjutan dari koordinasi awal di Kantor Gubernur pada 3 November 2026.",
+   "new": "Sebelumnya, koordinasi awal sudah digelar di Kantor Gubernur pada Selasa (3/11/2026)."
+  },
+  {
+   "old": "Asrama yang sama juga disorot saat Wakil Menteri Haji dan Umrah Dahnil Anzar Simanjuntak berkunjung ke Palu pada 13 November 2026. Asrama Haji Transit Palu tercatat berkapasitas 422 tempat tidur, sebagaimana dimuat dalam laporan",
+   "new": "Menjelang kunjungan Wakil Menteri Haji dan Umrah Dahnil Anzar Simanjuntak ke Palu pada Jumat (13/11/2026), Kanwil Kemenhaj Sulteng meninjau Asrama Haji Transit Palu yang berkapasitas 422 tempat tidur, sebagaimana dimuat dalam laporan"
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": "Rapat di ruang kerja Wagub Sulteng membahas Embarkasi Haji Antara: Asrama Haji Palu siapkan gedung khusus lima kamar dan Garuda Indonesia diusulkan.",
+ "gambar": "Foto utama (rapat-wagub-sulteng-kemenhaj-embarkasi-haji-antara.jpg): rapat di ruangan putih berlambang Garuda dan Merah Putih, pria berpeci berbaju hijau di tengah, petugas Imigrasi berseragam, perempuan berjilbab biru berbatik berbicara di kanan; foto resmi rilis Sulteng, cocok, LOLOS. Sisipan (rapat-terbatas-embarkasi-haji-antara-kantor-gubernur-sulteng.jpg): foto lebar meja rapat panjang, perempuan berjilbab biru di kursi pimpinan, tamu berpeci dan petugas Imigrasi di kiri, pegawai berbatik Korpri di kanan; foto resmi rilis, caption 'Foto: Kementerian Haji dan Umrah RI' benar, LOLOS.",
+ "catatan": "Fakta dicek via API sulteng.haji.go.id: Selasa (17/11/2026), ruang kerja Wagub, dipimpin dr. Reny A. Lamadjido, Kakanwil H. Muchlis, Kabag TU H. Said Ghodal, peserta (Asisten II, Kesra, Bandara Mutiara SIS Al-Jufri, Imigrasi), gedung khusus 5 kamar utama, Garuda 'salah satu opsi utama', penetapan maskapai menunggu analisis teknis - semua cocok. Perbaikan: lead semula menyebut Pemprov+Kanwil menyiapkan gedung (rilis: Kanwil yang menyiapkan); dua kalimat yang nyaris menyalin rilis ditulis ulang; 'Rapat ini merupakan kelanjutan' tak ada di rilis -> 'Sebelumnya, koordinasi awal...'; kalimat Wamenhaj 'asrama disorot saat Wamenhaj berkunjung' tidak tepat (artikel internal: asrama ditinjau Kanwil menjelang kunjungan) -> diperbaiki; excerpt semula 'Garuda jadi opsi utama' melebihi rilis -> diganti (148 kar.). Konteks 3/11 (Rudi Dewanto, karantina, dinkes, perhubungan, bandara, imigrasi) dan 422 tempat tidur cocok dengan artikel internal tertaut (200). Kalimat 'Keputusan akhir di tangan Kemenhaj RI' didukung artikel internal 3 Nov. Link keluar 1 (rilis Sulteng, 200, halaman benar). Judul 89 kar. OK."
+}
