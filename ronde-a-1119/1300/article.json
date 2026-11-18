@@ -1,0 +1,33 @@
+{
+ "slot": "2026-11-19T13:00:00",
+ "category": 29,
+ "title": "Kemenhaj Riau Periksa PPIU Diduga Fasilitasi Travel Umrah Tanpa Izin, Jemaah Diminta Cek Legalitas",
+ "excerpt": "Kanwil Kemenhaj Riau memeriksa PPIU berizin yang diduga memfasilitasi travel umrah tanpa izin. Calon jemaah diminta mengecek izin lewat aplikasi Satu Haji.",
+ "tags": [
+  34,
+  688,
+  1837,
+  1840,
+  2037
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/1300/pemeriksaan-dokumen-umrah-kantor-layanan.jpg",
+   "alt": "Calon jemaah umrah memeriksa dokumen perjalanan dan kuitansi pembayaran di meja",
+   "caption": "Ilustrasi",
+   "seen": "Pasangan paruh baya Indonesia (istri berjilbab, suami berpeci & batik) memeriksa brosur, kuitansi, dan ponsel di meja kantor, petugas berseragam khaki menunjuk dokumen; tanpa teks terbaca/logo/masjid.",
+   "evidence": "ilustrasi AI dibuat induk; berita negatif (sanksi/pemeriksaan PPIU) sehingga tanpa foto Elharamain/foto stok orang",
+   "ai_prompt": "Ultra-realistic documentary news photograph, shot on full-frame DSLR with 50mm lens, natural available window light, inside a modest government service office in Pekanbaru, Indonesia. A middle-aged Indonesian Southeast Asian Muslim couple with tan brown skin (the woman wearing a plain hijab, the man in a batik shirt and black peci) sit at a wooden desk, carefully comparing a printed payment receipt and a travel brochure with information on a smartphone screen held in the man's hand; across the desk an Indonesian civil servant in a plain khaki uniform shirt points at the papers while explaining calmly. On the desk: green Indonesian-style passports, a folder of documents, a ballpoint pen. Calm, serious, everyday mood. Realistic skin texture with pores and fine wrinkles, natural imperfect expressions, candid unposed moment, authentic everyday clothing and setting in Indonesia, slight film grain, shallow depth of field, true-to-life colors, not CGI, not 3D render, not painting, not illustration, not plastic or airbrushed skin. No readable text anywhere (papers, screen and brochure blurred or illegible), no logos, no brand names, no flags, no weapons, no blood, no fire, all people fictional (not real public figures), modest Muslim clothing, no Kaaba, no Masjid al-Haram, no Masjid an-Nabawi, no mosque. Indonesian Southeast Asian people only, no Caucasian, no Western-looking people. 16:9 aspect ratio."
+  }
+ },
+ "sensitive": true,
+ "word_count": 554,
+ "sources": [
+  "https://riau.haji.go.id/berita/kemenhaj-riau-panggil-ppiu-terkait-fasilitasi-travel-umrah-tanpa-izin-1795002473634",
+  "https://riau.haji.go.id/berita/kemenhaj-riau-tindak-tegas-travel-umrah-tanpa-izin-blokir-siskopatuh-ppiu-yang-memfasilitasi-pemberangkatan-1793701817264 (tanpa link, konteks PMHU 2 Pasal 55, UU 14/2025, Satu Haji, 5 Pasti)",
+  "https://riau.haji.go.id/berita/belajar-dari-banyak-kasus-penipuan-kemenhaj-riau-ingatkan-masyarakat-bijak-memilih-travel-1790981380551 (tanpa link, imbauan Defizon 2/10)"
+ ],
+ "haji_go_id": "riau https://riau.haji.go.id/berita/kemenhaj-riau-panggil-ppiu-terkait-fasilitasi-travel-umrah-tanpa-izin-1795002473634 (HTTP 200)",
+ "notes": "BERITA NEGATIF: tanpa nama travel/PPIU (rilis 18 Nov sendiri tidak menyebut nama; rilis 2 Nov menyebut nama dua perusahaan, TIDAK dikutip). Artikel tidak menyatakan pemeriksaan 18 Nov terkait kasus 2 Nov (rilis tidak menyebutnya), hanya 'kasus serupa'. Sengaja TIDAK menautkan 16883 karena isinya memuat nama travel; link internal ke 17115 dan 17851. Tidak menyebut moratorium 3.600 PPIU (topik draft ditahan). Gambar: ilustrasi AI, induk membuat dari ai_prompt; caption 'Ilustrasi'. Cadangan sumbar pelunasan 26,4% tidak dipakai."
+}

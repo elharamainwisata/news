@@ -1,0 +1,40 @@
+{
+ "slot": "2026-11-19T09:00:00",
+ "category": 29,
+ "title": "Periksa Kesehatan Haji di Puskesmas Kota Bekasi Rp35.000, Tarif Rumah Sakit Diseragamkan",
+ "excerpt": "Tarif pemeriksaan kesehatan haji di puskesmas Kota Bekasi seragam Rp35.000, sementara 15 faskes penunjang lolos verifikasi dengan acuan tarif RS tipe D.",
+ "tags": [
+  34,
+  43,
+  42,
+  307,
+  1711
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/0900/evaluasi-pemeriksaan-kesehatan-haji-puskesmas-pekayon-kota-bekasi.jpg",
+   "alt": "Tim Monev Pusat Kesehatan Haji dan petugas Dinkes Kota Bekasi berfoto bersama di depan loket pendaftaran UPTD Puskesmas Pekayon Jaya",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Foto bersama sekitar 15 orang (pegawai berseragam batik biru, beberapa berhijab, satu pria berbatik duduk di tengah) berpose salam di ruang tunggu puskesmas; papan di atas terbaca 'UPTD PUSKESMAS PEKAYON JAYA LOKET PENDAFTARAN', Loket 1-3, kursi tunggu besi.",
+   "evidence": "Foto sisipan di rilis pusat haji.go.id (Dinkes Kota Bekasi) http://haji.go.id/uploads/general/d6400b7f-c7a9-40f3-b072-3a6c9378ae59-1795006293990.jpeg; papan puskesmas cocok dengan lokasi rilis (Puskesmas Pekayon). Asli 1280x720, diperbesar ke 1600x900.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/0900/koordinasi-pemeriksaan-kesehatan-haji-rsud-kota-bekasi.jpg",
+   "alt": "Tim Monev Pusat Kesehatan Haji dan jajaran medis RSUD dr. Chasbullah Abdulmadjid Kota Bekasi berfoto bersama di Poliklinik Eksekutif",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Foto bersama sekitar 17 orang (termasuk dokter berjas putih, pegawai berbatik biru, tiga orang berlutut di depan) di lobi bertuliskan 'Poliklinik Eksekutif'; jam digital di dinding menampilkan 'Selasa, 17/11/2026'.",
+   "evidence": "Foto sisipan rilis pusat haji.go.id (RSUD Kota Bekasi) http://haji.go.id/uploads/general/50b91405-e781-4967-8a9f-91981df24bec-1795006733930.jpeg; tanggal di jam cocok dengan tanggal kegiatan. 1280x720 (16:9, tidak di-crop). Taruh sebelum paragraf koordinasi RSUD.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 583,
+ "sources": [
+  "https://haji.go.id/berita/puskes-haji-kemenhaj-dan-dinkes-kota-bekasi-evaluasi-pemeriksaan-kesehatan-tarif-dan-kesiapan-layanan-haji-1795006513537",
+  "https://haji.go.id/berita/perkuat-layanan-kesehatan-dalam-rangka-penetapan-istitaah-kesehatan-haji-tim-puskeshaji-kemenhaj-dan-rsud-kota-bekasi-gelar-koordinasi-evaluasi-layanan-pemeriksaan-kesehatan-1795006738602 (konteks, tanpa link)"
+ ],
+ "haji_go_id": "pusat | https://haji.go.id/berita/puskes-haji-kemenhaj-dan-dinkes-kota-bekasi-evaluasi-pemeriksaan-kesehatan-tarif-dan-kesiapan-layanan-haji-1795006513537 (referenceUrl null; URL dibentuk dari slug, HTTP 200). Rilis pusat kedua (RSUD Kota Bekasi, 17 Nov 22:58) dipakai sebagai konteks dalam artikel yang sama; tandai keduanya DIPAKAI.",
+ "notes": "Satu link keluar (rilis Dinkes). Link internal: 10582 (batas Rp1 juta), 18864 (salah entri Pematangsiantar). Angka rilis tidak saling klop: 2.073 diperiksa dari 'data awal 2.085 jemaah KBIHU serta 256 jemaah mandiri', lalu 724 istitaah + 41 evaluasi + 2 tidak istitaah; ditulis apa adanya tanpa menjumlah. Nama RSUD ditulis 'Abdulmadjid' (rilis Dinkes) - rilis RSUD menulis 'Abdulmajid'. Lokasi: rilis 'Puskesmas Pekayon', papan di foto 'UPTD Puskesmas Pekayon Jaya'. Beda dari 18724 (Binjai), 18673 (Bengkulu Utara), 18864 (Pematangsiantar), 17902/17845 (Puskes Haji Palembang/Sleman): sudut tarif seragam Rp35.000 & 15 faskes terverifikasi Bekasi (Jabodetabek). Thumbnail rilis (close-up dr. Edi di depan tablet) tidak dipakai: foto grup berpapan puskesmas lebih menjelaskan lokasi. Cadangan sumbar pelunasan 26,4% TIDAK dipakai (bebas untuk 13:00). Tidak ada topik digugurkan selain cadangan."
+}

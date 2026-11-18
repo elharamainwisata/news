@@ -1,0 +1,33 @@
+{
+ "slot": "2026-11-19T13:40:00",
+ "category": 23,
+ "title": "Bumbu Khas Gorontalo Dibidik Masuk Menu Siap Saji Jemaah Haji, Produk ke Saudi Wajib Lolos SFDA",
+ "excerpt": "Kemenhaj membuka peluang bumbu khas Gorontalo masuk menu siap saji jemaah haji dan umrah, dengan syarat produk lolos BPOM, halal, dan SFDA Arab Saudi.",
+ "tags": [
+  34,
+  768,
+  1120,
+  984,
+  2074
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/1340/fgd-umkm-rantai-pasok-haji-gorontalo.jpg",
+   "alt": "Narasumber memaparkan materi di FGD Kemitraan dengan UMKM tentang ekosistem ekonomi haji dan umrah di Gorontalo",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Dua pria duduk di meja narasumber (papan 'NARASUMBER', botol air, tablet); pria berkemeja putih berkacamata berbicara memegang mikrofon; latar spanduk bertuliskan '...ONOMI HAJI DAN UMRAH', 'Senin, 16-17 November 2026', '#KanwilKemenhajGorontalo' dengan gambar Ka'bah.",
+   "evidence": "thumbnail rilis gorontalo.haji.go.id/uploads/general/f08c7808-0a93-4cc6-a493-15bd72a96858-1794900290489.jpeg (rilis 'Dari Gorontalo ke Arab Saudi, Produk UMKM Dibidik Masuk Rantai Pasok Haji'); crop 16:9 dari 1500x1000, upscale 1600x900",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 539,
+ "sources": [
+  "https://gorontalo.haji.go.id/berita/dari-gorontalo-ke-arab-saudi-produk-umkm-dibidik-masuk-rantai-pasok-haji-1794900290493 (sumber utama, satu-satunya link keluar; HTTP 200)",
+  "https://news.elharamainwisata.com/haji-dan-umrah-store-dikenalkan-ke-umkm-gorontalo-pendaftar-siapkan-ktp-hingga-sertifikat-halal/ (internal 18664)",
+  "https://news.elharamainwisata.com/kemenhaj-dan-kementerian-ekonomi-kreatif-bahas-peluang-umkm-dalam-rantai-ekonomi-haji-dan-umrah/ (internal 17011)"
+ ],
+ "haji_go_id": "gorontalo https://gorontalo.haji.go.id/berita/dari-gorontalo-ke-arab-saudi-produk-umkm-dibidik-masuk-rantai-pasok-haji-1794900290493 (referenceUrl API kosong, link dibentuk, cek 200)",
+ "notes": "BUKAN BPKH: slot memakai CADANGAN gorontalo UMKM (10:20 memakai Bali Angkasa Pura). BPKH dicek 19 Nov: bpkh.go.id 403 (tidak diakali); rilis terbaru (16/11 'aset Rp195,7 T tumbuh 7,7%', raker Komisi VIII) sudah tercakup 18668; 'BPKH Perkuat Ekosistem Ekonomi Haji di Arab Saudi' rilis lama (BPKH Limited 2023); Tanwir Muhammadiyah Palu 14/11 tidak ada liputan media allowlist yang memuat peran BPKH & seremonial; detik 'Kemenhaj dorong penguatan BPKH revisi UU' = 17 Okt (lama); Kompas Ketua Komisi VIII 16/11 = raker yang sama dengan 18668; Anugerah Jurnalistik/rekrutmen tidak relevan. Cadangan pusat 'Semangat 5K' DIGUGURKAN: peristiwa sama (sosialisasi regulasi Makassar 17/11, Dirjen Ian Heriyawan, lima nilai K) sudah ditulis di 18858. Kaltim SIGAP: sudah 17169. Sudut beda dari 18664 (hari pertama FGD yang sama: platform Haji dan Umrah Store, syarat daftar toko, Rp74 T Chandra): artikel ini hari kedua, narasumber Tri Hidayatno, bumbu daerah untuk menu siap saji, delapan sektor, SFDA/BPJPH, asrama haji sebagai etalase, data UMKM/IKM. Redaktur: pertimbangkan jarak dengan 18664 (2 hari) bila dirasa terlalu dekat. Foto: orang di foto tidak disebut namanya di rilis, jadi alt/caption tidak menyebut nama."
+}

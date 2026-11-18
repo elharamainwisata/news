@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-19T07:40:00",
+ "category": 23,
+ "title": "Kanwil Kemenhaj DKI dan Dinkes Siapkan Layanan Kesehatan Haji 2027, Petugas Dilatih 21–31 Desember",
+ "excerpt": "Kakanwil Kemenhaj DKI Suviyanto berkoordinasi dengan Dinkes DKI soal layanan kesehatan jemaah haji 2027 dan pelatihan petugas pada 21–31 Desember 2026.",
+ "tags": [
+  34,
+  1711,
+  43,
+  42,
+  1340
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/0740/kanwil-kemenhaj-dki-dinkes-koordinasi-kesehatan-haji.jpg",
+   "alt": "Jajaran Kanwil Kemenhaj DKI Jakarta dan Dinas Kesehatan DKI berfoto bersama di depan layar Audiensi Persiapan Operasional 1448 H/2027 M",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Enam orang (tiga berseragam krem/khaki, tiga berkemeja putih berlencana) berpose bersama di depan layar bertuliskan 'Audiensi Persiapan Operasional 1448 H/ 2027 M' dengan logo Kementerian Haji dan Umrah, meja bertaplak tenun di depan.",
+   "evidence": "thumbnail rilis dki.haji.go.id https://dki.haji.go.id/uploads/general/03f9ceb6-141e-4f79-b58b-5a7bbd0f824f-1794988070495.jpeg (crop 16:9). Catatan: tulisan tanggal sangat kecil di slide tampak seperti 'OKTOBER 2026' (tak terbaca jelas), foto tetap thumbnail resmi rilis 18/11.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/0740/pertemuan-kemenhaj-dki-dinkes-dki.jpg",
+   "alt": "Pertemuan koordinasi Kanwil Kemenhaj DKI Jakarta dan Dinas Kesehatan DKI membahas layanan kesehatan jemaah haji",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Empat pria berdiskusi di meja bertaplak tenun merah muda dengan tablet, laptop, dan botol air; dua berseragam khaki di seberang, dua berkemeja putih membelakangi kamera; di kanan tampak layar bertuliskan 'Jemaah haji' dan dki.haji.go.id.",
+   "evidence": "foto di badan rilis dki.haji.go.id https://dki.haji.go.id/uploads/general/e216ff12-3da3-4d90-8a3e-2527a49258c6-1794987944926.jpeg (crop 16:9)",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 464,
+ "sources": [
+  "https://dki.haji.go.id/berita/kepala-kanwil-kemenhaj-dki-jakarta-perkuat-sinergi-dengan-dinas-kesehatan-matangkan-kesiapan-layanan-kesehatan-haji-1448-h2027-m-1794988070499",
+  "haji.go.id rilis pusat 9/11 pembukaan pelunasan Bipih (kutipan Nurchalis, tanpa link)",
+  "haji.go.id rilis pusat 12/11 'Kemenhaj Perkuat Satgas Istitaah Kesehatan...' (kutipan dr. Muhammad Imran, tanpa link)"
+ ],
+ "haji_go_id": "dki https://dki.haji.go.id/berita/kepala-kanwil-kemenhaj-dki-jakarta-perkuat-sinergi-dengan-dinas-kesehatan-matangkan-kesiapan-layanan-kesehatan-haji-1448-h2027-m-1794988070499 (referenceUrl kosong, link dibentuk, HTTP 200)",
+ "notes": "Beda dari 18795 (diklat PPIH DKI): fokus koordinasi Dinkes, data & istithaah, petugas kesehatan haji. Rilis menyebut 'pelatihan petugas' 21–31 Des tanpa rincian; naskah tidak menyebut lokasi/jumlah. Rilis Satgas Istitaah (pusat, 12/11) dipakai sebagai konteks kutipan saja; cek bahwa rilis itu belum/tidak dijadikan artikel utama lain hari ini. Link keluar 1 (rilis DKI); internal 18417, 18516. Cadangan sumsel (Service Excellence) tidak dipakai."
+}

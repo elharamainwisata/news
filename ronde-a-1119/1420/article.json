@@ -1,0 +1,40 @@
+{
+ "slot": "2026-11-19T14:20:00",
+ "category": 25,
+ "title": "Hari Seni Islam Sedunia, SPA Soroti Kaligrafi Tsuluts dan Kufi yang Menghiasi Masjid Nabawi",
+ "excerpt": "Bertepatan Hari Seni Islam 18 November, SPA menyoroti kaligrafi ayat, hadis, dan Asmaul Husna di mihrab, tiang, kubah, hingga pintu Masjid Nabawi.",
+ "tags": [
+  34,
+  231,
+  240,
+  1369,
+  1370
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/1420/kaligrafi-muwajahah-masjid-nabawi.jpg",
+   "alt": "Kaligrafi Surah Al-Hujurat ayat 2 berhuruf emas di atas pagar kuningan berukir bertuliskan nama Rasulullah SAW, Abu Bakar, dan Umar di Masjid Nabawi",
+   "caption": "",
+   "seen": "Bentangan hijau berhuruf emas (ayat Al-Hujurat 2) di atas pagar/jendela kuningan berukir kaligrafi dengan medalion hijau bertuliskan Rasulullah, Abu Bakar, Umar bin Khattab, diapit tiang putih berhias hijau-emas dan ubin biru; tanpa orang. Logo SPA terpotong, kredit 'Foto: SPA' kanan bawah.",
+   "evidence": "SPA N2730461 (18/11/2026, caption 'Prophet's Mosque Inscriptions Reflect Islamic Art's Rich Heritage') https://portalcdn.spa.gov.sa/backend/original/202611/M11262457.jpeg; crop 0,166,1600,1066",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/1420/kaligrafi-pintu-baqi-masjid-nabawi.jpg",
+   "alt": "Kaligrafi doa masuk masjid di atas Pintu Al-Baqi nomor 41 Masjid Nabawi dengan jemaah keluar dari dalam masjid",
+   "caption": "",
+   "seen": "Foto tegak 4:5: papan hijau berhuruf emas berisi doa masuk masjid di atas pintu kayu, papan 'AL-BAQEE GATE DOOR NO. 41' dan 'Bab al-Baqi' di kiri-kanan, lampu-lampu gantung di dalam, jemaah pria berbaju putih (agak buram) berjalan keluar di bagian bawah. Logo SPA terpotong, kredit 'Foto: SPA' kanan bawah.",
+   "evidence": "SPA N2730461 media_images M11262469 (caption sama) https://portalcdn.spa.gov.sa/backend/original/202611/M11262469.jpeg; crop 0,140,1066,1472 lalu 1600x1999",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 469,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2730461 (link; rincian khat tsuluts/kufi & bahan dari versi Arab N2730346)",
+  "SPA N2730868 AlUla Hari Seni Islam (tanpa link)"
+ ],
+ "haji_go_id": "tidak (SPA)",
+ "notes": "Dunia islam (25), sumber SPA (bukan slot MEDIA ARAB, tapi foto SPA dengan kredit di gambar). Teks ayat/doa/nama di foto dibaca langsung dari gambar (Al-Hujurat 2; doa masuk masjid; papan Al-Baqee Gate Door No. 41). Link internal: 17767, 16886. Tag: 34, masjid nabawi 231, Madinah 240, Kaligrafi Islam 1369, Seni Islam 1370."
+}

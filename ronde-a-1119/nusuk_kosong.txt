@@ -1,0 +1,19 @@
+NUSUK Ronde A Kamis 19 Nov 2026 - slot 08:00, 10:40, 13:20: KOSONG (0 artikel)
+Dicek 19 Nov 2026 sekitar 05:15-05:35 WIB oleh subagen 13:40/Nusuk.
+
+Alasan: tidak ada kabar Nusuk BARU (setelah 18 Nov pagi) yang terbaca dari sumber resmi/kredibel. Tidak mengarang.
+
+Yang dicek:
+1. SPA portalapi https://portalapi.spa.gov.sa/api/v1/news?page=1..8&locale=en (rentang 17 Nov 23:55 WIB s.d. 19 Nov 04:54 WIB). Detail 126 rilis sejak 18 Nov 04:43 WIB dibuka lewat /api/v1/news/<uuid> dan dicari teks penuh "nusuk": NOL hasil.
+   Rilis terkait jemaah yang ada tetapi tanpa Nusuk (bahan MEDIA ARAB/Dunia islam, bukan slot Nusuk):
+   - N2730885 "Baby Strollers Permitted in Designated Areas of the Grand Mosque" (19 Nov 01:18 WIB)
+   - N2731056 "Religious Affairs Chief Launches AI Project for Religious Guidance at the Two Holy Mosques" (19 Nov 04:42 WIB) - asisten AI Presidensi Urusan Agama, bukan Nusuk
+   - N2730541 "Religious Affairs President Inaugurates New Digital Services for Prophet's Mosque Visitors" (18 Nov 19:57 WIB) - pusat digital Nabawi, bukan Nusuk
+   - N2730302 "Al-Asmari Appointed Official Spokesperson for the Two Holy Mosques Authority"; N2730399 "Makkah Chamber Discusses Women's Role in Hajj and Umrah Sector"
+2. Arab News rubrik Saudi Arabia (https://www.arabnews.com/saudi-arabia, ±30 judul terbaru): tidak ada kata Nusuk; terkait jemaah hanya "Makkah meeting discusses women's Hajj, Umrah role".
+3. WebSearch "Nusuk app new service November 2026" (arabnews, spa, haj.gov.sa, saudigazette, antaranews, republika, detik, kompas): hasil terbaru = kereta listrik tawaf/sa'i (SPA N2710068, 25 Okt; SUDAH 17907), fitur offline, 130+ layanan, versi bahasa Melayu (lama). Tidak ada pengumuman November 2026.
+4. nusuk.sa: TIDAK dibuka (memblokir bot sejak 13 Nov; sesuai BRIEF tidak diakali).
+
+Topik Nusuk yang sudah ditulis (tidak boleh diulang): lihat ../ronde-a-1118/nusuk_kosong.txt (18772 undian umrah gratis, 18306 penghitung tawaf AI, 17907 kereta listrik, 17905 jam Raudhah, dst.).
+
+Saran untuk Ronde B: cek ulang SPA portalapi halaman 1-3 setelah 11:00 WIB; bila tetap nihil, kosongkan lagi.

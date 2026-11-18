@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-19T07:00:00",
+ "category": 29,
+ "title": "Kanwil Kemenhaj DKI Verifikasi Jemaah Batal Tunda 2021–2024, Ada yang Tertunda hingga 15 Tahun",
+ "excerpt": "Kanwil Kemenhaj DKI memverifikasi jemaah haji kategori Batal Tunda periode 2021–2024, termasuk yang tertunda hingga 15 tahun dan dipanggil 3–5 kali.",
+ "tags": [
+  34,
+  1711,
+  22,
+  324,
+  2030
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/0700/verifikasi-jemaah-batu-kanwil-kemenhaj-dki.jpg",
+   "alt": "Rapat verifikasi jemaah haji kategori Batal Tunda di Kanwil Kemenhaj DKI Jakarta",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Belasan pegawai berseragam krem duduk mengelilingi meja rapat berbentuk U dengan laptop di ruang kantor berjendela tirai vertikal.",
+   "evidence": "thumbnail rilis dki.haji.go.id https://dki.haji.go.id/uploads/general/57cf8b32-b357-4fad-9191-dff8c38b7fd2-1794985161835.jpeg (crop 16:9 dari 1280x960)",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/0700/rapat-verifikasi-batu-dki-pimpinan.jpg",
+   "alt": "Pejabat Kanwil Kemenhaj DKI Jakarta memimpin rapat verifikasi data jemaah haji reguler",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Seorang pejabat pria berkacamata berseragam krem berbicara di meja rapat, di sampingnya pejabat perempuan berkerudung motif bunga; latar meja kantor, printer, dan tanaman.",
+   "evidence": "foto di badan rilis dki.haji.go.id https://dki.haji.go.id/uploads/general/12cf6169-ae08-423b-ad59-60464d3de32b-1794985155983.jpeg (crop 16:9). Rilis tidak memberi nama per orang, jadi caption/alt tidak menyebut nama.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 495,
+ "sources": [
+  "https://dki.haji.go.id/berita/verifikasi-jemaah-batu-haji-reguler-kanwil-kemenhaj-dki-jakarta-perkuat-akurasi-data-dan-pemetaan-keberangkatan-jemaah-1794985161839",
+  "https://haji.go.id/api/news (rilis pusat 9/11 'Kemenhaj Resmi Buka Pelunasan Bipih Haji Reguler 1448 H/2027 M Mulai 10 November 2026', tanpa link)",
+  "ntt.haji.go.id rilis '51 Jemaah Haji NTT Telah Melunasi Bipih Tahap I' (angka nasional 17/11, tanpa link)"
+ ],
+ "haji_go_id": "dki https://dki.haji.go.id/berita/verifikasi-jemaah-batu-haji-reguler-kanwil-kemenhaj-dki-jakarta-perkuat-akurasi-data-dan-pemetaan-keberangkatan-jemaah-1794985161839 (referenceUrl kosong, link dibentuk, HTTP 200)",
+ "notes": "Rilis DKI sangat pendek (2 paragraf); konteks dari rilis pusat pembukaan pelunasan (jadwal tahap I/II, kuota, Bipih Embarkasi Jakarta) dan angka nasional per 17/11 dari rilis Kanwil NTT. Rilis tidak menjelaskan arti rinci kategori BATU vs 'lunas tunda berangkat' di rilis pusat, jadi naskah tidak menyamakan keduanya. Nama Mulizar dan Sapta Putri sesuai rilis (rilis menulis 'Ibu Sapta Putri'). Link keluar 1 (rilis DKI); internal 18417, 18520. Cadangan kalteng (Monitor Pelunasan Bipih) tidak dipakai, bebas untuk ronde lain."
+}

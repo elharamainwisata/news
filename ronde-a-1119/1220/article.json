@@ -1,0 +1,32 @@
+{
+ "slot": "2026-11-19T12:20:00",
+ "category": 30,
+ "title": "Ingin Berangkat Haji Bersama Ibu yang Beda Nomor Porsi, Bisakah Digabung? Ini Penjelasan Kemenhaj",
+ "excerpt": "Kemenhaj Pohuwato menjelaskan penggabungan mahram hanya untuk suami, istri, anak, saudara, dan orang tua kandung, serta hanya saat ada sisa kuota.",
+ "tags": [
+  34,
+  2108,
+  57,
+  675,
+  2074
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/1220/kemenhaj-pohuwato-penggabungan-mahram.jpg",
+   "alt": "Petugas Kantor Kemenhaj Kabupaten Pohuwato menerima berkas jemaah haji dalam layanan penggabungan mahram",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Poster resmi Kantor Kemenhaj Kabupaten Pohuwato (tegak, dipasang di tengah dengan latar buram kiri-kanan): seorang perempuan berjilbab dan seorang pria berkemeja putih memegang berkas/dokumen di dalam kantor, ada foto sisipan Kakan Kemenhaj Yunus Nuwa berpeci dengan label nama, tulisan Labbaik Allahumma Labbaik, dan logo media sosial Kemenhajpohuwato.",
+   "evidence": "thumbnail rilis gorontalo.haji.go.id: https://gorontalo.haji.go.id/uploads/general/b34c2660-9c47-4ee4-b9bb-236f0fd74c6c-1794994398023.jpg (raw/thumb.jpg)",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 605,
+ "sources": [
+  "https://gorontalo.haji.go.id/berita/kakan-kemenhajtidak-semua-jemaah-haji-terpisah-dari-mahromnya-dapat-digabungkan-berangkat-haji-bersama-1794994398030",
+  "https://www.cnnindonesia.com/nasional/20261109204553-20-1425143/kemenhaj-resmi-buka-pelunasan-biaya-haji-reguler-mulai-hari-ini (tanpa link, jadwal tahap 2)"
+ ],
+ "haji_go_id": "gorontalo https://gorontalo.haji.go.id/berita/kakan-kemenhajtidak-semua-jemaah-haji-terpisah-dari-mahromnya-dapat-digabungkan-berangkat-haji-bersama-1794994398030 (HTTP 200)",
+ "notes": "Sudut: siapa saja yang boleh digabung (5 hubungan kandung; menantu/ipar tidak) + hanya sisa kuota, beda dari 18856 (verifikasi dokumen diperketat), 18800, dan 16983 (mengapa ada yang berangkat lebih dulu/pelimpahan). Rilis menulis rujukan aturan agak kacau ('PMHU 3/2025 menjadi PMHU 6/2026 pasal 34 ayat 4'); ditulis sebagai PMHU 6/2026 Pasal 34 ayat (4) yang mengubah PMHU 3/2025 dengan atribusi ke Yunus - redaktur mohon cek. Jadwal tahap 2 (16-31 Des 2026) dan kelompok tahap 2 dari CNN Indonesia 10/11/2026. Foto utama: thumbnail resmi berbentuk poster (ada foto sisipan Kakan & teks), tidak bisa di-crop 16:9 tanpa memotong wajah sisipan, jadi dipasang utuh di tengah latar buram; identitas 2 orang di foto tidak disebut rilis, alt/caption tidak menyebut nama. Tanpa gambar sisipan. Tidak ada rujukan ulama karena topik administratif (pola sama 18800/16983). Cadangan bengkulu Mukomuko tidak dipakai."
+}

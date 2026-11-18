@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-19T11:40:00",
+ "category": 29,
+ "media_arab": true,
+ "title": "As-Sudais Luncurkan Asisten AI Penjawab Pertanyaan Agama untuk Pengunjung Dua Masjid Suci",
+ "excerpt": "Presidensi Urusan Keagamaan Haramain meluncurkan asisten AI penjawab pertanyaan agama pengunjung, sedangkan soal rumit tetap dialihkan ke ahli syariah.",
+ "tags": [
+  34,
+  2084,
+  231,
+  218,
+  1162
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/1140/sudais-luncurkan-layanan-digital-nabawi.jpg",
+   "alt": "Syekh Abdurrahman As-Sudais (kanan) melihat layar tablet yang dipegang seorang pejabat berserban merah putih saat peluncuran layanan keagamaan digital di Madinah",
+   "caption": "",
+   "seen": "Dua pria Saudi berdiri di ruangan berdinding krem: kiri berserban merah-putih tersenyum sambil menyentuh tablet hitam, kanan (As-Sudais) bersorban putih berkacamata menatap layar; di latar ada bingkai foto udara Masjidil Haram, logo 'Haramain' Presidensi Urusan Keagamaan, dan foto Masjid Nabawi. Logo SPA kiri atas sudah terpotong, kredit kecil 'Foto: SPA' di kanan bawah.",
+   "evidence": "SPA N2730541 (18/11/2026, 'Religious Affairs President Inaugurates New Digital Services for Prophet's Mosque Visitors', caption sama) https://portalcdn.spa.gov.sa/backend/original/202611/M11263538.jpg; crop 200,90,1600,878 lalu 1600x900",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/1140/peluncuran-pusat-keagamaan-digital-nabawi.jpg",
+   "alt": "Syekh Abdurrahman As-Sudais bersama sejumlah pejabat Presidensi Urusan Keagamaan menyentuh layar tablet bersama sebagai tanda peluncuran layanan digital di Masjid Nabawi",
+   "caption": "",
+   "seen": "Lima pria bersorban/berserban putih dan merah-putih berdiri melingkar, tangan mereka bersama-sama menyentuh layar tablet yang menyala; As-Sudais kedua dari kanan; latar bingkai foto udara Masjidil Haram dan foto Masjid Nabawi. Logo SPA terpotong, kredit 'Foto: SPA' kanan bawah.",
+   "evidence": "SPA N2730541 media_images M11263539 (caption sama) https://portalcdn.spa.gov.sa/backend/original/202611/M11263539.jpg; crop 200,140,1600,928 lalu 1600x900",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 481,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2731056 (link; isi rinci dari versi Arab N2731031 via portalapi)",
+  "SPA N2730541 / Arab N2730363 (pusat keagamaan digital & program Muhimmat ad-Din, tanpa link)"
+ ],
+ "haji_go_id": "tidak (MEDIA ARAB, SPA)",
+ "notes": "MEDIA ARAB, kategori Umroh & Haji (29) karena layanan bagi pengunjung Haramain. Foto dari rilis SPA N2730541 (peluncuran pusat keagamaan digital, hari & tokoh yang sama); rilis AI N2731056 hanya punya thumbnail 256x144. Nama pejabat di kiri foto tidak disebut karena tidak tertulis di caption. Kanal akses, bahasa, dan tanggal layanan penuh belum disebut SPA (ditulis di paragraf kehati-hatian). Link internal: 14737, 17605. Calon digugurkan: lihat laporan 1420."
+}

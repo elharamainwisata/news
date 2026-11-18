@@ -1,0 +1,39 @@
+{
+ "slot": "2026-11-19T10:20:00",
+ "category": 23,
+ "title": "Kemenhaj Bali dan Angkasa Pura I Rancang Titik Kumpul Jemaah Umrah di Bandara Ngurah Rai",
+ "excerpt": "Kemenhaj Bali dan Angkasa Pura I merancang shelter meeting point bagi jemaah umrah dan pengantar di Bandara Ngurah Rai untuk memudahkan pengawasan.",
+ "tags": [
+  34,
+  687,
+  1804,
+  22,
+  1255
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/1020/kemenhaj-bali-angkasa-pura-bandara-ngurah-rai.jpg",
+   "alt": "Plt Kakanwil Kemenhaj Bali bersama jajaran Angkasa Pura I berfoto di depan tulisan I Gusti Ngurah Rai International Airport",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Tujuh orang berdiri berjajar berpose salam di depan dinding kayu bertuliskan 'I Gusti Ngurah Rai International Airport' dengan payung tedung dan patung Bali di kiri-kanan; dua pria berpeci hitam dan rompi krem/kemeja putih Kemenhaj, satu perempuan berhijab berompi, sisanya kemeja putih berlanyard. Panel atas kolase asli; karena terlalu lebar, foto utuh diletakkan di kanvas 16:9 dengan pita tipis buram dari foto yang sama di atas-bawah (tidak ada orang terpotong).",
+   "evidence": "Thumbnail rilis bali.haji.go.id https://bali.haji.go.id/uploads/general/3c37b3ea-38ac-4778-a64b-eda81f35cd2c-1794962470109.jpg (kolase 3 panel), panel atas; tulisan bandara terbaca di foto.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1119/1020/rapat-kemenhaj-bali-angkasa-pura-shelter-umrah.jpg",
+   "alt": "Pertemuan Kanwil Kemenhaj Bali dengan jajaran Angkasa Pura I membahas titik kumpul jemaah umrah di Bandara Ngurah Rai",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Ruang rapat dengan meja panjang cokelat dan mikrofon meja; dua pria berpeci hitam (satu berompi krem) dan perempuan berhijab berompi krem duduk berhadapan dengan beberapa pria berkemeja putih; dinding berfoto Presiden/Wapres dan Garuda, papan tulis di belakang.",
+   "evidence": "Panel kanan bawah kolase thumbnail rilis bali.haji.go.id yang sama (crop 16:9 tanpa garis tepi kolase).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 516,
+ "sources": [
+  "https://bali.haji.go.id/berita/angkasa-pura-i-rancang-shelter-meeting-point-jemaah-umrah-bali-1794962470121"
+ ],
+ "haji_go_id": "bali | https://bali.haji.go.id/berita/angkasa-pura-i-rancang-shelter-meeting-point-jemaah-umrah-bali-1794962470121 (referenceUrl null; URL dibentuk dari slug, HTTP 200)",
+ "notes": "Nama pejabat Angkasa Pura I ditulis tidak konsisten di rilis ('Goebtoro' lalu 'Goentoro'), jadi di artikel hanya disebut jabatannya (Deputy General Manager Airport Operation & Security Service) dan kutipan diatribusikan ke 'perwakilan Angkasa Pura I'. Nama perusahaan mengikuti rilis (PT Angkasa Pura I). 'Scaming' di rilis ditulis 'penipuan'. Satu link keluar (rilis Bali). Link internal: 15086 (Kemenhaj hadir di T2F). Tanpa nama travel. Beda dari artikel Bali sebelumnya (18429 YHM NU, 17743 pelunasan, 17383 KBIHU, 17300 petugas, 17077 haji lewat Malaysia). Cadangan gorontalo UMKM TIDAK dipakai (bebas untuk 13:40). Tidak ada topik digugurkan."
+}
