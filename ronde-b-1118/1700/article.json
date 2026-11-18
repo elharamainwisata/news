@@ -1,0 +1,32 @@
+{
+ "slot": "2026-11-18T17:00:00",
+ "category": 25,
+ "title": "Menara Jam Makkah Raih Dua Rekor Guinness, Museum dan Dek Pandang Tertinggi di Dunia",
+ "excerpt": "Museum Menara Jam Makkah di ketinggian 426,875 meter dan dek pandang terbuka di 560,875 meter diakui Guinness World Records sebagai yang tertinggi di dunia.",
+ "tags": [
+  34,
+  1299,
+  1294,
+  218,
+  71
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1118/1700/menara-jam-makkah-rekor-guinness.jpg",
+   "alt": "Menara Jam Makkah dengan muka jam hijau di samping Masjidil Haram yang terang pada malam hari",
+   "caption": "",
+   "seen": "Foto udara malam: Menara Jam Makkah (muka jam hijau bertulisan Allah, puncak bulan sabit) di kanan, Masjidil Haram terang dengan Ka'bah di tengah pelataran, kota dan perbukitan Makkah di latar; logo SPA kiri atas sudah terpotong, kredit 'Foto: SPA' kecil di kanan bawah.",
+   "evidence": "Foto resmi SPA rilis N2728477 (caption: 'Makkah Royal Commission Secures Guinness Records for Highest Museum, Observation Deck'), https://portalcdn.spa.gov.sa/backend/original/202611/M11252687.jpg; Arab News memuat foto yang sama berkredit (SPA). Crop 198,70,1600,859 -> 1600x900, kredit via tools/spa_credit.py. Belum dipakai di paket 7 hari (grep M11252687 nihil).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 469,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2728477",
+  "https://www.arabnews.com/saudi-arabia/makkah-clock-tower-earns-2-guinness-world-records-3012487"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "MEDIA ARAB. Kategori 25 (kabar landmark Makkah, bukan aturan jemaah). Link keluar 1 (SPA); Arab News disebut nama. Link internal: 12731 (panduan Museum Menara Jam), 13528 (lampu hijau). Detail angka (5 Jan, Mei 2019, 601 m, 71 m, 43 m, 28 Nov 2011, minimal 5 rekor) dari Arab News (Nada Hameed, 17/11/2026); nama kontraktor kompleks sengaja tidak ditulis. Calon digugurkan: (1) 'Taif Governor Chairs Meeting to Enhance Umrah Services' (N2729943, 17/11) - isi rilis hanya 3 paragraf rencana rapat virtual tanpa keputusan/angka, terlalu tipis untuk 450 kata; (2) 'NCM Raises Weather Alert to Red for Heavy Rain, Strong Winds in Makkah' (N2729927) - peringatan cuaca bernada negatif (wajib ilustrasi AI, bukan foto SPA) dan cepat basi, topik hujan sudah 17228/17276; (3) 'Prophet's Mosque Services Enhance Readiness for Mid-Semester Break Crowds' (N2729661) - tipis, mirip 17488/17110 layanan Nabawi; (4) 'Madinah Buses Launches Automated Response Service' (N2730107, 18/11) - 2 paragraf tanpa detail kanal/nomor, dekat dengan 18381 bus Madinah; (5) 'Madinah Region Governor Receives Indonesian Consul General' (N2729645) - seremonial; (6) Astrotourism Makkah - tidak relevan jemaah."
+}

@@ -1,0 +1,32 @@
+{
+ "slot": "2026-11-18T15:00:00",
+ "category": 29,
+ "title": "Antisipasi Penyimpangan Haji-Umrah, Kemenhaj Sumbar Jalin Koordinasi dengan Intelkam Polda",
+ "excerpt": "Kanwil Kemenhaj Sumatera Barat berkoordinasi dengan Dit Intelkam Polda Sumbar untuk bertukar informasi dan mengantisipasi penyimpangan haji dan umrah.",
+ "tags": [
+  34,
+  1902,
+  1955,
+  1839,
+  688
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1118/1500/kemenhaj-sumbar-polda-pengawasan-haji-umrah.jpg",
+   "alt": "Pejabat Kanwil Kemenhaj Sumatera Barat dan Dit Intelkam Polda Sumbar berbincang di sofa ruang pertemuan",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Empat pria duduk di sofa krem di ruang bertirai putih berjendela besar; dua berpeci hitam berbaju batik (satu berkalung tanda pengenal sedang berbicara sambil menggerakkan tangan), satu berbaju batik merah marun, satu berkemeja biru tua; meja kecil berisi toples kue dan botol air. Pertemuan koordinasi, tidak ada teks/watermark.",
+   "evidence": "thumbnail rilis sumbar.haji.go.id: https://sumbar.haji.go.id/uploads/general/6b32f014-42d7-4348-be17-ca43c0ab7c32-1794973914330.jpeg (crop 16:9 bagian bawah, 1219x686, tanpa upscale)",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 517,
+ "sources": [
+  "https://sumbar.haji.go.id/berita/kemenhaj-sumbar-gandeng-polda-perkuat-pengawasan-haji-dan-umrah-1794973914340",
+  "https://sumbar.haji.go.id/api/news/kemenhaj-sumbar-gandeng-polda-perkuat-pengawasan-haji-dan-umrah-1794973914340"
+ ],
+ "haji_go_id": "sumbar https://sumbar.haji.go.id/berita/kemenhaj-sumbar-gandeng-polda-perkuat-pengawasan-haji-dan-umrah-1794973914340",
+ "notes": "Rilis tanpa nama travel; sudut imbauan/pengawasan, beda dari 18794 (Itjen pelunasan) & 17492 (MoU Banjar). Nama Direktur Intelkam ditulis 'Riki Kurniawawan' persis seperti rilis (kemungkinan salah ketik 'Kurniawan'; cek bila perlu). Rilis tidak menyebut tanggal pertemuan, jadi naskah memakai tanggal rilis Rabu (18/11/2026). Konteks Agam 6/11, Banjar 9/11, Dahnil/PPNS diambil dari post lama situs (17272, 17492, 17548). Link keluar 1 (referenceUrl). Tanpa gambar sisipan: rilis hanya punya 1 foto. Cadangan pusat 5K TIDAK dipakai (tersedia untuk slot lain)."
+}

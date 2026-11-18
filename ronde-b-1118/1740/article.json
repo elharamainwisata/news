@@ -1,0 +1,39 @@
+{
+ "slot": "2026-11-18T17:40:00",
+ "category": 23,
+ "title": "Sosialisasi Regulasi Haji Reguler di Makassar: Pernah Berhaji 18 Tahun Terakhir Tak Bisa Daftar Lagi",
+ "excerpt": "Kemenhaj paparkan aturan baru haji reguler di Makassar: pendaftar minimal 12 tahun, yang berhaji dalam 18 tahun terakhir tak bisa daftar, kecuali petugas.",
+ "tags": [
+  34,
+  22,
+  1711,
+  531,
+  884
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1118/1740/sosialisasi-regulasi-pendaftaran-haji-reguler-makassar.jpg",
+   "alt": "Pejabat Kemenhaj duduk di panggung Sosialisasi Regulasi Pendaftaran dan Pembatalan Haji Reguler di Hotel Ultima Horizon Makassar",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Tiga pria (batik biru-putih kiri, dua berpeci berbaju hitam-emas) duduk di sofa panggung berkarpet merah di depan meja dengan dua tudung saji emas; spanduk di belakang bertuliskan 'Provinsi Sulawesi Selatan, Selasa, 17 November 2026, Hotel Ultima Horizon Makassar' dengan foto pejabat Kemenhaj.",
+   "evidence": "Thumbnail rilis sulsel.haji.go.id, spanduk acara terbaca di foto: https://sulsel.haji.go.id/uploads/general/b8beaf7d-9c66-4663-a2ac-90b340cb75cb-1794965356514.jpg (crop 16:9, judul spanduk atas terpotong, tanggal & lokasi tetap)",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1118/1740/arahan-sosialisasi-regulasi-haji-reguler-sulsel.jpg",
+   "alt": "Narasumber berbatik memberi arahan di podium pada Sosialisasi Regulasi Pendaftaran dan Pembatalan Haji Reguler Kanwil Kemenhaj Sulawesi Selatan",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Pria berbatik biru-putih berdiri di podium bermikrofon di depan spanduk 'Sosialisasi Regulasi Pendaftaran dan Pembatalan Haji Reguler Kantor Wilayah Kementerian Haji dan Umrah Provinsi Sulawesi Selatan'; pria berpeci berbaju hitam-emas duduk tersenyum di kanan.",
+   "evidence": "Gambar kedua di isi rilis: http://sulsel.haji.go.id/uploads/general/ca48efcf-87cb-4ed2-9437-f079e68976f6-1794969802074.jpg (crop 4:5 1200x1500). Rilis tidak menyebut nama pembicara di foto; alt/caption sengaja tidak menamai.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 513,
+ "sources": [
+  "https://sulsel.haji.go.id/berita/sosialisasikan-regulasi-baru-pendaftaran-hingga-pelunasan-dirjen-kemenhaj-tekankan-pelayanan-sepenuh-hati-1794965356523"
+ ],
+ "haji_go_id": "sulsel https://sulsel.haji.go.id/berita/sosialisasikan-regulasi-baru-pendaftaran-hingga-pelunasan-dirjen-kemenhaj-tekankan-pelayanan-sepenuh-hati-1794965356523",
+ "notes": "Sudut: syarat PENDAFTARAN haji reguler (usia min 12, KTP domisili, rekening BPS, larangan daftar ulang bagi daftar tunggu/pernah haji 18 tahun kecuali PPIH Arab Saudi, pembimbing KBIHU, petugas PIHK) + kerangka regulasi (UU 14/2025, PMHU 6/2026, KMHU 97 & 103/2026) + jadwal pelunasan tahap I/II + 5 prinsip Dirjen Pelayanan Haji Ian Heriyawan. Syarat pelunasan (usia 16, JKN, dll.) sengaja tidak diulang karena sudah ada di 18516; ditautkan. Beda dari 18800 (data surat pendaftaran vs KTP), 18794 (Itjen), 18728 (pelunasan Sulsel 29,98%), 18416 (fiqih haji anak 12 tahun). Beda dari 1540 (dokumen mahram/porsi pengganti Kalsel). Rilis tanpa field referenceUrl; link dibentuk dari pola https://sulsel.haji.go.id/berita/<slug>. Cadangan kalsel PLHUT HSS tidak dipakai. Catatan: judul rilis memuat 'Dirjen Kemenhaj'; jabatan Ian Heriyawan ditulis sesuai rilis 'Direktur Jenderal Pelayanan Haji'. Tag: 34, 22 kemenhaj, 1711 Haji 2027, 531 Syarat pendaftaran haji, 884 Regulasi Haji, 57 haji reguler."
+}

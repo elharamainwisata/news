@@ -1,0 +1,40 @@
+{
+ "slot": "2026-11-18T20:20:00",
+ "category": 28,
+ "title": "Tiga Cara Al-Ghazali Mengobati Ghibah, Renungan Menjaga Lisan bagi Jemaah Satu Rombongan",
+ "excerpt": "Imam Al-Ghazali menawarkan tiga langkah mengobati ghibah. Renungan bagi jemaah yang berbagi kamar, bus, dan grup percakapan selama di Tanah Suci.",
+ "tags": [
+  34,
+  113,
+  1049,
+  1835,
+  687
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1118/2020/jemaah-duduk-kajian-pelataran-masjid-nabawi.jpg",
+   "alt": "Jemaah duduk lesehan berbaris mendengarkan kajian di pelataran Masjid Nabawi pada malam hari",
+   "caption": "",
+   "seen": "Malam hari di pelataran Masjid Nabawi: deretan menara dan payung tertutup di latar, satu tiang lampu tinggi; di depan puluhan jemaah duduk lesehan berbaris di atas karpet hijau, jemaah perempuan bermukena putih/motif dengan lanyard Elharamain Wisata di kiri depan (membelakangi kamera), jemaah pria berpeci, seorang berompi biru bertuliskan Elharamain Wisata, menghadap seorang pria berpeci putih yang duduk memberi kajian. Foto tegak di tengah bingkai 16:9, sisi kiri-kanan versi buram. Tanpa close-up wajah.",
+   "evidence": "Drive Elharamain perpustakaan 1cg353egFOuGmZVuvhLQ3KhUdHNiv-3x9 > 'Tahajjud Madinah n kajian' (13hXT0QAD-WF-9uGHRy3WGtY-fTbKeWWL), video IMG_4765.MOV (file 1469l_AyBokc2Xm_BRXh5As-HPyeHiH9F), thumbnail Drive 1080x1920, crop y480-1560 diskalakan 900x900 di tengah, latar blur; 1600x900 q82. ID tidak ada di article.json ronde 12-18 Nov. Ilustrasi Elharamain -> tanpa caption.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1118/2020/pembimbing-kajian-jemaah-pelataran-nabawi.jpg",
+   "alt": "Pembimbing berpeci duduk bersila memberi kajian kepada jemaah di pelataran Masjid Nabawi",
+   "caption": "",
+   "seen": "Pria berbaju putih berpeci krem dengan lanyard duduk bersila di karpet pelataran, tangan di dada, berbicara kepada jemaah; dua jemaah pria di latar depan membelakangi kamera (satu berompi biru bertuliskan Elharamain Wisata Umroh & Haji Khusus); latar dinding bangunan krem berjendela, beberapa orang berbaring di karpet, kaki menara Nabawi di atas. Wajah pembimbing terlihat sedang, bukan close-up ekstrem.",
+   "evidence": "Drive perpustakaan > 'Tahajjud Madinah n kajian' > subfolder 'Tahajjud madinah, kajian (2)' (1hFtCYxsdAVYoli05BDxR5NbwJr-qmwOg), video IMG_4766.MOV (file 1m6xDovf0nrSUSTWJC1rUu99O_GIBaC1U), thumbnail 1080x1920 crop y560-1910 -> 1080x1350 (4:5) q82. Ilustrasi -> tanpa caption.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 533,
+ "sources": [
+  "https://islam.nu.or.id/tasawuf-akhlak/tiga-cara-ampuh-mengobati-penyakit-ghibah-5xgfW (Ustadz Muhaimin Yasin, NU Online 2/7/2025; link keluar satu-satunya)",
+  "https://islam.nu.or.id/tasawuf-akhlak/cara-menebus-dosa-ghibah-Jw8pM (NU Online 4/2/2022, Ihya juz III; disebut tanpa link)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Hikmah evergreen: tiga cara mengobati ghibah dari Al-Arba'in fi Ushulid Din (Al-Ghazali) via NU Online, ditambah rujukan Ihya juz III (permintaan maaf dengan menyesal). Beda dari Hikmah 14 hari (qanaah, tabayyun, waktu, itsar, malu unggah foto, merendahkan suara, salat malam, amarah, rendah hati, doa keluar rumah, tobat, sabar-syukur); tag ghibah (1049) hanya dipakai 1 post lama (Feb 2026, puasa). Hadits 'ghibah lebih cepat menghabiskan kebaikan... api membakar kayu kering' disebut sebagai sabda yang dikutip Al-Ghazali (tidak diklaim sahih). Contoh kamar/bus/grup WA = penerapan redaksi. Link internal: 18631 (tabayyun), 18382 (itsar). Calon digugurkan: husnuzan (dekat tabayyun 18631), zuhud (dekat qanaah 18727)."
+}

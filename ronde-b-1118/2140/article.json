@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-18T21:40:00",
+ "category": 31,
+ "title": "Masjid Gedhe Kauman Yogyakarta, Wisata Religi Keraton dengan Atap Tumpang Tiga dan Pagongan Sekaten",
+ "excerpt": "Masjid Gedhe Kauman di barat Alun-alun Utara Yogyakarta berdiri sejak 1773, bergaya Masjid Demak dengan atap tumpang tiga dan pagongan gamelan Sekaten.",
+ "tags": [
+  34,
+  196,
+  724,
+  1842,
+  171
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1118/2140/masjid-gedhe-kauman-yogyakarta-tampak-depan.jpg",
+   "alt": "Tampak depan Masjid Gedhe Kauman Yogyakarta dengan atap merah bersusun dan gerbang berjam di tengah pagar putih",
+   "caption": "",
+   "seen": "Tampak depan masjid beratap merah bersusun dengan mustaka di puncak, bagian depan berupa gerbang setengah lingkaran berhias jam dan sayap emas, pagar tembok putih berlubang di kiri-kanan, halaman paving abu-abu dengan beberapa pengunjung (perempuan berjilbab berjalan, wajah kecil/tidak close-up), pohon rindang di kiri, langit berawan. Kredit kecil 'Foto: Chainwit/CC BY' pojok kanan bawah (13 px, putih alfa 180 di kotak hitam alfa 70). Badan masjid utuh terlihat.",
+   "evidence": "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Jogja_-_Mesjid_Gedhe_Kauman_Karaton_Ngayogyakarta_Hadiningrat_(2025)_-_img_13.jpg ; deskripsi 'Mesjid Gedhe Kauman Karaton Ngayogyakarta Hadiningrat', pemotret Chainwit., diambil 7/5/2025, lisensi CC BY 4.0 (boleh untuk masjid dengan kredit kecil di gambar). Crop 1920x1440 -> y170-1250 -> 1600x900 q82. Belum pernah dipakai (grep 'kauman' di article.json lama kosong).",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1118/2140/serambi-masjid-gedhe-kauman.jpg",
+   "alt": "Serambi Masjid Gedhe Kauman dengan tiang kayu berukir, plafon bergaris, dan lantai tegel bermotif",
+   "caption": "",
+   "seen": "Interior serambi berlantai tegel bermotif cokelat mengilap, tiang-tiang putih berhias ukiran emas-hijau, plafon kayu bergaris diagonal dengan balok berornamen emas, lampu gantung hitam; beberapa jemaah perempuan bermukena dan jemaah pria duduk/sujud berjauhan (kecil, tanpa close-up); papan teks berjalan bertuliskan 'MASJID GEDHE KAUMAN' di dinding belakang. Kredit 'Foto: Aisha/CC BY-SA' pojok kanan bawah.",
+   "evidence": "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Masjid_Gedhe_Kauman_2022_-_serambi_area.jpg ; deskripsi 'Masjid Gedhe Kauman, a historical Javanese mosque in Yogyakarta. Serambi area', pemotret Aisha Tanduk, 2022, CC BY-SA 4.0. 1920x1080 -> 1600x900 q82, tanpa crop. Ditempatkan setelah paragraf arsitektur, sebelum paragraf ruang salat/serambi.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 472,
+ "sources": [
+  "https://www.kompas.com/stori/read/2022/04/06/150000579/masjid-gedhe-kauman-wujud-harmonisasi-budaya-dan-agama (link keluar satu-satunya: pendirian 29/5/1773, Kiai Fakih Ibrahim Diponingrat, perluasan serambi & pagongan, gamelan Kiai Gunturmadu & Nagawilaga, gerbang Semar Tinandhu 1840, gempa 1867, HB VI, KH Ahmad Dahlan, Kiai Wiryokusumo, saka guru, atap tiga = syariat-tarekat-makrifat, mustaka, maksura)",
+  "https://travel.kompas.com/read/2022/04/07/230600127/masjid-gedhe-kauman-saksi-perlawanan-agresi-militer-belanda-?page=all (disebut 'Kompas.com' tanpa link: pengadilan agama perdata, pajagan markas Asykar Perang Sabil, makam pejuang, pawestren, yakihun, marmer Italia 1936, lokasi Ngupasan Gondomanan)",
+  "https://travel.kompas.com/read/2026/02/26/190000827/5-wisata-religi-jogja-yang-selalu-penuh-saat-ramadan-apa-sih-daya-tariknya- (Kompas.com Feb 2026, tanpa link: 180 m dari pintu Keraton, 2.578 m2, 1.500 jemaah, tarawih & pengajian)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Wisata Halal evergreen, beda dari Wisata Halal 14 hari (Agung Banten, Cheng Hoo Pandaan, Agung Sidoarjo, Sultan Suriansyah, Agung Demak, Al-Mashun, Al Jabbar, Muhammad Ali Kairo, Baiturrahman, MAJT, Raya Sumbar, Menara Kudus; Istiqlal 3/11, Turki 1/11 & 8/11, Kairo 27/10); search WP 'kauman' tidak ada artikel tentang masjid ini. Perbedaan sumber: makna atap tumpang tiga di Kompas stori = syariat, tarekat, makrifat; Kompas travel (Dinas Pariwisata) = syariat, makrifat, hakikat -> ditulis versi Kompas stori dengan atribusi. SIMAS Kemenag (01.1.15.05.10.000001) terbaca tapi tanpa teks sejarah; kolom 'Berdiri 1733' tampaknya salah ketik, tidak dipakai. Jam buka/tiket tidak ditulis karena tidak ada sumber terbaca. Calon digugurkan: Masjid Ampel Surabaya (foto Wikimedia lama 2008/kurang), Masjid Kubah Emas Depok (tak ada foto Wikimedia masjidnya), Masjid Biru/Eyup (sudah ditulis 1/11). Kedua foto berlisensi kredit -> kredit kecil di dalam gambar, caption WP kosong."
+}

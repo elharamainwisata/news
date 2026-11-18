@@ -1,0 +1,7 @@
+1700 1 mcp-media:81b36904-1596-4194-bd6d-8d7832c5b64a 3e89728a1ef175c6181020c009b50172c3a338cfa60c7bea5c0389d9a411ea43 menara-jam-makkah-rekor-guinness.jpg {"status":"success","message":"File uplo
+2020 1 mcp-media:0eefc8bd-6e1e-4bd1-88bf-94d6a045bc49 7ccc0bf1ae31f70b7ebcc650d6f1c4ee1a5b210d217a8b869d862c3b7b76b674 jemaah-duduk-kajian-pelataran-masjid-nabawi.jpg {"status":"success","message":"File uplo
+2020 2 mcp-media:b68b0b16-0996-4e72-bc0c-262930327d3f a2c542cbe29cc39dae3671f1cfba6f31c058dfc608d69c32abc0293d3c353598 pembimbing-kajian-jemaah-pelataran-nabawi.jpg {"status":"success","message":"File uplo
+2140 1 mcp-media:8c7a762f-ce2b-4659-bebb-94fcbbebc05c ae182139e2d91f4f8b9ea27c0e7d0159691ed2b449f0523fc7d77043ff15208e masjid-gedhe-kauman-yogyakarta-tampak-depan.jpg {"status":"success","message":"File uplo
+2140 2 mcp-media:06be5e9b-26f7-4f43-a9f0-6501ab124819 f79b5239a191ca6a898f341a0622fa1480decb09bfb57d2ec71602eafbf08b9c serambi-masjid-gedhe-kauman.jpg {"status":"success","message":"File uplo
+2100 1 mcp-media:9bf6d18b-d981-4a6f-bc4a-384ac646b687 e393dad5f5563497d74dcbe53490cae4abc73c8374f19227969abe7d071dc105 barru-mpp-layanan-haji.jpg {"status":"success","message":"File uplo
+2220 1 mcp-media:fbba8dc2-2982-4f17-88ae-e92bc22a33ec 1c56232c365e52f3e0a4c133747e7747fc2ff7f23a3acfb873d2596529ba4f6a siantar-koordinasi-dinkes-kemenhaj.jpg {"status":"success","message":"File uplo

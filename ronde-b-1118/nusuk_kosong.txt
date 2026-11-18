@@ -1,0 +1,17 @@
+NUSUK Ronde B Rabu 18 Nov 2026 - slot 16:20 dan 19:00 (serta slot tengah opsional 16:00/18:40/21:20): KOSONG (0 artikel)
+Dicek 18 Nov 2026 sekitar 11:00-11:30 WIB oleh subagen Nusuk/Media Arab Ronde B. Tidak mengarang.
+
+Alasan: tidak ada kabar Nusuk BARU setelah 18 Nov 04:43 WIB (bahkan sejak 14 Nov) di sumber resmi/kredibel yang terbaca.
+
+Yang dicek:
+1. SPA portalapi https://portalapi.spa.gov.sa/api/v1/news?page=1..15&locale=en + detail tiap rilis (/api/v1/news/<uuid>?locale=en), 300 rilis rentang 14 Nov 22:51 WIB s.d. 18 Nov 10:51 WIB; semua isi terbaca (0 kosong). Pencarian teks "nusuk" di judul+isi: NOL hasil. Sejak cutoff 04:43 WIB hanya 11 rilis baru; yang terkait jemaah: "Madinah Buses Launches Automated Response Service" (N2730107, 06:58 WIB) - tanpa Nusuk.
+2. Arab News rubrik Saudi Arabia (https://www.arabnews.com/saudi-arabia): tidak ada judul Nusuk/Umrah permit/Rawdah; judul terkait Makkah hanya "Makkah Clock Tower earns 2 Guinness World Records" (dipakai untuk MEDIA ARAB 17:00).
+3. haj.gov.sa: daftar Ministry News dirender JavaScript (301/tanpa tautan berita). WebSearch domain haj.gov.sa memunculkan "Announces New Features in the Nusuk App" - dibuka: terbit 16 September 2024 (hanya "last updated" 15/11/2026), BUKAN berita baru; "Launches New Services in the Nusuk App" juga lama.
+4. WebSearch arabnews/saudigazette/spa.gov.sa (Nusuk umrah/Rawdah permit): terbaru kereta listrik tawaf/sa'i (N2710068, 25 Okt; sudah 17907) dan jadwal Raudhah Mei 2026 (sudah 17905/17591).
+5. WebSearch media Indonesia (antaranews, republika, kompas, detik, haji.go.id, cnnindonesia) "aplikasi Nusuk terbaru November 2026": hanya artikel lama (2025 s.d. Agustus 2026).
+6. Arsip haji.go.id ronde ini (pusat.json + prov_*.json): rilis yang menyebut Nusuk semuanya lama (5-12 Nov, sudah/ tak relevan).
+7. nusuk.sa: TIDAK dibuka (memblokir bot sejak 13 Nov; sesuai BRIEF tidak diakali).
+
+Topik Nusuk 14 hari yang sudah ditulis (tidak boleh diulang): lihat ronde-a-1118/nusuk_kosong.txt (undian umrah 18772, tawaf AI 18306, kereta listrik 17907, Raudhah 17905/17591, tiket pesawat, Adahi, hotel, Wallet, Family&Friends, sertifikat, SIM/eSIM, eksplorasi, izin umrah, Mutawif Digital, kereta Haramain, kompetisi, zamzam, salat/kiblat/khutbah, kepadatan Nabawi, Nusuk AI, 70 juta pengguna).
+
+Saran: slot 16:20 dan 19:00 diisi induk dengan kategori pengganti atau dibiarkan kosong; cek ulang SPA portalapi halaman 1-2 di ronde berikutnya.

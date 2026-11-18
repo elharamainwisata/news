@@ -1,0 +1,39 @@
+{
+ "slot": "2026-11-18T15:40:00",
+ "category": 23,
+ "title": "Dirjen Harun Al Rasyid Minta Verifikasi Dokumen Mahram dan Porsi Pengganti Haji 2027 Diperketat",
+ "excerpt": "Dirjen Pengendalian Kemenhaj Harun Al Rasyid di Banjarbaru minta daerah teliti memeriksa dokumen porsi pengganti, pendamping lansia, dan mahram haji 2027.",
+ "tags": [
+  34,
+  22,
+  1711,
+  1698,
+  2108
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1118/1540/dirjen-harun-al-rasyid-rakor-haji-kalsel-banjarbaru.jpg",
+   "alt": "Dirjen Pengendalian Haji dan Umrah Harun Al Rasyid berbicara memegang mikrofon dalam rapat koordinasi persiapan haji 1448 H di Banjarbaru",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Dua pria berpeci duduk di kursi abu-abu berlatar dinding kayu bergaris; pria berkemeja hijau keabuan (kanan) berbicara memegang mikrofon sambil bergestur, pria berbatik putih-merah (kiri) mendengarkan. Sisa titik dekoratif poster sangat kecil di tepi kanan.",
+   "evidence": "Thumbnail rilis kalsel.haji.go.id (poster 'Rakor Persiapan Penyelenggaraan Ibadah Haji Tahun 1448 H/2027 M - H. Harun Al Rasyid berikan pengarahan ... Selasa 17/11/26, Aeris Hotel Banjarbaru'); teks poster di-crop, foto diperbesar dari lebar 905 px (agak lembut). URL: https://kalsel.haji.go.id/uploads/general/02719e02-085a-42d5-975b-b757cb1598be-1794968505875.jpeg",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1118/1540/rakor-persiapan-haji-1448-kalsel-banjarbaru.jpg",
+   "alt": "Peserta rapat koordinasi persiapan haji 1448 H Kemenhaj Kalimantan Selatan duduk di meja panjang di Banjarbaru",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Ruang rapat berdinding kayu: dua narasumber di kursi depan, peserta berpeci dan berbatik duduk di dua deret meja panjang hitam, layar proyektor bertuliskan 'Persiapan Penyelenggaraan Ibadah Haji ... 1448 H/2027 M'.",
+   "evidence": "Gambar kedua di isi rilis (kolase, bagian bawah di-crop, ponsel peserta di kiri dibuang): http://kalsel.haji.go.id/uploads/general/d64ea26f-d3fc-4bc3-b6be-6fb920be1252-1794968495842.jpeg",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 467,
+ "sources": [
+  "https://kalsel.haji.go.id/berita/dirjen-pengendalian-haji-dan-umrah-tekankan-pentingnya-pembinaan-jemaah-dan-penertiban-dokumen-haji-1448-h2027-m-1794968505885"
+ ],
+ "haji_go_id": "kalsel https://kalsel.haji.go.id/berita/dirjen-pengendalian-haji-dan-umrah-tekankan-pentingnya-pembinaan-jemaah-dan-penertiban-dokumen-haji-1448-h2027-m-1794968505885",
+ "notes": "Sudut: penertiban/verifikasi dokumen (porsi pengganti wafat, pendamping lansia, mahram) + pembinaan; data Kalsel (kuota 5.187 sebagaimana tertulis 'tahun 2026' di rilis; 770 lunas; 3.376 paspor proses visa). Istithaah-sebelum-lunas hanya kutipan pendukung. Menyebut 'pemalsuan dokumen oleh oknum' sesuai rilis, ditulis tenang tanpa sensasi; dinilai tidak sensitif (rapat koordinasi, foto resmi acara). Beda dari 1740 (syarat pendaftaran & regulasi), 18794 (Itjen pelunasan), 17230/17025 (Dirjen Pengendalian soal KBIHU dam/travel). Rilis tanpa field referenceUrl; link dibentuk dari pola https://kalsel.haji.go.id/berita/<slug>. Cadangan kalteng visitasi KBIHU tidak dipakai (rilis utama lolos sortir; visitasi KBIHU juga mirip 17842 DKI 13 Nov). Tag: 34, 22 kemenhaj, 1711 Haji 2027, 1698 dokumen jemaah, 2108 penggabungan mahram, 43 istithaah kesehatan."
+}

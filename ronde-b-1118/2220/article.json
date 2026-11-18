@@ -1,0 +1,34 @@
+{
+ "slot": "2026-11-18T22:20:00",
+ "category": 32,
+ "title": "Pematangsiantar Temukan Salah Entri Data Kesehatan Haji, Ini yang Perlu Disiapkan Calon Jemaah",
+ "excerpt": "Dinkes dan Kemenhaj Pematangsiantar membahas salah entri hasil periksa kesehatan haji di Siskohatkes. Ini dokumen dan kebiasaan yang perlu disiapkan jemaah.",
+ "tags": [
+  34,
+  43,
+  583,
+  307,
+  1834
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1118/2220/siantar-koordinasi-dinkes-kemenhaj.jpg",
+   "alt": "Pertemuan koordinasi Dinas Kesehatan Kota Pematangsiantar dengan Kantor Kementerian Haji dan Umrah Kota Pematangsiantar membahas istitaah kesehatan jemaah",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Ruang kerja kantor berlantai hijau: tiga perempuan berseragam cokelat ASN (dua berjilbab) duduk di sofa kiri, seorang pria berseragam cokelat duduk di sofa hitam tengah, dan pria berpeci hitam berkemeja putih bersarung duduk di kursi kanan; meja kecil berisi map biru, botol air, dan tisu; bendera Merah Putih dan panji Kementerian Haji di belakang kanan. Kualitas agak lembut (sumber 1824 px), sisa samar gradasi kuning bingkai di pojok kanan bawah.",
+   "evidence": "Field thumbnail rilis sumut.haji.go.id 'Koordinasi Dinas Kesehatan Kota Pematangsiantar Dengan Kementerian Haji dan Umrah Kota Pematang Siantar' (17/11/2026): https://sumut.haji.go.id/uploads/general/a6660cc8-0e6e-4aff-b887-0c2717eb2a9b-1794906228835.jpg. Asli 1824x1376 berbingkai template (logo Kemenhaj, 'Kementerian Haji dan Umrah Kota Pematang Siantar', BerAKHLAK, bilah media sosial); crop (220,268)-(1690,1095) membuang bingkai/teks, resize 1600x900 q82. Identitas orang di foto tidak disebut di alt/caption karena rilis tidak menyebut siapa yang tampak.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 469,
+ "sources": [
+  "https://sumut.haji.go.id/berita/koordinasi-dinas-kesehatan-kota-pematangsiantar-dengan-kementerian-haji-dan-umrah-kota-pematang-siantar-1794906228844 (sumber utama, satu-satunya link keluar)",
+  "https://haji.go.id/berita/kawal-penerapan-kmhu-terbaru-puskes-haji-pastikan-implementasi-istitaah-kesehatan-berjalan-optimal-1794382319589 (konteks KMHU 82/2026 & 55/2026, Siskohatkes tepat waktu, istitaah dinamis; disebut tanpa link, rilis ini sudah dipakai paket 12-13 Nov sebagai konteks)",
+  "https://news.elharamainwisata.com/kemenhaj-binjai-monev-layanan-kesehatan-haji-di-puskesmas-tanah-tinggi-bersama-dinkes/ (internal)",
+  "https://news.elharamainwisata.com/cara-cek-status-istithaah-dan-jumlah-pelunasan-haji-2027-lewat-aplikasi-satu-haji-cukup-nomor-porsi/ (internal)"
+ ],
+ "haji_go_id": "sumut - https://sumut.haji.go.id/berita/koordinasi-dinas-kesehatan-kota-pematangsiantar-dengan-kementerian-haji-dan-umrah-kota-pematang-siantar-1794906228844 (referenceUrl kosong di API; URL disusun dari slug)",
+ "notes": "Sudut Lifestyle: persiapan dokumen & kesehatan agar hasil pemeriksaan tercatat benar di Siskohatkes; beda dari 18801 (Maluku periksa lebih awal), 18730 (Pulang Pisau haji cadangan), 18724 (Binjai monev, ditautkan sebagai internal) dan Lifestyle 14 hari (tes kebugaran, gizi, jalan santai, alas kaki). Rilis sangat singkat: tidak merinci jumlah/jenis salah entri (ditulis terang di naskah). Rilis menyebut 'pada hari ini' tanpa tanggal; pertemuan dikaitkan dengan tanggal terbit rilis Selasa (17/11/2026, 16:02 WIB). Nama Kepala Kantor di rilis 'Luhut M.A.' - ditulis 'Luhut' (gelar); redaktur boleh cek nama lengkap. Tips praktis (bawa KTP/bukti daftar, hasil periksa lama, daftar obat, surat dokter spesialis, jujur riwayat penyakit, simpan salinan, cek Satu Haji, latihan bertahap) adalah saran umum redaksi, bukan kutipan rilis. Sisipan: Drive 'Footage pemeriksaan kesehatan' hanya berisi video + satu JPG (IMG_1217) yang sudah dipakai ronde-b-1116/2220 (16 Nov) - DITOLAK (7 hari); tidak ada sisipan. Calon digugurkan: sumut 'Kemenhaj Kota Pematang Siantar Gelar Apel Pagi, Tekankan Kedisiplinan Pegawai' (18 Nov) - seremonial internal."
+}

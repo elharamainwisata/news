@@ -1,0 +1,34 @@
+{
+ "slot": "2026-11-18T21:00:00",
+ "category": 23,
+ "title": "Kemenhaj Barru Buka Layanan Haji di Mall Pelayanan Publik Setiap Senin dan Rabu",
+ "excerpt": "Warga Barru kini bisa konsultasi pelimpahan porsi, pengembalian setoran awal, cek estimasi berangkat, hingga daftar Bio Visa di Mall Pelayanan Publik.",
+ "tags": [
+  34,
+  22,
+  486,
+  675,
+  2081
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1118/2100/barru-mpp-layanan-haji.jpg",
+   "alt": "Bupati Barru Andi Ina Kartika Sari meninjau gerai layanan Kementerian Haji dan Umrah di Mall Pelayanan Publik Kabupaten Barru",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Ruang layanan berlantai marmer: perempuan berjilbab putih dan berkacamata dengan papan nama 'ANDI INA' berdiri di depan meja layanan berisi tablet, map, dan botol minum, mendengarkan pria berkemeja putih (kanan, terpotong tepi) yang bergestur menjelaskan; petugas berseragam krem dengan bendera Merah Putih di lengan berdiri di kiri; di belakang ada manekin berbaju ihram dan banner 'Pusat Pelayanan Sertifikat Halal Kementerian Agama' (gerai lain di MPP). 1600x900, tajam, tanpa watermark.",
+   "evidence": "Field thumbnail rilis sulsel.haji.go.id 'Kemenhaj Barru Hadir di Mall Pelayanan Publik' (17/11/2026): https://sulsel.haji.go.id/uploads/general/c8bf555e-8322-44a9-8cf3-952d34ced33e-1794972293321.jpg; asli 4160x2340 (sudah 16:9), hanya diperkecil ke 1600x900 q82. Rilis menyebut Bupati Andi Ina Kartika Sari memantau layanan; papan nama 'ANDI INA' terbaca di foto.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 485,
+ "sources": [
+  "https://sulsel.haji.go.id/berita/kemenhaj-barru-hadir-di-mall-pelayanan-publik-1794972293331 (sumber utama, satu-satunya link keluar)",
+  "https://haji.go.id/berita/kemenhaj-resmi-buka-pelunasan-bipih-haji-reguler-1448-h2027-m-mulai-10-november-2026-1794226696483 (konteks pelunasan tahap I 10 Nov-10 Des 2026; tanpa link)",
+  "https://news.elharamainwisata.com/petugas-kemenhaj-pohuwato-dampingi-jemaah-lansia-prioritas-rekam-biometrik-haji-2027/ (internal; definisi Bio Visa)",
+  "https://news.elharamainwisata.com/baru-daftar-haji-kapan-masa-tunggu-dihitung-dan-bagaimana-cek-perkiraan-berangkat/ (internal; cek estimasi lewat Satu Haji)"
+ ],
+ "haji_go_id": "sulsel - https://sulsel.haji.go.id/berita/kemenhaj-barru-hadir-di-mall-pelayanan-publik-1794972293331 (field referenceUrl kosong di API; URL disusun dari slug)",
+ "notes": "Slot 21:00 memakai CADANGAN (sulsel Barru) karena tidak ada rilis BPKH baru yang belum ditulis dan terbaca di media allowlist. Rilis BPKH yang dicek: (1) 'Aset Capai Rp195,7 Triliun, BPKH Perkuat Lima Strategi' / 'Dana Haji Terus Bertumbuh, BPKH Perluas Investasi dalam Ekosistem Haji Global' (16/11) - isinya raker Komisi VIII 16/11 (aset Rp195,7 T per 31 Okt, komposisi 80/20, lima fokus, world class 2027) SUDAH tercakup di 18668; (2) 'BPKH Perkuat Ekosistem Ekonomi Haji di Arab Saudi' - rilis lama (BPKH Limited, era 2023); (3) 'Mitigasi Risiko Pengelolaan Dana Haji, BPKH Gandeng KPK dan PPATK' - rilis Des 2025; (4) GCG fondasi pengelolaan keuangan haji - Juni 2026; (5) BPKH-Bank Muamalat haji muda Malaysia (29/10) sudah 16535; BPKH-Rumah Zakat mobil jenazah sudah 16839; Lazismu sudah 18803; kanal informasi sudah 18630; (6) rekrutmen 9 posisi, Balik Kerja Lampung, Anugerah Jurnalistik diperpanjang, kehadiran di Tanwir Muhammadiyah Palu - bukan informasi bagi jemaah / tidak ada liputan media allowlist. bpkh.go.id 403 untuk curl dan WebFetch (tidak diakali). CATATAN TANGGAL: rilis terbit 17/11/2026 20:57 WIB tetapi teksnya menulis kunjungan Bupati 'Rabu (18/11/2026)' (tanggal di masa depan saat terbit, kemungkinan salah ketik); naskah hanya menyebut tanggal rilis Selasa (17/11/2026) tanpa menyebut hari kunjungan. Jam buka gerai tidak ada di rilis (ditulis 'hingga berita ini disusun'). Penjelasan pelimpahan porsi (ke ahli waris, mis. jemaah wafat) dan Bio Visa adalah konteks umum dari artikel lama, bukan dari rilis Barru. Banner Sertifikat Halal Kemenag di foto adalah gerai lain di MPP; tidak disebut di naskah. Beda dari 18628 (filial TTU) karena lokasi & jenis layanan berbeda. Tanpa gambar sisipan (tidak ada foto lain dari kegiatan ini)."
+}

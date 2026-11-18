@@ -1,0 +1,32 @@
+{
+ "slot": "2026-11-18T19:40:00",
+ "category": 29,
+ "title": "Warga Tempuh 270 Km Urus Paspor, Kemenhaj Mukomuko dan Kesbangpol Upayakan UKK Imigrasi",
+ "excerpt": "Kemenhaj Mukomuko dan Kesbangpol berupaya menghadirkan UKK Imigrasi agar warga dan calon jemaah tak lagi menempuh 270 kilometer untuk membuat paspor.",
+ "tags": [
+  34,
+  182,
+  221,
+  1711,
+  22
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1118/1940/kemenhaj-mukomuko-kesbangpol-ukk-imigrasi.jpg",
+   "alt": "Jajaran Kemenhaj Kabupaten Mukomuko dan Kesbangpol Mukomuko berdiskusi di ruang tamu kantor",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Ruang tamu kantor berdinding putih: pria berbaju batik kuning duduk di sofa kiri berbicara dengan pria berseragam dinas cokelat pemda di sofa tengah; seorang perempuan berjilbab hijau zaitun berbaju batik hijau-kuning dan seorang pria duduk di sofa kanan; meja dengan cangkir kopi dan bunga, standing banner 'Layanan Nol Rupiah', tanaman bambu hias. Tidak ada watermark.",
+   "evidence": "thumbnail rilis bengkulu.haji.go.id: https://bengkulu.haji.go.id/uploads/general/1494a198-4406-4a22-ad10-b71c40063e25-1794971698267.jpeg (crop 16:9 1280x720, tanpa upscale)",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 472,
+ "sources": [
+  "https://bengkulu.haji.go.id/berita/permudah-layanan-paspor-jemaah-kemenhaj-mukomuko-gandeng-kesbangpol-upayakan-ukk-imigrasi-1794971698273",
+  "https://bengkulu.haji.go.id/api/news/permudah-layanan-paspor-jemaah-kemenhaj-mukomuko-gandeng-kesbangpol-upayakan-ukk-imigrasi-1794971698273"
+ ],
+ "haji_go_id": "bengkulu https://bengkulu.haji.go.id/berita/permudah-layanan-paspor-jemaah-kemenhaj-mukomuko-gandeng-kesbangpol-upayakan-ukk-imigrasi-1794971698273",
+ "notes": "Beda dari 18721 (Mukomuko jemaah cadangan, ditautkan) dan 18521/17841 (paspor Gorontalo/Parepare). Rilis tidak menyebut tanggal pertemuan (nama file foto kedua mengisyaratkan 17/11, tidak dipakai) maupun target waktu/lokasi UKK. Gelar akademik pejabat dihilangkan. Foto kedua rilis (45632e3d...) DIGUGURKAN sebagai sisipan: adegan & sudut nyaris sama dengan foto utama. Tips penutup (samakan data KTP/KK/akta/buku nikah/ijazah) dari post 17841. Link keluar 1 (referenceUrl). Cadangan pusat 5K tidak dipakai."
+}
