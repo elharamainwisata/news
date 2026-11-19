@@ -1,0 +1,40 @@
+{
+ "slot": "2026-11-20T10:20:00",
+ "category": 23,
+ "title": "STAIN Majene Siapkan Prodi Manajemen Haji dan Umrah, Kemenhaj Sulbar Ingatkan Umrah Murah Tanpa Izin",
+ "excerpt": "Kemenhaj Sulbar dukung STAIN Majene buka prodi Manajemen Haji dan Umrah, sekaligus ingatkan mahasiswa soal calo haji jalur cepat dan umrah tanpa izin PPIU.",
+ "tags": [
+  34,
+  22,
+  688,
+  645,
+  1508
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/1020/kemenhaj-sulbar-goes-to-campus-stain-majene.jpg",
+   "alt": "Jajaran Kanwil Kemenhaj Sulawesi Barat dan mahasiswa STAIN Majene dalam kegiatan Kemenhaj Goes To Campus",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Kolase resmi Kanwil Kemenhaj Sulbar (logo kanwil di kiri atas): atas, lima pejabat berpeci duduk di meja panel di depan layar bertuliskan 'Kemenhaj Goes To Campus, Penguatan Kemitraan Kementerian Haji dan Umrah Prov. Sulawesi Barat'; bawah, Kakanwil berjas krem berfoto bersama mahasiswa berkaus 'Goes To Campus'. Dijadikan 16:9 dengan sisi kiri-kanan latar buram foto yang sama.",
+   "evidence": "thumbnail rilis sulbar.haji.go.id slug kemenhaj-sulbar-dukung-stain-majene-buka-prodi-manajemen-haji-dan-umrah-1795076824943 (https://sulbar.haji.go.id/uploads/general/afa6cb99-5465-4f89-ae1b-fa7a8fdaa58b-1795076824937.jpeg)",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/1020/mahasiswa-stain-majene-kemenhaj-goes-to-campus.jpg",
+   "alt": "Pejabat Kemenhaj Sulawesi Barat berfoto bersama dosen dan puluhan mahasiswa STAIN Majene",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Kolase resmi Kanwil Kemenhaj Sulbar: atas, pejabat berpeci duduk dan mahasiswa berkaus 'Goes To Campus' berdiri berpose di depan layar Kemenhaj Goes To Campus; bawah, foto bersama pejabat, dosen, dan puluhan mahasiswa/mahasiswi di aula kampus. 16:9 dengan sisi latar buram.",
+   "evidence": "thumbnail rilis sulbar.haji.go.id slug kemenhaj-sulbar-dukung-stain-majene-buka-prodi-manajemen-haji-dan-umrah-1795072997538 (judul 'Kakanwil Kemenhaj Sulbar Ajak Mahasiswa STAIN Majene Jadi Duta Haji Mabrur'; https://sulbar.haji.go.id/uploads/general/1565b33a-2641-4c76-b102-05b63a992817-1795072997530.jpeg)",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 502,
+ "sources": [
+  "https://sulbar.haji.go.id/berita/kemenhaj-sulbar-dukung-stain-majene-buka-prodi-manajemen-haji-dan-umrah-1795076824943",
+  "https://sulbar.haji.go.id/berita/kemenhaj-sulbar-dukung-stain-majene-buka-prodi-manajemen-haji-dan-umrah-1795072997538 (tanpa link di artikel)"
+ ],
+ "haji_go_id": "sulbar | https://sulbar.haji.go.id/berita/kemenhaj-sulbar-dukung-stain-majene-buka-prodi-manajemen-haji-dan-umrah-1795076824943 (+ rilis kedua peristiwa sama, slug ...-1795072997538; referenceUrl kosong, link /berita/ dicek HTTP 200)",
+ "notes": "CADANGAN sulbar Majene (S1 tidak memakai, lihat 0740/PILIHAN.txt). Jenis topik: UMROH/LAIN (pendidikan SDM haji-umrah + imbauan umrah tanpa izin PPIU & calo haji jalur cepat); BUKAN haji reguler daerah (tanpa pelunasan/manasik/paspor). Dua rilis sulbar 19 Nov tentang peristiwa yang sama digabung (dihitung satu sumber haji.go.id). Kutipan Ahmad Barambangy & Abd. Gafur persis dari rilis (dirapikan ejaan). Tanggal kunjungan MAN 2 Polman tidak ditulis karena rilis tidak konsisten (daftar rilis 17/11, teks rilis 'Rabu 18/11'). Jadwal MoU/target buka prodi tidak ada di rilis -> paragraf kehati-hatian. Foto = kolase resmi Kanwil (logo kanwil & BerAKHLAK bawaan), tidak bisa di-crop 16:9 tanpa memotong orang sehingga dipasang utuh dengan sisi buram; nama orang di foto tidak disebut. BPKH (a) DIGUGURKAN untuk kedua slot: rilis BPKH Lombok 18/11 'nilai manfaat VA jemaah tunggu 1448 H naik rata-rata Rp3,4 juta, BPKH gandeng KBIHU' hanya terlihat sebagai cuplikan WebSearch (URL rilis berjudul salah 'ucapan-doa-untuk-orang-berangkat-haji'), bpkh.go.id 403 (curl & WebFetch, tidak diakali), tidak ada liputan media allowlist; rilis 16/11 aset Rp195,7 T = sudah 18668; Tanwir Muhammadiyah Palu 14/11 seremonial tanpa liputan; 'Tegakkan Hak Jemaah... dana haji khusus' = Januari 2026 (lama); Republika dana kemaslahatan Rp4 T (9/11) = sudah tercakup 17306/18668; Republika KBIHU sosialisasi biaya haji = 2023. Calon (b) lain digugurkan: Antara Kemenag target PTKIN punya pusat kajian pesantren 2027 (tidak bersinggungan jemaah), Wamenko Pangan ekosistem halal (umum, tanpa kaitan jemaah), Kompas umrah mandiri wajib lapor (Okt 2025, lama), Kontan tabungan haji-umrah BSI (data kuartal III, promosi bank)."
+}

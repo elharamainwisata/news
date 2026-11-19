@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-20T10:40:00",
+ "category": 29,
+ "title": "Empat Lokasi Miqat yang Perlu Dikenali Jemaah Umrah Indonesia, dari Bir Ali hingga di Atas Pesawat",
+ "excerpt": "HIMPUH merangkum empat lokasi miqat jemaah umrah Indonesia: Bir Ali, sejajar Yalamlam di pesawat, Bandara King Abdulaziz Jeddah, dan Tan’im.",
+ "tags": [
+  34,
+  38,
+  1681,
+  107,
+  1272
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/1040/miqat-bir-ali-lorong-jemaah-ihram.jpg",
+   "alt": "Jemaah berpakaian ihram berjalan di lorong beratap lengkung Masjid Miqat Dzulhulaifah atau Bir Ali di Madinah",
+   "caption": "",
+   "seen": "Lorong panjang beratap lengkung bata oranye dengan deretan tiang krem-granit; tiga-empat jemaah pria berkain ihram putih berjalan menjauh di tengah lorong; logo SPA kiri atas sudah terpotong, kredit kecil 'Foto: SPA' di kanan bawah.",
+   "evidence": "SPA rilis N2534725 'Miqat Dhu Al-Hulayfah in Madinah: Comprehensive Services for Umrah Performers and Visitors' (Ramadan 1447, kota Medina), foto ke-2 di media_images API: https://portalcdn.spa.gov.sa/backend/original/202603/7QLlLdNItgPFYDsSKnlssd3lJPoLecJ8qXIm99SK.jpg, crop (0,166,1600,1066) via tools/spa_credit.py. Beda dari foto SPA yang dipakai post 17855 (13 Nov) (N2534725 foto ke-4, N2483995 foto ke-5).",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/1040/miqat-bir-ali-ruang-salat.jpg",
+   "alt": "Jemaah berihram salat sunnah di ruang salat Masjid Miqat Dzulhulaifah atau Bir Ali yang berlangit-langit lengkung",
+   "caption": "",
+   "seen": "Ruang salat masjid berdinding krem dan lengkung oranye dengan jendela kisi bulat; tiga jemaah berkain ihram, satu berdiri merapikan kain, satu rukuk, satu duduk berdoa di karpet hijau; kredit 'Foto: SPA' kanan bawah, tanpa logo.",
+   "evidence": "SPA rilis N2534725 (sama), foto ke-3 media_images (https://portalcdn.spa.gov.sa/backend/original/202603/ipCqxjWkdOPDElBbH2NFAG2s01yh0BuUGCaemOWr.jpg); crop (0,166,1600,1066) + kredit. Sisipan dekat paragraf Bir Ali (wudu, salat sunnah, niat).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 576,
+ "sources": [
+  "https://himpuh.or.id/blog/detail/5314/sebelum-berangkat-umrah-kenali-dulu-4-lokasi-miqat-ini",
+  "https://mui.or.id/baca/fatwa/miqat-haji-dan-umrah-ii (PDF lampiran fatwa 19/9/1981, tanpa link di artikel)",
+  "https://www.spa.gov.sa/en/N2534725 (foto)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "TIPS HIMPUH, UMROH. Ditulis ulang dari HIMPUH 5314 (19 Nov 2026). Tanggal fatwa MUI dicek ke PDF fatwa resmi MUI (Miqat Haji dan Umrah II): fatwa I 12 Jumadil Awal 1400 H/29 Maret 1980 (NU Online menulis 28 Maret, dipakai versi dokumen MUI), fatwa II ditetapkan 19 September 1981, jarak bandara ke Makkah paling kurang 85 km, boleh ihram sebelum miqat. Satu link keluar (HIMPUH). S3 diberi tahu lewat 1040/PILIHAN.txt agar Fiqih menghindari miqat. Digugurkan: HIMPUH 5312 stroller di Masjidil Haram (sumber HIMPUH = The Islamic Information, tidak terkonfirmasi di SPA/Arab News/Saudi Gazette; Saudi Gazette lama menyebut aturan berbeda), HIMPUH 5301 posisi tawaf efisien (pemetaan empiris tanpa sumber resmi), HIMPUH 5318 siaga merah Makkah (berita cuaca harian, wilayah S6), HIMPUH 5297 jadwal Raudhah (sudah 17905)."
+}

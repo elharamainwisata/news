@@ -1,0 +1,43 @@
+{
+ "slot": "2026-11-20T12:20:00",
+ "category": 30,
+ "title": "Jemaah Umrah Musafir, Wajibkah Shalat Jumat di Masjidil Haram dan Bolehkah Dijamak dengan Asar?",
+ "excerpt": "Musafir tidak wajib shalat Jumat, tetapi sah bila ikut dan boleh dijamak taqdim dengan Asar. Ini penjelasan ulama bagi jemaah umrah di Makkah dan Madinah.",
+ "tags": [
+  34,
+  2050,
+  2080,
+  218,
+  687
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/1220/utama.jpg",
+   "alt": "Jemaah berihram berdiri dalam saf menghadap Ka'bah di pelataran Masjidil Haram",
+   "caption": "",
+   "seen": "Jemaah laki-laki berkain ihram dan seorang pria bersorban merah-putih berjubah cokelat berdiri dalam saf membelakangi kamera menghadap Ka'bah di mataf Masjidil Haram, latar serambi dan menara yang sedang dibangun; tanpa close-up wajah.",
+   "evidence": "Pexels 11934382 'A large group of Muslim pilgrims gather for prayer at the Kaaba, Masjid al-Haram, Mecca' (pexels.com/search/masjid al haram prayer), unduh images.pexels.com w=1600 (1600x2133), crop y560-1460 -> 1600x900 q82; lisensi Pexels tanpa kredit; belum ada di article.json mana pun",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/1220/sisipan2.jpg",
+   "alt": "Jemaah berihram berdoa dan shalat di pelataran Masjidil Haram",
+   "caption": "",
+   "seen": "Barisan jemaah laki-laki berkain ihram duduk dan berdiri di lantai marmer putih, seorang menengadahkan tangan berdoa, latar serambi berlengkung Masjidil Haram dengan papan penunjuk 'King Abd...'; wajah terlihat samping, tidak close-up.",
+   "evidence": "Pexels 18996599 'A gathering of pilgrims in white ihram garments praying at Masjid al-Haram, Mecca', w=1600 (1600x2133), crop y133-2133 -> 1000x1250 (4:5) q82; lisensi Pexels tanpa kredit",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 630,
+ "sources": [
+  "https://islam.nu.or.id/syariah/hukum-menjamak-shalat-jumat-dan-shalat-ashar-l7e64",
+  "https://islam.nu.or.id/syariah/musafir-yang-bebas-shalat-jumat-hwQha",
+  "https://www.nu.or.id/jatim/berikut-ketentuan-lengkap-ibadah-shalat-jumat-eVEbl",
+  "https://islam.nu.or.id/jumat/apakah-shalat-jumat-itu-zuhur-yang-diringkas-xyohx",
+  "https://www.nu.or.id/nasional/hukum-shalat-jumat-bagi-musafir-apakah-tetap-wajib-dan-boleh-dijamak-fdele (dibaca untuk konteks; tidak dikutip karena menyebut jamak ta'khir Jumat boleh, bertentangan dengan artikel asli Mubasysyarum)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Jenis topik: UMROH (Tanya Jawab fiqih, slot Jumat). Link keluar 1 (NU Online, artikel Mubasysyarum Bih); 2 link internal (16972 jamak-qashar, 18912 bermakmum dari hotel). 630 kata (batas Tanya Jawab s.d. 700). Gambar stok Pexels suasana shalat/berjamaah di Masjidil Haram, bukan foto khusus hari Jumat (tidak ada foto Jumat yang identitasnya tertulis); tanpa caption sesuai aturan stok. Drive: folder KHUTBAH hanya berisi .MOV tanpa keterangan Jumat, album HAJJ 1447 idx 686-723 didominasi swafoto/close-up wajah -> tidak dipakai. Calon digugurkan: umrah berkali-kali/Tan'im (sudah 16222, 17076), haid saat umrah (16106), tahallul (16704), badal umrah (16495), berdesakan Hajar Aswad (16356), wewangian ihram (16492), ragu putaran tawaf (18307) - semua sudah ditulis. Cadangan topik belum dipakai: sabuk/ikat pinggang, jam tangan, payung bagi laki-laki berihram. Redaktur cek: rincian fiqih (status mukim 4 hari tidak termasuk hari datang/pergi; ba'diyah Jumat sesudah Asar saat jamak taqdim; safar setelah fajar Jumat)."
+}

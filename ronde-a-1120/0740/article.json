@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-20T07:40:00",
+ "category": 23,
+ "title": "Aturan Baru KBIHU Berlaku, Wajib Berbadan Hukum dan Diakreditasi Tiap Tiga Tahun",
+ "excerpt": "Kemenhaj Jabar sosialisasikan PMHU 5/2026: KBIHU wajib berbadan hukum, punya pembimbing bersertifikat, dan diakreditasi tiap tiga tahun demi kepastian biaya.",
+ "tags": [
+  34,
+  1649,
+  884,
+  484,
+  668
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/0740/sosialisasi-pmhu-5-2026-kbihu-jabar.jpg",
+   "alt": "Sosialisasi PMHU Nomor 5 Tahun 2026 oleh Kanwil Kemenhaj Jawa Barat di Omah Joglo, Kabupaten Bekasi",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Seorang pejabat berpeci hitam dan kemeja krem berbicara di podium berlogo Kementerian Haji dan Umrah, di depan latar bertuliskan 'Sosialisasi PMHU No 5 Tahun 2026 Kantor Wilayah Kementerian Haji dan Umrah Provinsi Jawa Barat' dengan foto Menteri dan Wamen Haji di kiri-kanan, bendera merah putih dan bendera kementerian.",
+   "evidence": "thumbnail rilis jabar https://jabar.haji.go.id/uploads/general/d9ddbb9d-2a3c-411b-a1ce-917bf13a87b7-1795071748099.jpeg (1600x900, disimpan ulang q82). Nama pembicara tidak tertulis di rilis -> alt/caption tidak menyebut nama.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/0740/peserta-sosialisasi-kbihu-omah-joglo-bekasi.jpg",
+   "alt": "Foto bersama peserta sosialisasi aturan KBIHU di pendopo joglo, Kabupaten Bekasi",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Foto bersama puluhan peserta (banyak berseragam krem dan berpeci hitam, beberapa berbatik) berdiri di dalam pendopo kayu berarsitektur joglo dengan meja bertaplak batik dan rangkaian bunga di depan.",
+   "evidence": "foto di badan rilis jabar http://jabar.haji.go.id/uploads/general/b29e915e-eeaf-44d5-b53c-57c728ff9c32-1795071671951.JPG (1920x1080 -> 1600x900 q82).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 484,
+ "sources": [
+  "https://jabar.haji.go.id/berita/aturan-baru-kbihu-resmi-berlaku-jemaah-haji-dan-umrah-jabar-dijamin-lebih-terlindungi-1795071748130",
+  "kalteng.haji.go.id rilis 17/11 'Pastikan Kesiapan Lembaga, Kemenhaj Palangka Raya Visitasi KBIHU ...' (disebut tanpa link, nama yayasan KBIHU tidak disebut)",
+  "post 17230 & 17842 (link internal)"
+ ],
+ "haji_go_id": "jabar | https://jabar.haji.go.id/berita/aturan-baru-kbihu-resmi-berlaku-jemaah-haji-dan-umrah-jabar-dijamin-lebih-terlindungi-1795071748130 (HTTP 200)",
+ "notes": "LAIN/regulasi KBIHU (berlaku haji & umrah; bukan haji reguler daerah murni karena aturan nasional PMHU 5/2026). Sudut beda dari 18414 (seleksi pembimbing KBIHU 2027) dan 17383 (usulan pembimbing Bali): isi syarat kelembagaan PMHU 5/2026. Rilis jabar tipis; isi pasal, sanksi, masa transisi tidak dirinci (ditulis paragraf kehati-hatian). Teks PMHU 5/2026 tidak ditemukan di media allowlist (WebSearch nihil). Kutipan Harun Al-Rasyid diambil dari post 17230 (sumber rilis Kemenhaj Bali 4/11) - Pemred boleh cek. Sulbar Majene tidak dipakai (bebas untuk S5, lihat PILIHAN.txt)."
+}

@@ -1,0 +1,42 @@
+{
+ "slot": "2026-11-20T14:20:00",
+ "category": 25,
+ "title": "Khutbah Jumat Masjidil Haram dan Nabawi Diterjemahkan Langsung ke 11 Bahasa lewat YouTube",
+ "excerpt": "Pengelola Dua Masjid Suci menerjemahkan khutbah Jumat Haramain secara langsung ke 11 bahasa lewat YouTube, termasuk bahasa yang dipakai jemaah Indonesia.",
+ "tags": [
+  34,
+  218,
+  231,
+  71,
+  1162
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/1420/jemaah-salat-di-masjidil-haram.jpg",
+   "alt": "Ribuan jemaah berpakaian ihram putih berdiri dalam saf melingkar mengelilingi Ka'bah di Masjidil Haram",
+   "caption": "",
+   "seen": "Pemandangan dari lantai atas Masjidil Haram: Ka'bah berkiswah hitam di tengah, Maqam Ibrahim di depannya, ribuan jemaah berihram putih berdiri dalam saf melingkar (salat berjamaah), latar serambi berlengkung emas dan gedung tinggi Makkah. Logo SPA terpotong, kredit 'Foto: SPA' kanan bawah.",
+   "evidence": "SPA N2731652 (19/11/2026, 'Two Holy Mosques Authority: Friday Sermons Translated into 11 Languages...', foto utama is_main, caption sama) https://portalcdn.spa.gov.sa/backend/original/202611/M11274008.jpeg; crop 0,150,1600,1050",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/1420/jemaah-salat-di-pelataran-masjid-nabawi.jpg",
+   "alt": "Ribuan jemaah salat berjamaah di pelataran Masjid Nabawi di bawah payung raksasa",
+   "caption": "",
+   "seen": "Ribuan jemaah pria bergamis dan berpeci berdiri rapat dalam saf salat di pelataran Masjid Nabawi, di bawah payung-payung raksasa bertiang berornamen dengan kipas kabut; latar bangunan pelataran dan hotel. Logo SPA terpotong (crop kiri), kredit 'Foto: SPA' kanan bawah. Sedikit lunak tetapi layak.",
+   "evidence": "SPA N2731652 media_images M11274009 (caption sama) https://portalcdn.spa.gov.sa/backend/original/202611/M11274009.jpeg; crop 220,150,1600,926 lalu 1600x900",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 466,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2731652 (link; versi Arab N2731534)",
+  "SPA N2277017 (7/3/2025, daftar 11 bahasa termasuk Indonesia, tanpa link)",
+  "SPA N2100211 (9/5/2024, 10 bahasa, Manarat Al-Haramain/FM, tanpa link)",
+  "SPA N2340562 (15/6/2025, platform Worshipper's Guide, tanpa link)"
+ ],
+ "haji_go_id": "tidak (SPA)",
+ "notes": "Dunia islam (25), UMROH/LAIN; terbit Jumat 14:20 WIB, sebelum khutbah Jumat di Makkah/Madinah. Rilis 19/11 tidak merinci 11 bahasa; daftar diambil dari rilis SPA Maret 2025 dan ditulis sebagai laporan lama (bukan klaim daftar saat ini) - mohon redaktur perhatikan. Nama kanal YouTube tidak disebut SPA sehingga tidak ditautkan. Beda dari 17592 (fitur siaran khutbah di Nusuk), 18316 (isi khutbah 14/11), 13571 (khutbah Arafah 35 bahasa). Foto memakai kredit SPA meski bukan slot MEDIA ARAB (pola sama dengan 18921). Calon digugurkan: lihat notes 1140."
+}

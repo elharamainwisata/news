@@ -1,0 +1,40 @@
+{
+ "slot": "2026-11-20T11:40:00",
+ "category": 29,
+ "media_arab": true,
+ "title": "Jalur Pejalan Kaki 19.000 Meter Persegi Hubungkan Hotel dan Masjid Nabawi di Kawasan Sentral Madinah",
+ "excerpt": "Otoritas Pengembangan Madinah menata jalur pejalan kaki lebih dari 19.000 meter persegi agar jemaah mudah berjalan dari hotel ke Masjid Nabawi.",
+ "tags": [
+  34,
+  240,
+  231,
+  1327,
+  1162
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/1140/kawasan-pusat-madinah-jalur-pejalan-kaki.jpg",
+   "alt": "Jemaah berjalan kaki di pelataran luas kawasan sentral Madinah di antara deretan hotel bertingkat dengan menara jam di ujung jalan",
+   "caption": "",
+   "seen": "Pelataran berlantai batu luas penuh jemaah berjalan (pria bergamis/berpeci, perempuan bercadar/berjilbab, beberapa anak) diapit gedung hotel bertingkat (papan Hilton di kiri, Sofitel di kanan); di ujung jalan menara jam dan papan bertulis TAIBA, langit cerah sore. Logo SPA kiri atas sudah terpotong, kredit kecil 'Foto: SPA' di kanan bawah.",
+   "evidence": "SPA N2731571 (19/11/2026, 'Development Projects Enhance Visitor Experience in Madinah's Central Area', caption foto sama) https://portalcdn.spa.gov.sa/backend/original/202611/M11273243.jpeg; crop 0,200,1600,1100",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/1140/area-duduk-teduh-dekat-masjid-nabawi.jpg",
+   "alt": "Peziarah duduk di bangku batu di bawah pepohonan rindang dekat payung raksasa Masjid Nabawi, Madinah",
+   "caption": "",
+   "seen": "Area teduh dengan bangku-bangku granit di bawah pohon; peziarah dewasa duduk mengobrol dan berjalan, di latar kanan atas tampak payung raksasa dan gerbang hijau berornamen Masjid Nabawi serta burung merpati. Tidak ada close-up anak; logo SPA terpotong, kredit 'Foto: SPA' kanan bawah.",
+   "evidence": "SPA N2731571 media_images M11273245 (caption sama) https://portalcdn.spa.gov.sa/backend/original/202611/M11273245.jpeg; crop 0,170,1600,1070",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 458,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2731571 (link; angka 19.000 m2 dari versi Arab N2731424 via portalapi)"
+ ],
+ "haji_go_id": "tidak (MEDIA ARAB, SPA)",
+ "notes": "MEDIA ARAB, UMROH. Kategori 29 karena menyangkut layanan/akses jemaah di sekitar Nabawi. Beda sudut dari 18430 (pohon & jalur sepeda Madinah) dan 18964 (pusat layanan tamu Nabawi), keduanya ditautkan sebagai link internal. Nama hotel (Hilton, Sofitel) hanya terlihat di foto, tidak disebut di teks. Calon digugurkan: (1) SPA N2730885 kereta bayi/stroller diizinkan di area tertentu Masjidil Haram (18/11) - sangat relevan, tetapi rilis SPA hanya berisi gambar logo SPA (tanpa foto peristiwa), dan topik objek spesifik wajib foto stroller di Masjidil Haram yang tidak tersedia; layak untuk Ronde B bila ada foto yang memenuhi syarat (catatan: isi rilis: lantai 1, atap, perluasan Saudi ketiga; akses via Jembatan Ajyad, Elevator King Fahd, Elevator Al-Arqam, pintu Jembatan Al-Arqam, semua pintu perluasan ketiga). (2) Serangan Houthi ke Riyadh/kecaman negara-negara - politik/militer. (3) Pemenang lomba Al-Qur'an Afrika Barat (N2731923) - mirip 18535. (4) Gubernur Taif rapat layanan umrah (N2729943) - seremoni rapat. (5) Al-Asmari jubir Otoritas Haramain (N2730302) - nilai jemaah rendah."
+}

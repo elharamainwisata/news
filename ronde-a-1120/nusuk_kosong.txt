@@ -1,0 +1,12 @@
+NUSUK Ronde A Jumat 20 Nov 2026 - slot 08:00 dan 13:20: KOSONG (0 artikel)
+Dicek 20 Nov 2026 sekitar 05:05-05:30 WIB oleh subagen S6 (MEDIA ARAB/Dunia islam/Nusuk).
+
+Alasan: tidak ada kabar Nusuk BARU (setelah 19 Nov 11:00 WIB) dari sumber resmi/kredibel yang terbaca. Tidak mengarang.
+
+Yang dicek:
+1. SPA portalapi https://portalapi.spa.gov.sa/api/v1/news?page=1..15&locale=en. Seluruh 83 rilis berbahasa Inggris sejak 19 Nov 11:00 WIB s.d. 20 Nov 04:28 WIB (N2731178 s.d. N2732019) diunduh detailnya (isi lengkap) dan dicari kata "nusuk": NOL hasil. Rilis terkait jemaah yang ada (bukan Nusuk): khutbah Jumat Haramain diterjemahkan ke 11 bahasa (N2731652, dipakai slot 14:20), kawasan sentral Madinah (N2731571, dipakai slot 11:40), alun-alun Makkah (N2731434), lokakarya regulasi lisensi pariwisata Kamar Dagang Makkah (N2731439).
+2. Arab News RSS https://www.arabnews.com/rss.xml: tidak ada judul memuat Nusuk/Umrah/Hajj (hanya 1 judul terkait Makkah, soal aliansi pertahanan).
+3. WebSearch "Nusuk platform new service November 2026" (spa.gov.sa, arabnews, saudigazette, haj.gov.sa, antaranews, republika, detik, kompas, haji.go.id): hasil hanya kabar lama (130+ layanan Mei 2026, Nusuk Umrah Agustus 2025, Nusuk Masar 2024, mode tanpa kuota internet) - semuanya bukan kabar baru dan sebagian sudah ditulis.
+4. nusuk.sa: TIDAK dibuka (memblokir bot; sesuai BRIEF tidak diakali).
+
+Saran: Ronde B cek ulang SPA portalapi halaman 1-3 (rilis setelah 20 Nov 04:28 WIB); bila nihil, kosongkan lagi.

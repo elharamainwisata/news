@@ -1,0 +1,35 @@
+{
+ "slot": "2026-11-20T09:40:00",
+ "category": 27,
+ "title": "Shafa dan Marwah, dari Lorong Pasar Makkah hingga Tempat Sa’i Dua Lantai yang Diperlebar pada 1429 H",
+ "excerpt": "Bukit Shafa dan Marwah dulu diapit pasar dan terpisah dari Masjidil Haram. Kini tempat sa'i itu bertingkat, berpendingin, dan selebar sekitar 40 meter.",
+ "tags": [
+  34,
+  500,
+  499,
+  171,
+  218,
+  936
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/0940/masa-shafa-marwah.jpg",
+   "alt": "Jemaah berpakaian ihram berjalan sa'i di lorong mas'a berlantai marmer antara Bukit Shafa dan Marwah, Masjidil Haram",
+   "caption": "",
+   "seen": "Lorong panjang beratap berlantai marmer putih dengan lampu di langit-langit, dipadati jemaah laki-laki berkain ihram dan rombongan perempuan berkerudung hijau toska yang berjalan searah; difoto dari atas, dari belakang (wajah tidak tampak jelas).",
+   "evidence": "Wikimedia Commons File:Safa marwa.jpg (https://commons.wikimedia.org/wiki/File:Safa_marwa.jpg), Public domain, deskripsi Malayalam 'Berjalan di antara bukit Safa-Marwa', foto 10/2/2012 (kamera ponsel, agak lembut). Crop 16:9 1600x900.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 395,
+ "sources": [
+  "https://www.nu.or.id/pustaka/respons-mbah-moen-terhadap-polemik-perluasan-tempat-sai-JROjs (link keluar, NU Online 17/5/2024)",
+  "https://www.detik.com/hikmah/khazanah/d-8488904/dulu-di-padang-pasir-tandus-kini-bukit-shafa-dan-marwah-dalam-bangunan-ber-ac (detikHikmah 17/5/2026)",
+  "https://khazanah.republika.co.id/berita/dunia-islam/umroh-haji/12/10/17/mc0opd-renovasi-tempat-sai-dari-masa-ke-masa (Republika 17/10/2012)",
+  "https://muhammadiyah.or.id/2024/05/fakta-menarik-seputar-bukit-shafa-dan-marwa/ (Muhammadiyah 28/5/2024)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "SEJARAH ISLAM, jenis UMROH (situs manasik). Shafa-Marwah belum punya artikel sejarah tersendiri (16323 Zamzam hanya menyinggung sa'i). 1 link keluar (NU Online), 1 link internal (16323). Jarak Shafa-Marwah sengaja tidak ditulis karena sumber berbeda (394,5 m Republika/Antara, 405 m Antara, 450 m detik). Lebar 20 m dua lantai = kondisi sebelum mas'a jadid; 20->40 m dan 29.400->72.000 m2 dari NU Online. Kalimat 'Pemerintah Arab Saudi membongkar pasar' dari Republika tanpa tahun. Gambar: dua foto Wikimedia Public domain tanpa kredit/caption; gambar 2 resolusi rendah (boleh dibuang bila dirasa kurang tajam). Calon digugurkan: Hajar Aswad (sudah 17035 & dipakai Fiqih hari ini), Pasar Ukaz Thaif (sumber allowlist minim). | INDUK: foto hitam-putih lama dibuang (resolusi rendah di-upscale)."
+}

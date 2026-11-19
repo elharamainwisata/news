@@ -1,0 +1,33 @@
+{
+ "slot": "2026-11-20T13:00:00",
+ "category": 29,
+ "title": "Pelunasan Haji Khusus Tahap Pertama Baru 16 Persen, Kemenhaj Minta Jemaah Cadangan Segera Melunasi",
+ "excerpt": "Hingga hari ke-13, baru 2.990 jemaah atau sekitar 16 persen yang melunasi Bipih khusus 1448 H. Kemenhaj minta jemaah cadangan melunasi sebelum 5 Desember.",
+ "tags": [
+  34,
+  36,
+  476,
+  1992,
+  2098
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/1300/calon-jemaah-pelunasan-biaya-haji-di-bank.jpg",
+   "alt": "Pasangan calon jemaah haji menyerahkan dokumen dan buku tabungan kepada petugas bank syariah",
+   "caption": "Ilustrasi",
+   "seen": "Pasangan paruh baya Indonesia (pria berbatik dan peci hitam, perempuan berhijab krem) menyerahkan dokumen dan buku tabungan kepada petugas bank berhijab di meja layanan; tanpa tulisan/logo terbaca.",
+   "evidence": "image_generate openai/gpt-image-2 oleh induk, dilihat sebelum dipasang",
+   "ai_prompt": "(dibuat induk)"
+  }
+ },
+ "sensitive": false,
+ "word_count": 514,
+ "sources": [
+  "https://himpuh.or.id/blog/detail/5323/realisasi-pelunasan-haji-khusus-masih-lambat-peluang-jemaah-cadangan-terbuka-lebar",
+  "https://himpuh.or.id/blog/detail/5320/tak-ada-kesempatan-kedua-calon-jemaah-haji-khusus-cadangan-diminta-segera-lakukan-pelunasan (tanpa link)",
+  "https://haji.go.id/berita/kemenhaj-umumkan-daftar-jemaah-haji-khusus-berhak-lunas-1448-h2027-m-1793948548712 (konteks, tanpa link)"
+ ],
+ "haji_go_id": "pusat (konteks rilis 6 Nov, bukan sumber utama; rilis itu sudah dipakai seri Edukasi 18998) - sumber utama HIMPUH",
+ "notes": "HAJI PLUS. Berita baru: data realisasi pelunasan tahap 1 (2.990 orang/~16% hari ke-13), kendala BPJS & miskomunikasi cabang BSI, jalur lapor PIHK; disampaikan Direktur Pelayanan Haji Khusus di sosialisasi KMHU 99/2026 (HIMPUH daring, 18/11/2026). Hanya HIMPUH yang memuat; pencarian haji.go.id/Antara/Detik/Kompas tidak menemukan liputan lain - redaktur bisa cek ulang. Beda sudut dari seri Edukasi (18998 kalender, cadangan): artikel ini angka realisasi + kendala. CATATAN untuk redaktur: rilis 6 Nov menyebut cadangan diambil di tahap akhir s.d. 7 Jan 2027, sedangkan Tuti (18/11) menyebut cadangan sudah dimunculkan di tahap 1 dan tidak dimunculkan lagi setelahnya; naskah mengutip Tuti dengan atribusi dan tidak menulis tahap akhir 7 Jan agar tidak bertentangan. Foto thumbnail rilis 6 Nov (pejabat Kemenhaj berpeci di samping logo) ditolak karena bukan Tuti/tidak dari acara yang diberitakan. Digugurkan: BPKH Rp8,83 T nilai manfaat (wilayah S5 BPKH), HIMPUH 5319 cadangan Lombok Tengah (haji reguler daerah), RSUD Bekasi istitaah (reguler/sudah 18913). | INDUK: foto spanduk Elharamain diganti ilustrasi karena artikel memuat kendala/keluhan pelunasan (bila ragu = negatif)."
+}

@@ -1,0 +1,33 @@
+{
+ "slot": "2026-11-20T07:00:00",
+ "category": 29,
+ "title": "Belum Kantongi Izin PPIU, Biro Wisata Dilarang Berangkatkan Jemaah Umrah Sendiri",
+ "excerpt": "Kanwil Kemenhaj Kepri ingatkan biro wisata tanpa izin PPIU wajib bermitra dengan PPIU resmi, dan atribut jemaah harus memakai identitas PPIU berizin.",
+ "tags": [
+  34,
+  688,
+  2052,
+  661,
+  484
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/0700/jemaah-umrah-seragam-identitas-ppiu.jpg",
+   "alt": "Rombongan jemaah umrah berseragam biru dengan kartu identitas dan spanduk penyelenggara di Madinah",
+   "caption": "",
+   "seen": "Puluhan jemaah umrah berseragam biru (gamis/jaket seragam, syal, kartu pengenal berkalung, payung, topi) membentangkan spanduk 'Keluarga Besar Jamaah Umrah Elharamain Wisata' di pelataran terbuka dengan dua menara masjid di latar, langit cerah.",
+   "evidence": "Drive Elharamain album grup 1cmzsm7NsKxb9LB_DqHzEuigNgm4frkNv > 1446 H > '0.FOTO 20' (1CowfTtZMbIW8GBl6LIQXxJ7vrV3SMo0c), file 'WhatsApp Image 2024-07-24 at 14.03.57_415ed26d.jpg' (1sU-EX5wwtNxPCB5VgjI-okoeRA2j1vi_), crop 0,260,1600,1160 -> 1600x900 q82. Ilustrasi (bukan dari peristiwa yang diberitakan) -> TANPA caption. Belum dipakai 7 hari (grep ID di paket 1113-1119 + haji-khusus-2027 kosong). Spanduk memuat tanggal grup 2024 di foto saja; teks tidak menyalinnya.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 490,
+ "sources": [
+  "https://kepri.haji.go.id/berita/kanwil-kemenhaj-kepri-sosialisasikan-pmhu-nomor-2-tahun-2026-kepada-bpw-pt-annisa-berkah-mandiri-tour-and-travel-1795070011431",
+  "https://haji.go.id/berita/kemenhaj-dorong-pihk-dan-ppiu-patuhi-regulasi-demi-pelayanan-jemaah-berkualitas-1794571873075 (konteks modal dasar/luas kantor/rekomendasi Kanwil, tanpa link)",
+  "post 14298 (Terminal 2F, atribut) & 18919 (Riau, Pasal 55 & UU 14/2025) sebagai link internal"
+ ],
+ "haji_go_id": "kepri | https://kepri.haji.go.id/berita/kanwil-kemenhaj-kepri-sosialisasikan-pmhu-nomor-2-tahun-2026-kepada-bpw-pt-annisa-berkah-mandiri-tour-and-travel-1795070011431 (HTTP 200; referenceUrl ada di API)",
+ "notes": "UMROH (regulasi PPIU). Nama biro di judul rilis TIDAK disebut (ditulis 'sebuah BPW'); href sumber memuat slug berisi nama biro karena itu URL resmi rilis - bila Pemred keberatan, ganti link ke https://kepri.haji.go.id/berita (tidak disarankan) atau biarkan. Thumbnail rilis DITOLAK: kolase memperlihatkan spanduk nama biro dan papan merek travel di kantor (melanggar larangan logo/nama travel lain) -> pakai 2 foto Drive Elharamain tanpa caption (jemaah berseragam = ilustrasi atribut identitas PPIU berizin). Sudut beda dari 17847 (Kalbar, perizinan berbasis risiko) & 18919 (Riau, PPIU pinjam izin): fokus BPW vs PPIU dan atribut jemaah. Cadangan pusat 'Kemenhaj Dorong PIHK dan PPIU Patuhi Regulasi' (12 Nov) TIDAK dipakai: peristiwanya sama dengan 17847 (Pontianak 11 Nov), hanya dikutip 1 kalimat sebagai konteks. Rilis tidak menyebut tanggal kegiatan, hanya tanggal terbit 19/11. Gugur: kepri 'Pemantauan Naveessa Travel' (nama travel di judul, bukan penugasan S1). | INDUK: foto bandara (ada iklan merek aramco) dibuang."
+}

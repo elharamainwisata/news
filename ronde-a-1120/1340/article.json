@@ -1,0 +1,32 @@
+{
+ "slot": "2026-11-20T13:40:00",
+ "category": 23,
+ "title": "Pameran Haji Jeddah: Paviliun Indonesia Bukukan Transaksi Rp97,35 Miliar, Makanan Siap Saji Diminati",
+ "excerpt": "Kemendag catat transaksi 20 juta riyal dan potensi Rp163,73 miliar dari Paviliun Indonesia di Hajj Conference & Expo 2026 Jeddah untuk rantai pasok haji-umrah.",
+ "tags": [
+  34,
+  2083,
+  1784,
+  1658,
+  1128
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1120/1340/pameran-makanan-siap-saji-jemaah-haji-jeddah.jpg",
+   "alt": "Peserta pameran asal Indonesia menjelaskan produk makanan siap saji kepada pengunjung Saudi di sebuah paviliun pameran",
+   "caption": "Ilustrasi",
+   "seen": "Dua peserta pameran berwajah Indonesia (pria berbatik, perempuan berhijab) menjelaskan kemasan makanan siap saji, kaleng, dan kotak lauk kepada dua pria Saudi berthobe dan shemagh di stan pameran; tanpa tulisan/logo.",
+   "evidence": "image_generate openai/gpt-image-2 oleh induk, dilihat sebelum dipasang",
+   "ai_prompt": "(dibuat induk)"
+  }
+ },
+ "sensitive": false,
+ "word_count": 500,
+ "sources": [
+  "https://infopublik.id/kategori/prioritas-nasional-2026/997754/paviliun-indonesia-catat-potensi-transaksi-rp16373-miliar-di-pameran-haji-jeddah",
+  "https://www.antaranews.com/berita/5861715/pelaku-usaha-ri-catat-transaksi-rp9735-m-dalam-pameran-haji-di-saudi (disebut nama, tanpa link)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Pilihan (b) ekonomi/rantai pasok haji-umrah dari media allowlist (InfoPublik 17/11, Antara 18/11 12:48 WIB; rilis Kemendag 17/11 -> sedikit di luar 48 jam dari sisi tanggal rilis). Jenis topik: LAIN (ekonomi haji-umrah). Bukan BPKH (BPKH Ltd hanya disebut sebagai salah satu peserta paviliun). Nama perusahaan peserta TIDAK disebut (salah satunya bergerak di layanan perjalanan; aturan nama travel), kecuali BPKH Ltd dan Bank Syariah Indonesia sebagai peserta non-travel; kutipan direksi perusahaan tidak dipakai. Yayasan Waqaf Malaysia disebut sebagai pembeli (lembaga pengelola jemaah Malaysia, bukan biro travel Indonesia) - redaktur boleh menghapus nama itu bila dianggap perlu. Beda dari 17485 (business matching Menhaj di KUH Jeddah 9/11, tanpa angka transaksi) dan 18920 (FGD bumbu Gorontalo): ini hasil transaksi Paviliun Kemendag; redaktur pertimbangkan kedekatan tema dengan 18920 (terbit kemarin). Angka 'Rp261 miliar' versi Kontan TIDAK dipakai (menjumlahkan transaksi + potensi). GAMBAR: foto resmi Kemendag (via InfoPublik, situs pemerintah) dengan kredit kecil 'Foto: Kemendag' di dalam gambar, caption WP kosong (pola foto resmi lembaga); tidak ada foto haji.go.id/Drive/stok yang menggambarkan paviliun ini. Bila induk menilai foto lembaga non-SPA tidak boleh untuk berita umum, alternatif: ilustrasi (pameran makanan siap saji kemasan, tanpa logo/teks) - belum dibuat. Orang di foto tidak disebut namanya (caption sumber tidak menyebut). Gambar di-upscale dari 1024 px ke 1600 px. | INDUK: foto Kemendag (lembaga, upscaled) diganti ilustrasi."
+}
