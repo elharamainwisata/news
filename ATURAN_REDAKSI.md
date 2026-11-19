@@ -18,7 +18,7 @@ Ringkasan aturan dari pemilik untuk artikel news.elharamainwisata.com. Aturan le
 
 ## Sumber berita
 
-1. **haji.go.id** (Kementerian Haji dan Umrah RI) – sumber utama, minimal 5 dari 10 artikel kategori per ronde (di luar Kegiatan dan Media Arab). Termasuk ppid.haji.go.id dan **subdomain provinsi** (`dki.haji.go.id`, `jabar.haji.go.id`, `banten.haji.go.id`, dst.); prioritas DKI, Jabar, Banten, usahakan 1–2 artikel per ronde dari situs provinsi.
+1. **haji.go.id** (Kementerian Haji dan Umrah RI) – sumber resmi utama. ~~Minimal 5 dari 10 artikel kategori per ronde; usahakan 1–2 artikel per ronde dari situs provinsi.~~ **Mulai 20 Nov 2026:** hanya berita umrah, haji khusus/PIHK/PPIU, klarifikasi hoaks, atau kebijakan nasional besar; usahakan 3–5 dari 10 artikel kategori per ronde bila beritanya sesuai, tanpa memaksakan haji reguler. Termasuk ppid.haji.go.id dan **subdomain provinsi** (`dki.haji.go.id`, `jabar.haji.go.id`, `banten.haji.go.id`, dst.; prioritas DKI, Jabar, Banten) – situs provinsi hanya untuk berita umrah/haji khusus.
 2. **BPKH** (bpkh.go.id) – dana haji, nilai manfaat, BPIH.
 3. **Media Arab** (Arab News, SPA, haj.gov.sa, Nusuk, Saudi Gazette) – 2 artikel per hari (pagi 1, sore 1), kategori Umroh & Haji atau Dunia Islam sesuai isi.
 4. **Instagram resmi**: @mediacenterhaji.ri (Media Center Haji) dan @gus.irfanyusuf (Menteri Haji dan Umrah).
@@ -27,6 +27,15 @@ Ringkasan aturan dari pemilik untuk artikel news.elharamainwisata.com. Aturan le
 6. Media: Antara, Republika, Kompas, Detik, NU Online, MUI, Muhammadiyah, dll.
 
 Semua fakta, angka, dan kutipan harus dari sumber yang benar-benar dibaca. Tidak boleh mengarang.
+
+### Kebijakan topik: Haji Plus & Umroh diutamakan (perintah Juragan 19 Nov 2026, berlaku mulai 20 Nov 2026)
+> "Kurangi artikel haji reguler karena kita haji plus, dan banyakin berita haji plus dan umroh."
+
+1. **Prioritas topik**: (1) Haji Plus/Haji Khusus – PIHK, kuota khusus, pelunasan/BPIH khusus, regulasi Kemenhaj yang menyangkut haji khusus; (2) Umroh – regulasi Saudi/Kemenhaj, visa, Nusuk, Masjidil Haram/Nabawi, tips, kegiatan jemaah Elharamain.
+2. **Haji reguler maksimal 1 artikel per hari** (Ronde A + B + Cadangan), hanya kebijakan nasional besar yang juga berdampak ke calon jemaah haji plus/umroh.
+3. **Berita haji reguler tingkat daerah tidak diambil lagi** (Kemenhaj kabupaten/kota/Kanwil: manasik reguler, paspor/biometrik daerah, pelunasan reguler daerah, majelis taklim daerah, PLHUT daerah, sosialisasi/UMKM haji daerah, seremoni).
+4. Sisa slot diisi berita Haji Plus dan Umroh; bila sumber sepi, boleh artikel edukasi/explainer haji plus & umroh yang faktanya terverifikasi (topik berbeda dari seri "Edukasi Haji Khusus 2027", tag 2115).
+5. **Pemred** menahan (draft) artikel haji reguler daerah dan kelebihan artikel haji reguler di atas 1/hari. Seri "Edukasi Haji Khusus 2027" tetap berjalan sesuai jadwal.
 
 ### Sortir berita (perintah pemilik 2026-11-04)
 Elharamain News adalah media milik travel, **bukan media bebas**, jadi setiap calon berita disortir dulu. Yang lolos hanya berita yang:
