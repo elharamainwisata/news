@@ -1,0 +1,17 @@
+{
+ "post_id": 19071,
+ "verdict": "DIPERBAIKI",
+ "jenis": "LAIN",
+ "alasan_tahan": "",
+ "replacements": [
+  {"old": "Fajarini Puntodewi dalam keterangan di Jakarta, Selasa (17/11/2026)", "new": "Fajarini Puntodewi dalam keterangan pada Selasa (17/11/2026)"},
+  {"old": "Kantor Berita Antara memuat angka yang sama sehari kemudian.", "new": "Kantor Berita Antara memuat angka yang sama pada Rabu (18/11/2026)."},
+  {"old": "menyebut minat mitra dagang Saudi terhadap pangan dan perlengkapan hotel Indonesia cukup tinggi.", "new": "menilai antusiasme mitra dagang Saudi terhadap produk pangan dan perlengkapan hotel Indonesia sangat positif."},
+  {"old": "Menurut dia, pendampingan setelah pameran diperlukan agar hasil penjajakan berlanjut menjadi kemitraan dagang.", "new": "Bagas menilai pendampingan selepas pameran penting supaya hasil pertemuan dengan calon pembeli tidak berhenti di meja pameran."},
+  {"old": "Pameran ini berlangsung bersamaan dengan Konferensi Haji keenam di Jeddah. Di sela rangkaian itu, Senin (9/11/2026),", "new": "Sehari setelah paviliun dibuka, Senin (9/11/2026),"}
+ ],
+ "title_new": null,
+ "excerpt_new": null,
+ "gambar": "Foto utama pameran-makanan-siap-saji-jemaah-haji-jeddah.jpg (ilustrasi AI induk, 1600x900): pria Indonesia berbatik dan perempuan berhijab menjelaskan kemasan makanan siap saji kepada dua pria Saudi bergamis putih dan shemagh merah di stan pameran; realistis seperti foto wartawan, wajah Indonesia/Arab, tanpa teks/logo, cocok isi; caption 'Ilustrasi' -> LOLOS. Tidak ada gambar sisipan di final.html. Berkas paviliun-indonesia-hajj-expo-jeddah-2026.jpg (foto Kemendag penandatanganan di paviliun, kredit 'Foto: Kemendag') sudah diganti induk dan tidak dipakai; jangan diunggah.",
+ "catatan": "Fakta dicek ke InfoPublik 997754 (link, halaman berita yang benar, aktif) dan Antara 5861715: SAR20 juta = Rp97,35 M, potensi USD8,97 juta = Rp163,73 M, 8-11/11/2026, 8 perusahaan & sektor, BPKH Ltd/BSI/binaan Kemenhaj, peresmian bersama Konjen Sugiri Suparwan Minggu 8/11, USD8,72 juta = Rp159 M + MoU, SAR20 juta dengan Yayasan Waqaf Malaysia, USD258.950 = Rp4,73 M, nama/jabatan Puntodewi & Bagas Haryotejo, kedua kutipan langsung persis. Perbaikan: (1) 'keterangan di Jakarta, Selasa' menggabungkan dua sumber (InfoPublik: Selasa tanpa Jakarta; Antara: di Jakarta, Rabu) -> 'pada Selasa'; (2) 'Antara ... sehari kemudian' keliru, InfoPublik terbit Rabu 18/11 05:54 dan Antara Rabu 18/11 12:48 -> 'pada Rabu (18/11/2026)'; (3) 'minat cukup tinggi' tidak sesuai sumber ('sangat positif'); (4) parafrase pendampingan pascapameran terlalu dekat dengan kalimat InfoPublik -> ditulis ulang; (5) 'Konferensi Haji keenam' dan 'di sela rangkaian itu' tidak ada di sumber maupun post internal 17485 (pertemuan KUH Jeddah 9/11) -> diganti 'Sehari setelah paviliun dibuka'. Travel lain: nama peserta perusahaan (termasuk biro layanan perjalanan) tidak disebut -> aman; Yayasan Waqaf Malaysia bukan biro travel. Link keluar 1 (InfoPublik), 2 link internal (17485, Gorontalo 18920) aktif. Judul 100 karakter (batas atas), excerpt 159 karakter satu kalimat. Gaya: tanpa frasa terlarang, tanpa em-dash; CTA baku. Catatan redaksi: tema berdekatan dengan 18920 (terbit 19/11)."
+}

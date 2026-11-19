@@ -1,0 +1,17 @@
+{
+ "post_id": 19065,
+ "jenis": "LAIN",
+ "jenis_catatan": "Kegiatan Kanwil Kemenhaj Sulbar (sosialisasi 'Goes To Campus' + rencana prodi kampus daerah); bukan haji plus/umrah. Unsur umrah hanya satu kutipan imbauan.",
+ "verdict": "DITAHAN",
+ "alasan_tahan": "A2(a): inti berita kegiatan sosialisasi/seremoni Kanwil Kemenhaj tingkat provinsi (rilis kedua menyebutnya 'sosialisasi Kementerian Haji Goes To Campus', kategori rilis 'Daerah'), yakni kunjungan ke kampus daerah dan rencana prodi STAIN Majene yang belum berjadwal (MoU dan target buka prodi tidak ada). Imbauan umrah murah tanpa izin PPIU hanya satu kutipan sampingan dan sudah tercakup artikel lain (Kemenhaj Jambi soal calo, ulasan cara cek travel berizin yang ditautkan sendiri di artikel ini). Dua foto pun foto seremoni (meja panel, foto bersama). Di luar kebijakan topik haji plus & umrah. Bila Juragan/Bos tetap ingin terbit, artikel secara fakta bersih; terapkan replacement di bawah.",
+ "replacements": [
+  {
+   "old": "praktik kerja lapangan",
+   "new": "praktik kuliah lapangan"
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": null,
+ "gambar": "Foto utama kemenhaj-sulbar-goes-to-campus-stain-majene.jpg: kolase resmi Kanwil Kemenhaj Sulbar (logo kanwil, BerAKHLAK), atas lima pejabat berpeci di meja panel depan layar 'Kemenhaj Goes To Campus', bawah Kakanwil berjas krem berfoto dengan mahasiswa berkaus 'Goes To Campus'; sisi kiri-kanan latar buram. Cocok dengan rilis, sumber haji.go.id, caption 'Foto: Kementerian Haji dan Umrah RI' benar. LOLOS teknis. Sisipan mahasiswa-stain-majene-kemenhaj-goes-to-campus.jpg (media 19046): kolase pejabat dan mahasiswa berpose salam di depan layar, bawah foto bersama puluhan mahasiswa/dosen di aula; cocok, caption benar. LOLOS teknis. Keduanya foto seremoni, memperkuat alasan tahan.",
+ "catatan": "Fakta dicek ke API sulbar.haji.go.id kedua rilis (19/11/2026; link /berita/ HTTP 200): Kamis 19/11/2026 benar; Kakanwil Ahmad Barambangy, didampingi Kabag TU dan Kabid Bina dan Layanan Haji; disambut Ketua STAIN, pimpinan, dosen, ratusan mahasiswa; kampus kedua setelah MAN 2 Polewali Mandar; kutipan apresiasi/MoU Tri Dharma (ejaan dirapikan, isi sama), kutipan SDM (persis), kutipan Rp50 juta jalur cepat & umrah tanpa izin PPIU (persis, kalimat terakhir diparafrasekan), Abd. Gafur Kabag TU mewakili Ketua STAIN, wukuf/ihram kesetaraan, mahasiswi Ananda Mutiara soal menabung sejak muda - semua cocok. Satu-satunya koreksi: 'praktik kerja lapangan' -> sumber 'praktek kuliah lapangan (PKL)'. Tanpa nama travel lain. Link keluar 1 (rilis yang dikutip, aktif) + 2 link internal + CTA. Judul 100 karakter, excerpt 1 kalimat 155 karakter. Gaya bersih (tanpa frasa terlarang/em dash)."
+}

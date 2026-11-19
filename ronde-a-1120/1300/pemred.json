@@ -1,0 +1,20 @@
+{
+ "post_id": 19070,
+ "verdict": "DIPERBAIKI",
+ "jenis": "HAJI PLUS",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": "Tuti juga mengungkap beberapa kendala di lapangan. Pada minggu-minggu awal sempat muncul ketidaksesuaian nama dan nomor kepesertaan BPJS Kesehatan, yang menurut Kemenhaj kini sudah teratasi. Kemenhaj juga menerima laporan sejumlah kantor cabang Bank Syariah Indonesia (BSI) menolak memproses pelunasan jemaah cadangan.",
+   "new": "Tuti juga mengungkap beberapa kendala di lapangan. Data nama jemaah sempat tidak cocok dengan nomor kepesertaan BPJS Kesehatan di awal masa pelunasan, tetapi Kemenhaj menyatakan masalah itu sudah diatasi. Selain itu, ada laporan bahwa beberapa kantor cabang Bank Syariah Indonesia (BSI) tidak mau melayani pelunasan jemaah berstatus cadangan."
+  },
+  {
+   "old": "Untuk mempercepat serapan kuota, Kemenhaj membuka jalur bagi Penyelenggara Ibadah Haji Khusus (PIHK) untuk melaporkan hambatan teknis, baik lewat surat elektronik maupun langsung kepada tim Direktorat Layanan Haji Khusus.",
+   "new": "Penyelenggara Ibadah Haji Khusus (PIHK) yang menemui hambatan teknis dipersilakan melapor ke tim Direktorat Layanan Haji Khusus, lewat surel atau secara langsung, agar pengisian kuota bisa lebih cepat."
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": "Hingga hari ke-13, baru 2.990 orang atau sekitar 16 persen yang melunasi Bipih khusus 1448 H, sehingga Kemenhaj meminta jemaah cadangan segera melunasi.",
+ "gambar": "Foto utama calon-jemaah-pelunasan-biaya-haji-di-bank.jpg (ilustrasi AI induk): pasangan paruh baya berwajah Indonesia (pria berbatik dan peci hitam, perempuan berhijab krem) menyerahkan dokumen dan buku tabungan kepada petugas bank berhijab di meja layanan; realistis seperti foto, tanpa logo/teks terbaca, cocok dengan isi pelunasan Bipih di bank, caption 'Ilustrasi' -> LOLOS. Tidak ada gambar sisipan di final.html; berkas jemaah-haji-plus-elharamain-1447h-spanduk.jpg di folder tidak dipakai (sudah diganti induk) -> pastikan tidak terunggah/terpasang.",
+ "catatan": "Fakta dicek ke HIMPUH 5323 & 5320 (diambil ulang, HTTP 200) dan rilis haji.go.id 6 Nov (raw/rel6nov.json): Tuti Rianingrum Direktur Pelayanan Haji Khusus, 2.990 orang/~16% hari ke-13, sosialisasi KMHU 99/2026 daring HIMPUH Rabu (18/11/2026), dua kutipan langsung persis, kendala BPJS (sudah diatasi) & BSI cabang menolak cadangan (miskomunikasi), jalur lapor PIHK; tahap 1 30 hari 6 Nov-5 Des 2026, lansia >=65 th per 10 April 2027 & daftar >=2 th, tahap 2 10-16 Des 2026 beserta golongannya, email cadangan.hajikhusus@haji.go.id -> semua cocok. 'Tahun depan' di lead benar (musim 1448 H/2027 M; sumber menulis 'tahun ini'). Catatan redaktur: rilis 6 Nov menyebut cadangan diambil di tahap akhir s.d. 7 Jan 2027, sedangkan Tuti (18/11) menyebut cadangan tidak dimunculkan lagi setelah tahap 1; naskah mengikuti Tuti dengan atribusi. Kalimat 'Kemenhaj belum merilis angka pelunasan terbaru setelah hari ke-13' tidak bisa diverifikasi penuh (wajar sebagai paragraf kehati-hatian). Perbaikan D: dua paragraf (kendala BPJS/BSI dan jalur lapor PIHK) hampir menyalin HIMPUH 5323 -> ditulis ulang. Excerpt lama dua kalimat -> satu kalimat. Link keluar 1 (himpuh 5323, halaman yang dikutip, aktif); link internal kalender 18998 & elharamainwisata.com/paket-haji-plus/ aktif (200). Judul 98 karakter OK. A3: tanpa nama travel/PIHK, tidak dobel dengan seri 2115 (sudut realisasi & kendala). Tanpa nama travel lain, tanpa frasa gaya AI terlarang."
+}
