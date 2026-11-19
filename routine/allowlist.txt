@@ -32,6 +32,8 @@ haj.gov.sa
 *.haj.gov.sa
 nusuk.sa
 *.nusuk.sa
+himpuh.or.id
+*.himpuh.or.id
 spa.gov.sa
 *.spa.gov.sa
 saudigazette.com.sa

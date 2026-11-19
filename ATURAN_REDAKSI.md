@@ -36,6 +36,11 @@ Semua fakta, angka, dan kutipan harus dari sumber yang benar-benar dibaca. Tidak
 3. **Berita haji reguler tingkat daerah tidak diambil lagi** (Kemenhaj kabupaten/kota/Kanwil: manasik reguler, paspor/biometrik daerah, pelunasan reguler daerah, majelis taklim daerah, PLHUT daerah, sosialisasi/UMKM haji daerah, seremoni).
 4. Sisa slot diisi berita Haji Plus dan Umroh; bila sumber sepi, boleh artikel edukasi/explainer haji plus & umroh yang faktanya terverifikasi (topik berbeda dari seri "Edukasi Haji Khusus 2027", tag 2115).
 5. **Pemred** menahan (draft) artikel haji reguler daerah dan kelebihan artikel haji reguler di atas 1/hari. Seri "Edukasi Haji Khusus 2027" tetap berjalan sesuai jadwal.
+6. **Tips Nusuk & HIMPUH** (perintah Juragan 19 Nov 2026 15:50: "isi saja tips-tips dari Nusuk dan HIMPUH") – sumber konten tips/panduan umroh & haji plus untuk mengisi slot Haji Plus & Umroh, terutama saat berita sepi.
+   - **Nusuk** (platform resmi Kementerian Haji dan Umrah Arab Saudi): https://www.nusuk.sa (panduan layanan `/all-services`, `/service-details/<id>`), https://umrah.nusuk.sa, https://hajj.nusuk.sa, aplikasi Nusuk, Instagram @mynusuk, X Nusuk. www.nusuk.sa menolak bot (HTTP 406) – jangan diakali; pakai halaman yang terbaca atau liputan resmi (SPA, haj.gov.sa, Arab News).
+   - **HIMPUH** (Himpunan Penyelenggara Umrah dan Haji Khusus): https://himpuh.or.id (artikel `https://himpuh.or.id/blog/detail/<id>/<slug>`). Ambil hanya tips/panduan & info regulasi; tanpa nama travel/anggota, kasus hukum, polemik, promosi.
+   - Bentuk: artikel tips praktis (izin Raudhah via Nusuk, visa & aturan umrah terbaru, miqat, tawaf, kesehatan, perlengkapan, adab) **ditulis ulang dengan bahasa sendiri**, sebut sumber + **1 link keluar** ke halaman resmi. Fakta/aturan **wajib dicek tanggal berlakunya** (aturan Saudi sering berubah), tulis "per <bulan tahun>"; bila tanggal tidak jelas/bertentangan, gugurkan.
+   - Topik tidak boleh dobel dengan artikel 14 hari terakhir, seri "Edukasi Haji Khusus 2027" (tag 2115), dan layanan Nusuk yang sudah ditulis.
 
 ### Sortir berita (perintah pemilik 2026-11-04)
 Elharamain News adalah media milik travel, **bukan media bebas**, jadi setiap calon berita disortir dulu. Yang lolos hanya berita yang:
