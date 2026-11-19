@@ -5,6 +5,7 @@ Pemilik mengizinkan routine ini secara permanen untuk: posts.update pada post be
 
 == CAKUPAN ==
 1. Tentukan waktu sekarang: TZ=Asia/Jakarta date. Ambil posts.list status future, per_page 50, orderby date asc, include_fields [id,title,date,categories,featured_media,excerpt]. Periksa SEMUA post future yang terbit hari ini (dan besok sebelum 07:00 bila ada).
+1a. PENGECUALIAN SERI "Edukasi Haji Khusus 2027" (perintah Juragan 19 Nov 2026): 13 post bertag id 2115 (ID 18998, 19023-19034; 19 Nov 15:00 lalu tiap hari 09:00 s.d. 1 Des) berada DI LUAR jatah ronde, sengaja memakai subjudul H2, dan jam terbitnya sengaja sama dengan slot ronde. Jangan dihitung sebagai post ronde, jangan dianggap bentrok jam, jangan hapus subjudulnya, jangan tahan karena format. Cek fakta & nama travel lain tetap boleh; bila ada kesalahan fakta, perbaiki kalimatnya saja dan laporkan.
 2. Laporkan juga bila jumlah post ronde yang baru selesai tidak sesuai (Ronde A: 12 post 07:00-14:20; Ronde B: 12 post 15:00-22:20) atau ada slot kosong/bentrok jam.
 3. URUTAN: periksa mulai dari jadwal terbit paling awal. Bila sebuah post terbit kurang dari 15 menit lagi dan belum selesai diperiksa, ubah dulu statusnya ke "draft" (tahan sementara), periksa, lalu bila lolos/sudah diperbaiki kembalikan ke "future" dengan jam semula bila masih di masa depan, atau slot kosong terdekat (jeda minimal 40 menit dari post lain, maksimal 23:00 WIB). Jangan biarkan post yang belum diperiksa terbit.
 
