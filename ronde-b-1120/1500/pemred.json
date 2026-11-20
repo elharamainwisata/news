@@ -1,0 +1,16 @@
+{
+ "post_id": 19113,
+ "verdict": "DIPERBAIKI",
+ "jenis": "UMROH",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": "Cocokkan rincian itu dengan izin PPIU penyelenggara, simpan",
+   "new": "Pastikan pula izin PPIU penyelenggara masih berlaku, simpan"
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": null,
+ "gambar": "Foto utama: tujuh orang (petugas berbatik, satu bermasker, satu berompi berlogo Kemenhaj) berdiri berjajar di ruang kantor bercat putih, kalender meja di depan; tanpa logo/nama travel terbaca. Thumbnail resmi rilis kalsel.haji.go.id, 1280x720, caption 'Foto: Kementerian Haji dan Umrah RI' sesuai. LOLOS.",
+ "catatan": "A2: berita umrah daerah tetapi inti = perlindungan jemaah umrah (cek tiket & hotel sebelum bayar) dengan penutup praktis berguna nasional; bukan haji reguler, bukan sekadar seremoni -> boleh. Tanpa nama PPIU/travel (rilis Kepri yang memuat nama travel sengaja tidak disebut/ditautkan). Fakta dicek ke API kalsel: tanggal Sabtu 14/11 & Senin 16/11/2026, seluruh pegawai, fokus legalitas + tiket + akomodasi, risiko keterlambatan/telantar, banyak biro, agenda berkelanjutan, tidak ada jumlah PPIU/hasil -> cocok. 5 Pasti Umrah cocok dengan rilis Kanwil Kepri (prov_kepri.json). Menhaj di T2F Jumat 6/11 & kutipan tiket/akomodasi cocok dengan post internal. Klaim Nusuk/hotel berizin Kemenpar Saudi/penundaan-penolakan visa cocok dengan post internal (detikHikmah Juni 2025), tidak diverifikasi ulang ke detik. Hotline 0811 888 5888 cocok dengan post 18305. Link keluar 1 (rilis kalsel, HTTP 200, halaman yang dikutip); 2 link internal 200. Judul 92 kar, excerpt 155 kar 1 kalimat. Gaya bersih; perbaikan hanya kalimat penutup yang tidak logis (mencocokkan tiket/hotel dengan izin PPIU)."
+}

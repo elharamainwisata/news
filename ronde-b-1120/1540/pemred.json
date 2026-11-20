@@ -1,0 +1,16 @@
+{
+ "post_id": 19114,
+ "verdict": "DIPERBAIKI",
+ "jenis": "UMROH",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": "Dengan alur itu, dokumentasi aduan lebih tertata dan setiap tindak lanjut punya kejelasan serta pertanggungjawaban.",
+   "new": "Setiap tahap tercatat sehingga pelapor dan petugas bisa melihat sampai di mana aduan ditangani dan siapa yang bertanggung jawab."
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": "Kanwil Kemenhaj Kaltim mempraktikkan aplikasi pengaduan SIGAP, yang memproses aduan jemaah haji dan umrah lewat lima tahap, dari penerimaan hingga mediasi.",
+ "gambar": "Foto utama: tiga pria berbatik duduk berdampingan menatap laptop, satu mengetik, di ruang pertemuan berkursi lipat; orang berdiri di belakang terpotong (latar, bukan subjek), kepala & tangan subjek utuh. Thumbnail resmi rilis kaltim.haji.go.id, crop 16:9 1600x900, caption 'Foto: Kementerian Haji dan Umrah RI' sesuai. LOLOS.",
+ "catatan": "A2: bukan haji reguler; inti = kanal pengaduan & perlindungan jemaah umrah/haji khusus, ditambah konteks nasional yang belum pernah ditulis (Permenhaj 3/2026, kutipan Rudi, 31 PPNS di pusat+13 provinsi, target 1 PPNS/provinsi) dan panduan bukti aduan -> layak, walau lead-nya kegiatan pelatihan kanwil. Risiko dobel dengan 17169 (7 Nov: lima tahap, empat tujuan, bandara paperless) diakui; paragraf itu ringkas dan memberi link internal, jadi tidak ditahan. Bila Juragan menilai dobel, alternatifnya TAHAN. Fakta dicek ke API kaltim (Selasa 17/11/2026, Samarinda, Ditjen Pengendalian, 5 tahap, 4 tujuan, paperless bandara Tanah Air/Saudi) dan API pusat 10 Nov (jabatan Rudi Nurudin Ambary Direktur Pengawasan Haji Reguler, Selasa 10/11/2026 Jakarta, judul Permenhaj 3/2026 persis, kutipan Rudi persis, 31 PPNS/13 provinsi, target minimal 1 PPNS/provinsi) -> cocok. Hotline 0811 888 5888 cocok dengan post 18305. Link keluar 1 (rilis kaltim, 200); link internal 200. Tanpa nama travel. Perbaikan: kalimat paragraf 3 hampir menyalin rilis (D) ditulis ulang; excerpt semula dua kalimat -> satu kalimat 155 kar. Judul 97 kar."
+}

@@ -1,0 +1,28 @@
+{
+ "post_id": 19116,
+ "jenis": "HAJI PLUS",
+ "verdict": "DIPERBAIKI",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": "Calon jemaah haji khusus yang sedang melunasi Biaya Perjalanan Ibadah Haji (Bipih) Khusus 1448 H/2027 M tidak hanya berurusan dengan setoran dolar. Badan Pengelola Keuangan Haji (BPKH) menegaskan, dana yang mereka setorkan juga menghasilkan nilai manfaat yang menjadi hak penuh jemaah dan ikut dikembalikan bersama setoran pokok.",
+   "new": "Setoran dolar calon jemaah haji khusus yang kini melunasi Biaya Perjalanan Ibadah Haji (Bipih) Khusus 1448 H/2027 M menghasilkan nilai manfaat selama masa tunggu. Badan Pengelola Keuangan Haji (BPKH) menegaskan, nilai manfaat itu hak penuh jemaah dan ikut dikembalikan bersama setoran pokok."
+  },
+  {
+   "old": "<a href=\"https://bpkh.go.id/publikasi/siaran-pers/tegakkan-hak-jemaah-bpkh-pastikan-pengembalian-dana-haji-khusus-plus-nilai-manfaat\">siaran pers Badan Pengelola Keuangan Haji (BPKH)</a> yang diberitakan Kompas.com dan detikFinance",
+   "new": "siaran pers BPKH yang diberitakan <a href=\"https://money.kompas.com/read/2026/01/09/184848126/dana-haji-khusus-dikembalikan-nilai-manfaat-ikut-diperhitungkan\">Kompas.com</a> dan detikFinance"
+  },
+  {
+   "old": "totalnya sebesar 8.000 dollar AS, tetapi juga",
+   "new": "totalnya sebesar 8.000 dollar AS atau setara Rp 132.000.000, tetapi juga"
+  },
+  {
+   "old": "kata Anggota Badan Pelaksana BPKH Amri Yusuf.</p>",
+   "new": "kata Anggota Badan Pelaksana BPKH Amri Yusuf saat penyaluran Tahap I itu, seperti dikutip Antara.</p>"
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": null,
+ "gambar": "Foto utama (19101): kipas lembaran uang dolar AS pecahan 5 (Lincoln), 20, dan 50 di atas meja marmer putih, tanpa orang/teks tambahan; Pexels 4386475, tanpa caption - LOLOS (cocok untuk explainer setoran & nilai manfaat dalam dolar, berita netral). Tanpa sisipan.",
+ "catatan": "Fakta dicek ke Kompas 9/1/2026 & detik 10/1/2026 (rilis BPKH): NMVA kumulatif 685,45 dolar sejak 2018, rata-rata 268,65 dolar, pelunasan berpeluang lebih besar, BPKH Apps, Fadlul Imansyah (Kepala Badan Pelaksana) - cocok. Kompas cahaya 9/1: Harun Al Rasyid Dirjen Pengendalian Penyelenggaraan Haji dan Umrah, setoran awal 4.000 & total 8.000 dolar, 8.685,5 dolar, kutipan 'Nilai manfaat ini adalah hak jamaah...' persis, PIHK wajib transparan - cocok. Antara/CNN Agustus: Tahap I 13,8 juta dolar, rata-rata 61,61, beda karena masa tunggu, DPR, kutipan Amri persis Antara - cocok. Kompas 6/11: pelunasan 6 Nov-5 Des, sisa kuota 10-16 Des 2026 - cocok. Perbaikan: (1) kutipan Fadlul dipotong tanpa tanda ('atau setara Rp 132.000.000' hilang) -> dikembalikan persis versi Kompas; (2) link bpkh.go.id 403 untuk akses otomatis, halaman tidak bisa diverifikasi -> link dipindah ke artikel Kompas.com yang benar-benar dikutip (200), tetap 1 link keluar; (3) pembuka pola 'tidak hanya...' ditulis ulang; (4) kutipan Amri (dari Agustus) diberi atribusi Antara agar tidak terbaca dari rilis Januari. Internal link 2 aktif (200). Judul 96, excerpt 155. Tanpa nama PIHK/travel. Angka NMVA posisi Januari 2026 sudah diberi kalimat kehati-hatian."
+}

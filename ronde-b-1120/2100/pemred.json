@@ -1,0 +1,16 @@
+{
+ "post_id": 19120,
+ "verdict": "DIPERBAIKI",
+ "jenis": "UMROH",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": "Selasa (10/11/2026), sebagaimana disampaikan dalam <a href=",
+   "new": "Selasa (10/11/2026), sebagaimana tercantum dalam <a href="
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": "Kemenhaj mendata ulang sekitar 3.600 PPIU yang separuhnya tak aktif, sementara izin travel umrah baru belum terbit dan ditargetkan dibuka awal 2027.",
+ "gambar": "Foto utama pasangan-periksa-dokumen-izin-travel-umrah.jpg (media 19107): ilustrasi fotorealistik pasangan paruh baya berwajah Indonesia (pria berpeci hitam & batik, wanita berjilbab merah muda) memeriksa lembaran dokumen di meja ruang tamu, pria memegang pena; tanpa teks terbaca, logo, atau unsur Elharamain/Haramain; tidak tampak render; cocok dengan berita sensitif PPIU, caption 'Ilustrasi'. LOLOS. Sisipan wamenhaj-dahnil-pembinaan-ppns-jakarta.jpg (media 19108): Dahnil Anzar Simanjuntak berpeci, berkacamata bulat, batik hijau, berbicara di podium dengan bendera Kementerian Haji dan Umrah RI; identitas terbukti dari foto kedua rilis yang sama (layar bertuliskan nama & jabatan Wamenhaj), kepala/tangan utuh, caption 'Foto: Kementerian Haji dan Umrah RI'. LOLOS.",
+ "catatan": "Rilis haji.go.id (API, terbit 11/11/2026) dicek: Selasa (10/11/2026) di Jakarta, 3.600-an PPIU 50% tak aktif, PPNS 3 per kabupaten, revitalisasi Ditjen Pengendalian, target rampung bulan ini & izin dibuka awal tahun depan; tiga kutipan langsung persis. Antara (11/11): PPIU tanpa izin, belum buka pembayaran perizinan, target akhir Nov 2026 & awal 2027 - cocok. Republika (11/11): kegiatan Pembinaan PPNS di Jakarta Pusat Selasa malam - cocok. Tanpa nama travel; nada tenang dengan imbauan. Link keluar 1 (rilis haji.go.id, 200, benar); 2 link internal 200. Judul 96 kar. Perbaikan: excerpt lama dua kalimat dan menyatakan 2027 sebagai kepastian -> satu kalimat 148 kar dengan 'ditargetkan'; 'disampaikan ... disampaikan' berulang di paragraf 2 dirapikan."
+}

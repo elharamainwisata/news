@@ -1,0 +1,36 @@
+{
+ "post_id": 19117,
+ "jenis": "LAIN",
+ "verdict": "DIPERBAIKI",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": "Menurut tanggal pada berkas dokumentasi, rangkaian itu berlangsung pada 17 dan 18 Juni 2026.",
+   "new": "Rangkaian itu berlangsung pada pertengahan Juni 2026."
+  },
+  {
+   "old": "sedangkan jemaah perempuan memakai gamis dan kerudung hitam.",
+   "new": "sedangkan jemaah perempuan memakai gamis dan kerudung, sebagian besar berwarna hitam."
+  },
+  {
+   "old": "Kawasan miqat ini kini dilengkapi berbagai fasilitas.",
+   "new": "Miqat Dzulhulaifah kini dilengkapi berbagai fasilitas."
+  },
+  {
+   "old": "Dokumentasi malam hari memperlihatkan jemaah berdiri di pelataran tawaf yang terang,",
+   "new": "Pada malam hari, jemaah berdiri di pelataran tawaf yang terang,"
+  },
+  {
+   "old": "jemaah laki-laki bergantian memotong sebagian rambut rekannya dengan gunting kecil, sementara rambut yang terpotong ditampung di tempat sampah berplastik biru.",
+   "new": "jemaah laki-laki bergantian memotong sebagian rambut rekannya dengan gunting kecil."
+  },
+  {
+   "old": "Selain rangkaian umrah, album grup ini juga merekam kegiatan lain selama di Tanah Suci, antara lain berfoto di pelataran",
+   "new": "Di luar rangkaian umrah, rombongan juga mengisi waktu di Tanah Suci, antara lain berfoto di pelataran"
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": null,
+ "gambar": "Utama (19102, stasiun): puluhan jemaah berihram/bergamis membentangkan spanduk Elharamain Wisata label Bronze di depan gedung stasiun Haramain berkisi geometris - LOLOS (tanggal grup di spanduk hanya terbaca kecil di foto, tidak dikutip di teks). Sisipan miqat (19103): sekitar 20 jemaah laki-laki berihram berjajar di pelataran masjid berpohon kurma - LOLOS. Sisipan kereta (19104): dua jemaah berihram duduk di kursi kereta bermotif geometris, acungkan jempol, satu pegang tiket ECONOMY - LOLOS (agak dekat ke wajah tetapi candid, positif, setengah badan). Semua foto dari Drive album 14 JUNI 2026 BRONZE, caption 'Foto: Dokumentasi Elharamain Wisata' sah (foto peristiwa yang diberitakan). Blok foto tahalul sudah tidak ada di final.html (dilepas induk) - benar.",
+ "catatan": "SPA N2725587 dicek via portalapi: 12/11/2026, Al Madinah Region Development Authority Silver Winner ICXA 2026 untuk proyek pengalaman pengunjung Miqat Dhu Al-Hulayfah, kereta golf & kursi roda gratis - cocok; link resmi aktif, 1-satunya link keluar (2 link internal). Detail teks dicocokkan ke foto Drive (raw/f*.jpg, contact sheet): papan 'Station Entrance', jemaah perempuan berpasangan di gerbong, malam di pelataran tawaf dengan menara jam hijau, duduk satu rombongan, tahalul, payung Nabawi, kereta gantung, taman mawar - ada. Perbaikan: hapus tanggal dari nama berkas WhatsApp + frasa meta ('menurut tanggal pada berkas dokumentasi', 'dokumentasi memperlihatkan', 'album merekam'); 'kawasan miqat ini' diganti agar tidak memastikan lokasi foto = Bir Ali (identitas masjid hanya disimpulkan); detail tempat sampah biru dihapus (foto tahalul dilepas karena hal itu); pakaian perempuan tidak semua hitam. Tanpa tanggal keberangkatan, nama jemaah, kutipan, angka, maskapai, hotel. Judul 99 kar, excerpt 159 kar. Tidak bisa dipastikan: urutan miqat->stasiun (hanya dari urutan berkas) dan identitas Bir Ali."
+}
