@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-20T22:20:00",
+ "category": 32,
+ "title": "Asuransi Perjalanan Jemaah Umrah: Cek Isi Polis, Wilayah Pertanggungan, hingga Pengecualian Penyakit",
+ "excerpt": "HIMPUH mengingatkan jemaah umrah membaca isi polis asuransi perjalanan, dari batas biaya pengobatan, wilayah transit, hingga pengecualian penyakit bawaan.",
+ "tags": [
+  34,
+  521,
+  342,
+  687,
+  1478
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1120/2220/utama_asuransi_perjalanan_paspor.jpg",
+   "alt": "Tangan jemaah berjilbab memegang paspor Republik Indonesia di terminal bandara",
+   "caption": "",
+   "seen": "Tangan seorang perempuan berjilbab abu-abu mengangkat paspor hijau bertuliskan 'Republik Indonesia, Paspor' dengan lambang Garuda; latar terminal bandara buram dengan papan petunjuk kuning dan biru, tanpa wajah dan tanpa logo merek.",
+   "evidence": "Pexels 39075595 'A person holding an Indonesian passport at a busy airport terminal in Yogyakarta, Indonesia' (stok gratis tanpa kredit; crop 16:9 y80-980)",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1120/2220/sisipan_paspor_koper.jpg",
+   "alt": "Paspor Indonesia diselipkan di pegangan koper hijau toska di area bandara",
+   "caption": "",
+   "seen": "Paspor Republik Indonesia berdiri di pegangan koper hijau toska; di latar buram seorang pelancong menarik koper merah di selasar bandara bergaya lengkung putih, wajah tidak terlihat.",
+   "evidence": "Pexels 39075597 'Traveler arrives at Yogyakarta airport, Indonesia with luggage and Indonesian passport in focus' (stok gratis tanpa kredit; crop 16:9 y120-1020). Ditaruh dekat paragraf bagasi/wilayah pertanggungan.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 466,
+ "sources": [
+  "https://himpuh.or.id/blog/detail/5235/pentingnya-proteksi-asuransi-perjalanan-bagi-jemaah-haji-dan-umrah (11 Nov 2026, link keluar satu-satunya)",
+  "haji.go.id rilis 22 Okt 2026 'Kemenhaj Perkuat Perlindungan Jemaah Umrah, Antisipasi Situasi Darurat dan Force Majeure' (disebut nama, sudah ditulis 16102 sebagai link internal)",
+  "haji.go.id rilis 10 Jul 2026 'Ditjen PE2HU dan AASI Perkuat Sinergi Pengembangan Ekosistem Asuransi Syariah Perjalanan Umrah' (disebut nama)"
+ ],
+ "haji_go_id": "pusat (pendukung, tanpa link): https://haji.go.id/berita/kemenhaj-perkuat-perlindungan-jemaah-umrah-antisipasi-situasi-darurat-dan-force-majeure-1792664529456 ; https://haji.go.id/berita/ditjen-pe2hu-dan-aasi-perkuat-sinergi-pengembangan-ekosistem-asuransi-syariah-perjalanan-umrah-1783671189816",
+ "notes": "TIPS HIMPUH / UMROH (Lifestyle: keuangan syariah & proteksi). Beda sudut dari 16102/16563 (berita force majeure Okt) dan 14487 (ASPU Jul): ini panduan praktis membaca polis. Bagian asuransi haji reguler (PMHU 3/2025) di sumber sengaja tidak dipakai (kebijakan haji reguler). Tak ada nama travel/perusahaan asuransi. Calon digugurkan: HIMPUH 5199 tips nyaman di pesawat (sumber 'berbagai sumber', tak bertanggal jelas); HIMPUH 5220 barang bawaan (fokus Armuzna haji, bukan umrah); HIMPUH 5291 tips memilih maskapai (dekat dengan artikel Nusuk tiket pesawat 17904 dan imbauan penerbangan langsung yang tak kami verifikasi); HIMPUH 5273/5149 kuliner (menyebut merek restoran, rawan promosi)."
+}

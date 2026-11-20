@@ -1,0 +1,13 @@
+NUSUK Ronde B Jumat 20 Nov 2026 - slot grid 16:20 dan 19:00 (serta slot tengah opsional 16:00/18:40/21:20): KOSONG (0 artikel)
+Dicek 20 Nov 2026 pukul 11:03-11:15 WIB oleh subagen S5.
+
+Alasan: tidak ada kabar Nusuk BARU (setelah 20 Nov 04:30 WIB, juga tidak ada sejak 19 Nov 11:00 WIB) dari sumber resmi/kredibel yang terbaca. Tidak mengarang.
+
+Yang dicek:
+1. SPA portalapi https://portalapi.spa.gov.sa/api/v1/news?page=1..14&locale=en (rilis 17 Nov 23:33 WIB s.d. 20 Nov 10:26 WIB). Semua 19 rilis sejak 20 Nov 04:28 WIB (N2732019 s.d. N2732117) diunduh detailnya (isi lengkap) lalu dicari kata nusuk/umrah/pilgrim/grand mosque/prophet: NOL hasil. Isinya didominasi serangan Houthi ke Riyadh dan kecaman negara lain, diplomasi, pendidikan, olahraga, cuaca. Daftar berbahasa Arab tidak tersedia lewat portalapi (locale=ar mengembalikan data kosong).
+2. Arab News RSS https://www.arabnews.com/rss.xml dan halaman https://www.arabnews.com/saudi-arabia: tidak ada judul memuat Nusuk/Umrah/Hajj.
+3. haj.gov.sa Ministry News (https://haj.gov.sa/en/Media-Center/Ministry-News): halaman memuat "Last updated 15/11/2026", daftar berita dimuat JavaScript sehingga tidak terbaca; tidak ada pengumuman baru yang terlihat.
+4. WebSearch "Nusuk new service announced November 2026" (arabnews, spa.gov.sa, haj.gov.sa, saudigazette, antaranews, republika, detik, kompas): hanya kabar lama (Nusuk Umrah SPA N2381933 tahun 2025, fase preferensi paket Nusuk Hajj, mode tanpa kuota internet, Nusuk Masar) - semuanya bukan kabar baru, sebagian sudah ditulis.
+5. nusuk.sa: TIDAK dibuka (memblokir bot; sesuai BRIEF tidak diakali).
+
+Saran: slot 16:20 dan 19:00 diisi induk dengan artikel cadangan non-Nusuk atau dibiarkan kosong; slot tengah Nusuk Ronde B tidak diisi.

@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-20T21:00:00",
+ "category": 23,
+ "title": "Pendataan Ulang 3.600 PPIU Ditarget Rampung November, Kemenhaj Belum Buka Izin Travel Umrah Baru",
+ "excerpt": "Kemenhaj mendata ulang 3.600 PPIU, separuhnya tak aktif. Izin travel umrah baru belum diterbitkan dan baru dibuka lagi awal 2027, jemaah diminta waspada.",
+ "tags": [
+  34,
+  688,
+  2037,
+  645,
+  46
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1120/2100/pasangan-periksa-dokumen-izin-travel-umrah.jpg",
+   "alt": "Tangan calon jemaah memeriksa dokumen izin dan kuitansi biro perjalanan umrah di meja",
+   "caption": "Ilustrasi",
+   "seen": "Pasangan paruh baya Indonesia (pria berpeci & batik, wanita berjilbab merah muda) memeriksa dokumen dan kuitansi di meja ruang tamu; tulisan tak terbaca, tanpa logo.",
+   "evidence": "Berita bernuansa penipuan/pencabutan izin = sensitif -> wajib ilustrasi AI (aturan GAMBAR A).",
+   "ai_prompt": "Ultra-realistic documentary news photograph, shot on full-frame DSLR with 35mm lens, natural available light from a window, realistic skin texture with pores and fine wrinkles, natural imperfect expressions, candid unposed moment. Inside a modest home living room in Indonesia, a middle-aged Indonesian Muslim couple with tan brown skin (Southeast Asian), the woman in a simple hijab and the man in a batik shirt and black peci, sit at a wooden table carefully checking a printed travel agency license document, a stack of payment receipts and a smartphone; the man holds a pen, the woman points at the paper, cautious and thoughtful mood. Authentic everyday clothing and setting, slight film grain, shallow depth of field focused on hands and papers, true-to-life colors, not CGI, not 3D render, not painting, not illustration, not plastic or airbrushed skin. No readable text on papers or screen, no logos, no brand names, no flags, no weapons, all people fictional (not real public figures), modest Muslim clothing, no Kaaba, no Masjid al-Haram, no Masjid an-Nabawi, no mosque, no Caucasian, no Western-looking people. 16:9."
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1120/2100/wamenhaj-dahnil-pembinaan-ppns-jakarta.jpg",
+   "alt": "Wakil Menteri Haji dan Umrah Dahnil Anzar Simanjuntak berbicara di podium dengan latar bendera Kementerian Haji dan Umrah",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Dahnil Anzar Simanjuntak (peci hitam, kacamata bulat, batik hijau-cokelat) berbicara sambil menunjuk di podium dengan mikrofon; di kanan bendera berlogo Kementerian Haji dan Umrah RI, di kiri latar layar bergambar menara jam. Crop 16:9 1280x720, kepala & tangan utuh.",
+   "evidence": "Thumbnail resmi rilis haji.go.id 'Kemenhaj Perketat Pengawasan Haji dan Umrah ... Bandit Agama' (11/11/2026): https://haji.go.id/uploads/general/49eb2821-18ce-4d07-af69-d8c488515793-1794362140004.jpeg ; foto kedua di rilis yang sama memperlihatkan layar bertuliskan nama Dahnil Anzar Simanjuntak, Wakil Menteri Haji dan Umrah (identitas terbukti). Belum dipakai post 17548 (17548 memakai foto peserta koordinasi).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": true,
+ "word_count": 493,
+ "sources": [
+  "https://haji.go.id/berita/kemenhaj-perketat-pengawasan-haji-dan-umrah-langkah-strategis-berantas-penipuan-dan-bandit-agama-1794362140017",
+  "https://www.antaranews.com/berita/5846083/kemenhaj-tertibkan-3600-ppiu-50-persen-diantaranya-tidak-aktif",
+  "https://khazanah.republika.co.id/berita/tocbsz320/kemenhaj-moratorium-izin-travel-umrah-sebut-50-persen-travel-tak-aktif"
+ ],
+ "haji_go_id": "pusat https://haji.go.id/berita/kemenhaj-perketat-pengawasan-haji-dan-umrah-langkah-strategis-berantas-penipuan-dan-bandit-agama-1794362140017 (referenceUrl kosong; link dicek HTTP 200)",
+ "notes": "UMROH. Cadangan S2 (rilis pusat 11 Nov). Sudut BARU: pendataan ulang ~3.600 PPIU (50% tak aktif), moratorium izin PPIU baru, target rampung akhir Nov 2026, izin dibuka awal 2027, waspada calo izin. Beda dari 17548 (PPNS & 70% korban, peristiwa sama 10/11 tapi sudut PPNS; di sini PPNS hanya 1 paragraf konteks + link internal), 17662 (Kemendes), 18794 (Itjen pelunasan), 19061 (BPW vs izin PPIU Kepri). Tanpa nama travel. Sensitif -> foto utama AI (ai_prompt), foto Kemenhaj sebagai sisipan %%IMG2%%. Gugur: (1) stroller bayi Masjidil Haram (SPA N2730885, detik 19/11) - foto SPA hanya placeholder logo, tak ada foto stroller; juga wilayah MEDIA ARAB S5; (2) gelang pengaman/teknologi Nabawi/Ufuq/siaga hujan Makkah = berita Saudi (S5) dan sebagian sudah ditulis (18533, 18471); (3) Kemenhaj jemput bola pelunasan 2027 (Antara/detik 19/11) = haji reguler; (4) Kampung Haji Danantara = 5 Nov, bukan 48 jam; (5) pelemahan rupiah/paket umrah = spekulatif & sensitif harga; (6) Kemenhaj dorong PIHK-PPIU patuhi PMHU 2/2026 (pusat 12/11) = sudah dirujuk 19061."
+}

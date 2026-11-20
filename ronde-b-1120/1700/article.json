@@ -1,0 +1,36 @@
+{
+ "slot": "2026-11-20T17:00:00",
+ "category": 25,
+ "title": "Museum Laut Merah di Jeddah Historis Simpan 1.000 Artefak, Ada Kisah Perjalanan Haji lewat Laut",
+ "excerpt": "Museum Laut Merah di Gedung Bab Al-Bunt, Jeddah, memajang lebih dari 1.000 artefak di 23 galeri, termasuk kisah jemaah haji yang dahulu datang lewat laut.",
+ "tags": [34, 233, 71, 1162, 1550],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1120/1700/museum-laut-merah-jeddah-ruang-pamer.jpg",
+   "alt": "Ruang pamer Museum Laut Merah di Gedung Bab Al-Bunt Jeddah dengan replika astrolab besar dan pengunjung melihat vitrin",
+   "caption": "",
+   "seen": "Foto dari lantai atas ke aula berlengkung putih: replika astrolab raksasa tergantung di atas lorong, tiga pengunjung pria mengamati vitrin berisi benda kuno di tengah, pengunjung lain (pria bergamis, perempuan berabaya) di lorong kanan, layar interaktif biru dan panel bertulisan Arab-Inggris 'Biodiversity'; logo SPA kiri atas terpotong, kredit 'Foto: SPA' kecil kanan bawah.",
+   "evidence": "SPA N2662232 (26/08/2026) 'Red Sea Museum Blends Science, Art, and Cinema' (rilis tentang Museum Laut Merah, Bab Al-Bunt), media_images M10675143.jpeg; rilis sumber N2731662 hanya berisi gambar logo SPA sehingga dipakai foto SPA dari rilis museum yang sama; crop 0,138,1600,1038 + tools/spa_credit.py",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1120/1700/museum-laut-merah-alat-navigasi.jpg",
+   "alt": "Kompas dan alat penunjuk arah kuno dari kuningan dan kayu di vitrin Museum Laut Merah Jeddah",
+   "caption": "",
+   "seen": "Vitrin kaca putih berisi deretan benda kuno: kompas saku kuningan bertutup terbuka, kompas berkotak kayu berhias, dan pelat logam/kayu berjarum di atas kaki kecil, dengan papan label bertulisan Arab-Inggris di kiri bawah; tanpa logo, kredit 'Foto: SPA' kanan bawah.",
+   "evidence": "SPA N2662232 media_images M10675142.jpeg (caption rilis 'Red Sea Museum Blends Science, Art, and Cinema'); crop 200,205,1600,993 + spa_credit.py; ditaruh sebelum paragraf koleksi (alat navigasi)",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 533,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2731662 (SPA 19/11/2026, satu-satunya link keluar; isi lengkap via portalapi.spa.gov.sa/api/v1/news/N2731662?locale=en)",
+  "SPA N2460439 (07/12/2025) peresmian museum oleh Komisi Museum, patron Pangeran Saud bin Mishaal & Pangeran Badr bin Abdullah bin Farhan, UNESCO, keramik China (tanpa link)",
+  "SPA N2523285 (26/02/2026) Bab Al-Bunt menyambut pelancong lewat laut (tanpa link)",
+  "SPA N2662232 (26/08/2026) jam buka gratis Selasa-Minggu 10.00-22.00 (tanpa link)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "MEDIA ARAB (LAIN/Dunia islam). Kategori 25 karena kabar budaya Saudi, bukan aturan jemaah. Jam 10.00-22.00 waktu Saudi = 14.00-02.00 WIB. Tumpang tindih sebagian dengan 17081 (6/11, Jeddah Historis musim dingin) yang hanya menyebut museum ini satu kalimat; artikel ini fokus museum (1.000 artefak, 7 tema, 23 galeri, tema perjalanan haji lewat laut) dan menautkan 17081 sebagai link internal. Foto utama sengaja bukan foto jangkar karena 17081 memakai foto jangkar museum. Tag: 34, 233 jeddah, 71 Arab Saudi, 1162 SPA, 1550 museum islam (ganti/buang 1550 bila dirasa kurang pas). Calon digugurkan: (1) SPA N2729943 rapat Gubernur Taif soal layanan umrah (17/11) - sudah 3 kali digugurkan ronde sebelumnya karena isi rencana umum tanpa keputusan/angka, foto rapat; (2) N2730885 kereta bayi di Masjidil Haram - sudah dimuat sebagai bagian 18964 dan tanpa foto SPA; (3) N2730541 pusat digital Nabawi - dekat 18917, isi 2 paragraf; (4) N2731628 Pertahanan Sipil: badai petir di wilayah Makkah hingga Selasa - bernada negatif (wajib AI, tidak ada foto SPA peristiwa), mirip artikel cuaca sebelumnya; (5) N2731434 alun-alun Makkah - isi deskriptif umum tanpa fakta baru; (6) N2730107 bus Madinah respons otomatis - 2 kalimat, tanpa foto; (7) N2731923 pemenang lomba Al-Qur'an Afrika Barat - kelanjutan 18535. PERHATIAN S4: bila Wisata Halal 21:40 memilih Jeddah/Al-Balad, topik bertabrakan."
+}

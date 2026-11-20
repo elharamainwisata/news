@@ -1,0 +1,33 @@
+{
+ "slot": "2026-11-20T15:40:00",
+ "category": 23,
+ "title": "Aplikasi SIGAP Mulai Dipraktikkan Kanwil Kaltim, Aduan Jemaah Umrah Diproses hingga Tahap Mediasi",
+ "excerpt": "Kanwil Kemenhaj Kaltim mempraktikkan aplikasi pengaduan SIGAP. Aduan jemaah haji dan umrah diproses lima tahap, dari penerimaan hingga mediasi.",
+ "tags": [
+  34,
+  554,
+  1568,
+  687,
+  22
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1120/1540/kanwil-kaltim-praktik-aplikasi-sigap.jpg",
+   "alt": "Pegawai Kanwil Kemenhaj Kalimantan Timur mencoba aplikasi pengaduan SIGAP di laptop",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Tiga pria berbatik duduk berdampingan menatap dan mengetik di laptop di ruang pertemuan berkursi lipat, orang lain berdiri di belakang; crop 16:9 dari foto 4:3, kepala utuh, tangan di keyboard terlihat.",
+   "evidence": "thumbnail rilis kaltim.haji.go.id (uploads/general/40b9e2ab-...-1794892262664.JPG), crop 16:9 1600x900",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 480,
+ "sources": [
+  "https://kaltim.haji.go.id/berita/kemenhaj-kaltim-dalami-aplikasi-sigap-pengaduan-haji-dan-umrah-disiapkan-lebih-transparan-1794892262698",
+  "https://haji.go.id/berita/kementerian-haji-dan-umrah-perketat-pengawasan-targetkan-minimal-satu-ppns-di-setiap-provinsi-1794457091377 (konteks Permenhaj 3/2026, 31 PPNS; disebut tanpa link)",
+  "post internal 17169, 17381"
+ ],
+ "haji_go_id": "kaltim https://kaltim.haji.go.id/berita/kemenhaj-kaltim-dalami-aplikasi-sigap-pengaduan-haji-dan-umrah-disiapkan-lebih-transparan-1794892262698 (+ pusat 10 Nov sebagai konteks)",
+ "notes": "LAIN/UMROH (kanal pengaduan). PERHATIAN Pemred: rilis Kaltim mengulang banyak isi 17169 (7 Nov: lima tahap, empat tujuan, bandara paperless). Pembeda: penerapan ke kanwil (17 Nov), Permenhaj 3/2026, kutipan Rudi & 31 PPNS (belum pernah ditulis), panduan kanal aduan & bukti. Bila dinilai dobel, tahan. Cadangan S1-b (komunikasi publik 13 Nov) DIGUGURKAN: sudah ditulis sebagai 18304 (acara & kutipan Maria Assegaff sama). Rilis pusat 10 Nov (S1-a) terpakai di sini sebagai konteks, jangan dipakai slot lain."
+}

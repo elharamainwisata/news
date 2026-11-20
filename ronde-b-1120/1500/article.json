@@ -1,0 +1,33 @@
+{
+ "slot": "2026-11-20T15:00:00",
+ "category": 29,
+ "title": "Kemenhaj HSS Pantau Kesiapan Tiket dan Hotel PPIU, Jemaah Umrah Diminta Cek Sebelum Membayar",
+ "excerpt": "Kemenhaj Hulu Sungai Selatan memeriksa izin PPIU serta kesiapan tiket dan hotel jemaah, dua hal yang perlu dicek calon jemaah umrah sebelum melunasi biaya.",
+ "tags": [
+  34,
+  688,
+  687,
+  662,
+  1272
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1120/1500/kemenhaj-hss-pantau-ppiu-umrah.jpg",
+   "alt": "Petugas Kemenhaj Hulu Sungai Selatan bersama pengelola biro umrah saat pemantauan perizinan PPIU",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Tujuh orang (petugas berbatik, satu bermasker, satu berompi berlogo Kemenhaj) berdiri berjajar di ruang kantor bercat putih, kalender meja dan berkas di depan; tanpa logo/spanduk travel terbaca.",
+   "evidence": "thumbnail rilis kalsel.haji.go.id (uploads/general/2b50176a-...-1794983074564.jpeg), 1280x720 asli",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 477,
+ "sources": [
+  "https://kalsel.haji.go.id/berita/kemenhaj-hss-laksanakan-monitoring-perizinan-dan-pemantauan-ppiu-1794983074570",
+  "https://kepri.haji.go.id (rilis 19 Nov, 5 Pasti Umrah, disebut tanpa link & tanpa nama travel)",
+  "post internal 17269, 17848, 17851 (hotline 0811 888 5888)"
+ ],
+ "haji_go_id": "kalsel https://kalsel.haji.go.id/berita/kemenhaj-hss-laksanakan-monitoring-perizinan-dan-pemantauan-ppiu-1794983074570 (referenceUrl kosong, HTTP 200)",
+ "notes": "UMROH. Sudut: cek tiket & hotel sebelum bayar; beda dari 19061 (izin biro wisata) & 18919 (Riau). Mirip sebagian 17269 (Menhaj minta PPIU pastikan tiket-hotel) -> dijadikan link internal. Foto kedua rilis (rapat di kantor biro) DITOLAK: logo/merchandise travel terlihat; tanpa sisipan. Fakta 5 Pasti Umrah dari rilis Kanwil Kepri 19 Nov (memuat nama travel, sengaja tidak ditautkan). Cadangan S1-a (PPNS 10 Nov) tidak dipakai di slot ini, tapi dipakai sebagai konteks di 1540."
+}

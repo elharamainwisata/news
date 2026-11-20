@@ -1,0 +1,42 @@
+{
+ "slot": "2026-11-20T21:40:00",
+ "category": 31,
+ "title": "Masjid Amr bin Ash Kairo, Wisata Religi Masjid Pertama Afrika yang Kiblatnya Ditentukan 80 Sahabat",
+ "excerpt": "Masjid Amr bin Ash di Fusthath, Kairo, berdiri sejak 641 M sebagai masjid pertama di Afrika; Imam Syafi'i pernah mengajar di sini, tujuan umrah plus Mesir.",
+ "tags": [
+  34,
+  724,
+  196,
+  2104,
+  171
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1120/2140/utama.jpg",
+   "alt": "Dinding luar dan menara Masjid Amr bin Ash di kawasan Fusthath, Kairo, Mesir",
+   "caption": "",
+   "seen": "Tampak luar Masjid Amr bin Ash: dinding panjang berwarna krem dengan jendela berbingkai lengkung bata merah dan hiasan puncak bergerigi, menara runcing di tengah, langit biru, pohon kurma di kiri dan beberapa pengunjung kecil di kejauhan; badan masjid terlihat jelas, bukan hanya menara.",
+   "evidence": "Wikimedia Commons 'File:December photowalk - 'Amr ibn al-'As mosque 6.jpg' oleh Protious, lisensi CC0, kategori 'Exterior of the Mosque of Amr ibn al-As' (https://commons.wikimedia.org/wiki/File:December_photowalk_-_%27Amr_ibn_al-%27As_mosque_6.jpg). CC0 -> tanpa kredit/caption.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1120/2140/sisipan2.jpg",
+   "alt": "Deretan tiang marmer, lengkungan, dan lampu gantung di ruang salat Masjid Amr bin Ash, Kairo",
+   "caption": "",
+   "seen": "Interior ruang salat Masjid Amr bin Ash: puluhan tiang marmer putih berkepala ukir menopang lengkungan batu dan balok kayu, lampu-lampu gantung kaca, kipas angin langit-langit, karpet merah, satu pengunjung kecil di tengah.",
+   "evidence": "Wikimedia Commons 'File:December photowalk - inside 'Amr ibn al-'As mosque 3.jpg' oleh Protious, lisensi CC0, kategori 'Interior of the Mosque of Amr ibn al-As'. Crop 16:9 1600x900, tanpa kredit.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "word_count": 490,
+ "sources": [
+  "https://nu.or.id/internasional/mengenal-masjid-tertua-di-mesir-masjid-amr-bin-ash-jruYP",
+  "https://khazanah.republika.co.id/berita/pyzxwl313/masjid-amru-bin-ash-tempat-sujud-pertama-di-afrika (disebut nama)",
+  "https://khazanah.republika.co.id/berita/pyzy2a313/dinastidinasti-islam-beri-perhatian-masjid-amru-bin-ash (disebut nama)"
+ ],
+ "haji_go_id": "tidak",
+ "jenis": "LAIN (Wisata Halal, Mesir - dekat paket umroh plus Mesir)",
+ "notes": "%%IMG2%% setelah paragraf sejarah perluasan (sebelum paragraf ruang salat). 1 link keluar (NU Online); Republika disebut nama. Angka ukuran awal dibulatkan 'sekitar 29 x 17 m' (Republika menulis 28,9 x 17,4 dan 29 x 17); ukuran kini hanya 'panjang sekitar 120 m' karena Republika memuat dua angka lebar (100 dan 112 m). Republika juga menulis tahun 673 H untuk Maslamah (jelas salah ketik), dipakai versi 53 H/672 M. Calon digugurkan: Masjid Biru/Hagia Sophia/Eyup/Suleymaniye/Topkapi/Bursa (sudah 16671, 17273, 18970, 16186), Al-Azhar & Hussein (16329), Muhammad Ali (17490), Jeddah Historis (17081), Masjid Qiblatain (16750/16289); Masjid Ibnu Tulun jadi cadangan."
+}
