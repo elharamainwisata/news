@@ -1,0 +1,40 @@
+{
+ "slot": "2026-11-22T13:00:00",
+ "category": 29,
+ "title": "Gubernur Thaif dan Kemenhaj Saudi Siapkan Daftar Destinasi dan Rute Wisata bagi Jemaah Umrah",
+ "excerpt": "Gubernur Thaif dan Kementerian Haji dan Umrah Saudi membahas daftar situs wisata serta usulan rute bagi jemaah umrah setelah menuntaskan ibadah.",
+ "tags": [
+  34,
+  687,
+  2071,
+  71
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/1300/utama-gerbang-abdullah-bin-abbas-thaif.jpg",
+   "alt": "Rombongan jemaah Elharamain Wisata berfoto di depan Gerbang Abdullah bin Abbas di Thaif",
+   "caption": "",
+   "seen": "Puluhan jemaah (berseragam biru gelap, sebagian berpayung) membentangkan spanduk Elharamain Wisata di depan gerbang batu berlengkung bertuliskan Arab 'Bab Abdullah bin al-Abbas', langit cerah; spanduk bertuliskan 'Keluarga Besar Jamaah Haji ... 1447 H/2026 M'. Ilustrasi Thaif, tanpa caption.",
+   "evidence": "Drive perpustakaan 1cg353egFOuGmZVuvhLQ3KhUdHNiv-3x9 > ZIARAH THAIF > Abdullah Bin Abbas (12KeIhwVI8LJut2q1JrJe_mf4KRKL6cUl) IMG_3188.JPG id 1T7KBRcv-nlQdy1bAfCgSlRv-ts9uI-pt (EXIF 31/05/2026); tulisan gerbang terbaca di foto; crop 16:9 1600x900",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/1300/sisipan-rapat-gubernur-taif-layanan-umrah.jpg",
+   "alt": "Gubernur Thaif Pangeran Fawaz bin Sultan memimpin rapat virtual pembahasan layanan jemaah umrah di kantor Pemerintah Provinsi Thaif",
+   "caption": "",
+   "seen": "Pria bergamis hitam berbordir emas dan bersyemagh merah duduk di ujung meja rapat dengan laptop, di belakangnya lambang Kementerian Dalam Negeri Saudi dan tulisan Arab 'Imarah Mintaqah Makkah al-Mukarramah - Muhafazah al-Ta'if', bendera Saudi, peserta lain dan perwira berseragam di meja; kredit kecil 'Foto: SPA' di kanan bawah.",
+   "evidence": "Foto resmi SPA berita N2729943 'Taif Governor Chairs Meeting to Enhance Umrah Services' (17 Nov 2026): https://portalcdn.spa.gov.sa/backend/original/202611/M11257866.png; crop 16:9 + kredit via tools/spa_credit.py",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 470,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2729943",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2729943?locale=en"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Berita SPA 17 Nov 2026 (±4,5 hari sebelum terbit) - di luar jendela 48-72 jam karena tidak ada berita umrah resmi lain yang lolos dalam 72 jam: redaktur mohon maklum/ganti bila ada bahan lebih baru. Konteks Nusuk program eksplorasi diambil dari post 17762 (panduan Nusuk 26 Mei 2026). Digugurkan: City Terminal Makkah (detik 21/11 mengutip MEP Middle East, tak terkonfirmasi sumber resmi), Al-Sudais resmikan pusat keagamaan digital Nabawi (SPA N2730541 18/11, isi tipis & mirip 18917), Madinah Buses layanan jawab otomatis (SPA N2730107, isi 2 kalimat), gelang pengaman Masjidil Haram (sudah 18533), stroller Masjidil Haram (sudah), Imigrasi-Kemenhaj Manggarai Barat tukar data TPPO (Kompas 21/11, berita daerah tipis), 53 jemaah Boyolali (milik S5 1340), bagasi Soetta (19159), cuaca/peringatan Makkah (19172), serangan Houthi (dilarang), BSI hadiah umrah (nama bank/promosi)."
+}

@@ -1,0 +1,47 @@
+{
+ "slot": "2026-11-22T14:20:00",
+ "category": 25,
+ "title": "Saudi Bagikan 2.000 Mushaf di Pameran Buku Kuwait, Pengunjung Bisa Tur Virtual Dua Masjid Suci",
+ "excerpt": "Stan Kementerian Urusan Islam Saudi di Pameran Buku Internasional Kuwait ke-49 memajang terbitan Kompleks Mushaf Raja Fahd dan tur VR Masjidil Haram-Nabawi.",
+ "tags": [
+  34,
+  71,
+  1087,
+  1089,
+  640
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/1420/paviliun-saudi-pameran-buku-kuwait-mushaf.jpg",
+   "alt": "Petugas Kementerian Urusan Islam Arab Saudi menjelaskan layanan digital kepada pengunjung di stan Pameran Buku Internasional Kuwait",
+   "caption": "",
+   "seen": "Interior stan bernuansa hijau-krem berlogo Kementerian Urusan Islam Saudi; petugas bersorban merah-putih menunjukkan tablet kepada pengunjung pria berkepala plontos, rak berisi jajaran mushaf dan layar TV di belakang, pengunjung lain dan seorang anak (dari belakang, kecil) di sisi kiri; logo SPA terpotong, kredit 'Foto: SPA' di pojok kanan bawah.",
+   "evidence": "SPA N2732773 media_images, caption 'Islamic Affairs Ministry Introduces Digital Applications to Kuwait Book Fair Visitors, Welcomes Student Groups' - https://portalcdn.spa.gov.sa/backend/original/202611/M11284446.jpg",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/1420/stan-kementerian-urusan-islam-saudi-kuwait.jpg",
+   "alt": "Pengunjung memindai kode QR di meja pamer berisi mushaf dan manuskrip di stan Kementerian Urusan Islam Saudi, Kuwait",
+   "caption": "",
+   "seen": "Meja pamer kaca berisi lembaran manuskrip kuno, tablet berkode QR, dan sebuah mushaf bersampul hijau-emas; petugas bersorban merah-putih berbicara kepada pengunjung perempuan berkerudung putih yang memegang ponsel, rak mushaf dan layar di belakang; logo SPA terpotong, kredit 'Foto: SPA' di pojok kanan bawah.",
+   "evidence": "SPA N2731087 media_images, caption 'Islamic Affairs Ministry Participates in Kuwait International Book Fair' - https://portalcdn.spa.gov.sa/backend/original/202611/M11267691.jpg",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 466,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2732773",
+  "https://www.spa.gov.sa/en/N2731087",
+  "https://www.spa.gov.sa/en/N2729984",
+  "SPA Arab N2732376 & N2731038",
+  "https://www.arabnews.com/saudi-arabia/saudi-pavilion-presents-quran-printing-efforts-at-kuwait-fair-3013328",
+  "https://www.spa.gov.sa/en/N2481892 (hampir 1 juta pengunjung 2025, >12 juta mushaf/tahun)",
+  "https://www.spa.gov.sa/en/N2603294 (1,9 juta mushaf, >80 bahasa, Jeddah Mei 2026)",
+  "https://www.spa.gov.sa/en/N2526369 (240.000 mushaf Masjid Miqat Feb 2026)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Dunia islam (25), sumber Saudi (SPA) - bukan slot MEDIA ARAB, tapi foto SPA dari peristiwa yang diberitakan dipakai dengan kredit 'Foto: SPA' di gambar (logo dipotong), caption WP kosong; bila redaktur ingin tanpa foto lembaga, ganti stok/Drive (tidak ada foto Drive untuk pameran Kuwait). Tanggal: SPA Arab menyebut pameran dibuka Rabu 18 Nov dan rombongan pelajar Kamis (19/11). Link keluar 1 (SPA N2732773). Nama aplikasi Rushd/Correct Citation/Virtual Hajj sesuai SPA EN. Calon digugurkan: khutbah Jumat (dipakai 1140), Universitas Islam Madinah peringkat THE (lemah), musabaqah Raja Salman Afrika Barat ditutup (Mauritania sudah 18535 & 18723), Red Sea Museum timbangan mutiara (dobel 19115), alun-alun seni Makkah (dobel 19160), berita Houthi/militer (dilarang), KSrelief gempa Indonesia (topik ditahan)."
+}

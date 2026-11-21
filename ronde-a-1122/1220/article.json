@@ -1,0 +1,44 @@
+{
+ "slot": "2026-11-22T12:20:00",
+ "category": 30,
+ "title": "Jemaah Umrah Wajibkah Tawaf Wada sebelum Meninggalkan Makkah? Ini Penjelasan Ulama",
+ "excerpt": "Tawaf wada bagi jemaah umrah diperselisihkan ulama; rujukan NU menyebutnya bukan wajib umrah sehingga jemaah yang meninggalkannya tidak dikenai dam.",
+ "tags": [
+  34,
+  396,
+  111,
+  510,
+  2050
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/1220/jemaah-menuju-tawaf-masjidil-haram.jpg",
+   "alt": "Jemaah berjalan menuju area tawaf Masjidil Haram pada malam hari dengan menara jam Makkah di latar belakang",
+   "caption": "",
+   "seen": "Malam hari di Masjidil Haram: jemaah pria berbaju putih berpeci hitam membawa ransel biru-hitam bertuliskan 'Elharamain' berjalan membelakangi kamera bersama jemaah perempuan bergamis hitam menuju pelataran tawaf; latar menara jam Makkah, dua menara, dan bangunan masjid berlampu terang. Foto tegak di tengah (720x900) dengan latar kiri-kanan blur dari foto yang sama, 1600x900.",
+   "evidence": "Drive Elharamain perpustakaan 1cg353egFOuGmZVuvhLQ3KhUdHNiv-3x9 > subfolder 'THAWAF WADA' (11ahHoqUuDRslG0d4BnjXHHH5GT6-5geN), video IMG_4288.MOV (file 1gmsVpA612_rhJsmz8kvKbQBrswVDCTxj), thumbnail Drive 1080x1920, crop y250-1600 -> 720x900 di tengah latar blur. ID tidak ada di article.json mana pun. Foto Elharamain sebagai ilustrasi -> tanpa caption.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/1220/jemaah-tawaf-dekat-kabah.jpg",
+   "alt": "Jemaah bertawaf di dekat Ka'bah pada malam hari",
+   "caption": "",
+   "seen": "Ka'bah berkiswah hitam dengan pita kaligrafi emas di bagian atas; di depannya beberapa jemaah pria berpeci, sebagian bermasker, bergerak bertawaf, terlihat dari belakang/samping. Malam hari. 4:5 1080x1350 (agak lembut karena dari thumbnail video).",
+   "evidence": "Drive perpustakaan > 'THAWAF WADA' (11ahHoqUuDRslG0d4BnjXHHH5GT6-5geN), video IMG_4300.MOV (file 1hgJuKaiGTjrJS5QFgH8Oa_cirnkbXlNq), thumbnail 1080x1920 crop y0-1350. ID tidak ada di article.json mana pun. Ilustrasi -> tanpa caption.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 510,
+ "sources": [
+  "https://islam.nu.or.id/syariah/ketentuan-dam-bagi-jamaah-yang-tinggalkan-wajib-umrah-2ZLEq",
+  "https://mui.or.id/public/baca/bimbingan/6-macam-thawaf-dalam-ibadah-haji-dan-umroh-begini-penjelasannya-6a0815bd6d63c",
+  "https://jabar.nu.or.id/hikmah/catatan-perjalanan-12-thawaf-wada-pamitan-untuk-kembali-KogRh",
+  "https://sulteng.kemenag.go.id/berita/dmq9/jemaah-perempuan-sedang-haid-tidak-wajib-tawaf-wada",
+  "https://muhammadiyah.or.id/2020/08/beberapa-masalah-ibadah-haji/"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Tanya Jawab fiqih UMROH (bukan TIPS HIMPUH/NUSUK). Link keluar tunggal: NU Online (Alhafiz Kurniawan, 21/4/2024). MUI 16/5/2026 (A Zaeini Misbaahuddin Asyuari): jumhur wajib, Maliki sunnah. NU Jabar 9/5/2024: umrah sebagian ulama afdhaliyyah. Kemenag siaran pers 29/6/2024 (Widi Dwinanda) daftar uzur, konteks haji (haji.kemenag.go.id ECONNREFUSED, dibaca di sulteng.kemenag.go.id). Hadis Ibnu Abbas (HR Muslim) dikutip Majelis Tarjih di muhammadiyah.or.id/2020/08/beberapa-masalah-ibadah-haji (redaksi dari cuplikan WebSearch; halaman tidak dibuka penuh). Calon digugurkan: umrah berkali-kali dari Tan'im (sudah 16222 & 17076), bermakmum dari hotel (18912/17176), deodoran/sabun ihram (16492), obat penunda haid (17546). Beda dengan Fiqih 0820 (isytirath). Post lama 11005 (Des 2025) membahas tawaf wada untuk jemaah haji, tidak dobel."
+}

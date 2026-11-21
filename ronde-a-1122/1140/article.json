@@ -1,0 +1,42 @@
+{
+ "slot": "2026-11-22T11:40:00",
+ "category": 25,
+ "title": "Khutbah Jumat Haramain: Imam Masjidil Haram Ajak Hidup Seimbang, Imam Nabawi Ingatkan Tobat",
+ "excerpt": "Syekh Yasser Al-Dossary mengajak jemaah menimbang prioritas hidup, sementara Syekh Salah Al-Budair mengingatkan istigfar yang disertai tekad meninggalkan dosa.",
+ "tags": [
+  34,
+  71,
+  218,
+  231,
+  640
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/1140/imam-masjidil-haram-khutbah-jumat-20-november.jpg",
+   "alt": "Imam Masjidil Haram Syekh Yasser Al-Dossary menyampaikan khutbah Jumat di mimbar Masjidil Haram",
+   "caption": "",
+   "seen": "Seorang imam bersorban putih dan berjubah cokelat bersulam emas berdiri di mimbar dengan mikrofon emas sambil memegang kertas, latar belakang serambi Masjidil Haram yang kabur; logo SPA sudah terpotong, kredit 'Foto: SPA' di pojok kanan bawah.",
+   "evidence": "SPA N2732296 media_images is_main, caption 'Grand Mosque Imam Highlights Importance of Moderation, Balance in Friday Sermon' - https://portalcdn.spa.gov.sa/backend/original/202611/M11278593.jpeg",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/1140/imam-masjid-nabawi-khutbah-jumat-20-november.jpg",
+   "alt": "Imam Masjid Nabawi Syekh Salah Al-Budair membaca khutbah Jumat di mimbar Masjid Nabawi",
+   "caption": "",
+   "seen": "Imam bersorban kotak merah-putih dan berjubah putih bersulam emas membaca teks khutbah di depan mikrofon emas, latar pilar marmer putih bermahkota emas khas Masjid Nabawi; logo SPA terpotong, kredit 'Foto: SPA' di pojok kanan bawah.",
+   "evidence": "SPA N2732297 media_images is_main, caption 'Prophet's Mosque Imam Emphasizes Sincere Repentance, Seeking Forgiveness in Friday Sermon' - https://portalcdn.spa.gov.sa/backend/original/202611/M11278603.jpeg",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 493,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2732296",
+  "https://www.spa.gov.sa/en/N2732297",
+  "SPA Arab N2732233 (Masjidil Haram) dan N2732235 (Masjid Nabawi) via portalapi.spa.gov.sa/api/v1/news/<id>?locale=ar"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "MEDIA ARAB (SPA). Kategori Dunia islam (25) mengikuti pola post 18316 (khutbah 13/11). Foto SPA: logo kiri atas dipotong (crop x>=200), kredit 'Foto: SPA' di gambar via tools/spa_credit.py; caption WP kosong. Bagian khutbah Al-Dossary soal Al-Aqsa/keamanan negara sengaja tidak diangkat. Link keluar 1 (SPA EN N2732296). Calon digugurkan: Stroller Masjidil Haram (sudah via HIMPUH), Workshop lisensi pariwisata Makkah Chamber (untuk pelaku usaha, bukan jemaah), Kampanye diabetes Al-Naseem Makkah (lemah bagi jemaah), Alun-alun seni Makkah (dobel Dawariq 19160), KSrelief gempa Indonesia (topik KSrelief Flores ditahan), gempa Maluku (negatif, bukan jemaah)."
+}

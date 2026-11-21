@@ -1,0 +1,31 @@
+{
+ "slot": "2026-11-22T09:40:00",
+ "category": 27,
+ "title": "Masjid As-Suqya di Madinah, Tempat Rasulullah SAW Berwudu dan Salat sebelum Berangkat ke Badar",
+ "excerpt": "Masjid As-Suqya di Madinah dinamai dari sumur tempat Rasulullah SAW berwudu dan salat dua rakaat sebelum Perang Badar, dibangun Umar bin Abdul Aziz.",
+ "tags": [
+  34,
+  171,
+  240,
+  977
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/0940/masjid-as-suqya-madinah.jpg",
+   "alt": "Masjid As-Suqya di Madinah, bangunan berdinding batu hitam dengan kubah putih dan papan nama masjid di atas pintu",
+   "caption": "",
+   "seen": "Tampak depan utuh sebuah masjid kecil berdinding batu basal hitam, satu kubah putih besar dan beberapa kubah kecil, pintu kayu melengkung di tengah, papan nama bertuliskan 'مسجد السقيا' dan 'Al-Suqya Mosque', diapit dua pohon kurma, pelataran paving; kredit kecil 'Foto: Imam/CC BY-SA' di pojok kanan bawah.",
+   "evidence": "https://commons.wikimedia.org/wiki/File:مسجد_السقيا.jpg (judul file & deskripsi 'مسجد السقيا'; papan nama di foto terbaca 'Al-Suqya Mosque'); lisensi CC BY-SA 4.0, pemotret Imam Khairul Annas, diambil 25/9/2014; crop 16:9 dari 1600x1200 tanpa membuang badan masjid; kredit di gambar sesuai aturan MASJID (15 px), caption WP kosong. Belum pernah dipakai (grep paket 7 hari & search situs 'suqya' kosong).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 319,
+ "sources": [
+  "https://umrah.nusuk.sa/MakkahAndMadinah (laman resmi Nusuk Umrah, entri 'Al-Suqya Mosque'; link keluar satu-satunya)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Kandidat Baqi DIGUGURKAN: sudah ada 16397 'Jannatul Baqi di Madinah...' (28 Okt 2026), topik akan berulang; foto Baqi di ronde-a-1121/1220 tetap belum terpakai. Masjid As-Suqya belum pernah ditulis (search 'suqya' kosong). Semua fakta dari laman Nusuk; tidak menyebut lokasi di kompleks Stasiun Anbariyah karena hanya terbaca di Wikipedia. Foto 2014 (sebelum pemugaran Proyek MBS), disebut di teks. Hanya 1 gambar: tidak ada foto asli As-Suqya lain yang lolos identitas; sisipan tidak dipaksakan."
+}

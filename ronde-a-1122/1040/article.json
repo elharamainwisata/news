@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-22T10:40:00",
+ "category": 29,
+ "title": "Tasheel Card Masjid Nabawi, Kartu agar Jemaah Bisa Masuk Lagi setelah Keluar saat Salat Jumat",
+ "excerpt": "Jemaah yang keluar sebentar saat salat Jumat di Masjid Nabawi bisa meminta Tasheel Card agar diizinkan masuk lagi meski akses umum sudah ditutup.",
+ "tags": [
+  34,
+  231,
+  1272,
+  240,
+  1478
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/1040/jemaah-menunggu-salat-dalam-masjid-nabawi.jpg",
+   "alt": "Jemaah duduk bersaf di atas karpet hijau di dalam Masjid Nabawi menunggu waktu salat",
+   "caption": "",
+   "seen": "Interior Masjid Nabawi (tiang marmer, lengkung belang hitam-putih, lampu gantung, karpet hijau): sederet jemaah pria berbaju hitam berlanyard duduk bersaf di depan, jemaah lain duduk dan berjalan di belakang. Crop 1232x693 memotong anak laki-laki di kanan bawah.",
+   "evidence": "Drive album HAJI 2026 > FOTO ALBUM HAJJ 1447 H (1vD09YXp1ae-7-rfp3OSL0gcomkDpCSiR) indeks 1525, 'WhatsApp Image 2026-06-11 at 20.11.40.jpeg', file ID 1EcA-EC-YNdzoybWjYyid_T1mRLJbg5mU (asli 1600x900). Pernah dipakai sebagai sisipan ronde-a-1113/0820 (13 Nov, >7 hari); tidak ada di paket 15-21 Nov. Foto Elharamain sebagai ilustrasi -> tanpa caption.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/1040/jemaah-duduk-bersaf-di-masjid-nabawi.jpg",
+   "alt": "Rombongan jemaah pria duduk di karpet di bawah lengkung belang hitam-putih Masjid Nabawi",
+   "caption": "",
+   "seen": "Interior Masjid Nabawi dengan deretan lengkung belang hitam-putih dan tiang berlampu; rombongan jemaah pria berbaju hitam, berpeci, sebagian bermasker duduk di karpet hijau menghadap ke depan (dari belakang/samping, tanpa close-up wajah). 4:5 720x900.",
+   "evidence": "Drive album HAJJ 1447 H indeks 1526 'WhatsApp Image 2026-06-11 at 20.26.32.jpeg', file ID 1JxcI36DYNmFHIIeF4NPXue_H6QgEyvGk (asli 720x1280, crop y320-1220). Tidak ditemukan di article.json mana pun. Ilustrasi -> tanpa caption.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 479,
+ "sources": [
+  "https://himpuh.or.id/blog/detail/5294/masjid-nabawi-sediakan-tasheel-card-jemaah-bisa-keluar-masuk-saat-salat-jumat",
+  "https://nu.or.id/internasional/tiga-setengah-jam-di-masjid-nabawi-aafoT"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "TIPS HIMPUH. Sumber utama HIMPUH 18 Nov 2026 (satu-satunya link keluar). Konfirmasi silang: NU Online 15/6/2026 (Abdullah Alawi) melaporkan karcis khusus dari petugas bagi jemaah yang keluar berwudu saat Jumat 12 Juni 2026, mulai berlaku 2026, dan batas masuk 10.30 (kutipan Ustadz Efriza Bukhori Firouk). Pencarian di SPA/haj.gov.sa/Arab News/Saudi Gazette tidak menemukan keterangan resmi 'Tasheel Card' -> ditulis paragraf kehati-hatian. Nama 'Pintu Abu Bakar Siddiq, Gerbang 02' hanya dari HIMPUH ('biasanya'). Panduan layanan Nabawi haj.gov.sa (PDF) tidak terunduh. Internal link 17570 & 19069."
+}

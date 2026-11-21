@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-22T07:00:00",
+ "category": 29,
+ "title": "Jemaah Cadangan Haji Khusus 2027 Tak Bisa Ajukan Pendamping, Hanya untuk Pemilik Nomor Urut Porsi",
+ "excerpt": "Kemenhaj menegaskan jemaah haji khusus berstatus cadangan tak boleh mengajukan pendamping lansia, mahram, atau disabilitas pada tahap pelunasan pertama.",
+ "tags": [
+  34,
+  36,
+  1992,
+  2098,
+  582
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/0700/utama-jemaah-haji-khusus-depan-kabah.jpg",
+   "alt": "Rombongan jemaah haji khusus Elharamain Wisata berpakaian ihram berfoto bersama di pelataran Ka'bah, Masjidil Haram",
+   "caption": "",
+   "seen": "Puluhan jemaah berihram (pria berdiri, wanita bertopi biru duduk, berkalung ID card) berfoto di pelataran mataf dengan Ka'bah dan menara/Abraj Al-Bait di latar; foto Elharamain dipakai sebagai ilustrasi, tanpa caption.",
+   "evidence": "Drive Elharamain album HAJI 2026 > FOTO ALBUM HAJJ 1447 H (1vD09YXp1ae-7-rfp3OSL0gcomkDpCSiR) idx 894 'WhatsApp Image 2026-06-04 at 22.25.44.jpeg' id 1L0jn8UUtwowlglUG52U0x3q_WllP2QQ4; crop 16:9 1280x720 (asli 1280x960)",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/0700/sisipan-pasangan-jemaah-haji-berihram.jpg",
+   "alt": "Pasangan suami istri jemaah haji Elharamain Wisata berpakaian ihram berdiri berdampingan dengan latar bukit batu",
+   "caption": "",
+   "seen": "Seorang pria berkain ihram memegang tasbih dan seorang wanita bermukena putih berkalung ID card Elharamain berdiri berdampingan di depan pagar kawat dan bukit batu; ilustrasi jemaah bersama mahram, tanpa caption.",
+   "evidence": "Drive album FOTO ALBUM HAJJ 1447 H idx 878 'WhatsApp Image 2026-06-04 at 21.51.10 (1).jpeg' id 1XhBgAyJ3Nct4PkQ6kKPvyd6oxfTlkVlv; crop 4:5 1200x1500",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "HAJI PLUS",
+ "word_count": 545,
+ "sources": [
+  "https://himpuh.or.id/blog/detail/5339/meski-bisa-melunasi-lebih-awal-jemaah-cadangan-haji-khusus-tak-berhak-ajukan-pendamping",
+  "https://haji.go.id/berita/kemenhaj-umumkan-daftar-jemaah-haji-khusus-berhak-lunas-1448-h2027-m-1793948548712 (6 Nov 2026, konteks jadwal; tanpa link di badan)"
+ ],
+ "haji_go_id": "tidak (sumber utama HIMPUH 21/11/2026; rilis pusat 6 Nov dipakai sebagai konteks tanpa link)",
+ "notes": "Sudut baru: hak pendamping (mahram/keluarga terpisah/lansia/disabilitas) tak berlaku bagi cadangan di tahap 1; beda dari 19070 (serapan 16%, desakan cadangan melunasi) walau dari sosialisasi KMHU 99/2026 yang sama (18/11) - redaktur mohon cek tidak dianggap dobel; seri Edukasi 19029-19031 (cadangan) terbit 26-28 Nov, tidak membahas larangan pendamping. Digugurkan: HIMPUH 5320 (cadangan diminta lunasi, sudah 19070), 5323 (serapan lambat, = 19070), 5334 nilai manfaat VA (haji reguler/BPKH, slot S2), 5335/5317 full board PPIH (petugas, reguler), 5327 city terminal Makkah (sumber asli MEP Middle East di luar allowlist, MoU 8-11 Nov tak terkonfirmasi SPA/Arab News), antaranews jemput bola pelunasan (reguler). Foto utama & sisipan dari album HAJJ 1447 H; idx 894/878 tidak ditemukan di article.json ronde 15-21 Nov."
+}

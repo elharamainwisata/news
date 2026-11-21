@@ -1,0 +1,34 @@
+{
+ "slot": "2026-11-22T13:40:00",
+ "category": 23,
+ "title": "53 Jemaah Umrah Boyolali Tertahan di Bangkok, Biro Belum Berizin PPIU dan Tiket Tak Sampai Saudi",
+ "excerpt": "Kemenhaj Boyolali menyebut biro yang memberangkatkan 53 jemaah umrah ke Bangkok belum berizin PPIU; tiket rombongan tidak sampai ke Arab Saudi.",
+ "tags": [
+  34,
+  645,
+  688,
+  687,
+  662
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1122/1340/jemaah-umrah-periksa-tiket-paspor-kuitansi.jpg",
+   "alt": "Ilustrasi calon jemaah umrah memeriksa tiket dan dokumen perjalanan",
+   "caption": "Ilustrasi",
+   "seen": "Pasangan paruh baya berwajah Indonesia (ibu berjilbab merah muda, bapak berpeci) memeriksa lembar tiket/itinerary dengan kaca pembesar, dua paspor dan kuitansi di meja ruang tamu; tanpa tulisan terbaca, tanpa logo/masjid. Lolos gerbang.",
+   "evidence": "Berita negatif (jemaah gagal berangkat, biro tanpa izin) -> wajib ilustrasi AI, tanpa foto Elharamain",
+   "ai_prompt": "Ultra-realistic documentary news photograph, shot on full-frame DSLR with 35mm lens, natural available light, realistic skin texture with pores and fine wrinkles, natural imperfect expressions, candid unposed moment. A worried middle-aged Indonesian Southeast Asian couple with tan brown skin in modest Muslim clothing (the woman in a simple hijab, the man in a peci cap) sitting at a plain table in a modest Indonesian home living room, carefully examining printed flight itinerary papers, two passports and a payment receipt; the man holds a magnifying glass over the itinerary while the woman points at the destination line. Warm afternoon window light, slight film grain, shallow depth of field, true-to-life colors, not CGI, not 3D render, not painting, not illustration, not plastic or airbrushed skin. No readable text on any paper, no logos, no brand names, no flags, no weapons, all people fictional (not real public figures), no Caucasian, no Western-looking people, no Kaaba, no Masjid al-Haram, no Masjid an-Nabawi, no mosque. 16:9 composition."
+  }
+ },
+ "sensitive": true,
+ "topic_type": "UMROH",
+ "word_count": 457,
+ "sources": [
+  "https://news.detik.com/berita/d-8762951/ditipu-biro-umrah-53-jemaah-asal-boyolali-terdampar-di-bangkok",
+  "https://www.cnnindonesia.com/nasional/20261121123805-20-1429800/53-jemaah-umrah-boyolali-terdampar-di-bangkok-biro-diduga-ilegal",
+  "https://kepri.haji.go.id/api/news/tingkatkan-pengawasan-ppiu-dan-perlindungan-jemaah-kanwil-kemenhaj-kepri-lakukan-pemantauan-terhadap-naveessa-travel-1795069924440 (konteks 5 Pasti Umrah & larangan paket talangan; TIDAK ditautkan karena slug memuat nama travel)"
+ ],
+ "haji_go_id": "tidak (sumber utama detikJateng/CNN Indonesia; konteks 5 Pasti Umrah dari rilis kepri.haji.go.id 19/11, tidak ditautkan karena slug memuat nama travel)",
+ "notes": "Link keluar 1 (detik). Nama/inisial biro (\"EG\") sengaja tidak ditulis. Berita negatif -> foto utama ilustrasi AI (induk membuat), tanpa sisipan. Digugurkan: Kepri PMHU 2/2026 BPW vs PPIU (sudah 19061); Riau panggil PPIU (sudah 18919); Bali shelter (sudah 18915); Sumbar-Polda (18855); SIGAP Kaltim (19114); KBIHU Jabar (draft ditahan); Mukomuko (19152); bagasi Soetta (19159); Kepri pemantauan PPIU sebagai berita tunggal (judul/slug memuat nama travel; hanya dipakai sebagai konteks tanpa nama); moratorium 3.600 PPIU (sudah 19120)."
+}

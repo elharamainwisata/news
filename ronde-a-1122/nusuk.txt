@@ -1,0 +1,3 @@
+NUSUK BARU (setelah 21 Nov 2026 04:00 WIB) - dicek S6 22 Nov ±05:25 WIB: KOSONG.
+Sumber dicek: SPA portalapi (locale=en, page 1-14, 19-22 Nov; tak ada judul memuat "Nusuk"; locale=ar kosong), Arab News RSS + rubrik /saudi-arabia (tak ada Nusuk), WebSearch arabnews/saudigazette/spa/haj.gov.sa/antaranews/republika/detik/kompas (hasil hanya berita lama 2024-Mei 2026 / Okt 2026 yang sudah ditulis), haj.gov.sa Ministry-News (dirender JS, daftar tak terbaca). www.nusuk.sa tidak dicoba (blokir bot).
+Saran: slot Nusuk 08:00 & 13:20 dikosongkan kecuali induk punya bahan lain.

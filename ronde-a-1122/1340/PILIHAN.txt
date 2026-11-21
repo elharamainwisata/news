@@ -1,0 +1,2 @@
+S5 1340: Berita - 53 jemaah umrah Boyolali terdampar di Bangkok, biro tanpa izin PPIU (detik/CNN 21/11/2026; Kemenhaj Boyolali) + imbauan 5 Pasti Umrah. Tanpa nama/inisial biro. SENSITIF -> ilustrasi AI (prompt untuk induk). 05:04
+-> PAKET SIAP 05:05: 1340/article.json (gambar: ilustrasi AI, prompt di images.1.ai_prompt, dibuat induk)
