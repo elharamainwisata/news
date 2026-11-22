@@ -1,0 +1,43 @@
+{
+ "slot": "2026-11-23T11:40:00",
+ "category": 29,
+ "title": "Peziarah Raudhah Kini 55.000 Orang per Hari, Pengguna Nusuk Lampaui 60 Juta",
+ "excerpt": "Gubernur DGA Arab Saudi menyebut peziarah Raudhah naik dari 4.000 menjadi 55.000 orang per hari dan penerbitan visa haji serta umrah kini cukup lima menit.",
+ "tags": [
+  34,
+  135,
+  191,
+  69,
+  71
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1123/1140/gubernur-dga-konferensi-pers-pemerintah-riyadh.jpg",
+   "alt": "Gubernur Otoritas Pemerintahan Digital Arab Saudi Ahmed Alsuwaiyan berbicara di podium Konferensi Pers Pemerintah di Riyadh",
+   "caption": "",
+   "seen": "Pria berjubah krem bersulam emas dan bersorban putih berdiri di balik podium putih berlogo 'Al-Mu'tamar Al-Shahafi Al-Hukumi' dengan tiga mikrofon, dua teleprompter di kiri-kanan, latar layar biru-hijau bertulisan Arab, kepala seorang hadirin kabur di bawah; logo SPA terpotong, kredit 'Foto: SPA' di pojok kanan bawah.",
+   "evidence": "SPA N2733917 media_images (caption 'DGA Governor: Saudi Vision 2030 Propels Kingdom into World's Leading Digital Governments'; pria yang sama tampil di podium pada foto utama is_main M11295909) - https://portalcdn.spa.gov.sa/backend/original/202611/M11295911.jpeg",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1123/1140/konferensi-pers-pemerintah-riyadh-transformasi-digital.jpg",
+   "alt": "Suasana Konferensi Pers Pemerintah di Riyadh saat Gubernur DGA memaparkan capaian transformasi digital Arab Saudi",
+   "caption": "",
+   "seen": "Tampak lebar ruang konferensi: pembicara berjubah krem di podium putih di depan layar besar berlogo Digital Government Authority bertulisan Arab, puluhan hadirin bersyemagh merah-putih dan beberapa perempuan berkerudung duduk membelakangi kamera, sebagian merekam dengan ponsel; logo SPA terpotong, kredit 'Foto: SPA'.",
+   "evidence": "SPA N2733917 media_images - https://portalcdn.spa.gov.sa/backend/original/202611/M11295912.jpeg",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 474,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2733917",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2733917?locale=en",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2733493?locale=ar (rilis Arab layanan Nabawi: masuk Raudhah sesuai jadwal Nusuk)",
+  "post 17304 (angka 70 juta pengguna Nusuk, Konferensi Haji Jeddah)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "MEDIA ARAB. Sumber utama rilis SPA 22/11/2026 22:36 waktu Saudi (pidato Gubernur DGA di Konferensi Pers Pemerintah, Riyadh). Angka 60 juta pengguna Nusuk (DGA) berbeda dengan 70 juta (Menhaj Saudi, post 17304) - sudah disebut di artikel tanpa spekulasi. Kalimat Raudhah-Nusuk mengutip rilis Arab SPA N2733493 (versi Inggris N2733578 yang dipertimbangkan S1 untuk 1300; artikel ini hanya memakai satu fakta pendukung, bukan topiknya). Identitas pembicara: semua foto rilis bercaption 'DGA Governor...'; pria berjubah krem tampil sebagai pembicara di 4 dari 5 foto. Digugurkan: N2733578 layanan Nabawi (mirip 18964 & diincar S1), NCM hujan Makkah (dobel 19172), Islamic University AI (19308), Kuwait book fair (19240), KSrelief gempa Indonesia (sensitif, KSrelief Flores ditahan), MWL kecam serangan Iran (politik/militer)."
+}

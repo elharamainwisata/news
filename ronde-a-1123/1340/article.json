@@ -1,0 +1,35 @@
+{
+ "slot": "2026-11-23T13:40:00",
+ "category": 23,
+ "title": "Produk Kreatif Indonesia Dibidik Masuk Ekosistem Haji-Umrah, dari Aplikasi Digital hingga Fesyen",
+ "excerpt": "Kemenekraf mendorong aplikasi digital, kuliner, kriya, dan fesyen Indonesia masuk ekosistem haji-umrah lewat Kampung Haji, Hajj Convex, hingga platform Nusuk.",
+ "tags": [
+  34,
+  1128,
+  71,
+  768,
+  135
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1123/1340/kios-hijab-pasar-jakarta-fesyen-modest.jpg",
+   "alt": "Kios kerudung di pasar Jakarta dengan deretan manekin berhijab dan kain bermotif warna-warni",
+   "caption": "",
+   "seen": "Kios kerudung di pasar: belasan kepala manekin memakai hijab merah, cokelat, ungu, dan motif bunga, tumpukan kerudung terlipat di depan, kain bermotif merah-putih tergantung di kanan, seorang pedagang perempuan berkerudung hitam di belakang memegang gantungan kerudung.",
+   "evidence": "Pexels 41195871 'Colorful hijabs at a Jakarta market stall' (https://www.pexels.com/photo/41195871/), unduh images.pexels.com w=1600, 1600x898 -> crop/resize 1600x900 q82. Stok gratis -> tanpa caption/kredit. Mewakili subsektor fesyen modest Indonesia yang disebut di berita. Tidak ada di paket ronde lain (grep ID).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 489,
+ "sources": [
+  "https://www.antaranews.com/berita/5869671/indonesia-arab-saudi-jajaki-penguatan-ekosistem-ekonomi-kreatif",
+  "https://en.antaranews.com/news/444403/indonesia-saudi-arabia-join-hands-to-develop-creative-economy",
+  "https://money.kompas.com/read/2026/11/21/200000426/indonesia-bidik-pasar-ekonomi-kreatif-di-balik-haji-umrah-arab-saudi",
+  "post internal 17011, 19071, 17591"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "FALLBACK S5: tidak ada berita perlindungan umrah/PPIU/imigrasi 48-72 jam yang belum ditulis. Topik Kemenekraf (21/11, Antara) dipilih karena menyentuh ekosistem umrah & Nusuk; tema rantai ekonomi haji-umrah sudah sering (17011 5 Nov, 19071 20 Nov) -> sudut di sini kunjungan Menekraf ke Saudi + kanal Nusuk/Kampung Haji. Nama dua perusahaan penanda MoU di Jeddah sengaja tidak disebut (salah satunya agen perjalanan daring Saudi). Esports tidak dimasukkan. Digugurkan: pabar 22/11 berantas mafia haji & travel ilegal (isi dominan pengajian haji reguler; bagian umrah = kerja sama Polda/Imigrasi Papua Barat sudah ditulis 18969); detik 22/11 belasan maskapai batalkan penerbangan ke Saudi (konteks keamanan/konflik, bukan maskapai Indonesia); Republika 20/11 UU Perampasan Aset untuk korban penipuan umrah (opini pengamat, DPR); detik 21/11 City Terminal bagasi Makkah (MoU 8-11 Nov, sumber sekunder MEP Middle East); detik escrow dana umrah 75-25 (11 Nov, polemik asosiasi); kemenag Menag-Muslimat NU dunia digital (relevansi jemaah lemah); Kemenag DTKS mustahik (19 Nov, zakat sudah 19307/19174); kemenag wakaf Bali 758 bidang (daerah). Tanpa gambar sisipan: foto Drive jemaah berponsel (HAJJ 1447 idx 305/314/316/319) tidak cocok/ada spanduk rombongan lain; kuliner Madinah dipakai 22 Nov."
+}

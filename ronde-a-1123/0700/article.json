@@ -1,0 +1,32 @@
+{
+ "slot": "2026-11-23T07:00:00",
+ "category": 29,
+ "title": "Jemaah Haji Khusus Wafat atau Sakit Permanen, Nomor Porsinya Bisa Dilimpahkan Sekali ke Keluarga",
+ "excerpt": "Permen Haji dan Umrah 4/2025 membolehkan nomor porsi jemaah haji khusus yang wafat atau sakit permanen dilimpahkan satu kali kepada keluarga inti.",
+ "tags": [
+  34,
+  36,
+  281,
+  675,
+  1992
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "",
+   "alt": "Anggota keluarga menyerahkan berkas dokumen dan pas foto kepada petugas di meja kantor penyelenggara haji khusus",
+   "caption": "Ilustrasi",
+   "seen": "(belum dibuat; induk membuat dari ai_prompt lalu Read hasilnya)",
+   "evidence": "Topik menyinggung jemaah wafat/sakit permanen -> aturan berita sensitif: ilustrasi, tanpa foto Elharamain",
+   "ai_prompt": "Ultra-realistic documentary news photograph, shot on full-frame DSLR with 35mm lens, natural available light from an office window. A modest Indonesian Southeast Asian woman in her forties with tan brown skin wearing a simple hijab sits at a wooden service desk in a small travel office in Jakarta, handing a neat stack of document folders, a family card and several small passport-size photos to an Indonesian male staff member in a batik shirt seen from the side; a plain manila envelope, a ballpoint pen and a desk stamp lie on the table; calm, quiet, respectful mood, candid unposed moment, realistic skin texture with pores and fine wrinkles, natural imperfect expressions, slight film grain, shallow depth of field focused on the hands and documents, true-to-life colors, not CGI, not 3D render, not painting, not illustration, not plastic or airbrushed skin. No readable text on any paper, no logos, no brand names, no flags, no Kaaba, no Masjid al-Haram, no Masjid an-Nabawi, all people fictional, no Caucasian, no Western-looking people, 16:9."
+  }
+ },
+ "sensitive": true,
+ "topic_type": "HAJI PLUS",
+ "word_count": 544,
+ "sources": [
+  "https://haji.go.id/uploads/general/42e9e925-bf6c-4dfd-8a02-01929b929045-1769065614485.pdf"
+ ],
+ "haji_go_id": "pusat (dokumen regulasi PMHU 4/2025 di haji.go.id/uploads, bukan rilis berita) - link keluar ke PDF",
+ "notes": "EXPLAINER (bukan berita 72 jam): tidak ada berita haji khusus/PIHK baru 72 jam yang belum ditulis. Dicek: haji.go.id pusat 50 + provinsi (tak ada haji khusus 72 jam), HIMPUH (5341 petugas PPIH/reguler; 5340/5339/5323/5320 sudah dipakai 19306/19229/19070), detik/kompas/antara/republika (haji khusus terbaru = pelunasan 16%, cadangan, 46 PIHK, semua sudah ditulis). Pasal dikutip langsung dari PDF PMHU 4/2025 (Pasal 36-39, ditetapkan 20 Nov 2025). Pelimpahan hanya disinggung sekilas di 17484. Gambar: dianggap sensitif (wafat/sakit) -> ilustrasi AI, induk membuat. Digugurkan: HIMPUH 5341 (petugas haji reguler, kebijakan bukan haji khusus); Republika perjanjian haji 2027 Saudi (17 Nov, >72 jam, bukan khusus); Republika UU Perampasan Aset (opini pengamat, politik legislasi); detik City Terminal Makkah (acara 8-11 Nov, MoU penjajakan)."
+}

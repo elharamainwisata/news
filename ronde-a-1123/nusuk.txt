@@ -1,0 +1,6 @@
+Cek kabar Nusuk BARU (setelah 22 Nov 04:00 WIB) oleh S6, 23 Nov ~05:50 WIB.
+Sumber dicek: feed SPA EN portalapi page 1-12 (240 berita, 19 Nov 18:42 - 23 Nov UTC, isi penuh di-grep 'Nusuk'), versi Arab rilis terkait, WebSearch arabnews/spa/saudigazette/haj.gov.sa (indeks tak memuat berita Nov), RSS Arab News (22 Nov), haj.gov.sa Ministry-News (daftar dirender JS, tak terbaca). www.nusuk.sa tidak diakses (blokir bot).
+HASIL: ADA 1, SUDAH DIPAKAI S6 untuk 1140 MEDIA ARAB:
+ - SPA N2733917 (22 Nov 19:36 GMT): Gubernur DGA - pengguna Nusuk >60 juta, Raudhah 55.000/hari (dari 4.000), visa haji-umrah 5 menit, 22 juta visa 2025. https://www.spa.gov.sa/en/N2733917
+Lain (bukan fitur/layanan Nusuk baru): SPA N2733578 / Arab N2733493 (22 Nov) layanan Masjid Nabawi saat libur sekolah, masuk Raudhah sesuai jadwal Nusuk (diincar S1 untuk 1300).
+KESIMPULAN: tidak ada bahan Nusuk baru tersisa untuk slot Nusuk 08:00 & 13:20 -> KOSONG (kecuali induk memindahkan artikel 1140 ke slot Nusuk).

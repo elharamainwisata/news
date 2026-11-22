@@ -1,0 +1,42 @@
+{
+ "slot": "2026-11-23T14:20:00",
+ "category": 25,
+ "title": "Produksi Kurma Saudi Tembus 2 Juta Ton, AlUla Tutup Musim Kurma dengan Tradisi Al-Shannah",
+ "excerpt": "GASTAT mencatat produksi kurma Arab Saudi 2025 naik 7,6 persen hingga lebih dari dua juta ton, sementara AlUla menutup musim kurma dengan Hari Al-Shannah.",
+ "tags": [
+  34,
+  145,
+  146,
+  71,
+  308
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1123/1420/kantong-kulit-al-shannah-penyimpan-kurma-alula.jpg",
+   "alt": "Deretan kantong kulit al-shannah berisi kurma di atas terpal oranye pada Hari Al-Shannah di AlUla, berlatar keranjang anyaman dan kain tenun",
+   "caption": "",
+   "seen": "Enam-tujuh kantong kulit gelap dan cokelat berbentuk lonjong yang diikat tali kulit tergeletak di atas terpal oranye; di belakangnya nampan anyaman daun kurma bundar dan kain tenun bermotif geometris cokelat-hitam, pepohonan dan langit biru; logo SPA terpotong, kredit 'Foto: SPA' kanan bawah.",
+   "evidence": "SPA N2732795 media_images, caption 'AlUla Date Season Concludes with 'Al Shannah Day' to Highlight Agricultural Heritage' - https://portalcdn.spa.gov.sa/backend/original/202611/M11284795.jpeg",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1123/1420/kurma-dijemur-musim-kurma-alula.jpg",
+   "alt": "Hamparan kurma di atas terpal oranye dengan deretan kantong al-shannah dan pohon kurma di Pasar Petani Al-Manshiyah, AlUla",
+   "caption": "",
+   "seen": "Terpal oranye luas dengan dua lingkaran tumpukan kurma cokelat gelap, deretan kantong kulit di tepinya, payung merah muda, panel kain tenun dan nampan anyaman, pohon kurma dan tebing batu AlUla di latar; wadah plastik berisi kurma di kiri depan; kredit 'Foto: SPA'.",
+   "evidence": "SPA N2732795 media_images - https://portalcdn.spa.gov.sa/backend/original/202611/M11284796.jpeg",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 454,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2733515",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2733354?locale=ar (versi Arab GASTAT, rincian Khalas)",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2732795?locale=en (Hari Al-Shannah AlUla)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Dunia islam, sumber SPA (GASTAT 22/11 + RCU AlUla 21/11), 1 link keluar ke SPA N2733515. Foto dari rilis AlUla (N2732795) karena rilis GASTAT hanya berisi gambar logo GASTAT (M11291304, ditolak). Hari 22/11/2026 = Minggu, 21/11 = Sabtu. Calon digugurkan: kursus imam Kemenag Saudi di Peru (N2733260) & Sri Lanka (N2732940) - relevansi jemaah rendah; simposium seni Islam ICESCO-UNESCO (mirip 18921); Madinah Knowledge Economic City (investasi properti, kurang relevan); kampanye diabetes Makkah (lokal); KSrelief gempa Indonesia (sensitif, KSrelief Flores ditahan); MWL kecam serangan Iran ke Bahrain (politik/militer)."
+}

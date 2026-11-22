@@ -1,0 +1,13 @@
+0700 19367 future 2026-11-23T07:00:00 Jemaah Haji Khusus Wafat atau Sakit Permanen, Nomor Porsinya Bisa Dilimpahkan Sekali ke Keluarga
+0740 19368 future 2026-11-23T07:40:00 Menag di Harlah Ke-80 Muslimat NU: Buang Sampah pada Tempatnya Juga Bagian dari Beragama
+0820 19369 future 2026-11-23T08:20:00 Iqamah Berkumandang saat Tawaf Belum Tujuh Putaran, Lanjut atau Mengulang? Ini Penjelasan Fiqihnya
+0940 19370 future 2026-11-23T09:40:00 Sumur Raumah di Madinah, Wakaf Utsman bin Affan yang Dibeli atas Seruan Rasulullah SAW
+1020 19371 future 2026-11-23T10:20:00 Menteri PPPA Usul Lomba Pesantren Ramah Anak di Hari Santri 2027, Kemenag Sambut Kolaborasi
+1040 19372 future 2026-11-23T10:40:00 Tujuh Tips HIMPUH agar Tak Tersesat di Masjidil Haram, dari Catat Nomor Pintu hingga Menara Jam
+1100 19373 future 2026-11-23T11:00:00 Group Juli 2026 Platinum Salat Berjamaah di Masjidil Haram dan Nabawi hingga Ziarah Quba
+1140 19374 future 2026-11-23T11:40:00 Peziarah Raudhah Kini 55.000 Orang per Hari, Pengguna Nusuk Lampaui 60 Juta
+1220 19375 future 2026-11-23T12:20:00 Salat di Hotel Makkah, Tetap Berpahala 100.000 Kali seperti di Masjidil Haram? Ini Jawaban Ulama
+1300 19376 future 2026-11-23T13:00:00 JKN Aktif Termasuk Syarat Umrah, Ini Lima Persyaratan Umum dan Hak Pelindungan Jemaah lewat PPIU
+1340 19377 future 2026-11-23T13:40:00 Produk Kreatif Indonesia Dibidik Masuk Ekosistem Haji-Umrah, dari Aplikasi Digital hingga Fesyen
+1420 19378 future 2026-11-23T14:20:00 Produksi Kurma Saudi Tembus 2 Juta Ton, AlUla Tutup Musim Kurma dengan Tradisi Al-Shannah
+# _content_warnings selain meta_keys_dropped: tidak ada

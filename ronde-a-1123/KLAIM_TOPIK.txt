@@ -1,0 +1,14 @@
+RONDE A 23 Nov 2026 (mulai 05:00). Ronde B: baca article.json/PILIHAN.txt tiap slot di ronde-a-1123/<slot>/; jangan pakai sumber/topik yang sama.
+- 0700 U&H: PMHU 4/2025 Pasal 36-39 pelimpahan porsi haji khusus (wafat/sakit permanen)
+- 0740 Berita: Menag di Harlah ke-80 Muslimat NU Istiqlal (sampah/air)
+- 0820 Fiqih: iqamah saat tawaf belum 7 putaran
+- 0940 Sejarah: Sumur Raumah wakaf Utsman
+- 1020 Berita: Menteri PPPA usul lomba pesantren ramah anak (Lirboyo)
+- 1040 U&H: TIPS HIMPUH 5137 anti nyasar Masjidil Haram
+- 1100 Kegiatan: 3 JULI 2026 PLAT 1 (lihat kegiatan-1123/klaim.txt)
+- 1140 MEDIA ARAB: SPA N2733917 DGA Raudhah 55.000/hari, Nusuk 60 juta
+- 1220 TJ: salat di hotel Makkah & pahala 100.000
+- 1300 U&H: PMHU 4/2025 Pasal 44-55 syarat & hak jemaah umrah (JKN)
+- 1340 Berita: Kemenekraf produk kreatif ekosistem haji-umrah (Antara 21/11)
+- 1420 Dunia islam: SPA N2733515 produksi kurma 2 juta ton + Al-Shannah AlUla
+- Nusuk 08:00 & 13:20 KOSONG (nusuk.txt). Haji reguler Ronde A = 0.
