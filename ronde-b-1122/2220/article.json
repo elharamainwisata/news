@@ -1,0 +1,49 @@
+{
+ "slot": "2026-11-22T22:20:00",
+ "category": 32,
+ "title": "Kuliner di Sekitar Haramain: Pesan Porsi Berbagi, Hindari Jam Salat, Ini Kisaran Harganya",
+ "excerpt": "Panduan HIMPUH: pesan porsi untuk dimakan bersama, makan di luar jam salat, bawa botol isi ulang Zamzam. Kabsa sekitar 20-45 riyal, shawarma 6-15 riyal.",
+ "tags": [
+  34,
+  1783,
+  1272,
+  687
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1122/2220/nampan-nasi-ayam-makan-bersama-madinah.jpg",
+   "alt": "Jemaah menyendok nasi berempah dengan ayam panggang dari satu nampan besar saat makan bersama",
+   "caption": "",
+   "seen": "Tampak atas satu nampan bulat besar berisi nasi putih berempah dengan ayam panggang utuh, potongan daging, kacang mete, paprika merah dan hijau, mi kuning; beberapa tangan jemaah menyendok dengan sendok plastik hitam/putih dari nampan yang sama di atas alas plastik. Tanpa wajah. Agak lembut (bingkai video) tapi tidak pecah.",
+   "evidence": "Drive Elharamain perpustakaan 1cg353egFOuGmZVuvhLQ3KhUdHNiv-3x9 > KULINER MADINAH > ROMANSIAH (1Y1DvQ1UWSZ10Z0lyVRiG2_A_CvB8ODot), video IMG_5866.MOV (file 1xhVXtR1vcs9ZKm9oHresII33deJ2x68h), thumbnail Drive 1080x1920, crop y930-1538 -> 1280x720 q82. Ilustrasi Elharamain -> tanpa caption. File ini tidak ada di paket 7 hari (IMG_5877 dari folder sama dipakai 17 Nov, dihindari).",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1122/2220/kudapan-manis-berserabut-renyah-berisi-krim.jpg",
+   "alt": "Tangan memegang potongan kue manis berserabut renyah keemasan berisi krim putih",
+   "caption": "",
+   "seen": "Close-up tangan memegang sepotong kue berserabut tipis renyah keemasan (tampak seperti kunafa) dengan isian krim putih, latar sofa merah restoran buram. Tanpa wajah.",
+   "evidence": "Drive KULINER MADINAH > ROMANSIAH, IMG_5879.JPG (file 1aSlW_5NxmbsYMxL-Dg_m3WIuI26ajEkH), exif_transpose, crop 4:5 -> 960x1200 q82. Nama hidangan tidak tertulis di sumber foto, jadi alt/caption TIDAK menyebut 'kunafa'; dipasang dekat paragraf makanan manis. Tanpa caption.",
+   "ai_prompt": ""
+  },
+  "3": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1122/2220/jemaah-makan-bersama-meja-panjang-restoran-madinah.jpg",
+   "alt": "Rombongan jemaah umrah makan bersama di meja panjang berisi nampan nasi dan ikan di lorong rumah makan",
+   "caption": "",
+   "seen": "Meja panjang di lorong deretan rumah makan dengan lengkungan batu di ujung; puluhan jemaah berpeci putih dan berkerudung (sebagian berlanyard Elharamain) duduk berhadapan menyantap nampan nasi dengan ikan goreng, botol air mineral di meja, papan menu berbahasa Arab di kiri. Wajah jemaah tampak sebagai foto rombongan, bukan close-up tunggal.",
+   "evidence": "Drive KULINER MADINAH > Sari Qurban (1UgWitnXeLkrhQvpC4ZJp2YSNxmB_9hYo), video IMG_6223.MOV (file 1D298FziikESpx0nU1hNPBezy9VXABNf9), thumbnail Drive 1080x1920, crop y300-1650 -> 960x1200 q82. Tanpa caption (ilustrasi). Dipasang dekat paragraf porsi berbagi/makan bersama.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 524,
+ "sources": [
+  "https://himpuh.or.id/blog/detail/5273/12-pilihan-kuliner-di-sekitar-makkah-dan-madinah (HIMPUH, 16 Nov 2026; link keluar satu-satunya; harga ditulis 'per November 2026')",
+  "https://himpuh.or.id/blog/detail/5149/7-kuliner-khas-arab-saudi-yang-wajib-dijajal-jemaah-umrah (HIMPUH 4 Nov 2026, konteks; tanpa link)"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "TIPS HIMPUH untuk Lifestyle (32). Nama restoran/merek dari sumber (gerai ayam goreng, toko roti, rumah makan) sengaja tidak disebut agar tidak promosi. Beda sudut dari 14825 (31 Jul, 5 kuliner khas) yang ditautkan internal: fokus tips porsi berbagi, jam makan, botol isi ulang Zamzam, kisaran harga per Nov 2026. Calon digugurkan: Makkah siaga merah/cuaca (sudah 19172), stroller (sudah dipakai), asuransi & busana musim dingin (19122, 19176), tips maskapai HIMPUH 5291 (kurang lifestyle, tanggal tidak dicek). Tolong S1/1940 tidak memakai blog 5273/5149."
+}

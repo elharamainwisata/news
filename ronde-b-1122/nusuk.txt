@@ -1,0 +1,3 @@
+NUSUK BARU (setelah 22 Nov 2026 05:25 WIB) - dicek S4 22 Nov ±11:15 WIB: KOSONG.
+Sumber dicek: SPA portalapi locale=en hal 1-30 (15 Nov s.d. 22 Nov 10:19 WIB; tak ada judul memuat "Nusuk"/izin/Raudhah baru; locale=ar kosong), Arab News RSS + rubrik /saudi-arabia (tak ada Nusuk/haji-umrah), WebSearch arabnews/spa/saudigazette/haj.gov.sa ("Nusuk app new service November 2026", "Ministry of Hajj and Umrah announces") -> hanya berita lama (kereta listrik tawaf N2710068 Okt, kalender umrah 1448 Mei) yang sudah ditulis. www.nusuk.sa tidak dicoba (blokir bot).
+Paket 1620 TIDAK dibuat.

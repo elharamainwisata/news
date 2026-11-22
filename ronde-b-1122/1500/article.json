@@ -1,0 +1,37 @@
+{
+ "slot": "2026-11-22T15:00:00",
+ "category": 29,
+ "title": "Izin 46 PIHK Bermasalah, Kemenhaj Pindahkan 382 Calon Jemaah Haji Khusus ke PIHK Lain",
+ "excerpt": "Kemenhaj memindahkan 382 calon jemaah haji khusus dari 46 PIHK yang izinnya dicabut atau diblokir, tetapi kurang dari separuhnya bisa melunasi tahun ini.",
+ "tags": [34, 36, 281, 1992, 476],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "",
+   "alt": "Ilustrasi calon jemaah haji khusus berkonsultasi dengan petugas soal perpindahan penyelenggara haji",
+   "caption": "Ilustrasi",
+   "seen": "",
+   "evidence": "Berita negatif (izin PIHK dicabut/diblokir, jemaah terdampak) -> wajib ilustrasi, tanpa foto Elharamain; dibuat induk",
+   "ai_prompt": "Ultra-realistic documentary news photograph, shot on full-frame DSLR with 35mm lens, natural available light, inside a modest Indonesian government service office: a middle-aged Indonesian couple (husband in batik shirt and peci, wife in plain hijab) sitting across a desk from a calm Indonesian civil servant in a plain white shirt, the officer pointing at a stack of plain documents and a blank form folder, the couple holding a plain savings book and a manila envelope, attentive and calm expressions, Indonesian Southeast Asian people with tan brown skin, realistic skin texture with pores and fine wrinkles, natural imperfect expressions, candid unposed moment, authentic everyday clothing and setting in Indonesia, slight film grain, shallow depth of field, true-to-life colors, not CGI, not 3D render, not painting, not illustration, not plastic or airbrushed skin, no readable text, no logos, no brand names, no flags, no weapons/blood/fire/explosion, all people fictional (not real public figures), modest Muslim clothing, no Kaaba, no Masjid al-Haram, no Masjid an-Nabawi, no Caucasian, no Western-looking people. 16:9"
+  },
+  "2": {
+   "file": "",
+   "alt": "Ilustrasi tangan calon jemaah memeriksa surat permohonan bermeterai dan bukti setoran haji",
+   "caption": "Ilustrasi",
+   "seen": "",
+   "evidence": "Sisipan setelah paragraf kutipan pelunasan; berita negatif -> ilustrasi, dibuat induk (boleh dilewati bila induk hanya membuat 1 gambar)",
+   "ai_prompt": "Ultra-realistic documentary news photograph, shot on full-frame DSLR with 50mm lens, natural window light, close-up of the hands of an Indonesian Southeast Asian woman with tan brown skin wearing a plain hijab sleeve, signing a plain letter with a small postage-stamp-like duty stamp on a wooden table at home, beside a plain bank savings book, a calculator and a cup of tea, face not shown, realistic skin texture, candid unposed moment, authentic everyday setting in Indonesia, slight film grain, shallow depth of field, true-to-life colors, not CGI, not 3D render, not painting, not illustration, no readable text, no logos, no brand names, no flags, all people fictional, modest Muslim clothing, no Kaaba, no Masjid al-Haram, no Masjid an-Nabawi, no Caucasian, no Western-looking people. 4:5"
+  }
+ },
+ "sensitive": true,
+ "topic_type": "HAJI PLUS",
+ "word_count": 517,
+ "sources": [
+  "https://himpuh.or.id/blog/detail/5340/izin-46-pihk-bermasalah-bagaimana-nasib-jemaahnya-ini-kata-kemenhaj-ri (22/11/2026 09:25 WIB; kutipan Tuti Rianingrum, sosialisasi KMHU 99/2026 18/11; LINK KELUAR SATU-SATUNYA)",
+  "https://cahaya.kompas.com/aktual/26K06210111390/pelunasan-haji-khusus-2027-dimulai-6-november-simak-jadwal-dan-ketentuannya (6/11/2026; mekanisme pindah PIHK izin tak berlaku, rekomendasi Direktur Perizinan; tanpa link)",
+  "https://haji.go.id/uploads/general/42e9e925-bf6c-4dfd-8a02-01929b929045-1769065614485.pdf (PMHU 4/2025 Pasal 12-13: prosedur perpindahan antar-PIHK saat izin dicabut/dibekukan, verifikasi 2 hari kerja, larangan pungut biaya; tanpa link)"
+ ],
+ "haji_go_id": "tidak (rilis berita); PMHU 4/2025 dari haji.go.id/uploads dipakai sebagai dasar prosedur, tanpa link",
+ "bpkh": "tidak",
+ "notes": "Topik beda dari 19229 (Ronde A, cadangan tak boleh ajukan pendamping, HIMPUH 5339) walau dari sosialisasi KMHU 99/2026 yang sama (18/11); beda juga dari 19070 (serapan 16%) dan 19025 (lunas tunda). Tidak ada nama PIHK/travel (sumber juga tidak menyebut). Berita bernada negatif -> sensitive true, gambar ilustrasi (prompt di images.1/2; sisipan 2 opsional). Paragraf 'Pindah PIHK tidak otomatis berarti berangkat' = parafrasa sumber (sebagian besar jemaah tak dapat melunasi tahun ini). Redaktur: cek apakah PMHU 4/2025 masih berlaku (pencarian: PMHU 2/2026 mencabut PMA 5/2021, bukan PMHU 4/2025). Digugurkan: 4 kandidat provinsi di brief (Bali shelter 18915, Sumbar-Polda 18855, Riau PPIU 18919, Papua Barat-Imigrasi 18969 SUDAH ditulis); HIMPUH 5339 (dipakai Ronde A); 5327 city terminal Makkah (haji, sumber asli di luar allowlist); antaranews pemulangan Pasaman Barat (sudah 17387) dan Boyolali (19239); rilis pusat 20-21 Nov (PPIH/pelunasan reguler, haji reguler)."
+}

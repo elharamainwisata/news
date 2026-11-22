@@ -1,0 +1,38 @@
+{
+ "slot": "2026-11-22T19:40:00",
+ "category": 29,
+ "title": "Tips Memilih Penerbangan Umrah dari HIMPUH: Cek Rute Langsung, Jadwal, hingga Jatah Bagasi",
+ "excerpt": "HIMPUH mengingatkan calon jemaah umrah memeriksa rute langsung atau transit, jadwal pulang, jatah bagasi, dan layanan lansia sebelum membayar paket.",
+ "tags": [34, 1272, 153, 1587],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1122/1940/utama-kabin-pesawat-layar-kursi.jpg",
+   "alt": "Layar hiburan di sandaran kursi pesawat menampilkan peta bola dunia dengan posisi pesawat di atas Jazirah Arab",
+   "caption": "",
+   "seen": "Sandaran kursi pesawat berwarna abu-abu muda dengan layar menyala menampilkan peta bola dunia (Jazirah Arab, India, label Dubai/New Delhi/Bangkok) dan daftar jam kota di kiri; deret kursi lain di latar kiri; tanpa orang, tanpa logo maskapai terlihat; sedikit lembut (bingkai video 4K).",
+   "evidence": "Drive Elharamain perpustakaan 1cg353egFOuGmZVuvhLQ3KhUdHNiv-3x9 > 'Landing Jeddah' (104R-AKoF4cXPpDsrMqr8jGy5slV7E8-2), video IMG_0536.MOV (file 1GjLbaYNwXMa6hgg7-5GsudfHSE4dctat), bingkai detik 1,5 (2160x3840), crop y2500-3715 -> 1600x900 q82. Belum dipakai 7 hari (grep ronde-a/b: tidak ada). Ilustrasi Elharamain -> tanpa caption.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1122/1940/sisipan-layar-pesawat-arah-makkah.jpg",
+   "alt": "Layar kursi pesawat menampilkan kompas arah dengan ikon Ka'bah dan tulisan Makkah 68 km",
+   "caption": "",
+   "seen": "Layar di sandaran kursi pesawat menampilkan ikon Ka'bah, tulisan 'Makkah (68 km)', panah kuning, dan kompas biru (S, W, N, E) dengan ikon pesawat di tengah; tombol kecerahan, daya, dan volume di bawah layar; tanpa orang, tanpa logo.",
+   "evidence": "Drive 'Landing Jeddah' video IMG_0535.MOV (file 15e2zniZF1nbuJaM6uTed9KKhG4Ad-Xh5), bingkai detik 1,5, crop 4:5 y800-3500 -> 1200x1500 q82. Belum dipakai 7 hari. Ditaruh setelah paragraf imbauan penerbangan langsung ke Jeddah/Madinah. Tanpa caption (ilustrasi).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 509,
+ "sources": [
+  "https://himpuh.or.id/blog/detail/5291/tips-memilih-maskapai-terbaik-untuk-haji-dan-umrah (17/11/2026, kategori Tips; LINK KELUAR SATU-SATUNYA) - TIPS HIMPUH",
+  "https://haji.go.id/berita/menhaj-ingatkan-pengetatan-istitaah-kesehatan-jemaah-haji-dan-imbau-travel-umrah-gunakan-penerbangan-langsung-1792225731791 (17/10/2026, kutipan Menhaj; tanpa link)",
+  "https://haji.go.id/berita/wamenhaj-imbau-jemaah-umrah-tidak-menggunakan-maskapai-transit-singapura-dan-malaysia-1793011243117 (26/10/2026 WIB, imbauan Wamenhaj; tanpa link)",
+  "https://haji.go.id/uploads/general/42e9e925-bf6c-4dfd-8a02-01929b929045-1769065614485.pdf (PMHU 4/2025 Pasal 52: PPIU lapor tiket PP sebelum berangkat; tanpa link)"
+ ],
+ "haji_go_id": "pusat (konteks imbauan Menhaj 17/10 & Wamenhaj 26/10/2026, tanpa link; sumber utama HIMPUH)",
+ "bpkh": "tidak",
+ "notes": "TIPS HIMPUH ditulis ulang total (tanpa daftar bernomor), 'per November 2026' di penutup. Klaim HIMPUH 'paling banyak satu kali transit dengan maskapai yang sama' TIDAK dipakai karena tidak terverifikasi di PMHU 4/2025 yang terbaca. Konteks eskalasi Timur Tengah dan nama maskapai nasional di rilis Wamenhaj sengaja tidak dikutip (politik/merek). Tanpa nama travel/maskapai. Beda dari 17904 (pesan tiket via Nusuk), 18666 (penjajakan direct Batam-Jeddah), 19159 (bagasi Soetta), 19066 (miqat). Digugurkan: HIMPUH 5269 6 modus penipuan (negatif, wilayah S3 perlindungan jemaah, mirip 17851), 5273/5149 kuliner (diklaim S3), 5297 jadwal Raudhah (sudah 17905), 5304 tawaf qudum & 5305 tawaf ifadhah (manasik haji, bukan umrah), 5268 bayar biaya haji (reguler). Foto: drive Landing Jeddah dipilih setelah frame IMG_0533 (peta Jeddah) ditolak karena sudah dipakai ronde-a-1117/0900; frame bermerek maskapai (IMG_0529/0534) ditolak; Pexels jendela pesawat (potret) tidak dipakai."
+}

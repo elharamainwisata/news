@@ -1,0 +1,35 @@
+{
+ "slot": "2026-11-22T17:00:00",
+ "category": 25,
+ "title": "Universitas Islam Madinah Usulkan Panduan Syariah Pemakaian AI, Fatwa Wajib Diawasi Ahli",
+ "excerpt": "Forum Fakultas Syariah Universitas Islam Madinah meminta panduan etika AI disusun dan pemakaian AI untuk fatwa diawasi ahli tanpa menggantikan ijtihad.",
+ "tags": [
+  34,
+  2084,
+  2094,
+  71,
+  1162
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1122/1700/mushaf-dan-papan-ketik-komputer.jpg",
+   "alt": "Mushaf Al-Qur'an bersampul hitam keemasan di samping papan ketik komputer",
+   "caption": "",
+   "seen": "Mushaf bersampul hitam dengan ornamen emas tergeletak di meja putih di samping papan ketik nirkabel abu-abu, monitor buram di latar; tanpa orang.",
+   "evidence": "Pexels 12884515 (alt: Quran book placed next to a keyboard, symbolizing the blend of tradition and technology), bebas kredit. Diganti induk: foto Wikimedia CC BY-SA kampus UIM tidak masuk pengecualian (hanya masjid/tokoh), SPA tanpa foto, image_generate 429.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 453,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2733253",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2733253?locale=en",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2733212?locale=ar"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "MEDIA ARAB (Dunia islam 25). Sumber SPA EN N2733253 + versi Arab N2733212 (22/11/2026); poin 'fatwa di bawah pengawasan ahli, tidak menggantikan ijtihad' diambil dari versi Arab (versi Inggris menulis 'promoting the use of AI in issuing fatwas'). Link keluar 1 (SPA EN). Link internal 18917 & 18674. GAMBAR: SPA tidak punya foto untuk rilis ini, jadi dipakai foto Wikimedia CC BY-SA dengan kredit kecil di dalam gambar (pengecualian tempat/landmark tertentu; redaktur mohon cek bila kampus dianggap bukan landmark). Caption WP kosong. Calon digugurkan: kampanye diabetes Al-Naseem Makkah N2732606 (lemah bagi jemaah, sudah digugurkan Ronde A); kursus imam Peru N2733260 (relevansi rendah, genre mirip 19240); workshop lisensi wisata Makkah Chamber N2731439 (untuk pelaku usaha); stroller Masjidil Haram N2730885 (sudah di 18964/HIMPUH); pusat digital Nabawi N2730541 (sudah di 18917); bus Madinah respons otomatis N2730107 (2 kalimat); Gubernur Madinah terima Konjen RI N2729645 (1 kalimat isi); rapat Gubernur Taif layanan umrah N2729943 (dobel 19238); KSrelief gempa Indonesia & gempa Maluku (topik ditahan/negatif); Absher Travel e-bike perbatasan darat N2731480 (tak berlaku jemaah Indonesia); serangan Houthi (militer). Nusuk: kosong (lihat ../nusuk.txt), paket 1620 tidak dibuat. | Induk: foto CC BY-SA kampus diganti Pexels 12884515; sisipan dibuang."
+}

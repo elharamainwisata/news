@@ -1,0 +1,42 @@
+{
+ "slot": "2026-11-22T21:40:00",
+ "category": 31,
+ "title": "Masjid Sunan Ampel Surabaya, Wisata Religi Wali Songo dengan 16 Tiang Jati Setinggi 17 Meter",
+ "excerpt": "Masjid Sunan Ampel di Surabaya dibangun 1421, beratap tajug tiga tingkat, bertiang jati 17 meter, dan punya lima gapura yang disusun mengikuti rukun Islam.",
+ "tags": [
+  34,
+  724,
+  1801,
+  53
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1122/2140/masjid-sunan-ampel-surabaya.jpg",
+   "alt": "Masjid Sunan Ampel Surabaya dengan atap tajug bersusun, menara putih, dan deretan pintu lengkung di balik pagar",
+   "caption": "",
+   "seen": "Bangunan Masjid Ampel dari samping: atap tajug genteng hijau bersusun dengan mahkota emas, badan menara putih (puncak menara terpotong crop), serambi putih, deretan pintu/jendela lengkung berukir di balik pagar besi; kredit kecil 'Foto: Ivan/CC BY' di pojok kanan bawah.",
+   "evidence": "Wikimedia Commons File:Ampel_Mosque_in_2008.jpg (https://commons.wikimedia.org/wiki/File:Ampel_Mosque_in_2008.jpg), deskripsi 'Ampel Mosque in 2008', kategori Mosques in Surabaya, CC BY 2.0, pemotret 'consigliere ivan from Bontang' -> kredit di gambar",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1122/2140/makam-mbah-sonhaji-ampel.jpg",
+   "alt": "Makam berpagar besi dengan papan nama Makam Shonhaji/Mbah Bolong di kompleks Sunan Ampel Surabaya",
+   "caption": "",
+   "seen": "Makam berpagar besi berujung tombak emas beratap genteng, papan hijau-putih bertuliskan 'MAKAM SHONHAJI / MBAH BOLONG', taburan bunga di dalam, dua bangku kayu di depan; tanpa wajah orang; kredit 'Foto: Abdul/CC BY-SA'.",
+   "evidence": "Wikimedia Commons File:Makam_Sunan_Ampel_di_Bulan_Ramadhan_2025-9.jpg (kategori Sunan Ampel Mausoleum; deskripsi 'Suasana Makam Sunan Ampel di Bulan Ramadhan 2025'), CC BY-SA 4.0, Abdul Hanif Arromy -> kredit di gambar; identitas tertulis di papan pada foto",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 505,
+ "sources": [
+  "https://khazanah.republika.co.id/berita/olgqwh313/makna-di-balik-arsitektur-masjid-sunan-ampel",
+  "https://www.detik.com/jatim/berita/d-7040533/masjid-sunan-ampel-yang-berarsitektur-jawa-kuno-dan-bernuansa-arab",
+  "https://www.detik.com/jatim/wisata/d-7396262/mengenal-wisata-religi-sunan-ampel-kampung-arab-di-surabaya"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "Link keluar 1 (Republika). detikJatim & Republika disebut tanpa link. Tahun perluasan KH Manaf Murtadho berbeda antarsumber (Republika 1954, detik '18 tahun setelah 1926') sehingga tahun tidak ditulis; ukuran tiang (diameter) juga beda antarsumber, tidak ditulis. Klaim sumur 'sama dengan zamzam' sengaja tidak dimuat. Foto masjid CC BY dengan kredit kecil di gambar (aturan masjid); caption WP kosong. Calon digugurkan: Kompleks Imam Bukhari Samarkand (Uzbekistan sudah dibahas 15420/16361; foto bebas terbatas), Masjid Suleymaniye Istanbul (Istanbul sudah 19175 & 18970 minggu ini)."
+}

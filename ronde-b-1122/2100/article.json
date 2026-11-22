@@ -1,0 +1,33 @@
+{
+ "slot": "2026-11-22T21:00:00",
+ "category": 23,
+ "title": "Imigrasi Luncurkan Pasporia, Calon Jemaah Umrah Kini Bisa Urus Paspor di Hari Libur",
+ "excerpt": "Ditjen Imigrasi meluncurkan Pasporia, layanan paspor di hari libur dan lokasi CFD. Di Jakarta tersedia sekitar 300 kuota permohonan setiap hari Minggu.",
+ "tags": [
+  34,
+  182,
+  221,
+  687
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1122/2100/paspor-indonesia-dipegang-calon-pelaku-perjalanan.jpg",
+   "alt": "Tangan memegang paspor Republik Indonesia bersampul hijau di area terminal bandara",
+   "caption": "",
+   "seen": "Tangan kanan memegang paspor Republik Indonesia bersampul hijau tosca (tulisan REPUBLIK INDONESIA, lambang Garuda, PASPOR/PASSPORT terbaca) di depan gerbang putih berlengkung terminal bandara yang buram; dua orang berjalan membawa tas di latar kanan. Tanpa wajah jelas.",
+   "evidence": "Pexels 39075598 'Close-up of a hand holding an Indonesian passport at Yogyakarta International Airport' (stok gratis tanpa kredit; 1600x1067 crop 16:9 y90-990). Foto lain seri ini (39075595, 39075597) dipakai 20 Nov (ronde-b-1120/2220); 39075598 belum dipakai.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 495,
+ "sources": [
+  "https://www.antaranews.com/berita/5870555/imigrasi-perluas-layanan-paspor-melalui-program-pasporia (Antara, Minggu 22/11/2026 10:44 WIB; link keluar satu-satunya)",
+  "https://news.detik.com/berita/d-8602794/pasporia-hadir-warga-medan-kini-bisa-urus-paspor-saat-cfd (detikcom 3/8/2026, Pasporia Belawan: dokumen asli+fotokopi, verifikasi, wawancara, biometrik; disebut tanpa link)"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "Berita (23) #3 sudut imigrasi/paspor untuk calon jemaah umrah. Kandidat provinsi di brief (Bali shelter 18915, Sumbar-Polda 18855, Riau PPIU 18919, Pabar-Imigrasi 18969) SUDAH ditulis -> digugurkan. Kepri pemantauan PPIU (slug & judul memuat nama travel, sudah jadi konteks 19239) digugurkan. Jabar aturan KBIHU digugurkan (KBIHU Jabar masuk daftar draft ditahan). Detik 'modus penipuan travel umrah' (evergreen, mirip 17662/17548/19239) digugurkan. Tidak ada rilis haji.go.id baru. Link internal: 18860 (Mukomuko), 17841 (Parepare)."
+}

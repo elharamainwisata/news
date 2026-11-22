@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-22T17:40:00",
+ "category": 23,
+ "title": "Kemenag Buka Bantuan Laptop dan Proyektor untuk LPQ dan MDT, Pengajuan hingga 26 November",
+ "excerpt": "Kemenag membuka pengajuan bantuan peralatan belajar senilai Rp1 miliar bagi LPQ dan MDT. Pengajuan daring lewat SIMBA pada 20-26 November 2026, gratis.",
+ "tags": [
+  34,
+  21,
+  1087,
+  2109,
+  1543
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1122/1740/anak-mengaji-rehal-yogyakarta.jpg",
+   "alt": "Lima anak berpeci membaca Al-Qur'an di atas rehal kayu di halaman berlatar hiasan lampu kaligrafi",
+   "caption": "",
+   "seen": "Lima anak laki-laki berpeci duduk bersila berjajar di atas tikar di rumput, masing-masing membaca mushaf di rehal kayu; di belakang hiasan lampu berbentuk kaligrafi Allah menyala pada malam hari. Wajah kecil dan menunduk, bukan close-up.",
+   "evidence": "Pexels 36830443 'A group of children read the Quran under an illuminated Allah sign during Ramadan in Yogyakarta, Indonesia' (pexels.com/search/children reading quran), w=1600 (1600x1314), crop y360-1260 -> 1600x900 q82. Stok gratis tanpa kredit; belum ada di article.json mana pun.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1122/1740/jari-anak-menunjuk-mushaf.jpg",
+   "alt": "Jari anak menunjuk baris ayat pada mushaf Al-Qur'an yang terbuka di atas meja baca",
+   "caption": "",
+   "seen": "Close-up tangan anak berbaju garis menunjuk huruf Arab pada mushaf terbuka di atas meja/rehal plastik; tangan anak lain di belakang juga membaca mushaf; tanpa wajah.",
+   "evidence": "Pexels 39701411 'Children in a classroom environment studying religious texts in detail' (pexels.com/search/children reading quran), w=1600 (1600x2400), crop y380-2380 -> 1000x1250 (4:5) q82. Stok gratis tanpa kredit.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 471,
+ "sources": [
+  "https://www.detik.com/hikmah/khazanah/d-8762124/kemenag-buka-pengajuan-bantuan-sarana-belajar-lpq-dan-mdt-2026"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "Berita Kemenag (pendidikan Al-Qur'an nonformal), topik beda dari 1540 (zakat). Link keluar 1 (detikHikmah); simba.kemenag.go.id ditulis sebagai teks tanpa link. Kalimat penjelas LPQ/MDT (TPQ di masjid/musala, MDT pelengkap pelajaran agama) = pengertian umum, bukan dari sumber. Cadangan bila ditolak: Kemenag Rp993 miliar SBSN untuk 173 madrasah 2027 (Kompas Cahaya 22/11/2026). Digugurkan: Kemenag-PTKIN prodi kepesantrenan (Antara 20/11) - akademik, kurang praktis; Pesantren Award 25-26 Nov (NU Online 19/11) - >48 jam; Menko Zulhas pesantren bioflok - pangan/politik; DPR perlindungan santri - bernada kasus kekerasan; Seleksi MAN PUN 2027 - sekolah formal."
+}
