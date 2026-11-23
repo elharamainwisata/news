@@ -1,0 +1,42 @@
+{
+ "slot": "2026-11-24T14:20:00",
+ "category": 25,
+ "title": "Discover Makkah Ajak Pemandu Wisata Telusuri Distrik Budaya Jabal Tsur, Saksi Hijrah Rasulullah SAW",
+ "excerpt": "Program Discover Makkah membawa awak media, kreator konten, pemandu wisata, dan akademisi menelusuri Distrik Budaya Jabal Tsur, lokasi Gua Tsur saat hijrah.",
+ "tags": [
+  34,
+  1603,
+  724,
+  872,
+  71
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1124/1420/rombongan-discover-makkah.jpg",
+   "alt": "Peserta kunjungan Discover Makkah berfoto bersama di Distrik Budaya Jabal Tsur berlatar perbukitan batu Makkah",
+   "caption": "",
+   "seen": "Sekitar 30 pria bergamis putih dan perempuan berabaya berdiri berjajar berfoto bersama di jalan aspal, berlatar perbukitan batu cokelat dan tiang listrik; kredit 'Foto: SPA' kanan bawah, logo SPA terpotong.",
+   "evidence": "SPA N2734536 foto https://portalcdn.spa.gov.sa/backend/original/202611/M11301765.png (caption rilis: 'Discover Makkah' ... Visit to Jabal Thawr Cultural District)",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1124/1420/pemandu-jabal-tsur.jpg",
+   "alt": "Pria bergamis dan bersorban putih memberi penjelasan kepada peserta kunjungan Discover Makkah di Distrik Budaya Jabal Tsur",
+   "caption": "",
+   "seen": "Pria Saudi bergamis dan ghutrah putih dengan mikrofon klip sedang menjelaskan sambil menggerakkan kedua tangan, dua peserta perempuan berjilbab tampak dari belakang (buram) di depan; kredit 'Foto: SPA'.",
+   "evidence": "SPA N2734536 foto https://portalcdn.spa.gov.sa/backend/original/202611/M11301761.png",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 460,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2734536",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2734420?locale=ar",
+  "https://www.spa.gov.sa/en/N2734002"
+ ],
+ "haji_go_id": "tidak (SPA)",
+ "notes": "Dunia islam dari SPA 23 Nov (versi Inggris + Arab N2734420 untuk detail Sura Makkah: pemandu berlisensi, tur sebelumnya Al-Usailah, Masjid Al-Bai'ah & Jamarat, Ain Zubaidah). Paragraf EFQM dari SPA N2734002 (23 Nov), tanpa link. Latar Gua Tsur (3 hari, QS At-Taubah 40) mengacu artikel internal 16066. Foto SPA (lembaga) dengan kredit di gambar. Sisipan alternatif ditolak: plaza bersculptur batu & unta (M11301763) karena crop memotong puncak patung/unta. Calon digugurkan: lihat 1140/article.json."
+}

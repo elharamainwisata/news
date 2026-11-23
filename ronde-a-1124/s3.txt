@@ -1,0 +1,4 @@
+0820 1 /home/khaeruddien/elharamain-news/ronde-a-1124/0820/jemaah-ihram-tawaf-kabah.jpg 2fc5c27e126abeb0861da7fb65c17ba8b707100c6a096401c98c6fa789e22598
+0820 2 /home/khaeruddien/elharamain-news/ronde-a-1124/0820/jemaah-tawaf-idhtiba.jpg 1f872d7f26efe135893c8e63eb1f60f65e4d06a39eff1c8921a96aa07dbda61d
+0940 1 /home/khaeruddien/elharamain-news/ronde-a-1124/0940/masjid-addas-thaif.jpg 4e96b51dad7a27e7c8c65f1ff13bd18fdb2facf16bcbbe25f8a2f2b0955d2433
+0940 2 /home/khaeruddien/elharamain-news/ronde-a-1124/0940/masjid-addas-pintu-masuk.jpg db0bd12e5e30d6989e83c97f5e83b105899ef5573c94239ec2e99fd0c24cd507

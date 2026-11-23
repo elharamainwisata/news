@@ -1,0 +1,34 @@
+{
+ "slot": "2026-11-24T12:20:00",
+ "category": 30,
+ "title": "Ingin Mengumrahkan Orang Tua yang Sudah Wafat, Bolehkah dan Apa Syaratnya? Ini Penjelasan Ulama",
+ "excerpt": "Ulama membolehkan badal umrah bagi orang tua yang wafat, dengan syarat pembadal sudah beribadah untuk diri sendiri, tetapi hukum wajibnya diperselisihkan.",
+ "tags": [
+  34,
+  2050,
+  509,
+  687
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1124/1220/kabah-tawaf-payung-umrah.jpg",
+   "alt": "Ka’bah berkiswah hitam dengan kaligrafi emas, di bawahnya payung jemaah yang sedang bertawaf di Masjidil Haram",
+   "caption": "",
+   "seen": "(induk, crop ulang) Ka'bah berkiswah hitam dengan sabuk kaligrafi emas, menara Masjidil Haram di kiri atas, payung kuning dan hijau jemaah tawaf di bawah; tanpa wajah.",
+   "evidence": "Drive Elharamain perpustakaan 1cg353egFOuGmZVuvhLQ3KhUdHNiv-3x9 > 'Umrah Sunnah - Setelah Haji' > 'Report ust kadir - dokumentasi umroh' > 'Dokumentasi umrah sunnah 1' (1r3d9VaRbHDXPNgAQ8KckbgjBSfgPRl9j), video IMG_3743.MOV (file 1AzfpLUkjJYWA605HMwM3B1z2aSD_PhOb), thumbnail Drive 1080x1920, crop y860-1468 -> 1280x720 q82. Identitas: nama subfolder 'umrah sunnah' + Ka’bah jelas. ID/nama berkas tidak ada di article.json mana pun (grep seluruh elharamain-news). Foto Elharamain sebagai ilustrasi -> TANPA caption. Tidak ada payung/spanduk bertuliskan nama travel di bingkai.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 605,
+ "sources": [
+  "https://nu.or.id/syariah/niat-badal-umrah-jIj5b",
+  "https://nu.or.id/bahtsul-masail/hukum-menghajikan-orang-tua-yang-sudah-wafat-QiLPO",
+  "https://nu.or.id/syariah/hukum-umrah-dalam-empat-mazhab-HpLqA",
+  "https://muhammadiyah.or.id/2025/04/jika-ada-badal-haji-apakah-badal-umrah-juga-ada/"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Tanya Jawab evergreen badal umrah untuk orang tua wafat. Link keluar 1 (NU Online Niat Badal Umrah); NU Bahtsul Masail, NU Hukum Umrah 4 Mazhab, dan Majelis Tarjih Muhammadiyah disebut tanpa link. Perbedaan pendapat dicantumkan (Syafi'i vs Hanafi soal syarat pembadal; NU/Syafi'i umrah wajib vs Muhammadiyah sunnah muakkadah, wajib hanya bila nazar). Catatan redaktur: NU Online menulis syarat pembadal 'sudah pernah menjalankan ibadah haji' (berlaku untuk badal haji/umrah) - dikutip apa adanya. Link internal 17026 (Masjid Aisyah Tan'im) & 17076 (umrah berkali-kali dari Tan'im; Fiqih 6 Nov, topik beda: mengulang umrah, bukan badal). Beda dari c[30] 14 hari (19375, 19237, 19163, 19069, 18918, 18800, 18671) dan Fiqih S3 hari ini (ramal saat tawaf). Calon digugurkan: tayamum/salat di pesawat (HIMPUH 3931) karena satu tema dengan artikel 1040 (tips di pesawat); haid sebelum umrah (dobel 17546 obat penunda haid & 16627 sa'i haid); umrah berkali-kali dari Tan'im (dobel 17076); MUI Fatwa 01/2001 tidak dipakai (isinya haji narapidana, bukan badal umrah). | Induk: foto utama di-crop ulang untuk membuang profil wajah jemaah; sisipan Ka'bah dibuang karena kembar dengan foto utama."
+}

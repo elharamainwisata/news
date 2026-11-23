@@ -1,0 +1,8 @@
+Cek kabar Nusuk BARU (setelah 23 Nov 2026 04:00 WIB) oleh S6, 24 Nov 2026 05:09 WIB:
+STATUS: KOSONG - tidak ada kabar/layanan Nusuk baru.
+Sumber dicek:
+- SPA API https://portalapi.spa.gov.sa/api/v1/news?page=1..15&locale=en (s.d. ~20 Nov): tidak ada judul memuat "Nusuk" setelah 23 Nov 04:00 WIB. (locale=ar kosong.)
+- WebSearch arabnews.com/spa.gov.sa/saudigazette/haj.gov.sa "Nusuk new service November 2026": terbaru = pemesanan kereta listrik tawaf/sa'i via Nusuk (SPA N2710068, 25 Okt 2026) - lama.
+- arabnews.com/saudi-arabia: tidak ada berita Nusuk.
+- www.nusuk.sa tidak diakses (blokir bot).
+Saran: slot Nusuk 08:00 & 13:20 tidak diisi dari bahan baru.

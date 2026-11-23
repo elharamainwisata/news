@@ -1,0 +1,42 @@
+{
+ "slot": "2026-11-24T13:40:00",
+ "category": 23,
+ "title": "Saudi Jajaki City Terminal di Makkah agar Jemaah Check-in dan Serahkan Koper sebelum ke Bandara",
+ "excerpt": "Saudia Group dan Kementerian Haji dan Umrah Arab Saudi menjajaki City Terminal di Makkah agar jemaah bisa check-in dan menyerahkan koper sebelum ke bandara.",
+ "tags": [
+  34,
+  687,
+  1587,
+  471,
+  71
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1124/1340/saudia-mendarat-utama.jpg",
+   "alt": "Pesawat Boeing 777 Saudi Arabian Airlines (Saudia) bersiap mendarat di landasan bandara Arab Saudi dengan latar pegunungan",
+   "caption": "",
+   "seen": "Pesawat Boeing 777 berlivery Saudi Arabian (tulisan Latin dan Arab di badan, logo palem-pedang di ekor) melayang rendah di atas landasan, roda keluar, latar pegunungan cokelat dan bangunan bandara; tanpa orang.",
+   "evidence": "Pexels 38305750 'Boeing 777 landing at Saudi Arabian airport' (https://www.pexels.com/photo/boeing-777-landing-at-saudi-arabian-airport-38305750/), lisensi Pexels tanpa kredit; crop 16:9 1600x900",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1124/1340/saudia-parkir-terminal.jpg",
+   "alt": "Ekor pesawat Saudia berlogo palem dan pedang bersilang terparkir di apron terminal bandara",
+   "caption": "",
+   "seen": "Ekor biru pesawat Saudia (registrasi HZ-AST) dengan logo palem dan dua pedang di depan, satu pesawat Saudia lain terparkir di belakang dekat terminal; difoto dari balik kaca; tanpa orang.",
+   "evidence": "Pexels 35427894 'Saudia airlines planes parked at airport terminal' (https://www.pexels.com/photo/saudia-airlines-planes-parked-at-airport-terminal-35427894/), tanpa kredit; crop 4:5 1200x1500",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 499,
+ "sources": [
+  "https://www.detik.com/hikmah/haji-dan-umrah/d-8763390/permudah-urusan-bagasi-jemaah-saudi-akan-sediakan-city-terminal-di-makkah",
+  "internal 17684 (SPA, Al-Rabiah layanan tanpa bagasi)",
+  "internal 19159 (Kemenhaj, bagasi umrah T2F Soetta)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "UMROH (layanan bagasi/check-in di Makkah). Sumber tunggal detikcom 21/11 mengutip MEP Middle East; rilis SPA/Arab News soal MoU City Terminal tidak ditemukan lewat pencarian (spa.gov.sa, arabnews). Konsep masih penjajakan, ditulis dengan paragraf kehati-hatian. Fakta Al-Rabiah 2 jam->15 menit dari post 17684 (SPA). Foto: stok Pexels (pesawat Saudia), tanpa kredit; video Drive 'Landing Jeddah' ditolak (vertikal, watermark HAJJ 2026 & teks overlay, wajah close-up). DIGUGURKAN: Pabar 22/11 'berantas mafia haji & travel ilegal' (sudut imigrasi-paspor sudah ditulis 18969; sisanya haji reguler); Mukomuko diseminasi & PPIU serahkan dokumen (dipakai S1 1300); Gorontalo awasi umrah di bandara (S1 gugurkan, menyebut nama travel); Mabar lepas jemaah umrah (nama travel di judul); Garuda Solo-Jeddah umrah perdana kompas 23/11 (berpusat pada mitra charter/biro, nama perusahaan tak bisa dilepas); Kemenhaj Jateng ancam polisikan biro Boyolali detik 23/11 (lanjutan 19239, dilarang brief); 18 maskapai setop penerbangan ke Saudi detik (terkait keamanan/militer); pengamat minta UU Perampasan Aset lindungi korban penipuan republika 20/11 (opini/legislasi); Pengunjung Nabawi bertambah detik 23/11 (wilayah S6, mirip 19374); asisten AI Haramain (sudah 18917)."
+}

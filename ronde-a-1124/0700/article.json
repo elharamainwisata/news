@@ -1,0 +1,32 @@
+{
+ "slot": "2026-11-24T07:00:00",
+ "category": 29,
+ "title": "Daftar Berhak Lunas Haji Khusus 2027 Diperbarui, Ini Dua Temuan Verifikasi Kemenhaj",
+ "excerpt": "Kemenhaj memperbarui daftar jemaah haji khusus berhak lunas 2027 setelah menemukan jemaah pernah berhaji kurang dari 18 tahun dan berusia di bawah 16 tahun.",
+ "tags": [
+  34,
+  36,
+  1992,
+  281,
+  476
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1124/0700/kemenhaj-daftar-berhak-lunas-haji-khusus-1448.jpg",
+   "alt": "Pejabat Kementerian Haji dan Umrah RI berompi krem memberikan keterangan kepada wartawan",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Seorang pejabat perempuan berkerudung putih dan berkacamata, memakai rompi krem berlogo Kementerian Haji dan Umrah RI, berbicara ke arah ponsel wartawan di ruang kantor bersekat; layar ponsel di latar depan bertuliskan Daker Makkah #PASTI.",
+   "evidence": "thumbnail resmi rilis pusat: https://haji.go.id/uploads/general/1d433d7e-98c8-4bfe-86b7-254805fbbbb8-1795442638996.jpg (rilis tidak memberi caption nama; papan nama di rompi terbaca sebagian '...NGRUM', alt sengaja tidak menyebut nama)",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "HAJI PLUS",
+ "word_count": 522,
+ "sources": [
+  "https://haji.go.id/berita/kemenhaj-perbarui-daftar-jemaah-haji-khusus-berhak-lunas-1448-h2027-m-pihk-diminta-segera-sosialisasikan-ke-jemaah-1795442639007"
+ ],
+ "haji_go_id": "pusat https://haji.go.id/berita/kemenhaj-perbarui-daftar-jemaah-haji-khusus-berhak-lunas-1448-h2027-m-pihk-diminta-segera-sosialisasikan-ke-jemaah-1795442639007 (referenceUrl API kosong; URL /berita HTTP 200)",
+ "notes": "Sudut: pembaruan daftar (Surat Dirjen S-103/PL/2026, 19 Nov) + dua temuan Pusdatin (berhaji <18 th, usia <16 th) + apa yang dilakukan jemaah. Beda dari 19070 (persentase pelunasan), 19025 (lunas tunda), 19306 (PIHK bermasalah), 19420 (furoda), 18998 (kalender; hanya dirujuk lewat link internal). Versi sulsel rilis yang sama TIDAK dipakai. Link cloud.haji.go.id daftar tidak ditautkan (aturan 1 link keluar). Tanpa gambar sisipan (tidak ada foto lain yang relevan dari rilis). Foto utama: wajah pejabat Kemenhaj, identitas nama tak dicantumkan karena tak ada caption tertulis. Digugurkan: Antara 19 Nov 'jajaran daerah petakan jamaah berhak lunas' (reguler, >48 jam)."
+}

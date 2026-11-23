@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-24T09:40:00",
+ "category": 27,
+ "title": "Masjid Addas di Thaif, Penanda Kebun Anggur Tempat Rasulullah SAW Disuguhi Anggur Pemuda Ninawa",
+ "excerpt": "Masjid Addas di Al-Mathnah, Thaif, berdiri di lokasi kebun anggur tempat Rasulullah SAW berteduh dan disuguhi anggur oleh Addas, pelayan Nasrani asal Ninawa.",
+ "tags": [
+  34,
+  171,
+  2071,
+  245,
+  251
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1124/0940/masjid-addas-thaif.jpg",
+   "alt": "Bangunan Masjid Addas di Thaif berdinding putih dengan jendela lengkung berteralis dan menara di sisi kanan",
+   "caption": "",
+   "seen": "Masjid kecil berdinding krem-putih bergerigi di atap, pintu putih dan tiga jendela lengkung berteralis, tangga beton ke atap, menara putih (bagian puncak terpotong) di kanan, pohon dan menara pemancar di kiri, langit biru; kredit kecil 'Foto: Sobri/CC BY-SA' di pojok kanan bawah.",
+   "evidence": "Wikimedia Commons https://commons.wikimedia.org/wiki/File:%D9%85%D8%B3%D8%AC%D8%AF_%D8%B9%D8%AF%D8%A7%D8%B3.jpg ('مسجد عداس', deskripsi 'The Addas Mosque (Masjid ‘Addās) between Mecca and Ta’if', Muhammad Sobri, 11/07/2017, CC BY-SA 4.0). Masjid -> pengecualian CC BY-SA dengan kredit kecil di gambar (13 px). Crop 16:9 y220-1300 dari 1920x1440 -> 1600x900 q82.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1124/0940/masjid-addas-pintu-masuk.jpg",
+   "alt": "Peziarah antre masuk pintu Masjid Addas di Thaif, papan hijau bertuliskan nama masjid terpasang di dinding",
+   "caption": "",
+   "seen": "Dinding putih masjid dengan jendela lengkung berteralis di kiri, papan hijau bertulisan Arab 'مسجد عداس' (Masjid Addas) nomor 02-06288, pintu terbuka; sekelompok peziarah laki-laki berpeci dan perempuan bercadar hitam berkerumun masuk (wajah tampak samping, jarak sedang); kredit kecil 'Foto: Indonesiagood/CC BY' di kanan bawah.",
+   "evidence": "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Masjid_Addas_(Umroh_Ramadhan_2023)-1.jpg ('Suasana Masjid Addas di Bulan Ramadhan 2023', Indonesiagood, 17/04/2023, CC BY 4.0); identitas juga terbaca di papan nama dalam foto. Crop 16:9 y360-1440 -> 1600x900 q82.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 321,
+ "sources": [
+  "https://jambi.antaranews.com/berita/353782/masjid-addas-dan-segenggam-anggur-dari-kebun-thaif (Antara 30/08/2019, Hanni Sofia; link keluar satu-satunya)",
+  "https://www.detik.com/hikmah/haji-dan-umrah/d-6814353/masjid-addas-di-taif-saksi-kemurahan-hati-non-muslim-yang-dapat-hidayah (detikHikmah 10/07/2023, merujuk Sirah Nabawiyah Al-Mubarakfuri - disebut tanpa link)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Sejarah Thaif: Masjid Addas belum pernah jadi artikel (hanya disebut sekilas di 18669 Kegiatan); 16588 (Thaif umum) ditautkan internal. Antara menyebut Rasul ke Thaif 'sendiri', detik/NU (16588) menyebut bersama Zaid bin Haritsah -> ditulis bersama Zaid (Al-Mubarakfuri). Antara 2019 menyebut tembok bercat kuning; foto 2017/2023 putih-krem -> warna tidak ditulis. Deskripsi Commons foto utama 'between Mecca and Ta’if' agak longgar, tetapi nama file/caption = Masjid Addas dan bentuknya cocok dengan foto kedua yang berpapan nama. Calon digugurkan: Masjid Al-Mustarah Madinah (foto Commons dari balik kaca bus, deskripsi rancu 'Bani Haritha mosque'); Masjid Abu Dzar Madinah (deskripsi foto bertanda tanya); Miqat Qarnul Manazil (sudah dibahas di 19066 dan 16588); Sumur Ghars (foto CC BY-SA bukan masjid -> tak boleh); Drive ZIARAH THAIF dominan video/tanpa folder Addas."
+}

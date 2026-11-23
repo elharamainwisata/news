@@ -1,0 +1,43 @@
+{
+ "slot": "2026-11-24T11:40:00",
+ "category": 29,
+ "title": "Rata-rata Umrah di Masjidil Haram 124 Menit pada Jumadil Awal, Tawaf 52 Menit dan Sa’i 50 Menit",
+ "excerpt": "Otoritas Dua Masjid Suci mencatat umrah di Masjidil Haram selama Jumadil Awal 1448 H rata-rata 124 menit, dengan tawaf 52 menit dan sa’i 50 menit.",
+ "tags": [
+  34,
+  998,
+  111,
+  218,
+  71
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1124/1140/umrah-tawaf-masjidil-haram.jpg",
+   "alt": "Jemaah umrah berihram bertawaf mengelilingi Ka’bah di pelataran mataf Masjidil Haram",
+   "caption": "",
+   "seen": "Ka’bah berkiswah hitam di tengah, dikelilingi ribuan jemaah berihram putih dan berpakaian hitam yang bertawaf di mataf; kredit kecil 'Foto: SPA' di kanan bawah, logo SPA sudah terpotong.",
+   "evidence": "Foto SPA rilis sejenis Otoritas Dua Masjid Suci 'Average Umrah Duration Reaches 115 Minutes in Rabi' Al-Awwal 1447 AH' (https://www.spa.gov.sa/en/N2412641, 2 Okt 2025; caption foto = judul itu): https://portalcdn.spa.gov.sa/backend/original/202510/2R6zrI91O0wkkVRgM33wvdxkuXhk4kXFOYW6zAb9.jpg (raw/old_9.jpg). Rilis 23 Nov (N2734579, ar N2734509, fr N2734736) hanya memuat kartu logo SPA/Otoritas Haramain.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1124/1140/sai-masaa-masjidil-haram.jpg",
+   "alt": "Jemaah umrah berihram berjalan menjalankan sa’i di lorong mas’a Masjidil Haram",
+   "caption": "",
+   "seen": "Lorong panjang berlantai marmer putih dengan dinding marmer merah, dipadati jemaah berihram dan bermukena/abaya hitam yang berjalan searah menjauhi kamera (sa’i); kredit 'Foto: SPA' kanan bawah.",
+   "evidence": "Foto SPA rilis N2412641 (sama, caption 'Average Umrah Duration Reaches 115 Minutes in Rabi' Al-Awwal 1447 AH'): https://portalcdn.spa.gov.sa/backend/original/202510/dFa1XkENBIJy1TfUMD42aYPdgauLi70hALVIOPSD.jpg (raw/old_10.jpg)",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 463,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2734579",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2734509?locale=ar",
+  "https://www.spa.gov.sa/en/N2428083",
+  "https://www.spa.gov.sa/en/N2412641"
+ ],
+ "haji_go_id": "tidak (MEDIA ARAB: SPA)",
+ "notes": "MEDIA ARAB. Sumber utama SPA 23 Nov 2026 20:45 waktu Makkah (N2734579). Pembanding Rabiul Akhir 1447 H dari rilis SPA N2428083 (25 Okt 2025), tanpa link. Rilis 23 Nov hanya berisi gambar kartu logo, maka foto utama & sisipan diambil dari foto SPA rilis sejenis Otoritas Dua Masjid Suci N2412641 (2 Okt 2025) (tawaf & mas'a, bukan tokoh) dengan kredit 'Foto: SPA' di gambar, caption WP kosong — redaktur mohon cek bila ingin ganti. Calon digugurkan: Kemenag Saudi layanan penyuluhan 300.000 jemaah umrah (N2734147; cadangan, kurang kuat), Otoritas tambah layanan di Nabawi (N2733578, 22 Nov; mirip 19374 Raudhah), Makkah Gate monumen (N2734173; mirip 19160 Dawariq), Sadd Samallaqi Thaif (N2734503; kurang relevan jemaah), KSrelief gempa Indonesia (N2734738; berita bencana, mirip 18542 KSrelief Flores yang ditahan), Health Ministry sick leave (warga Saudi)."
+}
