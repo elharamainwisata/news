@@ -1,0 +1,10 @@
+{"post_id": 19468, "verdict": "DIPERBAIKI", "alasan_tahan": "",
+ "replacements": [
+  {"old": "Menurut asosiasi itu, duduk lama di kabin bisa memicu kelelahan dan gangguan kesehatan ringan, terutama bagi jemaah yang jarang bepergian jauh dengan pesawat.", "new": "Menurut asosiasi itu, perjalanan udara yang berjam-jam bisa memicu kelelahan hingga gangguan kesehatan ringan."},
+  {"old": "Tidur yang cukup membantu menjaga stamina saat tiba di Tanah Suci, apalagi bila jemaah langsung menuju hotel atau memulai rangkaian ibadah.", "new": "Tidur yang cukup membantu menjaga stamina saat tiba di Tanah Suci."},
+  {"old": " Gerakan sederhana ini bisa dilakukan dari kursi tanpa mengganggu penumpang lain.", "new": ""}
+ ],
+ "hapus_blok_gambar": ["jemaah-berkerudung-jendela-pesawat.jpg"],
+ "title_new": null, "excerpt_new": null,
+ "gambar": "Foto utama kabin-pesawat-penumpang-duduk.jpg: kabin pesawat lorong tunggal dari belakang, deretan kursi terisi penumpang, tanpa logo maskapai; Pexels, tanpa caption -> LOLOS. Sisipan jemaah-berkerudung-jendela-pesawat.jpg: close-up wajah perempuan dari samping di jendela pesawat, kain kepala longgar dengan rambut terlihat; close-up wajah orang sungguhan dan tidak mencerminkan jemaah -> GAGAL, blok dihapus.",
+ "catatan": "Sumber HIMPUH 5199 dicek (raw/h5199.html): 8 tips, Minggu 8/11/2026 cocok; susu/kopi/soda, peregangan, camilan buah kering/biskuit gandum, masker/hand sanitizer, obat di tas kabin + konsultasi dokter, instruksi awak kabin cocok. Dihapus kalimat tambahan tak bersumber (jemaah jarang bepergian, langsung ke hotel, peregangan tanpa mengganggu penumpang). A3: tepat 1 link keluar ke himpuh.or.id, 'per November 2026' ada, tanpa nama travel; tidak menyalin (urutan dan kalimat ditulis ulang). Paragraf penutup praktis (tas kabin, aturan maskapai) adalah saran redaksi umum. Kutip lurus tidak ada, gaya bersih."}

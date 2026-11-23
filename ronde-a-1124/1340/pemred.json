@@ -1,0 +1,27 @@
+{
+ "post_id": 19473,
+ "verdict": "DIPERBAIKI",
+ "alasan_tahan": "",
+ "replacements": [
+  {
+   "old": "Konferensi tahunan keenam itu digelar pada 8-11 November 2026 dan menjadi ajang persiapan musim haji 1448 H.",
+   "new": "Konferensi keenam itu digelar pada 8-11 November 2026."
+  },
+  {
+   "old": "Inti konsep <em>City Terminal</em> adalah konter check-in khusus di Makkah. Di sana jemaah menuntaskan prosedur keberangkatan dan menyerahkan bagasi jauh sebelum tiba di bandara.",
+   "new": "Inti konsep <em>City Terminal</em> adalah konter check-in khusus di Makkah. Urusan keberangkatan dan koper sudah beres di sana, jauh sebelum jemaah sampai di bandara."
+  },
+  {
+   "old": "Sistem ini ditujukan untuk memangkas waktu tunggu dan memperlancar arus penumpang, terutama ketika keberangkatan melonjak pada puncak musim haji dan umrah. Jemaah lanjut usia dan jemaah yang membutuhkan bantuan disebut paling diuntungkan karena",
+   "new": "Tujuannya mengurangi antrean dan melancarkan arus penumpang, terutama saat keberangkatan memuncak pada musim haji dan umrah. Jemaah lanjut usia dan jemaah yang membutuhkan bantuan disebut berpotensi paling merasakan manfaatnya karena"
+  },
+  {
+   "old": "Pada musim haji 2026, program itu memiliki kapasitas penanganan hingga 330.000 bagasi.",
+   "new": "Program itu sanggup menangani hingga 330.000 bagasi pada musim haji 2026."
+  }
+ ],
+ "title_new": null,
+ "excerpt_new": null,
+ "gambar": "Foto utama saudia-mendarat-utama.jpg: Boeing 777 berlivery Saudi Arabian melayang rendah di atas landasan dengan roda keluar, latar pegunungan cokelat, tanpa orang; stok Pexels tanpa kredit, relevan dengan Saudia Group - LOLOS. Sisipan saudia-parkir-terminal.jpg: ekor biru pesawat Saudia HZ-AST berlogo palem-pedang, satu pesawat Saudia lain parkir di belakang dekat terminal, difoto dari balik kaca, tanpa orang; tanpa caption - LOLOS.",
+ "catatan": "Topik UMROH/umum (layanan bagasi Saudi), tidak terkena A2. Fakta dicek ke detikcom 21/11/2026 16:03 (d-8763390, Sabtu): Saudia Group + Kementerian Haji dan Umrah Saudi teken MoU penjajakan City Terminal, dikutip dari MEP Middle East, pembukaan Hajj Conference and Exhibition 2026 ke-6, 8-11 November, Travel Without Baggage, Hajj Without Baggage 330.000 bagasi musim haji 2026, manfaat lansia, peluang perluasan - cocok. Al-Rabiah 2 jam -> 15 menit dicek ke post internal (SPA, konferensi keenam Jeddah) - cocok; link internal T2F 45 menit HTTP 200. Perbaikan: hapus klaim tambahan 'ajang persiapan musim haji 1448 H' (tidak ada di sumber); tulis ulang 3 kalimat yang hampir menyalin detik; 'paling diuntungkan' dilunakkan sesuai sumber ('berpotensi'). Rilis SPA/MEP asli tidak dicek (sumber tunggal detik, sudah dipagari paragraf kehati-hatian). Link keluar 1. Tanpa nama travel."
+}
