@@ -1,0 +1,33 @@
+{
+ "slot": "2026-11-24T15:40:00",
+ "category": 23,
+ "title": "Investor Reksa Dana Syariah Capai 1,62 Juta, OJK Perluas Edukasi ke Lima Kota",
+ "excerpt": "OJK dan APRDI membawa edukasi reksa dana syariah ke Cirebon, Yogyakarta, Kendari, Malang, dan Mataram. Investor reksa dana syariah kini 1,62 juta orang.",
+ "tags": [
+  34,
+  259,
+  342,
+  737
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1124/1540/edukasi-keuangan-syariah-muslimah-kalkulator.jpg",
+   "alt": "Dua perempuan berhijab menghitung dengan kalkulator dan membaca lembar grafik keuangan di meja",
+   "caption": "",
+   "seen": "Dua perempuan berhijab (kerudung oranye-merah dan ungu) berjas hitam duduk di meja; yang kiri menekan kalkulator di samping buku catatan, keduanya melihat lembar cetak grafik keuangan di depan; latar ruangan hangat dengan bunga putih, orang lain buram di belakang. Tanpa teks/logo/watermark.",
+   "evidence": "Pexels 8069515 'Women with turbans with calculator' (alt: multicultural women doing financial analysis with a calculator), hasil pencarian Pexels 'hijab investment' https://www.pexels.com/photo/women-with-turbans-with-calculator-8069515/ ; stok gratis tanpa kredit; crop 16:9 1600x900 (y 60-960). grep 8069515 di paket ronde-* kosong; featured image 17 Nov+ tidak memuat foto ini.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 473,
+ "sources": [
+  "https://www.antaranews.com/berita/5873423/ojk-aprdi-perluas-literasi-reksa-dana-syariah-di-enam-kota (Antara, Malang, Senin 23/11/2026 20:42 WIB, pewarta Endang Sukarelawati; LINK KELUAR SATU-SATUNYA; raw/a_5873423.html)",
+  "internal 14381 (strategi menabung umrah), 18315 (tabungan haji di rekening sendiri)"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak (tidak ada rilis BPKH baru yang belum ditulis; bpkh.go.id & ppid.bpkh.go.id 403)",
+ "notes": "Slot 1540 seharusnya BPKH; dicek WebSearch bpkh.go.id + tag BPKH Antara/Republika/detik/Kompas/InfoPublik: rilis/berita BPKH 48-72 jam hanya (a) Antara 5873843 'Niat suci dari Bandung Barat' = sudah dipakai Ronde A 19464, (b) Antara 5873919 DPD Komite III dorong pengawasan BPKH di Makassar (24/11) = digugurkan: rapat DPD bernuansa politik/legislasi, isinya embarkasi & asrama haji reguler Makassar, (c) Republika 'BPKH optimalkan dana kemaslahatan Rp4 T' 9/11 = lama. Maka fallback ekonomi syariah. Calon lain digugurkan: LPDB dana bergulir Rp2,1 T koperasi syariah masjid/pesantren (Republika 23/11; jadi cadangan 1740), Baznas selaraskan zakat dengan pembangunan daerah (Antara 24/11; dekat dengan 19307 revisi UU zakat & 19174), Kemenag kurikulum pencegahan LGBTQ (detik 24/11; sensitif), Kemenag pulihkan 1.478 lembaga pascabanjir (bencana), CPNS guru Kemenag (tak relevan jemaah). Catatan fakta: judul Antara menulis 'enam kota' tetapi badan berita menyebut lima kota semester II (+penutupan di Jakarta) -> artikel memakai 'lima kota' + Jakarta. Kalimat penutup soal produk nilai stabil untuk dana pelunasan = tips umum redaksi, bukan kutipan OJK."
+}

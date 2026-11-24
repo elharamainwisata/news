@@ -1,0 +1,7 @@
+Cek kabar Nusuk BARU (setelah 24 Nov 2026 05:00 WIB = 23 Nov 22:00 UTC) oleh S4 Ronde B, 24 Nov 2026 ±11:20 WIB:
+STATUS: KOSONG - tidak ada kabar/layanan Nusuk baru. Paket tambahan /1600/ TIDAK dibuat.
+Sumber dicek:
+- SPA API https://portalapi.spa.gov.sa/api/v1/news?page=1..6&locale=en (terbaru 24 Nov ±05:35 UTC s.d. 22 Nov 16:48 UTC, 120 judul): tidak ada judul memuat "Nusuk". Berita umrah terkait: durasi umrah 124 menit (sudah ditulis 19470), penyuluhan Kementerian Urusan Islam bagi >300.000 jemaah umrah (N2734147, dipakai S4 slot 1700) - keduanya bukan Nusuk.
+- WebSearch arabnews.com/spa.gov.sa/saudigazette.com.sa/haj.gov.sa ("Nusuk November 2026 umrah new service", "Nusuk app Rawdah umrah announcement this week"): hasil hanya berita lama (2025 s.d. Mei 2026).
+- arabnews.com/saudi-arabia: daftar berita dimuat JS, tidak terbaca curl.
+- www.nusuk.sa tidak diakses (blokir bot).

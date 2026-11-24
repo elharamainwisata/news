@@ -1,0 +1,19 @@
+{
+ "slot": "2026-11-24T20:20:00",
+ "category": 28,
+ "title": "Abu Bakar Batal Putus Nafkah Misthah: Renungan An-Nur Ayat 22 tentang Memaafkan bagi Jemaah Umrah",
+ "excerpt": "Ayat 22 Surah An-Nur menegur Abu Bakar yang bersumpah berhenti menafkahi Misthah. Ibnu Katsir: siapa memaafkan, Allah memaafkan kesalahannya.",
+ "tags": [34, 113, 1087, 1835],
+ "content_file": "content.html",
+ "images": {
+  "1": {"file": "/home/khaeruddien/elharamain-news/ronde-b-1124/2020/hikmah-jemaah-ihram-duduk-bersama-tenda.jpg", "alt": "Jemaah laki-laki berpakaian ihram duduk berjajar di lantai tenda sambil membaca buku doa", "caption": "", "seen": "Delapan jemaah laki-laki berkain ihram putih duduk bersila berjajar di karpet tenda ber-AC, sebagian membaca buku doa kecil/ponsel, latar kasur lipat abu-abu dan unit AC; wajah tampak wajar ukuran sedang, tanpa anak-anak, tanpa teks/logo menonjol.", "evidence": "Drive Elharamain perpustakaan 1cg353egFOuGmZVuvhLQ3KhUdHNiv-3x9 > 'Doa & zikir bersama' (14-eKogYZvmqAORX0geInkafZOOEMDsZA), video IMG_1825.MOV (file 1ZnW5imVxQVJmx6UN7Cdt_V-1jM28J6WB), thumbnail Drive 1080x1920, crop 16:9 y768-1375 lalu 1280x720 q82. ID tidak ada di article.json ronde-a-1117..1124 / ronde-b-1117..1123. Ilustrasi Elharamain -> tanpa caption.", "ai_prompt": ""},
+  "2": {"file": "/home/khaeruddien/elharamain-news/ronde-b-1124/2020/hikmah-jemaah-perempuan-zikir-tenda.jpg", "alt": "Jemaah perempuan bermukena putih duduk berzikir di dalam tenda, tampak dari belakang", "caption": "", "seen": "Empat-lima jemaah perempuan bermukena putih bermotif duduk di karpet tenda, difoto dari belakang/samping (wajah tidak jelas), latar kasur lipat abu-abu, AC berdiri, kipas kecil dan colokan di lantai.", "evidence": "Drive Elharamain perpustakaan > 'Doa & zikir bersama' (14-eKogYZvmqAORX0geInkafZOOEMDsZA), video IMG_5572.MOV (file 1R8DGyAh_utgzKZ88Eb_-quQIexU-Seuz), thumbnail 1080x1920 crop 4:5 1080x1350 y576. Belum dipakai 7 hari (grep ID kosong). Ilustrasi -> tanpa caption.", "ai_prompt": ""}
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 512,
+ "sources": ["https://nu.or.id/hikmah/ketika-abu-bakar-ash-shiddiq-ditegur-allah-cWwO5 (link keluar; Muhammad Afiq Zahara, 17/8/2019, rujukan Tafsir Ibnu Katsir Dar Thayyibah 1999 juz 6 hlm 31)", "https://nu.or.id/hikmah/sikap-abu-bakar-terhadap-penyebar-fitnah-putrinya-siti-aisyah-ra-zLR1f (KH Muhammad Taufik, 10/12/2019; konfirmasi kisah, tanpa link)", "https://jatim.nu.or.id/nuonline/quraish-shihab-jelaskan-hakikat-saling-memaafkan-saat-lebaran-t5wUG (Quraish Shihab, Membumikan Al-Qur'an; tanpa link)", "https://quran.detik.com/an-nur/tafsir-ayat-22-2813 (cek frasa terjemahan; tanpa link)"],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "Hikmah evergreen: memaafkan (An-Nur 22, kisah Abu Bakar-Misthah) + Ibnu Katsir + Quraish Shihab (al-'afwu/al-shafhu). Beda dari Hikmah 14 hari (doa musafir, Arbain, sedekah ruas tulang, sabar, syukur, ghibah, qanaah, tabayyun, itsar, malu, suara, salat malam) dan 17493 menahan amarah (dijadikan link internal). Terjemahan ayat hanya dikutip sebagian frasa yang terverifikasi (detik quran & Kemenag daerah), quran.kemenag.go.id API 403. Gambar: 2 ilustrasi Drive tanpa caption. Digugurkan: husnuzan (dekat dengan 18631 tabayyun/18861 ghibah), istighfar (sumber terbaca belum cukup), zuhud (dekat dengan qanaah 18727)."
+}

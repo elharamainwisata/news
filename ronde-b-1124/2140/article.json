@@ -1,0 +1,19 @@
+{
+ "slot": "2026-11-24T21:40:00",
+ "category": 31,
+ "title": "Masjid Agung Palembang, Wisata Religi Kesultanan sejak 1748 dengan Atap Tumpang Bergaya Klenteng",
+ "excerpt": "Masjid Agung Sultan Mahmud Badaruddin I Palembang diresmikan 1748, dibiayai hasil timah Bangka, memadukan atap tumpang, gaya klenteng, dan pilar Eropa.",
+ "tags": [34, 53, 724, 1848, 1817],
+ "content_file": "content.html",
+ "images": {
+  "1": {"file": "/home/khaeruddien/elharamain-news/ronde-b-1124/2140/masjid-agung-palembang-bangunan-asli.jpg", "alt": "Bangunan asli ruang salat Masjid Agung Palembang beratap tumpang dengan kolam air mancur di depan dan menara di sisi kanan", "caption": "", "seen": "Tampak depan bangunan lama bercat krem-putih dengan atap tumpang bertingkat berhias ornamen emas, jendela hijau tua berjajar, kolam air mancur di depan, menara tinggi bercincin balkon di kanan; badan masjid utuh, kredit kecil 'Foto: Swarabakti/CC BY-SA' di pojok kanan bawah.", "evidence": "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Palembang_20230808_174444.jpg - deskripsi: 'Original prayer hall of the Great Mosque of Palembang, first completed in 1748'; pemotret Swarabakti, 8/8/2023, lisensi CC BY-SA 4.0 -> kredit kecil di dalam gambar (aturan masjid), caption WP kosong. Crop 16:9 dari 7437x5578 (y488) lalu 1600x900.", "ai_prompt": ""},
+  "2": {"file": "/home/khaeruddien/elharamain-news/ronde-b-1124/2140/masjid-agung-palembang-menara-depan.jpg", "alt": "Sisi depan Masjid Agung Palembang dengan gerbang, kubah emas, kaligrafi, dan menara dari arah jalan raya", "caption": "", "seen": "Bangunan masjid dengan deretan lengkung dan pilar, kubah-kubah emas, panel kaligrafi biru, gerbang merah-krem dan menara tinggi di kiri, jalan raya dengan mobil putih dan pengendara motor di depan (wajah tidak terlihat).", "evidence": "https://commons.wikimedia.org/wiki/File:Area_Depan_Masjid_Agung_Palembang_2026.jpg - deskripsi: 'View of Sultan Mahmud Badaruddin Jayo Wikramo Grand Mosque from the fountain area near Benteng Kuto Besak in Palembang'; Tiqash, 19/6/2026, CC0 -> tanpa kredit/caption. Crop 4:5 (y552) 1080x1350.", "ai_prompt": ""}
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 516,
+ "sources": ["https://www.detik.com/sumbagsel/wisata/d-8303560/berusia-278-tahun-ini-5-keunikan-arsitektur-masjid-agung-palembang (link keluar; 13/1/2026)", "https://sumsel.kemenag.go.id/artikel/view/11049/masjid-agung-palembang (Kanwil Kemenag Sumsel 7/11/2011; tanpa link)", "https://www.detik.com/sumbagsel/berita/d-8420400/walkot-ratu-dewa-akan-renovasi-masjid-agung-palembang (30/3/2026; disebut detikSumbagsel tanpa link)"],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "Wisata Halal Indonesia (Sumsel), belum pernah ditulis (search 'palembang' di situs hanya berita haji). Angka yang beda antarsumber TIDAK ditulis: tinggi menara (detik Jan 2026: 30 m; detik Mar 2026: 20 m), masa pemerintahan sultan (1724-1750 vs 1727-1756). Kapasitas 9.000/15.000 dari Kemenag Sumsel 2011 (data lama, disebut atribusinya). Renovasi pagar/cat rencana Walkot tanpa jadwal -> paragraf kehati-hatian. Digugurkan: Masjid Hassan II Casablanca (sumber Indonesia allowlist belum dibaca, waktu), Kompleks Imam Bukhari Samarkand (16361 sudah menyinggung Samarkand-Bukhara), Masjid Kubah Emas Depok (dekat 15964 Masjid At-Thohir Depok)."
+}

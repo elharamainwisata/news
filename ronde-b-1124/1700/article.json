@@ -1,0 +1,38 @@
+{
+ "slot": "2026-11-24T17:00:00",
+ "category": 29,
+ "title": "9.172 Kegiatan Bimbingan Agama Digelar di Masjid Pusat Makkah, Jangkau 300.000 Jemaah Umrah",
+ "excerpt": "Kementerian Urusan Islam Saudi menggelar ceramah, kuliah, dan sesi tanya jawab manasik di masjid sekitar Masjidil Haram, dibantu penerjemah bagi jemaah.",
+ "tags": [34, 687, 218, 71],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1124/1700/penyuluhan-jemaah-umrah-masjid-makkah.jpg",
+   "alt": "Dai Kementerian Urusan Islam Arab Saudi memberi kajian kepada jemaah umrah dari berbagai negara di sebuah masjid di Makkah",
+   "caption": "",
+   "seen": "Interior masjid berkarpet merah: seorang syekh bersorban merah-putih duduk di kursi kayu dengan mikrofon di kiri, puluhan jemaah pria berbagai bangsa (termasuk berwajah Asia Tenggara) duduk bersila mendengarkan; kredit kecil 'Foto: SPA' di kanan bawah, logo SPA terpotong.",
+   "evidence": "SPA N2734147 (23/11/2026) foto utama https://portalcdn.spa.gov.sa/backend/original/202611/M11298520.png (EXIF description = judul rilis); crop 0,150,1333,900 -> 1600x900 + tools/spa_credit.py",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1124/1700/dai-kementerian-urusan-islam-beri-kajian-jemaah-umrah.jpg",
+   "alt": "Seorang dai berdiri di depan mikrofon menyampaikan ceramah kepada jemaah yang duduk berbaris di masjid Makkah",
+   "caption": "",
+   "seen": "Ruang masjid berkarpet biru: dai bersorban merah-putih berdiri di depan mikrofon di sisi kanan, jemaah pria duduk berbaris menghadapnya, beberapa berdiri di belakang; kredit 'Foto: SPA' kanan bawah, logo SPA terpotong.",
+   "evidence": "SPA N2734147 media_images foto ke-2 https://portalcdn.spa.gov.sa/backend/original/202611/M11298521.png (caption = judul rilis); crop 0,166,1600,1066 + tools/spa_credit.py",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 468,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2734147",
+  "https://www.spa.gov.sa/en/N2503686",
+  "https://www.spa.gov.sa/en/N2525914",
+  "https://spa.gov.sa/en/N2529158"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "MEDIA ARAB (SPA). Isi dibaca dari portalapi.spa.gov.sa/api/v1/news/<id>. Link keluar hanya N2734147; N2503686 (Feb 2026), N2525914 & N2529158 (Mar 2026, musim 1447 H) hanya disebut sebagai SPA tanpa link. Caption WP kosong (kredit di dalam gambar). Nusuk: kosong (lihat ../nusuk.txt), /1600/ tidak dibuat. Calon digugurkan: Makkah Gate berbentuk Al-Qur'an terbuka (SPA N2734173) - lokasi gerbang Makkah tumpang tindih dengan 19160 Bundaran Dawariq & sudah ada c[25] hari ini (19474); RCMC raih bintang lima EFQM (N2734002) - seremonial, nilai jemaah rendah; KSrelief bantu korban gempa Indonesia - berita bencana/sensitif dan sudah ada 18542 KSrelief Flores; Presiden Asosiasi Islam Peru puji Saudi - tanpa nilai jemaah; Indonesia teken kontrak Expo 2030 Riyadh - bukan topik jemaah; drone Houthi - militer."
+}

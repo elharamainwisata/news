@@ -1,0 +1,3 @@
+S1 11:03: calon 1500 = Garuda Indonesia layani penerbangan umrah Solo-Jeddah (Kompas regional 23/11/2026) - UMROH
+S1 11:06: 1500 GANTI -> rilis pusat haji.go.id 'Kemenhaj Tegaskan Fikih Pelayanan Humanis...' (21/11) sudut: istilah Salat Arbain jadi Salat 5 Waktu di Nabawi & Mina Jadid jadi Zona 3-5 + detik d-8765142. (Garuda Solo-Jeddah digugurkan: carter mitra travel)
+S1 11:12: 1500 & 1940 SELESAI (fin.py OK)

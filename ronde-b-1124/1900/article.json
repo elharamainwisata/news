@@ -1,0 +1,42 @@
+{
+ "slot": "2026-11-24T19:00:00",
+ "category": 29,
+ "title": "Tips HIMPUH Isi Tas saat Puncak Haji di Armuzna, dari Ihram Cadangan hingga Kantong Kerikil",
+ "excerpt": "HIMPUH merangkum enam kelompok barang untuk fase Armuzna: ihram cadangan, obat pribadi, pelindung panas, perlengkapan kebersihan, identitas, dan alat ibadah.",
+ "tags": [
+  34,
+  1478,
+  212,
+  36,
+  1413
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1124/1900/jemaah-berpayung-dan-bertopi-berjalan-di-mina.jpg",
+   "alt": "Rombongan jemaah haji berompi dan bertudung berjalan dengan payung di jalan kawasan Mina berlatar tenda putih",
+   "caption": "",
+   "seen": "Rombongan jemaah difoto dari belakang, berompi krem bertudung dan bertopi, sebagian membawa payung biru tua, merah, dan putih serta ransel, berjalan di jalan aspal di bawah matahari; di latar ada deretan tenda putih Mina, bukit batu, dan jembatan/gedung. Tidak ada wajah yang terlihat jelas.",
+   "evidence": "Drive perpustakaan tematik 1cg353egFOuGmZVuvhLQ3KhUdHNiv-3x9 > MINA 2 > Melontar jumroh 1 > IMG_2375.JPG (file 1NQOayfB8bVwO6ltI-3a-k59a8WlP_k4z), crop 16:9. Foto Elharamain sebagai ilustrasi (bukan peristiwa yang diberitakan) -> TANPA caption.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1124/1900/rombongan-jemaah-bertopi-bermasker-membawa-botol-air.jpg",
+   "alt": "Rombongan jemaah haji bertopi lebar, berkacamata hitam, bermasker, dan membawa botol air berfoto bersama di kawasan Mina",
+   "caption": "",
+   "seen": "Foto bersama puluhan jemaah berompi krem dan berlanyard, banyak yang memakai topi lebar biru tua, kacamata hitam, dan masker, beberapa memegang botol air dan semprotan; latar tangga dengan tanaman palem di bawah peneduh kain. Foto rombongan, bukan close-up satu wajah.",
+   "evidence": "Drive perpustakaan tematik > MINA 2 > Melontar jumroh 1 > IMG_2364.MOV (file 1VaWyimlhWb2v9plTrgcLOdXkDythgeKX), frame pratinjau Drive 1920x1080 diskalakan 1600x900. Ilustrasi pelindung panas (topi, kacamata, masker, botol air) di paragraf ketiga -> TANPA caption.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "HAJI PLUS",
+ "word_count": 484,
+ "sources": [
+  "https://himpuh.or.id/blog/detail/5220/barang-bawaan-wajib-dibawa-saat-haji-dan-umrah (HIMPUH, 10/11/2026 - TIPS HIMPUH; LINK KELUAR SATU-SATUNYA)",
+  "https://news.elharamainwisata.com/istithaah-kesehatan-haji-2027-persiapan-calon-jemaah/ (link internal 19027)"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "TIPS HIMPUH, HAJI PLUS. CADANGAN SLOT NUSUK pilihan (1): tidak ada kabar Nusuk baru (ronde-a-1124/nusuk.txt), jadi slot grid 19:00 diisi tips HIMPUH kategori 29. Blog 5220 belum dipakai (bukan di daftar 11-24 Nov); topik perlengkapan Armuzna tidak dobel dengan 14 hari (19468 bugar di pesawat, 19176 busana musim dingin, 19122 asuransi) maupun seri 2115. Isi berupa saran praktis, bukan aturan bertanggal; ditulis 'per November 2026' dan paragraf kehati-hatian. Tidak ada nama travel. Kategori 1620 jatuh ke pilihan (2) Sejarah Islam karena bahan tips lain tidak lolos (lihat notes 1620/article.json untuk daftar calon digugurkan). Tag: 34 elharamain wisata, 1478 himpuh, 212 armuzna, 36 haji khusus, 1413 Tips Haji."
+}

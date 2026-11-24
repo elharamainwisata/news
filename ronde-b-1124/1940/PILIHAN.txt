@@ -1,0 +1,2 @@
+S1 11:07: 1940 = explainer standar layanan minimal haji khusus PMHU 2/2026 (hotel <=1.000 m/700 m, bintang 3, 4/kamar, manasik 20 jam, transit maks 1x, tinggal maks 30 hari) - HAJI PLUS. Foto Drive: FAIRMONT HOTEL MAKKAH, Survey tenda arafah (1940); Ziarah Madinah/Nabawi + Survey tenda mina (1500).
+S1 11:12: 1500 & 1940 SELESAI (fin.py OK)

@@ -1,0 +1,33 @@
+{
+ "slot": "2026-11-24T17:40:00",
+ "category": 23,
+ "title": "Kemenag Buka Empat Pelatihan Pesantren di MOOC Pintar, dari E-Ijazah hingga Cegah Kekerasan",
+ "excerpt": "Kemenag membuka empat pelatihan pesantren di MOOC Pintar, mulai E-Ijazah, UAN PKPPS, dana BOS, hingga pencegahan kekerasan. Pendaftaran hingga 25 November.",
+ "tags": [
+  34,
+  21,
+  2082
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1124/1740/ustaz-santri-mengaji-kitab-masjid.jpg",
+   "alt": "Seorang ustaz berpeci hitam menunjukkan isi kitab kepada dua santri berpeci putih di halaman masjid",
+   "caption": "",
+   "seen": "Pria paruh baya berpeci hitam dan sorban merah-putih memegang kitab terbuka, menerangkan kepada dua remaja laki-laki berpeci putih dan gamis putih yang memegang buku bersampul hijau dan biru; latar pintu lengkung masjid berornamen geometris dan pelataran berpola. Tanpa teks terbaca/logo/watermark; remaja, bukan anak kecil, bukan close-up.",
+   "evidence": "Pexels 36463780 'Islamic teaching at a mosque in Indonesia' (deskripsi: 'Group of men studying religious texts outside a mosque in Indonesia', fotografer Daneswara Eka; muncul di hasil pencarian Pexels 'pesantren') https://www.pexels.com/photo/islamic-teaching-at-a-mosque-in-indonesia-36463780/ ; stok gratis tanpa kredit; crop 16:9 1600x900. Tidak ada di paket ronde-* 17-24 Nov.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 477,
+ "sources": [
+  "https://kemenag.go.id/nasional/kemenag-buka-empat-pelatihan-pesantren-melalui-mooc-pintar-mulai-23-november-2026-EU7Un (rilis Kemenag, datePublished 23/11/2026 11:03 WIB; isi badan dirender JS, judul/tanggal/flyer terbaca: 4 program, daftar 23-25 Nov, pelaksanaan 26-30 Nov, pintar.kemenag.go.id; LINK KELUAR SATU-SATUNYA; raw/kmg.html, raw/kmg_thumb.jpg)",
+  "https://www.detik.com/hikmah/khazanah/d-8766390/kemenag-buka-4-program-pelatihan-pesantren-pendaftaran-sampai-25-november-2026 (detikHikmah Senin 23/11/2026 19:15 WIB, Anisa Rizki Febriani; kutipan Basnang Said & Yusi Damayanti, rincian materi; disebut tanpa link; raw/pel.html)",
+  "internal 15960 (satgas antikekerasan & Safe Santri), 19467 (Rakornas Pesantren 25-26 Nov)"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "Topik pesantren berbeda dari 19467 (Rakornas & Pesantren Award) dan 19371 (lomba pesantren ramah anak). Kekerasan disebut hanya sebagai materi pelatihan pencegahan (nada positif, tidak sensitif). Calon digugurkan: LPDB dana bergulir Rp2,1 T koperasi syariah masjid & pesantren (Republika halalhub 23/11; relevansi jemaah lebih lemah, contoh koperasi pesantren bernama lembaga), Kemenag finalisasi kurikulum pencegahan LGBTQ (detik 24/11; sensitif/polemik), Baznas selaraskan zakat dengan daerah (Antara 24/11; dekat 19307/19174), MUI ajak muslimah dukung larangan medsos anak <16 (polemik kebijakan), OMI 2026 466 finalis (tak relevan jemaah). Poster resmi Kemenag (raw/kmg_thumb.jpg) tidak dipakai sebagai gambar (grafis berlogo, bukan foto). | Induk: sisipan Az-Zikra dibuang (nama pesantren lain, sudah ditolak 23 & 24 Nov)."
+}
