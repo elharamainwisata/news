@@ -81,3 +81,4 @@ www.instagram.com
 *.instagram.com
 pypi.org
 files.pythonhosted.org
+umrah.nusuk.sa
