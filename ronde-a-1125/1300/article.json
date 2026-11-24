@@ -1,0 +1,33 @@
+{
+ "slot": "2026-11-25T12:00:00",
+ "category": 29,
+ "title": "Satgas Kemenhaj Batam Temukan 20 Jemaah Umrah Diduga Dibawa Biro Tak Berizin, Ini Imbauannya",
+ "excerpt": "Satgas Kemenhaj Batam menemukan 20 jemaah umrah diduga diberangkatkan biro tanpa izin PPIU dan mengimbau calon jemaah memeriksa izin, kontrak, hingga visa.",
+ "tags": [
+  34,
+  2037,
+  1837,
+  662,
+  22
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "",
+   "alt": "Petugas memeriksa paspor dan dokumen perjalanan calon jemaah umrah di meja terminal pelabuhan",
+   "caption": "Ilustrasi",
+   "seen": "(belum dibuat; induk membuat dari ai_prompt lalu Read hasilnya)",
+   "evidence": "berita negatif (travel tak berizin) -> wajib ilustrasi, tanpa foto Elharamain",
+   "ai_prompt": "Ultra-realistic documentary news photograph, shot on full-frame DSLR with 35mm lens, natural available light. Inside the departure hall of an international ferry terminal in Batam, Indonesia: a middle-aged Indonesian government officer in a plain dark-blue uniform shirt (no badges, no insignia) sits at a simple desk carefully examining an Indonesian passport and a printed travel contract with a pen in hand; across the desk a calm Indonesian man in his fifties wearing a white koko shirt and black peci and an Indonesian woman in a beige hijab wait, holding a plain folder of documents; in the softly blurred background a small group of Indonesian travelers with plain suitcases stand near glass windows overlooking the sea. Indonesian Southeast Asian people with tan brown skin, no Caucasian, no Western-looking people. Realistic skin texture with pores and fine wrinkles, natural imperfect expressions, candid unposed moment, authentic everyday clothing, slight film grain, shallow depth of field, true-to-life colors, not CGI, not 3D render, not painting, not illustration, not plastic or airbrushed skin. No readable text, no logos, no brand names, no flags, no uniforms with travel agency branding, no weapons, all people fictional (not real public figures), modest Muslim clothing, no Kaaba, no Masjid al-Haram, no Masjid an-Nabawi, no mosque. 16:9."
+  }
+ },
+ "sensitive": true,
+ "topic_type": "UMROH",
+ "word_count": 479,
+ "sources": [
+  "https://kepri.haji.go.id/berita/20-jemaah-umrah-diduga-diberangkatkan-travel-tak-berizin-kemenhaj-batam-turun-tangan-1795510695883 (rilis Kemenhaj Kepri/Batam 24 Nov 2026, satu-satunya link keluar; HTTP 200; referenceUrl kosong)",
+  "Post internal 19061 (sosialisasi PMHU 2/2026 & atribut jemaah Kanwil Kepri) dan 17851 (cara cek travel berizin)"
+ ],
+ "haji_go_id": "kepri - referenceUrl kosong, link https://kepri.haji.go.id/berita/20-jemaah-umrah-diduga-diberangkatkan-travel-tak-berizin-kemenhaj-batam-turun-tangan-1795510695883",
+ "notes": "UMROH, berita negatif -> IMBAUAN cek izin PPIU, nada tenang. SEMUA NAMA TRAVEL/PERUSAHAAN di rilis (3 nama: biro, perusahaan yang diklaim, perusahaan di kartu identitas + alamatnya) SENGAJA DIHAPUS; ditulis 'sebuah biro', 'perusahaan lain', 'perusahaan ketiga'. Slug kepri tidak memuat nama travel (aman dilink). Beda dari 18666 (Batam penerbangan langsung), 19472 (PPIU Mukomuko), 19061 (sosialisasi BPW Tanjungpinang, dijadikan link internal), 19239 (Boyolali Bangkok), 18919 (Riau). Rilis tidak menyebut apakah jemaah jadi berangkat/ditahan, maka ditulis 'belum menyebut ... kondisi 20 jemaah'. Tidak ditemukan liputan media allowlist untuk kasus Batam (WebSearch). Gambar: hanya ilustrasi (ai_prompt), tanpa sisipan; tanpa placeholder sisipan. Calon digugurkan: tidak ada."
+}

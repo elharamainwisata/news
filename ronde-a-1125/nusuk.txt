@@ -1,0 +1,5 @@
+[S6] Cek kabar Nusuk BARU (setelah 24 Nov 11:00 WIB) - dicek 25 Nov 05:06 WIB
+HASIL: KOSONG (tidak ada kabar Nusuk baru).
+- SPA API portalapi.spa.gov.sa/api/v1/news?locale=en halaman 1-15 (21 Nov 14:12 UTC s.d. 24 Nov 21:55 UTC): 0 judul/isi memuat "Nusuk"/Raudhah/Tasreeh.
+- Arab News rss.xml (24 Nov 16:36-22:02 GMT): 0 item memuat Nusuk/haji/umrah.
+Catatan untuk S8: berita SPA terkait Haramain 72 jam yang SUDAH DIPAKAI/DIKLAIM S6: Holy Quran Museum Makkah (N2734934) dan/atau Prophet's Mosque layanan pengunjung (N2733578) - lihat ../1140/PILIHAN.txt dan ../1420/PILIHAN.txt. Silakan pakai jalur ULASAN/PANDUAN fitur Nusuk.

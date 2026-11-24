@@ -1,0 +1,2 @@
+S1 1300 U&H UMROH: kepri 24 Nov "20 Jemaah Umrah Diduga Diberangkatkan Travel Tak Berizin, Kemenhaj Batam Turun Tangan" -> imbauan cek izin PPIU, tanpa nama travel, ilustrasi AI.
+-> SELESAI 05:05: article.json siap (gambar 1 = ai_prompt, induk membuat)

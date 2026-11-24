@@ -1,0 +1,40 @@
+{
+ "slot": "2026-11-25T14:20:00",
+ "category": 25,
+ "title": "SPA Ulas Gunung Bersejarah Madinah, dari Uhud dan Jabal Ar-Rumah hingga Jabal Ayr Batas Tanah Haram",
+ "excerpt": "SPA mengulas gunung bersejarah di Wilayah Madinah, dari Uhud dan Jabal Ar-Rumah, Jabal Sala’ era Khandaq, hingga Jabal Ayr di batas selatan Tanah Haram.",
+ "tags": [
+  34,
+  240,
+  1757,
+  1289,
+  977
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/1420/gunung-di-tengah-kota-madinah.jpg",
+   "alt": "Perbukitan batu cokelat di tengah permukiman Kota Madinah dipotret dari udara",
+   "caption": "",
+   "seen": "Foto udara perbukitan batu cokelat kemerahan dikelilingi permukiman padat, sebuah masjid putih bermenara dua di kaki bukit (bawah), dan di kejauhan deretan hotel serta menara-menara masjid besar; kredit 'Foto: SPA' kanan bawah, logo SPA terpotong.",
+   "evidence": "Foto SPA rilis N2735321 (24 Nov 2026), caption 'Madinah Mountains Reflect Natural Beauty, Rich Islamic History': https://portalcdn.spa.gov.sa/backend/original/202611/M11309380.png (raw/M11309380.png). Nama gunung per foto tidak tertulis, maka alt/teks tidak menyebut nama gunung tertentu.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/1420/pegunungan-wilayah-madinah.jpg",
+   "alt": "Pegunungan Wilayah Madinah berlatar senja dengan kebun kurma dan bangunan tua di atas bukit",
+   "caption": "",
+   "seen": "Lanskap senja: lapisan pegunungan kebiruan di latar, bukit kerikil dengan reruntuhan rumah bata tua di puncaknya, dan rimbun pohon kurma di latar depan; kredit 'Foto: SPA' kanan bawah.",
+   "evidence": "Foto SPA rilis N2735321, caption sama: https://portalcdn.spa.gov.sa/backend/original/202611/M11309377.png (raw/M11309377.png)",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 475,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2735321"
+ ],
+ "haji_go_id": "tidak (SPA)",
+ "notes": "Dunia islam 14:20, sumber SPA 24 Nov 2026 18:59 waktu Makkah (N2735321). Semua jarak/fakta dari SPA (termasuk Jabal Ar-Rumah 'sekitar 3 km dari Gunung Uhud' sesuai rilis). Foto SPA dari rilis yang sama, logo dipotong, kredit 'Foto: SPA' di gambar; nama gunung tiap foto tidak tertulis di sumber sehingga alt dibuat umum (redaktur: foto utama kemungkinan Jabal Sala' dekat Nabawi, tidak diklaim). Uhud/Rumat pernah ditulis (16884 4 Nov, 17302 9 Nov; di luar 14 hari) - sudut berita ini ulasan SPA lima gunung termasuk Jabal Ayr, Sala', Radwa. S3 diminta tidak mengambil gunung-gunung ini (PILIHAN.txt). Calon digugurkan: lihat ../1140/article.json notes; plus Makkah Gate (N2734173, mirip 19160), Islamic University Madinah wisuda guru bahasa Arab (kurang relevan)."
+}

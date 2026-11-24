@@ -1,0 +1,42 @@
+{
+ "slot": "2026-11-25T12:20:00",
+ "category": 30,
+ "title": "Wudu Batal karena Bersentuhan dengan Lawan Jenis saat Tawaf, Apa Solusinya? Ini Penjelasan Ulama",
+ "excerpt": "Ulama Syafi’iyah memberi kelonggaran bagi jemaah yang tak sengaja tersentuh lawan jenis saat tawaf, sedangkan yang batal wudu cukup bersuci lalu melanjutkan.",
+ "tags": [
+  34,
+  111,
+  218,
+  510
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/1220/kepadatan-jemaah-mengelilingi-kabah.jpg",
+   "alt": "Ribuan jemaah memadati pelataran tawaf di sekeliling Ka’bah, Masjidil Haram",
+   "caption": "",
+   "seen": "Foto dari lantai atas: Ka’bah di tengah atas, pelataran mataf penuh sesak ribuan jemaah berpakaian putih dan berwarna yang berjalan rapat, serambi berlengkung Masjidil Haram di latar. Tidak ada wajah yang dominan, tanpa teks/watermark.",
+   "evidence": "Pexels 34246980 'Aerial view of pilgrims gathering around the Kaaba' https://www.pexels.com/photo/aerial-view-of-crowded-kaaba-in-mecca-34246980/ (lisensi Pexels, tanpa kredit). 1600x1080 -> crop y90-990 -> 1600x900 q82. ID tidak ada di paket mana pun.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/1220/jemaah-padat-tawaf-di-sekitar-kabah.jpg",
+   "alt": "Jemaah berihram berdesakan di sekitar Ka’bah saat tawaf di Masjidil Haram",
+   "caption": "",
+   "seen": "Ka’bah besar di tengah dengan kiswah dan sabuk kaligrafi emas; di kiri-kanan jemaah berihram putih berdesakan rapat di mataf; latar serambi bertingkat Masjidil Haram dengan jemaah di balkon. Wajah kecil, tak ada close-up.",
+   "evidence": "Pexels 35315915 'Aerial view of the Kaaba surrounded by a large crowd of pilgrims' https://www.pexels.com/photo/aerial-view-of-kaaba-surrounded-by-pilgrims-35315915/ (lisensi Pexels, tanpa kredit). 1600x2133 -> crop y950-1850 -> 1600x900 q82. Beda dari 35315916 (dipakai 20 Nov).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 564,
+ "sources": [
+  "https://nu.or.id/syariah/hukum-bersentuhan-dengan-bukan-mahram-saat-thawaf-cWJVN (NU Online, Ahmad Mundzir, Ahad 6/8/2017; LINK KELUAR SATU-SATUNYA)",
+  "https://app.nu.or.id/faq/haji-umrah/bagaimana-solusi-persentuhan-kulit-lelaki-perempuan-saat-tawaf (FAQ NU Online, tanpa tanggal; disebut nama)",
+  "https://nu.or.id/syariah/saat-berhadats-di-pertengahan-tawaf-Q9UJ4 (NU Online, M. Mubasysyarum Bih, Kamis 18/7/2019; disebut nama)",
+  "https://muhammadiyah.or.id/2023/08/apakah-persentuhan-kulit-perempuan-dan-laki-laki-membatalkan-wudhu/ (Muhammadiyah, Agustus 2023, Rohmansyah; disebut nama)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Tanya Jawab fiqih UMROH, evergreen. Belum ada di c[30]/c[26] 14 hari (cek search wudhu/wudu/bersentuhan). Sudut beda dari 19369 (iqamah saat tawaf) dan 18307 (ragu putaran, link internal). Cek redaktur: kitab & halaman sesuai NU Online (Al-Idhah hal. 220-221; Bughyatul Mustarsyidin hal. 16; Asna al-Mathalib juz 3 hal. 180 - halaman tidak ditulis di artikel). Nama buku Muhammadiyah yang dirujuk Rohmansyah tidak terbaca (tag miring hilang) sehingga tidak disebut. Saran penutup 'suami istri berjalan berdampingan' & 'lapisan luar mataf' adalah tips praktis penulis (bukan kutipan ulama); hapus bila Pemred menilai tanpa sumber. Calon digugurkan: deodoran/sabun saat ihram (sudah 16492), haid saat umrah (16106), umrah berkali-kali (16222), cadar/sarung tangan ihram (sudah dibahas 13007/10893)."
+}

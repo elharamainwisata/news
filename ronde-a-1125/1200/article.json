@@ -1,0 +1,40 @@
+{
+ "slot": "2026-11-25T13:00:00",
+ "category": 29,
+ "title": "Tips HIMPUH Memilih Lintasan Tawaf: Jalur Tengah Mataf Paling Efisien, Lantai Atas 3,76 Km",
+ "excerpt": "HIMPUH memetakan jarak tujuh putaran tawaf, dari 783 meter di dekat Ka’bah hingga 3,76 km di lantai atas, dengan jalur tengah mataf dinilai paling efisien.",
+ "tags": [
+  34,
+  111,
+  1272,
+  1478,
+  218
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/1200/lintasan-tawaf-mengelilingi-kabah-dari-menara.jpg",
+   "alt": "Jemaah tawaf mengelilingi Ka’bah membentuk lingkaran lintasan di pelataran Masjidil Haram, dilihat dari atas menara",
+   "caption": "",
+   "seen": "Foto dari ketinggian (ujung menara hijau-putih di depan): Ka’bah di tengah, ribuan jemaah bergerak memutar membentuk pusaran berlapis (long exposure) di mataf, lingkar dalam, tengah, dan tepi tampak jelas; tanpa wajah dikenali, tanpa teks/watermark.",
+   "evidence": "Pexels 38546892 'Aerial view of pilgrims performing Tawaf around the Kaaba in Mecca' https://www.pexels.com/photo/pilgrims-performing-tawaf-around-kaaba-at-mecca-38546892/ (lisensi Pexels, tanpa kredit). 1600x1201 -> crop y170-1070 -> 1600x900 q82. ID tidak ada di paket ronde/haji-khusus mana pun.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/1200/kabah-dilihat-dari-lantai-atas-masjidil-haram.jpg",
+   "alt": "Ka’bah dan jemaah berihram di pelataran tawaf dilihat dari balik pembatas balkon lantai atas Masjidil Haram",
+   "caption": "",
+   "seen": "Ka’bah dengan pintu emas dan ribuan jemaah berihram putih di mataf, difoto dari lantai atas; di depan tampak dinding pembatas balkon dan kisi-kisi ornamen, jemaah di bawah terlihat dari celah kisi. Tanpa close-up wajah, tanpa teks.",
+   "evidence": "Pexels 36718458 'Thousands of pilgrims performing Tawaf around the Kaaba' https://www.pexels.com/photo/pilgrims-circling-the-kaaba-during-hajj-36718458/ (lisensi Pexels, tanpa kredit). 1600x2133 -> crop y133-2133 -> 1200x1500 (4:5) q82. Cocok dengan paragraf lantai atas & pembatas balkon.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 467,
+ "sources": [
+  "https://himpuh.or.id/blog/detail/5301/di-mana-posisi-tawaf-paling-efisien-ini-ulasannya (HIMPUH, Rabu 18 November 2026 15:00; kategori Berita/Khazanah; LINK KELUAR SATU-SATUNYA) - TIPS HIMPUH"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "TIPS HIMPUH (UMROH). Semua angka (radius 17,8/24,6/36,7/85,5 m; keliling 111,8/154,7/230,8/537,3 m; jarak 783 m/1,08 km/1,61 km/3,76 km; pembatas 5 m; 3-4 jam) persis dari HIMPUH 5301; HIMPUH menyebutnya 'hasil pemetaan empiris' tanpa nama lembaga, jadi diatribusikan ke HIMPUH. Klaim 'total rotasi 2.520 derajat' sengaja tidak dipakai. Data 52 menit/124 menit dari post 19470 (link internal). 'per November 2026' ada. Tanpa nama travel. Calon digugurkan: HIMPUH 5297 jadwal Raudhah (dibiarkan untuk S8 Nusuk agar tak bentrok; juga dekat 19374), 5286 gelang Siwar al-Aman (sudah 18533), 5269 modus penipuan (beririsan S1 1300 cek izin PPIU), 5291 maskapai (sudah 19311), 5287 beda haji-umrah (edukasi, kurang praktis), 5304/5305 tawaf qudum/ifadhah (haji, bukan umrah). Gambar: foto Drive album HAJJ 1447 & Umroh Qudum dicek (selfie/foto grup, tak memperlihatkan lintasan) -> stok Pexels."
+}

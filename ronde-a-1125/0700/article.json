@@ -1,0 +1,40 @@
+{
+ "slot": "2026-11-25T07:00:00",
+ "category": 29,
+ "title": "Kemenhaj Siapkan Asuransi Syariah untuk Jemaah Haji dan Umrah, Opsi Konsorsium Masih Dikaji",
+ "excerpt": "Kemenhaj membahas skema asuransi syariah bersama OJK, KNEKS, dan AASI untuk melindungi jemaah haji dan umrah, termasuk opsi konsorsium perusahaan asuransi.",
+ "tags": [
+  34,
+  521,
+  662,
+  36,
+  22
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/0700/utama_asuransi_syariah_kemenhaj.jpg",
+   "alt": "Pejabat Kementerian Haji dan Umrah berbicara dalam rapat pembahasan skema asuransi syariah jemaah haji dan umrah di Jakarta",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Pria berpeci hitam dan kemeja putih berbicara di depan mikrofon sambil memegang kertas di meja rapat, latar panji berlogo Kementerian Haji dan Umrah RI.",
+   "evidence": "thumbnail rilis haji.go.id https://haji.go.id/uploads/general/97c61d1e-738c-4159-bbee-6fcc6437d739-1795494440459.jpeg (rilis 23 Nov asuransi syariah); identitas orang TIDAK disebut di alt/caption karena rilis tidak memberi keterangan foto",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/0700/sisip_rapat_asuransi_syariah.jpg",
+   "alt": "Peserta rapat pembahasan skema asuransi syariah jemaah haji dan umrah duduk di meja panjang dengan laptop",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Tujuh peserta rapat berbatik/berjilbab duduk berjajar di meja panjang dengan laptop dan mikrofon, lukisan Masjidil Haram dan foto resmi pimpinan negara di dinding.",
+   "evidence": "foto di badan rilis haji.go.id https://haji.go.id/uploads/general/3da04e2d-da19-4588-8936-91d17c442467-1795494060380.jpeg",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 466,
+ "sources": [
+  "https://haji.go.id/berita/kemenhaj-siapkan-skema-asuransi-syariah-tingkatkan-perlindungan-jemaah-haji-dan-umrah-1795494440508 (rilis pusat 23 Nov 2026, satu-satunya link keluar; API /api/news/<slug>, HTTP 200)"
+ ],
+ "haji_go_id": "pusat - referenceUrl kosong, link https://haji.go.id/berita/kemenhaj-siapkan-skema-asuransi-syariah-tingkatkan-perlindungan-jemaah-haji-dan-umrah-1795494440508",
+ "notes": "UMROH + haji khusus (skema perlindungan haji & umrah; angka 221 ribu jemaah 2027 disebut dengan porsi 17 ribu haji khusus saja, rincian reguler tidak ditonjolkan). Slug belum pernah dipakai (grep ronde-*-112*); beda dari 19122 (tips polis HIMPUH) dan 16102 (force majeure Okt), keduanya jadi link internal. Kutipan Jaenal dipotong sebelum 'Dengan demikian'. Tidak ada liputan media allowlist yang ditemukan (WebSearch), jadi hanya rilis. Foto: belum dipakai 7 hari (grep uuid nihil). Calon digugurkan: tidak ada (pilihan brief langsung lolos)."
+}

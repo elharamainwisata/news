@@ -1,0 +1,42 @@
+{
+ "slot": "2026-11-25T08:00:00",
+ "category": 29,
+ "title": "Panduan Umrah di Laman Nusuk: Sa’i Diawali Papan Safa, Perempuan Cukup Potong Rambut 1-2 Cm",
+ "excerpt": "Laman resmi Nusuk Umrah merinci urutan umrah, cara menemukan titik awal sa’i di Safa, hingga batas potong rambut 1-2 cm bagi jemaah perempuan.",
+ "tags": [
+  34,
+  135,
+  1133,
+  218,
+  136
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/0800/sai-safa-start-masjidil-haram.jpg",
+   "alt": "Jemaah berpakaian ihram berjalan menuju titik awal sa’i bertanda Safa Start di Masjidil Haram",
+   "caption": "",
+   "seen": "Ratusan jemaah berpakaian ihram putih (beberapa perempuan bercadar/berjilbab) berjalan membelakangi kamera di koridor Mas'a menuju papan 'بداية الصفا / SAFA START', di kiri papan 'To Marwah'; kredit kecil 'Foto: مانفی/CC BY-SA' di kanan bawah.",
+   "evidence": "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Sa%27yee.jpg (judul/deskripsi 'Sa'yee', kategori Sa'yee, pemotret/pengunggah مانفی, 9/4/2015, CC BY-SA 4.0). Landmark Masjidil Haram (Mas'a) -> pengecualian CC BY-SA dengan kredit kecil di gambar (tools/spa_credit_lib 15 px); caption WP kosong. 1920x1080 -> 1600x900 q82. Tidak dipakai 7 hari (grep paket lama kosong). Kandidat Safa_marwa.jpg (PD) DITOLAK: sudah dipakai ronde-a-1120/0940 (19064).",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/0800/bukit-marwah-akhir-sai.jpg",
+   "alt": "Sisa bebatuan Bukit Marwah di dalam Masjidil Haram dengan papan End of Saee",
+   "caption": "",
+   "seen": "Bebatuan Bukit Marwah di balik pagar kaca dengan papan 'المروة / نهاية الشوط / End of Saee / سعي ختم', di depannya kerumunan jemaah berihram dan beberapa perempuan bercadar (tidak ada close-up); kredit 'Foto: Aiman titi/CC BY-SA' kanan bawah.",
+   "evidence": "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Al-Marwah_2.JPG (deskripsi 'Panel guidance on Mount Al-Marwah exists inside the Grand Mosque in Mecca, It endins AL-Sa'yee', kategori Sa'yee/Hajj 1433 AH, Aiman titi, 24/10/2012, CC BY-SA 3.0) -> kredit kecil di gambar (landmark). 1920x1080 -> 1600x900. Taruh di %%IMG2%% (paragraf Safa-Marwah).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 527,
+ "sources": [
+  "https://umrah.nusuk.sa/Journey",
+  "https://umrah.nusuk.sa/FAQ (definisi Nusuk Umrah di bawah pengawasan Kemenhaj Saudi)",
+  "internal 19470 (durasi sa'i 50 menit), 16704 (fiqih tahallul)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "ULASAN NUSUK (slot tengah 08:00). Kabar Nusuk baru: KOSONG (SPA API hal 1-12 s.d. 24 Nov 21:55 UTC + ../nusuk.txt S6). Sumber: umrah.nusuk.sa/Journey (curl 200, terbaca 25 Nov 05:05 WIB); halaman tanpa tanggal terbit, footer '© 2026 Nusuk Umrah 1448' -> ditulis 'per November 2026'; isinya tata cara ibadah (bukan aturan berubah-ubah). Tawaf hanya 1 kalimat karena S3 (istilam Rukun Yamani) & S4 (lintasan tawaf, wudu batal saat tawaf). Link keluar 1: umrah.nusuk.sa/Journey. Digugurkan: Gift Umrah & FAQ paket Nusuk Umrah perorangan (mempromosikan pembelian paket langsung/kanal penyedia lain, tidak cocok untuk media travel), Raudhah HIMPUH 5297 (Raudhah sudah 17591/17905/19374), FAQ visa 'Fingerprint Required' (cadangan bila perlu)."
+}

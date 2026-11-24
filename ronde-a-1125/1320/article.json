@@ -1,0 +1,39 @@
+{
+ "slot": "2026-11-25T13:20:00",
+ "category": 29,
+ "title": "Panduan Nusuk untuk Jemaah Umrah: Simpan Nomor Darurat 911, Tukar Riyal, hingga Naik Kereta Haramain",
+ "excerpt": "Panduan resmi Nusuk Umrah memuat nomor darurat 911, kontak layanan Kemenhaj Saudi, cara menukar riyal, hingga pilihan bus dan Kereta Cepat Haramain.",
+ "tags": [
+  34,
+  135,
+  1272,
+  71
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/1320/stasiun-haramain-rombongan-jemaah.jpg",
+   "alt": "Rombongan jemaah Elharamain Wisata berfoto di depan bangunan stasiun Kereta Cepat Haramain",
+   "caption": "",
+   "seen": "Puluhan jemaah berseragam dan bertanda pengenal berfoto berjajar membentangkan spanduk 'Keluarga Besar Jamaah Haji Elharamain Wisata Tahun 1447 H/2026 M' di pelataran depan bangunan stasiun berkubah lengkung dan dinding kisi khas stasiun Haramain, langit cerah, koper di tepi kanan.",
+   "evidence": "Drive perpustakaan Elharamain > subfolder 'Kereta Cepat' (1QhvvMAW35DQ3dXVJIZKSa1Am8L4Bo_rJ) IMG_4389.JPG (file id 1SgTm5a1BKI36KRzh3CJplY4bDOD3mV2u); foto ilustrasi Elharamain tanpa caption; belum dipakai 7 hari (grep paket 18-24 Nov).",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/1320/aula-stasiun-kereta-haramain.jpg",
+   "alt": "Dua jemaah berdiri di aula keberangkatan stasiun Kereta Cepat Haramain dengan tiang bercabang dan langit-langit keemasan",
+   "caption": "",
+   "seen": "Sepasang jemaah (pria bertopi dan bermasker, perempuan berjilbab, memegang tiket dan tas) berdiri di aula stasiun luas dengan tiang abu-abu bercabang seperti pohon dan atap kisi keemasan khas stasiun Haramain; jalur gerbang dan penumpang lain kecil di latar.",
+   "evidence": "Drive perpustakaan Elharamain > subfolder 'Kereta Cepat' IMG_4415.JPG (file id 1PWLI-4HkJITr59Y4XW45EOddqDrl4nG9); crop 4:5, tanpa caption (ilustrasi).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 477,
+ "sources": [
+  "https://umrah.nusuk.sa/nusuk/navigating (Navigating The Kingdom, panduan Nusuk Umrah; dibaca 25/11/2026 05:10 WIB; halaman tanpa tanggal)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "TIPS NUSUK (slot tengah 13:20, kategori 29). Sumber: umrah.nusuk.sa/nusuk/navigating (menu Guidelines). Beda dari S8 0800 (/Journey) dan 1040 (/MakkahAndMadinah). Link keluar 1 (Nusuk Umrah); internal 19176, 19122. Fakta di halaman yang SENGAJA tidak dipakai karena meragukan: nomor Bulan Sabit Merah tertulis 977 (umumnya 997), nama/kode bandara Madinah keliru (Prince Abdul Mohsin/YANBU, MED), jarak Jeddah-Madinah 323 km, populasi 32,18 vs 32,12 juta, nama maskapai. Halaman tanpa tanggal pembaruan -> artikel memuat paragraf kehati-hatian. Foto utama memperlihatkan spanduk 'Jamaah Haji 1447 H' (rombongan haji Elharamain) sebagai ilustrasi transportasi; redaktur boleh ganti dengan foto aula stasiun bila dianggap kurang pas untuk artikel umrah. Calon digugurkan: SPA N2733578 layanan Nabawi (mirip 18964/19374, sudah 3x digugurkan); SPA N2721654 crowd management Nabawi (sudah 17488); SPA Madinah Buses layanan respons otomatis 18 Nov (isi terlalu tipis); haji.go.id imbauan umrah (kesantunan 7 Nov sudah 17269; imbauan lain >30 hari); SPA versi Arab (API locale=ar kosong)."
+}

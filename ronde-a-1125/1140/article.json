@@ -1,0 +1,49 @@
+{
+ "slot": "2026-11-25T11:40:00",
+ "category": 25,
+ "title": "Museum Al-Qur’an Makkah Pamerkan Dua Halaman Mushaf Kufi Abad Ke-3 Hijriah, Ada Surah Al-Qadr",
+ "excerpt": "Museum Al-Qur’an di Distrik Budaya Hira, Makkah, memajang dua halaman mushaf Kufi abad ke-3 Hijriah yang memuat ayat Surah Al-Qadr dan Surah Al-Lail.",
+ "tags": [
+  34,
+  1751,
+  1368,
+  1376,
+  1296
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/1140/halaman-mushaf-kufi-museum-al-quran-makkah.jpg",
+   "alt": "Halaman mushaf kuno bertulisan Kufi abad ke-3 Hijriah koleksi Museum Al-Qur’an Distrik Budaya Hira, Makkah",
+   "caption": "",
+   "seen": "Satu halaman perkamen krem berisi tujuh baris huruf Kufi hitam-cokelat tanpa titik, bertabur titik merah dan beberapa medali hiasan keemasan, di atas latar putih; kredit kecil 'Foto: SPA' kanan bawah, logo SPA sudah terpotong.",
+   "evidence": "Foto SPA rilis N2734934 (24 Nov 2026), media_images is_main, caption 'Holy Quran Museum in Makkah Displays Pages of Ancient Kufic Manuscript': https://portalcdn.spa.gov.sa/backend/original/202611/M11305651.jpg (raw/M11305651.jpg)",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/1140/halaman-kedua-mushaf-kufi.jpg",
+   "alt": "Halaman kedua mushaf Kufi dengan titik merah penanda harakat di Museum Al-Qur’an Makkah",
+   "caption": "",
+   "seen": "Halaman perkamen kedua dengan tujuh baris huruf Kufi gelap, titik-titik merah di atas/bawah/samping huruf dan dua medali hiasan; latar putih, kredit 'Foto: SPA' kanan bawah.",
+   "evidence": "Foto SPA rilis N2734934, caption sama: https://portalcdn.spa.gov.sa/backend/original/202611/M11305652.jpg (raw/M11305652.jpg)",
+   "ai_prompt": ""
+  },
+  "3": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/1140/galeri-museum-al-quran-hira.jpg",
+   "alt": "Pengunjung mengamati manuskrip dan mushaf kuno di etalase kaca Museum Al-Qur’an Distrik Budaya Hira, Makkah",
+   "caption": "",
+   "seen": "Ruang pamer berlampu dengan etalase kaca berisi mushaf/manuskrip terbuka, puluhan pengunjung pria dan wanita berhijab mengamati, di belakang menara silinder rak kitab dan dinding berkaligrafi; kredit 'Foto: SPA' kanan bawah. Tidak ada close-up wajah.",
+   "evidence": "Foto SPA rilis N2734934, caption sama: https://portalcdn.spa.gov.sa/backend/original/202611/M11305655.jpeg (raw/M11305655.jpeg)",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 468,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2734934",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2734874?locale=ar"
+ ],
+ "haji_go_id": "tidak (MEDIA ARAB: SPA)",
+ "notes": "MEDIA ARAB, kategori Dunia islam (25) karena kabar budaya/museum, bukan aturan jemaah. Sumber SPA 24 Nov 2026 12:22 waktu Makkah (en N2734934); detail Surah Al-Qadr & Al-Lail serta sistem titik merah harakat dari versi Arab N2734874 (tanpa link). Konteks koleksi sebelumnya lewat link internal 17111 & 18921. Foto SPA dari rilis yang sama (logo SPA dipotong, kredit 'Foto: SPA' di gambar, caption WP kosong). Foto antrean jemaah di depan Distrik Hira (M11305654) DITOLAK: jemaah berseragam rombongan/kelompok tertentu dengan wajah jelas. Calon digugurkan: Kemenag Saudi layanan penyuluhan 300.000 jemaah umrah (N2734147; sama dengan 19525), layanan pengunjung Nabawi (N2733578; mirip 18964/19374), Makkah Gate (N2734173; mirip 19160 Dawariq), Yemeni scholars Makkah larangan serangan (N2735097; bermuatan konflik), Dubes Saudi terima kepala otoritas haji Lebanon (seremoni), Islamic University Madinah wisuda pelatihan bahasa (kurang relevan). Kabar Nusuk baru: kosong (lihat ../nusuk.txt)."
+}

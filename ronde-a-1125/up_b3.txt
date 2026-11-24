@@ -1,0 +1,6 @@
+1320 1 /home/khaeruddien/elharamain-news/ronde-a-1125/1320/stasiun-haramain-rombongan-jemaah.jpg 460dfdb1a5832b07259d0f7260c28f9e6e4add7b3064a45d306f43fbf2819c39
+1320 2 /home/khaeruddien/elharamain-news/ronde-a-1125/1320/aula-stasiun-kereta-haramain.jpg 97a2d7856011e5541b5e2b2fdcbc4c0abf7d62f7c42be61d40c5db21994d65e5
+1340 1 /home/khaeruddien/elharamain-news/ronde-a-1125/1340/mtq_utama.jpg 1a70352e8824a05096501cffe63b5d4e77c92ee78a9dac9accd18b90658740a7
+1200 2 /home/khaeruddien/elharamain-news/ronde-a-1125/1200/kabah-dilihat-dari-lantai-atas-masjidil-haram.jpg aa8ffa75648b0889315c9a2fb973d3a5d7ce2fc8012b764e266b81f5bf1130af
+1220 1 /home/khaeruddien/elharamain-news/ronde-a-1125/1220/kepadatan-jemaah-mengelilingi-kabah.jpg e46ef836fe3a10fbaa9b1f535a0f6a04ea0e9d1312f2e3ec1746df6d9b5d5c4e
+1220 2 /home/khaeruddien/elharamain-news/ronde-a-1125/1220/jemaah-padat-tawaf-di-sekitar-kabah.jpg fb6e254ef857e56078d169ccd8d4d8e13c72f736e605ef3dcd891130329cbdc3

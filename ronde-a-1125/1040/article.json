@@ -1,0 +1,34 @@
+{
+ "slot": "2026-11-25T10:40:00",
+ "category": 29,
+ "title": "Menu Makkah & Madinah di Nusuk Umrah Muat 46 Situs Ziarah, dari Masjid Jin hingga Ain Zubaidah",
+ "excerpt": "Menu Makkah & Madinah di Nusuk Umrah memuat 46 situs ziarah, lengkap dengan penjelasan dan titik peta, dari Masjid Jin hingga saluran Ain Zubaidah.",
+ "tags": [
+  34,
+  135,
+  2099,
+  1296,
+  977
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1125/1040/saluran-ain-zubaidah-makkah.jpg",
+   "alt": "Dinding batu saluran air Ain Zubaidah di tepi King Faisal Road, Makkah",
+   "caption": "",
+   "seen": "Dinding batu tua panjang di atas lereng berbatu dengan pepohonan hijau di depan dan papan jalan hijau 'ROAD 50 / طريق الملك فيصل / (KING FAISAL ROAD)'; kredit 'Foto: Mominzed/CC BY-SA' kanan bawah.",
+   "evidence": "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Wall_of_Canal_of_Zubaidah_in_Makkah.jpg (deskripsi 'Zubaidah had built a colossal canal ... This wall is part of this canal', kategori 'Canal of Zubaidah', Mominzed, 19/4/2013, CC BY-SA 4.0). Situs bersejarah/landmark -> pengecualian CC BY-SA dengan kredit kecil (preseden Bir Rumah). 1920x1440 crop y200-1280 -> 1600x900. Taruh di %%IMG2%% setelah paragraf Ain Zubaidah.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 545,
+ "sources": [
+  "https://umrah.nusuk.sa/MakkahAndMadinah",
+  "https://umrah.nusuk.sa/FAQ (Nusuk Umrah di bawah pengawasan Kemenhaj Saudi)",
+  "internal 19474 (Discover Makkah, ruas Ain Zubaidah), 17762 (program eksplorasi Nusuk 100+ tur, 13 perusahaan)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "ULASAN NUSUK (slot tengah 10:40). Kabar Nusuk baru KOSONG (SPA hal 1-12 + ../nusuk.txt S6). Sumber umrah.nusuk.sa/MakkahAndMadinah (curl 200, 25 Nov 05:05 WIB; 20 situs Makkah + 26 Madinah dihitung dari tombol 'Go To Location'; bahasa laman: Arab, Inggris, Spanyol, Portugis, Prancis, Italia, Jerman). Halaman tanpa tanggal; footer '© 2026 Nusuk Umrah 1448' -> 'per November 2026'. Sengaja TIDAK membahas gunung Madinah (S6 1420) & Masjid Ali/Abu Dzar (S3 0940); Jabal Tsur (19474), Al-Khaif (19524), Ji'ranah/Tan'im/Hudaibiyah (Okt-Nov) tidak disorot. Ain Zubaidah hanya disebut sekilas di 19474 (daftar tur), di sini dijelaskan dari Nusuk. Link keluar 1. Masjid Jin pernah jadi artikel Sejarah 17172 (7 Nov, >14 hari); di sini hanya salah satu situs dalam ulasan fitur. | INDUK: foto Masjid Jin dibuang (masjid kecil terhimpit gedung, menara terpotong; gagal aturan masjid terlihat jelas) -> foto utama = dinding Ain Zubaidah, tanpa sisipan."
+}
