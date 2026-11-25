@@ -1,0 +1,6 @@
+[S4 Ronde B] Cek kabar Nusuk BARU (setelah 25 Nov 05:00 WIB / 24 Nov 22:00 UTC) - dicek 25 Nov 11:03 WIB
+HASIL: KOSONG (tidak ada kabar Nusuk baru).
+- SPA API portalapi.spa.gov.sa/api/v1/news?locale=en halaman 1-16 (21 Nov 08:38 UTC s.d. 25 Nov 03:23 UTC): 0 judul/isi/subjudul memuat "Nusuk". Berita SPA sejak 22:00 UTC 24 Nov didominasi serangan Houthi/politik (tidak diambil).
+- Arab News rss.xml (24 Nov 17:50 s.d. 25 Nov 02:46 GMT): 0 item memuat Nusuk/haji/umrah.
+Catatan untuk S8: pakai jalur ULASAN/PANDUAN fitur Nusuk (halaman umrah.nusuk.sa yang belum dipakai). Berita SPA Haramain 72 jam yang sudah dipakai/diklaim: N2734934 Museum Al-Qur'an (19599), N2733578 Masjid Nabawi layanan pengunjung, Madinah Mountains (19605). S4 (1700) akan menulis klaimnya di ../1700/PILIHAN.txt.
+Tambahan 11:09 WIB: isi lengkap (detail API) 260 berita SPA 22-25 Nov juga dicek - "Nusuk" hanya muncul di N2733917 (22 Nov 19:36 UTC, pidato Gubernur DGA soal transformasi digital, menyebut Nusuk sepintas) - bukan kabar baru setelah 25 Nov 05:00 WIB. HASIL tetap KOSONG.

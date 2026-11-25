@@ -1,0 +1,41 @@
+{
+ "slot": "2026-11-25T20:20:00",
+ "category": 28,
+ "title": "Hisablah Diri sebelum Dihisab: Renungan Muhasabah Al-Ghazali di Akhir Hari bagi Jemaah Umrah",
+ "excerpt": "Pesan Umar bin Khattab dan saran Al-Ghazali dalam Mau’idzatul Mu’minin mengajak jemaah umrah menghitung amal di akhir hari, seperti pedagang menghitung laba.",
+ "tags": [
+  34,
+  113,
+  687,
+  2055
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1125/2020/hikmah-jemaah-salat-malam-pelataran-masjidil-haram.jpg",
+   "alt": "Jemaah pria dan wanita berdiri bersedekap salat malam berjamaah di pelataran Masjidil Haram dengan latar gedung Abraj Al-Bait",
+   "caption": "",
+   "seen": "Malam hari, sekitar 15 jemaah (pria bergamis putih/abu berpeci, wanita bermukena putih/hitam, sebagian bermasker dan memakai lanyard) berdiri bersedekap dalam saf di atas karpet hijau pelataran marmer Masjidil Haram; latar gedung tinggi kompleks Abraj Al-Bait dengan tulisan Arab di fasad, dinding Masjidil Haram di kanan. Wajah dari kejauhan sedang, bukan close-up; tanpa anak, tanpa atribut haji khas (bukan Arafah/Mina).",
+   "evidence": "Drive Elharamain perpustakaan 1cg353egFOuGmZVuvhLQ3KhUdHNiv-3x9 > 'Tahajjud Makkah' (1WhPxyeMxTSkJ6k44eKrXp5xE9aqkG0tU), IMG_4142.JPG (file 1ndtpRIoiBhAqIQCs6fwTT47CS2cCoIvP), EXIF 6/6/2026 02:13, 5712x4284, crop 16:9 lalu 1600x900 q82. Terakhir dipakai ronde-b-1111/2020 (14 hari lalu, >7 hari); tidak ada di paket 18-25 Nov. Ilustrasi -> tanpa caption.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1125/2020/hikmah-jemaah-sujud-masjidil-haram.jpg",
+   "alt": "Barisan jemaah sujud di atas sajadah saat salat malam di pelataran masjid di Makkah dengan kubah dan menara di latar",
+   "caption": "",
+   "seen": "Malam hari, dua saf jemaah bersujud dilihat dari belakang (pria di saf depan, wanita bermukena merah marun/putih/hitam di saf belakang), karpet hijau, latar tiga kubah cokelat berlampu dan dua menara putih; tidak ada wajah terlihat.",
+   "evidence": "Drive Elharamain perpustakaan > 'Tahajjud Makkah' (1WhPxyeMxTSkJ6k44eKrXp5xE9aqkG0tU), video IMG_3858.MOV (file 1Syinra5n1BAgKe7j0v7piklm3s7-gQmO), thumbnail Drive 1080x1920 crop 4:5 1080x1350 q82. ID belum pernah dipakai (grep semua article.json kosong). Ilustrasi -> tanpa caption.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 523,
+ "sources": [
+  "https://islam.nu.or.id/hikmah/menyongsong-akhir-tahun-dengan-muhasabah-ala-imam-al-ghazali-yNfdj (link keluar; Ustadz Muhamad Abror, NU Online 27/12/2024; Al-Qasimi, Mau'idzatul Mu'minin, Darul Fikr 2012, h. 308 & 304)",
+  "https://islam.nu.or.id/tasawuf-akhlak/hisab-dunia-meringankan-hisab-akhirat-oYGjf (Jaenuri, NU Online 18/12/2020; Umar 'hasibu anfusakum', An-Nahl 93, Yasin 65, Kifayatul Atqiya hal. 16-17; disebut tanpa link)"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "Hikmah evergreen: muhasabah (Umar bin Khattab; Al-Ghazali via Mau'idzatul Mu'minin; Kifayatul Atqiya menukil Ihya). Beda dari c[28] 14 hari (memaafkan, doa musafir, Arbain, sedekah, sabar, syukur, ghibah, qanaah, tabayyun, itsar, malu, suara, salat malam) dan bukan tawaf; search WP 'muhasabah' tanpa artikel Hikmah. Terdekat: 16072 Al-Hikam tanda hati hidup (sudut beda), 17132 tobat (dijadikan link internal). Ayat dikutip sesuai terjemahan di NU Online; Yasin 65 diparafrasekan. Penutup praktis (muhasabah sebelum tidur) disandarkan ke saran Al-Ghazali 'di akhir hari'. Gambar: 2 ilustrasi Drive 'Tahajjud Makkah' (Masjidil Haram, netral umrah/haji, bukan album HAJJ 1447), tanpa caption. Redaktur: foto utama wajah jemaah terlihat dari jarak sedang (bermasker), cek bila perlu. Digugurkan: tawadhu (sudah 17320), istiqamah (16328), ikhlas (16260/16752), tawakal (16185), muraqabah (NU Online 24/11 terbaru, tapi sumber 1 saja & dekat 17908 malu kepada Allah)."
+}

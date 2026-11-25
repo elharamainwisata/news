@@ -1,0 +1,37 @@
+{
+ "slot": "2026-11-25T17:00:00",
+ "category": 25,
+ "title": "Gerbang Makkah Berbentuk Mushaf Terbuka di Atas Rehal, Tiap Halamannya Selebar 26 Meter",
+ "excerpt": "Gerbang Al-Qur’an di jalan Jeddah-Makkah berbentuk mushaf terbuka di atas rehal, dipasang 23 sampai 31 meter di atas jalan dan menyambut jemaah umrah.",
+ "tags": [34, 71, 1087, 1028],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1125/1700/gerbang-makkah-mushaf-terbuka-jalan-jeddah-makkah.jpg",
+   "alt": "Foto udara Gerbang Makkah berbentuk mushaf Al-Qur'an terbuka di atas rehal yang membentang di atas jalan tol Jeddah-Makkah",
+   "caption": "",
+   "seen": "Foto udara saat senja: bangunan putih berbentuk buku terbuka di atas dudukan bersilang (rehal) membentang di atas jalan tol berlajur banyak dengan mobil melintas, lampu kuning menyala di kaki bangunan, lahan gurun dan menara pemancar di kiri; kredit kecil 'Foto: SPA' kanan bawah, logo SPA terpotong.",
+   "evidence": "SPA N2734173 'Makkah Gate: Majestic Landmark Inspired by Holy Quran' (23/11/2026), media_images caption = judul rilis; https://portalcdn.spa.gov.sa/backend/original/202611/M11298732.jpg crop 0,320,1600,1220 + tools/spa_credit.py",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1125/1700/gerbang-makkah-lampu-hijau-senja.jpg",
+   "alt": "Mushaf raksasa di puncak Gerbang Makkah menyala hijau saat senja, dengan pola geometris di bawah dudukannya",
+   "caption": "",
+   "seen": "Sudut bawah dari tepi jalan: puncak gerbang berbentuk mushaf terbuka diterangi lampu hijau, lengan rehal berhias pola geometris dan lampu jingga, langit senja, deretan pohon di bawah; kredit kecil 'Foto: SPA' kanan bawah, logo SPA terpotong.",
+   "evidence": "SPA N2734173 media_images foto ke-3 https://portalcdn.spa.gov.sa/backend/original/202611/M11298733.jpeg (caption = judul rilis); crop 205,0,1600,785 + tools/spa_credit.py",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 525,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2734173",
+  "https://saudigazette.com.sa/article/627992 (14/12/2022, tanpa link di artikel)",
+  "https://www.arabnews.com/saudi-arabia/makkah-honors-designer-of-gateway-to-the-heart-of-islam-1543431 (21/8/2019, tanpa link di artikel)"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "MEDIA ARAB. Sumber utama SPA N2734173 (23/11/2026, portalapi detail). Latar dari Saudi Gazette 2022 (lokasi 27 km dari Masjidil Haram di dalam batas Haram, biaya SR46 juta, 4.712 m2, 8 lajur, panel GRC) dan wawancara Arab News 2019 (perancang Dia Aziz Dia, diusulkan 1979, rampung 1985). Catatan redaktur: Saudi Gazette menulis 'built in 1979' dan menyebut arsitek Samir Elabd; Arab News menyebut diusulkan 1979 dan rampung 1985 - naskah memakai versi Arab News dan tidak menyebut Samir Elabd. Arab News juga menyebut '5 km di luar batas kota' (bertentangan dengan SG) - tidak dipakai. Nama perusahaan transportasi di Arab News tidak dipakai. Kategori 25 (kabar Makkah/landmark, bukan aturan jemaah). Link keluar 1 (SPA), link internal 19160. Digugurkan: Third Ring Road Makkah (Arab News 23/11, fakta sama dengan 16836 3 Nov), Red Sea Museum tasbih karang hitam SPA N2734347 (museum sudah 19115), Darb Zubaydah caravan Hail N2734138 (kurang relevan jemaah), Kidana Path Muzdalifah N2735233 (bazar keluarga lokal), EFQM bintang lima RCMC N2734002 (seremoni), Islamic University Madinah wisuda 100 guru bahasa Arab N2735243 (tipis), Hari Bahasa Arab KSGA-MWL N2735036 (acara belum berlangsung), berita Houthi/serangan Riyadh (politik/militer). SPA 'Average umrah 124 menit' (19470), 'Awareness 300.000 umrah' (19525), 'Discover Makkah Jabal Tsur' (19474) sudah ditulis."
+}

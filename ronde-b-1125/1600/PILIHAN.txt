@@ -1,0 +1,4 @@
+[S8] 11:07 FINAL 1600 = ULASAN NUSUK: aplikasi Nusuk bisa dipakai tanpa memotong kuota/paket data bagi pengguna kartu SIM Saudi (STC, Mobily, Zain) - izin Raudhah, kereta Haramain, peta Nusuk, Nusuk AI.
+Sumber utama: haj.gov.sa/en/Media-Center/Ministry-News/Ministry-of-Hajj-and-Umrah-activates-the-Nusuk-application-without-internet-consumption-to-serve-the (terbit 06/08/2025, last updated 15/11/2026); pendamping Arab News 2610948. JANGAN dipakai slot lain.
+Digugurkan: umrah.nusuk.sa /ServiceProviders (isi daftar nama perusahaan umrah = nama travel dilarang), /umrah-gift & paket langsung (jualan paket langsung, sensitif bagi jemaah Indonesia/PPIU), /nusuk/guidelines (hanya tautan ke /nusuk/navigating yang sudah dipakai & pha.gov.sa di luar allowlist); SPA 2600 berita (27 Okt-25 Nov): semua item Nusuk/Haramain sudah dipakai.
+-> SELESAI 11:13: 1600/article.json + content.html, 2 gambar Drive (ihram+ponsel; gerbong kereta Haramain), 483 kata.

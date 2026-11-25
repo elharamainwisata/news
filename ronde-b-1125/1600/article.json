@@ -1,0 +1,43 @@
+{
+ "slot": "2026-11-25T16:00:00",
+ "category": 29,
+ "title": "Aplikasi Nusuk Bisa Dipakai Tanpa Kuota Internet bagi Pengguna Kartu SIM Saudi, Ini Layanannya",
+ "excerpt": "Pengguna kartu SIM Saudi bisa memakai aplikasi Nusuk tanpa kuota internet, dari izin Raudhah, tiket kereta Haramain, peta Nusuk, hingga fitur Nusuk AI.",
+ "tags": [
+  34,
+  1133,
+  135,
+  687,
+  1131
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1125/1600/jemaah-berihram-memakai-ponsel.jpg",
+   "alt": "Jemaah pria berihram duduk sambil memegang ponsel di Tanah Suci",
+   "caption": "",
+   "seen": "Seorang jemaah pria Indonesia berkain ihram putih duduk di kursi rotan teras berdinding batu krem, menunduk memegang dan mengetik di ponsel, tas hitam di pangkuan; di latar dua jemaah perempuan berabaya hitam. Foto tegak dipasang di tengah dengan latar kiri-kanan versi buram (1600x900).",
+   "evidence": "Drive album grup Elharamain 1447 H > 8.FEBRUARY > 21 FEBRUARY 2026 SILVER, file 'WhatsApp Image 2026-02-25 at 17.22.30.jpeg' id 1HrbgiGBhdIK-6Lm-qrXkGDndnYTEQ4FM (960x1280). Ilustrasi (bukan peristiwa berita) -> tanpa caption. Foto umrah (ihram, bukan atribut haji). Tidak ada di paket 7 hari (cek id).",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1125/1600/jemaah-di-kereta-cepat-haramain.jpg",
+   "alt": "Dua jemaah perempuan duduk di gerbong kereta cepat Haramain",
+   "caption": "",
+   "seen": "Dua jemaah perempuan (satu bergamis hitam, satu putih) berkalung lanyard Elharamain Wisata duduk di kursi bermotif geometris ungu-oranye di dalam gerbong kereta, jendela besar dengan kereta lain di luar; spanduk iklan minuman berbahasa Arab di plafon. Crop 4:5 1080x1350.",
+   "evidence": "Drive perpustakaan tematik > Kereta Cepat (1QhvvMAW35DQ3dXVJIZKSa1Am8L4Bo_rJ), IMG_4440.JPG id 18TDnLPye4YveRtHXIW1y_Nrq7UmSEwPL. Sisipan di paragraf tentang pemesanan tiket kereta Haramain. Ilustrasi -> tanpa caption.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 483,
+ "sources": [
+  "https://haj.gov.sa/en/Media-Center/Ministry-News/Ministry-of-Hajj-and-Umrah-activates-the-Nusuk-application-without-internet-consumption-to-serve-the (terbit 06/08/2025, laman last updated 15/11/2026; dibaca curl 25/11 11:05 WIB) - SATU-SATUNYA link keluar",
+  "https://www.arabnews.com/saudi-arabia/saudi-hajj-ministry-activates-nusuk-app-for-offline-use-by-pilgrims-2610948 (7/8/2025, disebut nama tanpa link)",
+  "internal 17591 izin Raudhah, 17765 SIM/eSIM lewat Nusuk; ../../ronde-b-1112/nusuk/FAKTA_NUSUK.md (harga paket SIM tidak tercantum)"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "ULASAN NUSUK (slot tengah 16:00). Kabar Nusuk baru KOSONG (../nusuk.txt S4; SPA API 130 hal 27 Okt-25 Nov: item Nusuk/Haramain semua sudah dipakai). Fitur 'Nusuk tanpa kuota' belum pernah ditulis (cek judul 14 hari + search 'nusuk internet/kuota/offline'). Pengumuman lama (Agt 2025) -> ditulis apa adanya: 'per November 2026 masih dimuat di laman kementerian', tidak menyebut batas berlaku, dan diberi catatan bahwa SIM roaming luar negeri tidak disebut. Nama jubir di haj.gov.sa 'Dr. Ghassan Al-Nuaimi' (Arab News: Al-Nuwaimi) - dipakai versi kementerian. Digugurkan: umrah.nusuk.sa/ServiceProviders (isinya daftar nama perusahaan umrah = nama travel), /umrah-gift & /available-packages (jualan paket langsung, sensitif PPIU), /nusuk/guidelines (hanya tautan ke /nusuk/navigating yang sudah dipakai + pha.gov.sa di luar allowlist), haj.gov.sa FAQ (campur jawaban usang 1444 H), Nusuk Card (dekat 17549), papan petunjuk QR SPA N2716385 (dekat 19372/16532). Foto: utama jemaah berihram memegang ponsel (portrait -> latar buram kiri-kanan), sisipan gerbong kereta Haramain; keduanya ilustrasi tanpa caption."
+}

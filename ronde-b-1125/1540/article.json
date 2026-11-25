@@ -1,0 +1,33 @@
+{
+ "slot": "2026-11-25T15:40:00",
+ "category": 23,
+ "title": "BWI Gelar Rakernas 27–29 November, Potensi Wakaf Uang Rp180 Triliun per Tahun Belum Tergarap",
+ "excerpt": "Badan Wakaf Indonesia menggelar Rakernas 27–29 November di Jakarta, saat potensi wakaf uang Rp180 triliun per tahun baru terhimpun kurang dari 2 persen.",
+ "tags": [
+  34,
+  736,
+  259
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1125/1540/wakaf-uang-rupiah-utama.jpg",
+   "alt": "Lembaran uang rupiah pecahan Rp20.000, Rp5.000, dan Rp2.000 di atas meja kayu",
+   "caption": "",
+   "seen": "Close-up beberapa lembar uang kertas rupiah (Rp20.000 bergambar Sam Ratulangi di depan, Rp2.000 dan Rp5.000 di belakang) di atas meja kayu; tanpa orang, tanpa logo/teks lain selain tulisan uang.",
+   "evidence": "Pexels 6927358 'Close-up shot of various denominations of Indonesian Rupiah banknotes' https://www.pexels.com/photo/a-variety-of-indonesian-currency-6927358/ ; stok gratis tanpa kredit; crop 16:9 1600x900 q82. Tidak ada di paket ronde-a/b 18-25 Nov. Ditolak (dipakai ≤7 hari): Pexels 38429806 kotak amal (19174), 38429810 (ronde-b-1122/1540), 31679217 & 8463694 (ronde-b-1119/2220).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 470,
+ "sources": [
+  "https://halalhub.republika.co.id/berita/tozsx8483/potensi-wakaf-uang-rp180-triliun-gerakan-indonesia-berwakaf-terus-digaungkan (sumber utama, satu-satunya link keluar; Republika, Selasa 24/11/2026, keterangan pers pra-Rakernas BWI)",
+  "https://www.detik.com/hikmah/ziswaf/d-8708080/potensi-wakaf-uang-di-ri-capai-rp-180-t-dapat-perkuat-ekonomi-rakyat (detikHikmah 15/10/2026, GLOW: 522.000 bidang, 277.000 ha, Rp890 M 2020 -> hampir Rp3 T akhir 2024, 58,7% bersertifikat; disebut tanpa link)",
+  "internal 19370 Sumur Raumah; internal 17601 Waqf Run 2026"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak (tidak ada rilis BPKH baru 48 jam: kinerja per 31 Okt 2026 sudah di 18668/19464; berita BPKH 24 Nov = DPD revisi UU (politik legislatif) & feature Antara Bandung Barat (sudah dipakai 19464))",
+ "notes": "Slot BPKH fallback -> zakat-wakaf. Calon digugurkan: (1) BPKH kinerja Okt 2026 (sudah 18668/19464); (2) DPD dorong pengawasan keuangan haji (Antara 24/11, politik legislatif revisi UU); (3) UU Perampasan Aset untuk korban penipuan umrah (Republika 20/11, opini pengamat + legislasi, >72 jam); (4) Baznas dampingi masjid kelola ZIS di KMI MUI (acara sama dgn 2100 Ronde B kemarin & S3 2100 hari ini zakat); (5) tabungan haji bank syariah (nama bank/promosi, mirip 19426). Cek redaktur: angka GLOW dari detik (Oktober) dipakai sebagai konteks dengan atribusi; hasil Rakernas belum ada."
+}

@@ -1,0 +1,2 @@
+S3 2220 (11:35) FINAL: Lifestyle = persiapan kesehatan umrah menurut dokumen Kemenkes Saudi 'Health Requirements and Recommendations for Travelers to Saudi Arabia for Umrah 1447H (2026)' (moh.gov.sa PDF): vaksin meningitis ACYW, polio IPV (Indonesia di tabel 3), COVID utk kelompok risiko, obat kemasan asli, masker, panas. JANGAN dipakai slot lain: vaksin/syarat kesehatan Saudi umrah.
+-> SELESAI 11:12: paket 2220/article.json (syarat kesehatan umrah Saudi 1447H, ilustrasi AI)

@@ -1,0 +1,45 @@
+{
+ "slot": "2026-11-25T21:40:00",
+ "category": 31,
+ "title": "Masjid Sang Cipta Rasa Cirebon, Wisata Religi Peninggalan Sunan Gunung Jati dengan Tradisi Azan Pitu",
+ "excerpt": "Masjid Agung Sang Cipta Rasa di Keraton Kasepuhan Cirebon menyimpan sembilan pintu, mimbar Sang Ranggakosa, dan tradisi azan tujuh muazin setiap Jumat.",
+ "tags": [
+  34,
+  53,
+  724,
+  196,
+  1812
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1125/2140/masjid-sang-cipta-rasa-tembok-bata-atap-tumpang.jpg",
+   "alt": "Tembok dan gapura bata merah Masjid Agung Sang Cipta Rasa Cirebon dengan atap limasan bertingkat di baliknya",
+   "caption": "",
+   "seen": "Tembok bata merah panjang dengan gapura melengkung berpintu hijau-kuning dan papan nama kuning, di baliknya atap genteng limasan bertingkat masjid; dua pengunjung berjilbab kecil di kiri bawah (tanpa wajah jelas); kabel listrik melintang di langit; kredit kecil 'Foto: Lany/CC BY-SA' di pojok kanan bawah.",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Masjid_Agung_Sang_Cipta_Rasa_03.jpg - deskripsi 'Masjid Agung Sang Cipta Rasa atau dikenal dengan Masjid Agung Kasepuhan Cirebon ...', pemotret Lany pirna, 11/5/2025, CC BY-SA 4.0 -> kredit kecil di dalam gambar (aturan masjid), caption WP kosong. Thumb 3840x2161, crop x500-3500 y473-2161 lalu 1600x900 q82.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1125/2140/masjid-sang-cipta-rasa-serambi-tiang-kayu.jpg",
+   "alt": "Serambi Masjid Agung Sang Cipta Rasa Cirebon beratap genteng dengan deretan tiang kayu dan lantai ubin merah bergaris saf",
+   "caption": "",
+   "seen": "Bangunan serambi masjid beratap genteng limasan dengan lisplang hijau, deretan tiang kayu gelap, lantai ubin merah-cokelat bergaris saf putih; beberapa orang kecil duduk/beristirahat di dalam (wajah tak terlihat jelas); kredit 'Foto: Lany/CC BY-SA' kanan bawah.",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Masjid_Agung_Sang_Cipta_Rasa_tampak_samping_01.jpg - deskripsi sama (Masjid Agung Sang Cipta Rasa/Kasepuhan Cirebon), Lany pirna, 11/5/2025, CC BY-SA 4.0 -> kredit kecil di gambar, caption kosong. Crop 3840x2160 -> 1600x900 (16:9).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 567,
+ "sources": [
+  "https://www.antaranews.com/berita/4696177/azan-pitu-seruan-tujuh-suara-yang-menembus-zaman (link keluar; Antara 7/3/2025, kutipan Kiai Ahmad, 1480, sembilan pintu, tiga ubin, mimbar Sang Ranggakosa, muazin Kasepuhan & Kanoman, warisan budaya tak benda)",
+  "https://www.antaranews.com/berita/5488990/masjid-agung-cirebon-jadi-tempat-singgah-musafir-di-akhir-ramadhan (Antara 2026, akhir Ramadan; arti nama, interior, pengunjung Tangerang/Karawang; tanpa link)",
+  "https://bandung.kompas.com/read/2022/01/13/085254878/masjid-agung-sang-cipta-rasa-sejarah-arsitektur-dan-keunikannya (Kompas 13/1/2022: 1498, Raden Sepat, cagar budaya 4/10/1999; tanpa link)",
+  "https://bandung.kompas.com/read/2024/03/12/131233978/masjid-agung-sang-cipta-rasa-cirebon-simbol-kesetaraan-antar-sesama (Kompas 12/3/2024: >500 tahun, tanpa memolo, menyerupai keraton, sembilan pintu; tanpa link)",
+  "https://www.cnnindonesia.com/gaya-hidup/20261023140656-269-1418846/5-destinasi-wisata-religi-cirebon-sejarah-panjang-islam-di-jawa-barat (konteks, tidak dikutip)"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "Wisata Halal evergreen Indonesia (Jabar, dekat Jabodetabek). Belum pernah ditulis: search WP 'cipta rasa', 'azan pitu', 'kasepuhan' kosong; 10773 (2025) tentang Masjid Merah Panjunan, beda masjid. Beda dari c[31] 14 hari dan 19595/19605. Tahun pendirian beda (Antara 1480 vs Kompas 1498) -> keduanya disebut dengan atribusi. Klaim Antara bahwa azan pitu menekan COVID sengaja TIDAK ditulis (tak terverifikasi). Luas lahan 400-500 m2 (Kompas 2024) tidak dipakai (hanya terbaca lewat ringkasan). Jam kunjungan/tarif tidak ada di sumber -> paragraf kehati-hatian. Link internal: 17910 Masjid Agung Demak. Link keluar 1 (Antara). Gambar: 2 foto Wikimedia CC BY-SA (aturan masjid boleh CC BY-SA + kredit kecil di gambar), sudah dilihat, belum pernah dipakai (topik baru). Digugurkan: Masjid Suleymaniye (sudah 17273), Masjid Raya Baiturrahman & Menara Kudus (sudah ditulis), Masjid Hassan II Casablanca (sumber allowlist belum dibaca, waktu)."
+}
