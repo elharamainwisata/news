@@ -1,0 +1,2 @@
+S8 0800 (05:35): ULASAN NUSUK - FAQ resmi Kementerian Haji & Umrah Saudi (haj.gov.sa/en/FAQ, diperbarui 15/11/2026) soal izin umrah di Nusuk: satu izin aktif, telat/ubah jam, batal sebelum jam mulai, izin tak muncul. Beda dari 17761 (cara terbit izin).
+-> SELESAI 05:10: paket 0800/article.json (izin umrah Nusuk: telat/ganti jam, FAQ haj.gov.sa)

@@ -1,0 +1,2 @@
+S8 1040 (05:35): ULASAN NUSUK - FAQ haj.gov.sa soal akun Nusuk bagi pengunjung luar negeri: data daftar (paspor, visa, dll), nomor HP non-Saudi, kode verifikasi email, ubah email/HP/nomor visa/nama. Beda dari 17744 (pendamping) & 19657 (tanpa kuota).
+-> SELESAI 05:10: paket 1040/article.json (daftar akun Nusuk pengunjung, FAQ haj.gov.sa)

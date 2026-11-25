@@ -1,0 +1,32 @@
+{
+ "slot": "2026-11-26T12:00:00",
+ "category": 29,
+ "title": "Layanan Kemenhaj Jabar Nol Rupiah, Calon Jemaah Haji Khusus Diminta Daftar Lewat PIHK Berizin",
+ "excerpt": "Kanwil Kemenhaj Jabar menegaskan layanannya bebas pungutan, sementara Kemenhaj RI meminta calon jemaah haji khusus mendaftar hanya lewat PIHK berizin.",
+ "tags": [
+  34,
+  36,
+  281,
+  1992,
+  1812
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1126/1300/sosialisasi-haji-khusus-kemenhaj-jabar.jpg",
+   "alt": "Peserta sosialisasi pedoman pendaftaran, pembatalan, dan pelunasan haji khusus 1448 H berfoto bersama di Aula Kanwil Kemenhaj Jawa Barat",
+   "caption": "Foto: Kementerian Haji dan Umrah RI",
+   "seen": "Foto bersama puluhan peserta berbatik dan berhijab di sebuah aula berdinding putih, barisan depan tiga orang (satu perempuan berhijab, dua pria berpeci) berpose tangan menyilang di dada; meja bertaplak putih-biru, proyektor dan kotak makanan di meja.",
+   "evidence": "thumbnail rilis jabar.haji.go.id https://jabar.haji.go.id/uploads/general/c33b44c9-edbc-4677-a6e5-984e2a7549b7-1795590589430.JPG (rilis 25/11/2026 tentang sosialisasi di Aula Kanwil Kemenhaj Jabar); crop 1920x1080 -> 1600x900 tanpa potong",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "HAJI PLUS",
+ "word_count": 455,
+ "sources": [
+  "https://jabar.haji.go.id/berita/waspada-agen-ilegal-kemenhaj-jabar-tegaskan-layanan-haji-nol-rupiah-dan-imbau-jemaah-pilih-penyelenggara-berizin-resmi-1795590589437 (link keluar; API jabar.haji.go.id/api/news/<slug>, referenceUrl kosong, HTTP 200; publish 25/11/2026 07:06 UTC)"
+ ],
+ "haji_go_id": "jabar | https://jabar.haji.go.id/berita/waspada-agen-ilegal-kemenhaj-jabar-tegaskan-layanan-haji-nol-rupiah-dan-imbau-jemaah-pilih-penyelenggara-berizin-resmi-1795590589437",
+ "notes": "Isi rilis = Sosialisasi Pedoman Pendaftaran, Pembatalan, dan Pelunasan Haji Khusus 1448 H (bukan haji reguler) -> dipakai. Sudut dibingkai netral/layanan (nol rupiah + PIHK berizin), bukan berita kasus; judul tanpa 'waspada/agen ilegal' sehingga foto resmi Kemenhaj (non-sensitif, dari acara yang diberitakan) dipakai. Bila induk/Pemred menilai nadanya peringatan, ganti foto utama dengan ilustrasi AI: 'Ultra-realistic documentary news photograph, 35mm, natural light, Indonesian Southeast Asian man and woman with tan brown skin (peci, hijab) sitting at a government service counter in Indonesia, a uniformed Indonesian civil servant in batik explaining a registration form, folders on desk, candid, realistic skin texture, slight film grain, true-to-life colors, not CGI; no readable text, no logos, no flags, all people fictional, no Kaaba, no Masjid al-Haram, no Caucasian'. Beda dari 19602 (kasus 20 jemaah umrah Batam, biro tak berizin), 19306 (46 PIHK bermasalah), 0700 hari ini (UU Perampasan Aset). Konteks tambahan hanya via link internal (18998 kalender pelunasan, 19306, 19023); kalimat 'setoran Bipih Khusus lewat bank penerima setoran' bersandar ke 19023/rilis S-100 (Bank Penerima Setoran Bipih Khusus). Tanpa sisipan: foto kedua rilis (DSC08512) adalah foto bersama yang nyaris sama. Tanpa nama travel."
+}

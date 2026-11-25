@@ -1,0 +1,40 @@
+{
+ "slot": "2026-11-26T08:00:00",
+ "category": 29,
+ "title": "Telat Datang atau Ingin Ganti Jam Izin Umrah di Nusuk? Ini Ketentuan Kementerian Haji Saudi",
+ "excerpt": "Jam izin umrah di aplikasi Nusuk tidak bisa diubah, jemaah wajib membatalkannya sebelum jam dimulai atau menunggu izin kedaluwarsa bila terlambat.",
+ "tags": [
+  34,
+  1133,
+  135,
+  687,
+  218
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1126/0800/mataf-masjidil-haram-malam.jpg",
+   "alt": "Ribuan jemaah berihram memadati pelataran Ka'bah di Masjidil Haram pada malam hari",
+   "caption": "",
+   "seen": "Pelataran tawaf (mataf) Masjidil Haram malam hari: Ka'bah di tengah, ribuan jemaah berpakaian ihram putih dan bergamis hitam bertawaf, lengkungan galeri dan lampu di latar; tanpa teks/watermark, tanpa close-up wajah.",
+   "evidence": "Pexels 14440333 'Evening view of the Kaaba at Masjid al-Haram, filled with worshippers' https://www.pexels.com/photo/14440333/ (lisensi Pexels, tanpa kredit); tidak dipakai 7 hari terakhir (grep paket 12-25 Nov)",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1126/0800/jemaah-berihram-di-depan-kabah.jpg",
+   "alt": "Jemaah berpakaian ihram di depan Ka'bah, Masjidil Haram, pada siang hari",
+   "caption": "",
+   "seen": "Ka'bah siang hari dengan langit biru, menara Masjidil Haram di kiri, jemaah laki-laki berihram putih berdiri dan duduk di balik pagar pembatas, lantai marmer putih di depan; 4:5, tanpa teks/watermark.",
+   "evidence": "Pexels 36573970 'Pilgrims in traditional attire performing rituals around the Kaaba' https://www.pexels.com/photo/36573970/; tidak dipakai 7 hari terakhir",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 473,
+ "sources": [
+  "https://haj.gov.sa/en/FAQ"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "ULASAN NUSUK (slot tengah S8). Sumber tunggal: halaman FAQ resmi Kementerian Haji dan Umrah Saudi (haj.gov.sa/en/FAQ, 'Last updated 15/11/2026 3:44 PM Saudi time'), kategori Nusuk app/Umrah Times. Butir FAQ era COVID (anak 5 th, 'belum terkonfirmasi Corona', tawaf lantai 1 tanpa izin) sengaja TIDAK dipakai. Beda dari 17761 (langkah terbit izin umrah) dan 17744 (pendamping). Kabar Nusuk baru setelah 25 Nov 11:00: kosong (nusuk.txt S6 + scan SPA API hal. 1-40 oleh S8). Calon digugurkan: umrah.nusuk.sa /umrah-gift (hanya katalog pemesanan paket, tipis & bersinggungan dengan penjualan paket), /nusuk/guidelines (Health Guidelines mengarah ke situs pha.gov.sa di luar allowlist), /FAQ umrah.nusuk.sa (hanya kanal kontak); FAKTA_NUSUK 12 Nov (izin umrah, program eksplorasi, eSIM, sertifikat, pendamping) semuanya sudah ditulis 11-12 Nov; Nusuk Card digital tak bisa dicek ulang (www.nusuk.sa blokir bot) dan sudah disinggung 17744; SPA N2730541 pusat religi digital Nabawi (bukan Nusuk, isi tipis); haj.gov.sa 'Nusuk Masar' (haji domestik/kontrak haji, tak berlaku bagi jemaah Indonesia)."
+}

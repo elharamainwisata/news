@@ -1,0 +1,16 @@
+RISET TOPIK VIRAL - Ronde A 26 Nov 2026 (S5, 05:05-05:25 WIB)
+Cara: WebSearch allowlist (detik, kompas, republika, antara, cnnindonesia, haji.go.id, nu.or.id), daftar detikHikmah haji-umrah, Kompas tag umrah & Cahaya/aktual, Antara tag umrah, Republika khazanah, SPA API (hal 1-200), rilis.txt haji.go.id. Jendela 48 jam (24-26 Nov).
+
+DIPAKAI
+- (tidak ada) Tidak ada topik viral umrah/haji/Haramain 48 jam terakhir yang lolos sortir 3a. Slot 1340 memakai fallback Berita Kemenag (HGN 2026, guru bersertifikat 826.043).
+
+DIGUGURKAN
+1. 53 jemaah umrah Boyolali terdampar di Bangkok (detik/Kompas/Republika/CNN 20-24 Nov, masih ramai) - sudah 19239 (22 Nov) + 19602 Batam; media menyebut nama/inisial biro; hari ini S1 menulis imbauan agen ilegal Jabar.
+2. Biaya umrah berpotensi naik imbas penerbangan ke Saudi terganggu (detikHikmah 25/11 16:15) - pemicu serangan Houthi (konteks militer), satu-satunya narasumber ketua asosiasi via CNBC, tanpa pernyataan Kemenhaj; bernada negatif tanpa imbauan resmi.
+3. 18 maskapai tangguhkan/batalkan penerbangan ke Saudi hingga 2027 (detik 24/11, Kompas travel 24/11) - sudah digugurkan kemarin (konteks keamanan/konflik).
+4. RUU Keuangan Haji, Muhammadiyah minta keadilan nilai manfaat (Antara/Kompas 25/11) - dana haji reguler/legislasi DPR (Ronde A tidak ambil haji reguler), aspirasi ormas.
+5. Data Otoritas Saudi rata-rata umrah 124 menit (detik 25/11) - sudah 19470.
+6. Lagi, WNI menang undian Nusuk (detik 25/11) - sudah 19655 kemarin.
+7. Jalan Lingkar Ketiga Makkah diperluas (detik 25/11) - diambil S1 (0700).
+8. Video/turis tanpa hijab di Nabawi, berkelahi saat salat - berita lama 2023/18 Nov, gosip/mempermalukan orang.
+Tidak ditemukan klarifikasi hoaks umrah/haji baru dari Kemenhaj/PPID 48 jam terakhir.

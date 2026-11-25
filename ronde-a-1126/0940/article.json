@@ -1,0 +1,43 @@
+{
+ "slot": "2026-11-26T09:40:00",
+ "category": 27,
+ "title": "Pemakaman Baqi di Madinah, Peristirahatan Istri dan Putri Rasulullah SAW yang Dulu Lahan Berduri",
+ "excerpt": "Pemakaman Baqi di sisi tenggara Masjid Nabawi menjadi peristirahatan istri, putra-putri, dan sahabat Rasulullah SAW, diawali makam Utsman bin Mazh’un.",
+ "tags": [
+  34,
+  2060,
+  240,
+  171,
+  1289
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1126/0940/nisan-batu-makam-baqi.jpg",
+   "alt": "Deretan gundukan makam bernisan batu hitam di Pemakaman Baqi dengan Kubah Hijau dan menara Masjid Nabawi di latar belakang",
+   "caption": "",
+   "seen": "Hamparan gundukan tanah makam dengan nisan batu hitam sederhana berbaris di Pemakaman Baqi, jalur pembatas beton, di latar belakang Kubah Hijau, menara-menara dan payung Masjid Nabawi serta gedung hotel dan pegunungan Madinah; kredit kecil 'Foto: Saleh/CC BY' di pojok kanan bawah.",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Al-Baqi_Cemetery_2021.jpg (deskripsi 'Al-Baqi Cemetery in Medina, Saudi Arabia. July 20, 2021.'), CC BY 4.0, pemotret Saleh Al Hussain; crop 16:9 (y 200-1280 dari 1920x1440) 1600x900; kredit di gambar 13 px sesuai aturan MASJID/LANDMARK & Wikimedia CC BY; caption WP kosong. Belum dipakai 7 hari (grep paket: tidak ada foto Baqi Wikimedia).",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1126/0940/makam-baqi-madinah-masjid-nabawi.jpg",
+   "alt": "Pemakaman Baqi di depan Masjid Nabawi Madinah dengan peziarah berjalan di jalur antarmakam",
+   "caption": "",
+   "seen": "Pemandangan siang berkabut: hamparan makam Baqi di latar depan dengan rombongan peziarah berpakaian putih berjalan di jalur antarmakam, di belakangnya tembok dan menara-menara Masjid Nabawi serta Kubah Hijau.",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Perkuburan_Baqi'_(Maqbaratu_al-Baqi')_&_Masjid_al-Nabawi.jpg (deskripsi 'Background: Masjid al-Nabawi. Foreground: Baqi' Cemetery.'), CC0, Kerina yin, 4/7/2011; crop 16:9 (y 20-1100 dari 1920x1437) 1600x900; CC0 tanpa kredit/caption.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 372,
+ "sources": [
+  "https://www.detik.com/hikmah/khazanah/d-8705167/mengenal-jannatul-baqi-pemakaman-bersejarah-tempat-keluarga-nabi-dimakamkan (link keluar; detikHikmah 13/10/2026, Devi Setya; kutip Saudipedia)",
+  "https://khazanah.republika.co.id/berita/dunia-islam/khazanah/15/12/04/nysgum384-siapa-orang-yang-pertama-kali-dikubur-di-makam-baqi (Republika 4/12/2015; Ensiklopedi Muhammad; tanpa link)",
+  "https://nu.or.id/syariah/anjuran-melaksanakan-ziarah-kubur-Lbafy (NU Online 21/6/2019, hadis Aisyah HR Muslim; tanpa link)",
+  "https://www.spa.gov.sa/en/N2273514 (SPA, Maret 2025, panduan berkunjung ke Madinah: 'Men are encouraged to visit the graves of the companions in Al-Baqi...'; tanpa link)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Sejarah: Baqi belum punya artikel khusus (search 'Baqi' hanya menyebut sepintas di 17382, 18309, 16846 Jannatul Ma'la). Sengaja TIDAK memuat perselisihan lokasi makam Fatimah dan peristiwa perataan makam 1925 (sensitif/SARA). Angka '10.000 sahabat' (Arab News) tidak dipakai karena hanya terbaca di cuplikan pencarian. Link internal 17382 (jarak 385 m dari artikel itu, bersumber Republika). Calon Sejarah digugurkan: Qiblatain (16289/16750), Gua Hira (16219), Ji'ranah (16528), Al-Ijabah (17382), Masjid Jin (17172), Jumu'ah (17547), Bir Ali (16975), Khandaq/Al-Fath (16663), Jabal Rumat (17302), Masjid Al-Bai'ah (17486) - semua sudah ditulis; Masjid Bilal/Al-Mustarah/Bani Haram digugurkan karena foto asli beridentitas sulit didapat."
+}

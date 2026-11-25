@@ -1,0 +1,33 @@
+{
+ "slot": "2026-11-26T13:40:00",
+ "category": 23,
+ "title": "Hari Guru Nasional 2026: Guru Kemenag Bersertifikat Tembus 826.043, Guru Madrasah Naik 74 Persen",
+ "excerpt": "Menag Nasaruddin Umar menyebut guru madrasah dan guru agama bersertifikat naik 86,5 persen jadi 826.043 orang setelah PPG 2026, cakupan kini 71,1 persen.",
+ "tags": [
+  34,
+  21,
+  845,
+  2109
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1126/1340/menag-hari-guru-nasional-2026.jpg",
+   "alt": "Menteri Agama Nasaruddin Umar berpidato di podium upacara Hari Guru Nasional 2026 di Kantor Pusat Kementerian Agama Jakarta",
+   "caption": "",
+   "seen": "Menag Nasaruddin Umar (jas krem, blangkon, kain batik, berkacamata) berdiri membaca teks di depan mikrofon di panggung; latar spanduk bertuliskan 'NASIONAL 2026' dan 'Guru Menginspirasi Anak Negeri Berprestasi'; deretan tamu perempuan berkebaya/berkerudung duduk di belakang; bagian kiri depan buram (kepala/kamera penonton); kredit kecil 'Foto: Kemenag' kanan bawah.",
+   "evidence": "Foto berita resmi pada laman Kanwil Kemenag Lampung 'HGN 2026: Guru Kemenag Bersertifikat Tembus 826 Ribu' (https://lampung.kemenag.go.id/storage/berita/berita_fc15d0d8-2ff9-47e9-afb3-504b43a623c8.webp); Antara memuat foto acara yang sama berkredit ANTARA/HO-Kemenag dengan keterangan 'Menteri Agama Nasaruddin Umar memimpin upacara peringatan Hari Guru Nasional 2026 di Kantor Kementerian Agama, Jakarta, Rabu (25/11/2026)'. Tokoh = foto resmi lembaga -> kredit kecil di gambar, caption WP kosong. Crop 16:9 dari 1280x853 (diperbesar ke 1600x900), betis bawah terpotong.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 463,
+ "sources": [
+  "https://www.antaranews.com/berita/5877523/hari-guru-nasional-guru-kemenag-bersertifikat-tembus-826-ribu-orang",
+  "https://lampung.kemenag.go.id/berita/hgn-2026-guru-kemenag-bersertifikat-tembus-826-ribu (disebut tanpa link)",
+  "Kompas.com Cahaya 25/11/2026 (pembanding, tidak dikutip)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Berita #3 kategori 23 (Kemenag, fallback ke-3 brief). RISET VIRAL: tidak ada topik viral yang lolos sortir (lihat ronde-a-1126/viral.txt). Perlindungan jemaah umrah/haji khusus 48-72 jam di media allowlist hanya Boyolali (sudah 19239, nama biro), penerbangan terganggu (konteks serangan Houthi) dan agen ilegal Jabar (S1) -> fallback Kemenag. Beda dari S2 (0740 ISEO ekonomi syariah, 1020 BPKH ISO). Beda dari 19596 (dana abadi pesantren RPL) - di sini hanya disinggung sebagai link internal. Angka persis Antara & laman Kanwil Kemenag Lampung (salinan rilis pusat); Kemenag Kebumen menulis 543.450 (salah ketik) - dipakai 543.490 sesuai Antara/Lampung. Cakupan guru Buddha 57,7->81 persen tidak ditulis. Kutipan langsung Menag dari Antara & Lampung. Link keluar 1 (Antara); internal 19596. Hanya 1 gambar (tak ada foto kedua yang lolos; foto Antara/detik = media)."
+}

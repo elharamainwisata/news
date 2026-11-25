@@ -1,0 +1,36 @@
+{
+ "slot": "2026-11-26T07:00:00",
+ "category": 29,
+ "title": "UU Perampasan Aset Sasar Penipuan Travel Haji dan Umrah, Aset Pelaku Bisa Ganti Kerugian Korban",
+ "excerpt": "UU Perampasan Aset yang disahkan DPR memasukkan penipuan travel haji dan umrah, sehingga aset pelaku bisa dirampas lewat putusan pengadilan untuk korban.",
+ "tags": [
+  34,
+  645,
+  525,
+  662
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "",
+   "alt": "Calon jemaah umrah memeriksa kuitansi pembayaran dan paspor di meja",
+   "caption": "Ilustrasi",
+   "seen": "(dibuat induk; periksa setelah jadi)",
+   "evidence": "ilustrasi AI wajib: berita penipuan/hukum (negatif)",
+   "ai_prompt": "Ultra-realistic documentary news photograph, shot on full-frame DSLR with 50mm lens, natural window light, inside a modest Indonesian living room: a middle-aged Indonesian Southeast Asian man with tan brown skin wearing a peci and batik shirt, and his wife in a plain hijab, sitting at a wooden table, carefully examining a stack of payment receipts and two passports with a magnifying glass, a calculator and a folder of documents beside them, worried but calm expressions, realistic skin texture with pores and fine wrinkles, natural imperfect expressions, candid unposed moment, slight film grain, shallow depth of field, true-to-life colors, not CGI, not 3D render, not painting, not illustration, not plastic or airbrushed skin. No readable text on any paper, no logos, no brand names, no flags, no weapons, all people fictional (not real public figures), modest Muslim clothing, no Kaaba, no Masjid al-Haram, no Masjid an-Nabawi, no Caucasian, no Western-looking people. 16:9."
+  }
+ },
+ "sensitive": true,
+ "topic_type": "UMROH",
+ "word_count": 490,
+ "sources": [
+  "https://www.cnnindonesia.com/nasional/20261119201525-12-1429199/uu-perampasan-aset-atur-skema-bayar-kerugian-korban-penipuan (link keluar; Pasal 4 penjelasan & Pasal 5, 19/11/2026)",
+  "https://www.cnnindonesia.com/nasional/20261119113426-32-1428925/uu-perampasan-aset-jamin-kembalikan-kerugian-korban-penipuan (kutipan Habiburokhman; tanpa link)",
+  "https://news.detik.com/berita/d-8760061/uu-perampasan-aset-sah-aset-travel-bodong-bisa-dirampas-untuk-hak-korban (kutipan Soedeson; tanpa link)",
+  "https://www.antaranews.com/berita/5865027/dpr-setujui-ruu-perampasan-aset-jadi-uu-ini-poin-poin-krusialnya (Pasal 72 & 74; tanpa link)",
+  "https://khazanah.republika.co.id/berita/tosffv483/uu-perampasan-aset-diminta-lindungi-korban-penipuan-haji-dan-umrah (Mustolih Siradj, kalimat tak langsung; tanpa link)",
+  "https://himpuh.or.id/blog/detail/5328/travel-umrah-tipu-jemaah-aset-pelakunya-bisa-dirampas-negara (petunjuk topik; tidak dikutip)"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "PENGGANTI slot 07:00. DIGUGURKAN: rilis pusat 24 Nov 'Lapor Pak Haji' (isi = peluncuran aplikasi pengawasan & pengendalian gratifikasi Itjen + Bimtek internal; tidak ada kanal/cara lapor bagi jemaah; versi sulsel/sumbar/gorontalo sama-sama internal) sesuai brief. Calon pengganti lain yang digugurkan: Jalan Lingkar Ketiga Makkah (Arab News 23/11; sudah 16836), durasi umrah 124 menit (sudah 19470), SPA 300.000 penyuluhan umrah (sudah 19525), HIMPUH 5369 kartu Nusuk hilang (konteks haji/kloter, digugurkan Ronde B 25/11), Garuda charter umrah Solo-Jeddah (hanya media non-allowlist + nama mitra charter komersial), 'biaya umrah berpotensi naik' detik (terkait serangan/pembatalan penerbangan; brief hindari militer). Topik ini UU nasional (bukan politik partisan); tanpa nama travel (detik/HIMPUH menyebut contoh kasus lama - tidak dimuat). Sensitif (penipuan/hukum) -> ilustrasi AI, tanpa foto Elharamain; caption 'Ilustrasi'. Tanpa gambar sisipan. Beda dari 1300 (Jabar: layanan pendaftaran haji khusus nol rupiah & PIHK berizin)."
+}

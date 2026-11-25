@@ -1,0 +1,35 @@
+{
+ "slot": "2026-11-26T14:20:00",
+ "category": 25,
+ "title": "Desa Global Atareek Dibuka 60 Hari di Musim Dingin Makkah, Hadirkan Paviliun Budaya dan Kuliner",
+ "excerpt": "Desa Global Atareek dibuka di Makkah selama 60 hari dalam program Musim Dingin Makkah, menghadirkan paviliun budaya, kerajinan, kuliner, dan pertunjukan seni.",
+ "tags": [
+  34,
+  176,
+  412,
+  71
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1126/1420/gerbang-desa-global-atareek-musim-dingin-makkah.jpg",
+   "alt": "Gerbang Desa Global Atareek bertabur lampu dengan logo Musim Dingin Makkah dan papan Holy Makkah Municipality",
+   "caption": "",
+   "seen": "Gerbang batu krem berhias untaian lampu kuning pada senja, tulisan Arab besar 'Qaryat Atarik al-'Alamiyyah' dengan ikon tas belanja, di atasnya logo 'Syita' Makkah / Makkah'; dua pilar bertuliskan 'Holy Makkah Municipality'; di balik gerbang tampak bangunan bergaya klasik dan bukit gelap. Tanpa orang; logo SPA kiri atas dan logo sponsor di kaki pilar terpotong; kredit kecil 'Foto: SPA' kanan bawah.",
+   "evidence": "Foto SPA rilis N2735993 (en, media_images is_main, caption 'Atareek Global Village Enriches Makkah Winter with Diverse Entertainment'): https://portalcdn.spa.gov.sa/backend/original/202611/M11314666.jpg; file identik di rilis Arab N2735886 (F11313623.jpg) yang dipakai (raw/F11313623.jpg). Nama desa tertulis di gerbang.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 460,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2735993",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2735886?locale=ar",
+  "https://www.spa.gov.sa/N2479752",
+  "https://www.spa.gov.sa/en/N2513436",
+  "https://www.spa.gov.sa/N2507813"
+ ],
+ "haji_go_id": "tidak (SPA)",
+ "notes": "Dunia islam (25), kabar Makkah dari SPA (25 Nov 2026, 14:53 waktu Makkah). Lokasi 'Tilal Village' (تلال فيليج) dari versi Arab N2735886. Konteks edisi lalu: SPA Arab N2479752 (1 Jan 2026: paviliun Mesir & Syam, sudut 'Haratna', paviliun Saudi), SPA N2507813 (9 Feb 2026: Musim Dingin Makkah pertengahan Des 2025-akhir Apr 2026, >25 acara, sasaran warga/pengunjung/mu'tamirin, target >800.000), SPA en N2513436 (16 Feb 2026: desa global Makkah selesai). Semua tanpa link kecuali SPA en N2735993 (1 link keluar); 1 link internal 19176. Foto SPA rilis yang sama, logo SPA & logo sponsor 'Revan' di kaki pilar dipotong, kredit 'Foto: SPA' di gambar, caption WP kosong. Tanpa sisipan (rilis hanya 1 foto). Beda dari 1140 (Maqra'ah UQU). Calon digugurkan: lihat notes 1140 (Dar Al-Qalam dobel 16886, 300.000 jemaah = 19525, 124 menit = 19470, Jabal Tsur = 19474, EFQM seremoni, kebun organik Madinah, Houthi/militer, seremoni diplomatik)."
+}

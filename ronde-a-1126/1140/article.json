@@ -1,0 +1,35 @@
+{
+ "slot": "2026-11-26T11:40:00",
+ "category": 25,
+ "title": "Maqra’ah Elektronik Universitas Ummul Qura Makkah Layani 32.798 Pelajar Al-Qur’an dari 90 Negara",
+ "excerpt": "Maqra’ah elektronik Universitas Ummul Qura melayani 32.798 pelajar dari 90 negara selama 2026 lewat 4.768 jam belajar Al-Qur’an jarak jauh bersama 112 pengajar.",
+ "tags": [
+  34,
+  1087,
+  1202,
+  1472,
+  176
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1126/1140/gedung-universitas-ummul-qura-makkah.jpg",
+   "alt": "Gerbang utama Universitas Ummul Qura di Makkah dengan dua menara krem dan tulisan Umm Al-Qura University",
+   "caption": "",
+   "seen": "Gerbang monumental berwarna krem dengan dua menara persegi, papan nama Arab dan 'UMM AL-QURA UNIVERSITY', lengkung kisi-kisi di tengah, dua tiang bendera di kanan, langit biru berawan; logo SPA kiri atas sudah terpotong, kredit kecil 'Foto: SPA' kanan bawah. Tanpa orang.",
+   "evidence": "Foto SPA rilis N2735930 (en, media_images is_main, caption 'Umm Al-Qura University Electronic Maqra'ah Broadens Access to Quranic Instruction Worldwide'): https://portalcdn.spa.gov.sa/backend/original/202611/M11313941.jpeg; file identik di rilis Arab N2735798 (F11312837.jpeg) yang dipakai (raw/F11312837.jpeg). Identitas tertulis di gedung.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 486,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2735930",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2735798?locale=ar",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2735243?locale=en",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2735036?locale=en"
+ ],
+ "haji_go_id": "tidak (MEDIA ARAB: SPA)",
+ "notes": "MEDIA ARAB, kategori Dunia islam (25) karena kabar pendidikan Al-Qur'an, bukan aturan jemaah. Sumber utama SPA en N2735930 (25 Nov 2026, 13:39 waktu Makkah) + versi Arab N2735798 (35.687 halaman dikoreksi, ijazah bersanad, non-penutur Arab, sertifikat kehadiran; tanpa link). Konteks: SPA N2735243 (IUM wisuda 100 peserta pelatihan guru bahasa Arab, Selasa 24/11) dan N2735036 (KSGAA+MWL acara pembuka Hari Bahasa Arab Sedunia Kamis 26/11 di kantor MWL Makkah), keduanya tanpa link. 1 link keluar (SPA), 1 link internal (19161). Foto SPA dari rilis yang sama, logo dipotong, kredit 'Foto: SPA' di gambar, caption WP kosong. Tanpa sisipan (foto IUM hanya logo; foto KSGAA ditolak server SPA 'Request Rejected'). Calon DIGUGURKAN: Dar Al-Qalam Madinah koleksi multibahasa (N2736146 / Arab News 'ancient scripts on display at Madinah museum'; isi hampir sama dengan 16886 4 Nov: perpustakaan 2.000 judul 11 bahasa, dinar 81 H, gembok Raudhah), Kemenag Saudi penyuluhan 300.000 jemaah umrah (N2734147 = 19525), rata-rata umrah 124 menit (N2734579 = 19470), Discover Makkah Jabal Tsur (= 19474), Makkah Gate (= 19659), layanan pengunjung Nabawi (N2733578, sudah digugurkan kemarin), Royal Commission Makkah bintang lima EFQM (N2734002; seremoni penghargaan institusi), kebun organik Madinah (N2734215; kurang relevan, dekat 19378 kurma), Dubes Saudi-otoritas haji Lebanon (seremoni), Yemeni scholars Makkah (konflik), berita Houthi/serangan (militer), Peru Islamic Association memuji Saudi (seremoni)."
+}

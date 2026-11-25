@@ -1,0 +1,33 @@
+{
+ "slot": "2026-11-26T13:20:00",
+ "category": 29,
+ "title": "Tips SPA Masuk Masjid Nabawi: Cek Layar Status Pintu, Ingat Kode Warna dari 274 Papan Penunjuk",
+ "excerpt": "Masjid Nabawi kini punya 274 papan berkode warna dan 106 layar status pintu, jemaah umrah bisa memakainya untuk memilih pintu yang paling lengang.",
+ "tags": [
+  34,
+  231,
+  1272,
+  687,
+  1162
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1126/1320/rambu-penunjuk-arah-masjid-nabawi.jpg",
+   "alt": "Papan penunjuk arah zona South di pelataran Masjid Nabawi menunjukkan jalur ziarah salam kepada Rasulullah SAW dan area salat perempuan",
+   "caption": "",
+   "seen": "Malam hari di pelataran Masjid Nabawi di bawah payung-payung putih terbuka: papan tegak berkepala hijau zaitun bertuliskan huruf besar 'S جنوب South', di bawahnya panah kanan 'To Offer Salam Upon the Prophet' dan panah kiri 'Women's Prayer Area (WEST)'; jemaah laki-laki dan perempuan berlalu-lalang, fasad masjid berlampu di latar; kredit kecil 'Foto: SPA' kanan bawah, logo SPA terpotong.",
+   "evidence": "SPA N2709704 (25 Okt 2026) 'Integrated Guidance System Enhances Traffic Flow, Facilitates Movement for Visitors to Prophet's Mosque', foto resmi https://portalcdn.spa.gov.sa/backend/original/202610/M11083437.jpg; belum dipakai di paket 7 hari (grep M11083437 kosong).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 486,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2709704",
+  "SPA N2714489 (31 Okt 2026, via portalapi.spa.gov.sa/api/v1/news/N2714489?locale=en) - disebut tanpa link"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "TIPS SPA (slot tengah 13:20, kategori 29). Satu link keluar (SPA N2709704); internal 17570 (Kepadatan Musalla Nusuk) & 19372 (HIMPUH Masjidil Haram). Angka 274 papan/106 layar dari rilis 25 Okt; rilis 31 Okt menulis 'lebih dari 270 papan dan lebih dari 100 layar' (judulnya 'Over 370 signs and screens' = gabungan) - konsisten. Rilis berusia ±4 pekan; ditulis 'per akhir Oktober 2026' + paragraf kehati-hatian. Beda dari 17488 (SPA crowd management Nabawi 9 Nov: penataan area salat/jalur oleh petugas) dan 17570 (layanan aplikasi). Kredit 'Foto: SPA' di dalam gambar, caption WP kosong. Calon digugurkan: SPA N2716385 papan QR Masjidil Haram (dekat 19372/16532, sudah digugurkan 2x kemarin); SPA N2721654 crowd management Nabawi (sudah 17488); SPA N2730541 pusat religi digital Nabawi & N2731056 asisten AI (sudah 18917, isi tipis); SPA N2705901 panduan hujan Makkah (dekat 19172); haji.go.id imbauan umrah (kesantunan sudah 17269, lain >30 hari / soal agen ilegal = S1); NU Online Jombang tips pilih biro resmi (bertabrakan dengan S1 1300 agen ilegal); umrah.nusuk.sa (dipakai S8). | Induk: sisipan papan \"Answering your questioners\" dibuang (tidak dibahas di teks)."
+}

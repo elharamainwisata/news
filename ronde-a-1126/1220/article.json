@@ -1,0 +1,42 @@
+{
+ "slot": "2026-11-26T12:20:00",
+ "category": 30,
+ "title": "Bolehkah Jemaah Umrah Perempuan Memakai Masker saat Ihram? Ini Fatwa MUI dan Penjelasan Ulama",
+ "excerpt": "Fatwa MUI menetapkan masker terlarang bagi perempuan berihram, tetapi dibolehkan saat darurat seperti wabah, cuaca ekstrem, atau ancaman kesehatan.",
+ "tags": [
+  34,
+  107,
+  1095,
+  463,
+  637
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1126/1220/jemaah-umrah-di-pelataran-kabah.jpg",
+   "alt": "Jemaah umrah laki-laki berihram dan jemaah perempuan berbusana muslimah di pelataran Ka’bah, Masjidil Haram",
+   "caption": "",
+   "seen": "Ka’bah berkiswah hitam bersabuk emas di tengah dengan dua menara kembar dan serambi melengkung Masjidil Haram di bawah langit biru; di depan ratusan jemaah, laki-laki berkain ihram putih dan perempuan bergamis hitam/putih, salah satu perempuan di kanan bawah bermasker; wajah kecil, tidak ada close-up.",
+   "evidence": "Pexels 40483736 'Crowd of pilgrims in white garments at the Holy Kaaba in Makkah, Saudi Arabia' https://www.pexels.com/photo/pilgrims-gather-around-the-holy-kaaba-during-hajj-40483736/ (lisensi Pexels, tanpa kredit; judul Pexels menyebut Hajj tetapi foto hanya mataf/Ka'bah netral tanpa atribut haji); crop 16:9 1600x900. Belum dipakai 7 hari (grep paket).",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-a-1126/1220/jemaah-perempuan-bermasker-masjidil-haram.jpg",
+   "alt": "Jemaah perempuan berkerudung bermotif bunga dan bermasker medis berjalan di pelataran Masjidil Haram",
+   "caption": "",
+   "seen": "Jemaah perempuan dari belakang-samping berkerudung hijau bermotif bunga cokelat dan masker medis hijau, tas selempang hitam, berjalan di pelataran marmer putih; latar gedung Masjidil Haram (dinding batu dan perancah) serta jemaah lain kabur. Wajah sebagian tertutup masker, tidak frontal.",
+   "evidence": "Pexels 40646596 'A diverse group of people wearing traditional attire walk outside a mosque in Mecca during the day' https://www.pexels.com/photo/pilgrims-walking-near-holy-mosque-in-mecca-40646596/ (lisensi Pexels, tanpa kredit); crop 4:5 1200x1500, sisipan di paragraf darurat/masker. Belum dipakai 7 hari.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 624,
+ "sources": [
+  "https://mui.or.id/baca/berita/ihram-haji-dan-umrah-kenakan-masker-untuk-hindari-ispa-bolehkah",
+  "https://mui.or.id/storage/fatwa/eea6e161df3219432253bf3673564eb3-lampiran.pdf",
+  "https://jatim.nu.or.id/nuonline/fiqih-haji-untuk-perempuan-menurut-nyai-badriyah-fayumi-jihtZ"
+ ],
+ "haji_go_id": "tidak",
+ "notes": "Tanya Jawab berbasis Fatwa MUI 003/MUNAS X/MUI/XI/2020 (teks PDF fatwa dibaca utuh: ketentuan hukum 1-4, rekomendasi, ditetapkan 26 Nov 2020) + berita mui.or.id 1 Jun 2025 (link keluar tunggal) + NU Online Jatim 25 Mei 2025 (kutipan Nyai Badriyah Fayumi, disebut tanpa link). Link internal: 19669 vaksin. Beda dari c[30] 14 hari. Calon digugurkan: cadar/niqab murni (dirangkum sebagai paragraf), ragu putaran tawaf (sudah 18307), umrah berkali-kali dari Tan'im (17076), obat penunda haid (17546), mandi ihram (18532). Catatan: 1200 juga bertema ihram (teknis kain ihram laki-laki) - sudut berbeda."
+}

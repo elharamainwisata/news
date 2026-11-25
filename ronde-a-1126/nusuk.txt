@@ -1,0 +1,5 @@
+nusuk.txt (S6, dicek 26 Nov 05:05 WIB)
+SPA API (portalapi.spa.gov.sa/api/v1/news locale=en, halaman 1-12 = 23 Nov 20:08 s.d. 26 Nov 02:53 WIB): KOSONG — tidak ada berita berjudul/berkaitan Nusuk setelah 25 Nov 11:00 WIB.
+Terkait Haramain (bukan Nusuk, bukan untuk S8 kecuali perlu): N2735993 Atareek Global Village Makkah winter (25 Nov 18:53), N2735930 Electronic Maqra'ah UQU (25 Nov 17:39), N2736146 Dar Al-Qalam (25 Nov 20:50).
+Arab News (arabnews.com/saudi-arabia + beranda, dicek 05:15) & Saudi Gazette (RSS saudi-arabia s.d. 25 Nov 23:39 WIB): KOSONG — tidak ada berita Nusuk baru. WebSearch arabnews/saudigazette/spa 'Nusuk' juga tidak memberi kabar baru (terbaru: kereta listrik tawaf/sa'i via Nusuk, SPA N2710068, 25 Okt 2026 = lama).
+KESIMPULAN: KOSONG. S8 pakai ULASAN/FAQ Nusuk.
