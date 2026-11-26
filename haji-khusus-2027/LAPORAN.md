@@ -46,3 +46,27 @@ Kategori 29 (Umroh & Haji) kecuali 19034 (Fiqih 26). Semua status future.
 
 ## 26 Nov 2026 — gambar utama diganti foto (perintah Juragan)
 Featured 19028→19751, 19029→19752, 19030→19753, 19031→19754, 19032→19755, 19033→19756, 19034→19757 (foto asli Drive album HAJJ 1447 indeks 173, 29, 1205, 1133, 1181, 965, 845; crop 16:9, tanpa caption). Infografis tetap 1x di badan. Status/tanggal tidak berubah.
+Lanjutan 26 Nov 07:49 (perintah Juragan 07:41 "cek juga di artikel lainnya"): featured 18998 18996→19765, 19023 18999→19766, 19024 19001→19767, 19025 19003→19768, 19026 19005→19769, 19027 19007→19770 (album HAJJ 1447 indeks 461, 1037, 893, 677, 701, 533; 1280x720, tanpa caption). Badan tiap post tetap 1 infografis (18997, 19000, 19002, 19004, 19006, 19008), tidak diubah. Kini seluruh 13 post seri memakai foto sebagai gambar utama.
+
+## 26 Nov 2026 08:06 — gambar utama diganti foto IDENTIK HAJI (koreksi Juragan 07:55)
+Juragan: "Kurang pas, jika tentang haji gambarnya identik haji." Foto bandara/stasiun/selfie masjid/makan/lobi/penyambutan/Madinah diganti.
+Sumber: album Drive HAJJ 1447 (foto Elharamain sendiri), crop 16:9, tanpa caption, hanya featured_media diubah (status/tanggal/teks tetap; infografis badan tetap 1x).
+
+| Post | Media | Indeks album | Isi foto | Status |
+|---|---|---|---|---|
+| 18998 | 19776 | 422 | Rombongan berihram di depan Ka'bah, malam | diganti |
+| 19023 | 19777 | 708 | Pasangan berihram di mataf, Ka'bah di latar | diganti |
+| 19024 | 19778 | 1013 | Jemaah perempuan berihram, Ka'bah + menara jam | diganti (893 serambi tanpa Ka'bah) |
+| 19025 | 19779 | 794 | Dua jemaah laki-laki berihram di mataf, Ka'bah di belakang | diganti (677 koridor) |
+| 19026 | 19780 | 257 | Jemaah berihram, deretan tenda Mina saat fajar | diganti |
+| 19027 | 19781 | 402 | Rombongan besar berihram + spanduk Elharamain Haji 1447 H di kawasan Masyair | diganti |
+| 19028 | 19751 | 173 | Rombongan berihram di pelataran Masjidil Haram, menara jam | dipertahankan |
+| 19029 | 19774 | 421 | Rombongan berihram di mataf, Ka'bah + menara jam (terpasang 07:59, sebelum terbit 09:00) | diganti |
+| 19030 | 19782 | 137 | Pasangan berihram tepat di depan Ka'bah, malam | diganti |
+| 19031 | 19783 | 253 | Jemaah memandang deretan tenda putih Mina | diganti |
+| 19032 | 19784 | 160 | Jemaah berihram + istri, Ka'bah di latar | diganti |
+| 19033 | 19785 | 1178 | Jemaah perempuan berihram di dalam tenda Masyair | diganti |
+| 19034 | 19786 | 333 | Rombongan laki-laki berihram di dalam tenda Masyair | diganti |
+
+Dicek: tidak ada foto dobel antar-13 post; kandidat 895/896 & 835–837 DIBATALKAN karena sudah dipakai post News 19229 & 19067 (≤7 hari). Kandidat 1180 dibatalkan (ada spanduk rombongan lain). Media lama (19752–19757, 19765–19770) tidak dihapus.
+Catatan: 19028 (173) satu sesi dengan foto post 19118/19231 (rombongan berihram + menara jam, 152–177) — dipertahankan sesuai arahan Bos.
