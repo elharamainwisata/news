@@ -87,6 +87,7 @@ Bila ragu, anggap tidak cocok. Lebih baik tanpa gambar sisipan daripada gambar y
 - **Ilustrasi AI harus sangat realistis dan sesuai artikel**: adegan menggambarkan tempat/kegiatan yang diberitakan, orangnya berwajah Indonesia/Melayu atau Arab sesuai latar. **Dilarang wajah bule/Barat** (perintah pemilik 2026-11-04).
 - **Foto stok gratis dipasang tanpa kredit.** Foto yang lisensinya wajib kredit (Wikimedia CC BY / CC BY-SA) tidak dipakai, dan tidak boleh diedit untuk menghindari kredit.
 - Foto Elharamain dari peristiwa/kegiatan yang diberitakan diberi caption "Foto: Dokumentasi Elharamain Wisata"; foto Elharamain yang hanya ilustrasi TANPA caption (tulisan "Foto ilustrasi: Dokumentasi Elharamain Wisata" dilarang, pemilik 2026-11-12); foto haji.go.id "Foto: Kementerian Haji dan Umrah RI".
+- GAMBAR UTAMA ARTIKEL/SERI HAJI HARUS IDENTIK HAJI (pemilik 2026-11-26): Ka'bah/Masjidil Haram dengan jemaah berihram, tawaf/mataf, wukuf Arafah/Jabal Rahmah, tenda Mina, Muzdalifah, jamarat. JANGAN foto bandara, stasiun/kereta, hotel/lobi, penyambutan, makan bersama, selfie di masjid, atau Madinah — meski dari album haji. Pembaca harus langsung melihat "ini haji" dari gambar utama.
 
 ### Jumlah & potongan gambar
 - **Bila memungkinkan, 1–2 gambar tambahan di dalam artikel** selain foto utama (artikel Kegiatan: 2–3 foto dari album grup). Tidak dipaksakan bila tidak ada yang cocok.
