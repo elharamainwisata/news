@@ -43,3 +43,6 @@ Kategori 29 (Umroh & Haji) kecuali 19034 (Fiqih 26). Semua status future.
 - 18998 (19 Nov 15:00) satu menit dengan post Ronde B 18962; seri 09:00 bersamaan slot Ronde A 09:00 — sesuai perintah jam 09:00/15:00. Pemred diberi pengecualian di `routine/prompt_pemred.md` (butir 1a).
 - Meta SEO (advanced_seo_description) ditolak situs; excerpt dipakai sebagai deskripsi.
 - Kredensial REST cadangan (`api-backup.env` WP_NEWS_USER/PASS) kosong; semua lewat MCP wordpress-com.
+
+## 26 Nov 2026 — gambar utama diganti foto (perintah Juragan)
+Featured 19028→19751, 19029→19752, 19030→19753, 19031→19754, 19032→19755, 19033→19756, 19034→19757 (foto asli Drive album HAJJ 1447 indeks 173, 29, 1205, 1133, 1181, 965, 845; crop 16:9, tanpa caption). Infografis tetap 1x di badan. Status/tanggal tidak berubah.
