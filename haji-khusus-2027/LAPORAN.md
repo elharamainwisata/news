@@ -82,3 +82,9 @@ Aturan: gambar utama = momen khas haji (Arafah, Mina, Muzdalifah, jamarat, Armuz
 Featured 08:16–08:17 diganti oleh agen lain (media 19791–19800, 19809, 19810); 19029 = 19787 (rombongan berihram + spanduk Elharamain, bukit Masyair, dipasang 08:10, sebelum terbit 09:00).
 Agen News (sesi ini) menyiapkan media 19801–19808 (album 1182, 306, 314, 388, 1179, 375, 1177, 313) tetapi TIDAK dipasang untuk menghindari saling timpa; media dibiarkan di pustaka.
 Catatan cek: 19034 → 19810 (Masjidil Haram malam, "tawaf ifadah") masih foto Haram → bertentangan aturan baru; 19031 → 19799 (album 246, kursi hijau, kemungkinan kereta/tenda Masyair) perlu dipastikan.
+
+## 26 Nov 2026 08:32 — Bos: 19034 diganti dari foto Masjidil Haram
+- 19034 (Rukun Haji, terbit 1 Des) featured 19810 (Masjidil Haram malam) → **19801** `jemaah-haji-berihram-dalam-tenda-armuzna.jpg` (rombongan laki-laki berihram di dalam tenda Armuzna, 1280x720). Alasan: foto Haram/Ka'bah bisa dikira umroh (Juragan 07:57); album tanpa foto wukuf Arafah yang jelas.
+- Dicek tidak dobel: featured 13 post kini unik semua — 18998:19791, 19023:19792, 19024:19793, 19025:19794, 19026:19795, 19027:19796, 19028:19797, 19029:19787, 19030:19798, 19031:19799, 19032:19800, 19033:19809, 19034:19801.
+- Catatan: `ATURAN_REDAKSI.md` baris 90 & 91 TIDAK bertentangan — baris 90 menyebut Haram "hanya cadangan terakhir", baris 91 merinci syaratnya (harus ada alasan dicatat). Tidak ada yang diubah.
+- Catatan: media 19752–19786, 19802–19808, 19810 tetap ada di pustaka, tidak dihapus.
