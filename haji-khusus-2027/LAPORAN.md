@@ -70,3 +70,15 @@ Sumber: album Drive HAJJ 1447 (foto Elharamain sendiri), crop 16:9, tanpa captio
 
 Dicek: tidak ada foto dobel antar-13 post; kandidat 895/896 & 835–837 DIBATALKAN karena sudah dipakai post News 19229 & 19067 (≤7 hari). Kandidat 1180 dibatalkan (ada spanduk rombongan lain). Media lama (19752–19757, 19765–19770) tidak dihapus.
 Catatan: 19028 (173) satu sesi dengan foto post 19118/19231 (rombongan berihram + menara jam, 152–177) — dipertahankan sesuai arahan Bos.
+
+## 26 Nov 2026 08:12 — infografis tambahan (Juragan 07:56 "tambah infografis jika 1 kurang")
+Aturan: isi hanya dari naskah/infografis resmi seri atau teks artikel, gaya sama (syarat "tanpa kuning" dicabut Juragan 08:03, kuning boleh), di bagian relevan (bukan paling atas), hanya sisip blok gambar (teks tidak diubah).
+- 19029 (Tiga Kelompok): + infografis resmi "Kalender Pelunasan" (media 18997, konten-06) setelah paragraf tahap kedua, indeks blok 11. Alasan: infografis 1 (tiga kelompok) tidak memuat jadwal tiga tahap pelunasan yang dibahas di bagian kelompok ketiga.
+- 19032 (Haji Khusus vs Reguler): + infografis baru media 19788 `haji-khusus-vs-reguler-2027-perbandingan.jpg` (dibuat dari latar konten-06, skrip make19032.py) sebelum CTA. Isi dari teks artikel: penyelenggara, pelunasan tahap 1 (khusus 6 Nov–5 Des, reguler 10 Nov–10 Des 2026), asumsi kuota 17.680/203.320/221.000, kesamaan nomor porsi & antre, tips cek PIHK. Alasan: infografis 1 hanya penyelenggara + kuota; jadwal pelunasan & kesamaan nomor porsi belum tergambar.
+- 11 post lain: tidak ditambah — infografis yang ada sudah memuat semua tahapan/poin artikel.
+
+## 26 Nov 2026 08:20 — koreksi Juragan 07:57 "di Masjidil Haram, umroh pun bisa"
+Aturan: gambar utama = momen khas haji (Arafah, Mina, Muzdalifah, jamarat, Armuzna); foto Haram/Ka'bah tidak cukup.
+Featured 08:16–08:17 diganti oleh agen lain (media 19791–19800, 19809, 19810); 19029 = 19787 (rombongan berihram + spanduk Elharamain, bukit Masyair, dipasang 08:10, sebelum terbit 09:00).
+Agen News (sesi ini) menyiapkan media 19801–19808 (album 1182, 306, 314, 388, 1179, 375, 1177, 313) tetapi TIDAK dipasang untuk menghindari saling timpa; media dibiarkan di pustaka.
+Catatan cek: 19034 → 19810 (Masjidil Haram malam, "tawaf ifadah") masih foto Haram → bertentangan aturan baru; 19031 → 19799 (album 246, kursi hijau, kemungkinan kereta/tenda Masyair) perlu dipastikan.
