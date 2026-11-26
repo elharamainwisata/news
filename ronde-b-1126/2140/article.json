@@ -1,0 +1,34 @@
+{
+ "slot": "2026-11-26T21:40:00",
+ "category": 31,
+ "title": "Masjid Kubah Emas Depok, Wisata Religi Berkubah Emas yang Dibangun Pendirinya setelah Haji Ke-34",
+ "excerpt": "Masjid Dian Al Mahri atau Masjid Kubah Emas di Limo, Depok, punya lima kubah berlapis emas, enam menara sekitar 40 meter, dan menampung hingga 20 ribu jemaah.",
+ "tags": [
+  34,
+  724,
+  196,
+  1812
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1126/2140/masjid-kubah-emas-dian-al-mahri-depok.jpg",
+   "alt": "Masjid Dian Al Mahri atau Masjid Kubah Emas Depok dengan kubah keemasan, menara abu-abu, dan taman berpot bunga di halaman",
+   "caption": "",
+   "seen": "Bangunan masjid besar berdinding cokelat-abu dengan lengkung-lengkung bergaris hitam-putih, kubah utama besar berwarna emas dan beberapa kubah emas kecil, tiga menara abu-abu berpuncak kubah emas, halaman berumput dengan pot bunga dan tiang lampu hias; dua pengunjung kecil di kanan bawah (wajah tak jelas); langit kelabu. Foto 4:3 utuh di tengah, sisi kiri-kanan latar buram foto yang sama; kredit kecil 'Foto: Alamnirvana/CC BY-SA' di pojok kanan bawah.",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Menara_Masjid_Dian_Al_Mahri.jpg - kategori Commons 'Masjid Dian Al-Mahri', deskripsi 'The tower and the golden dome of the Dian Al Mahri mosque in Depok', pemotret Alamnirvana, 16/5/2008, CC BY-SA 3.0 -> kredit kecil di gambar (aturan masjid), caption WP kosong. Asli 1280x960; crop 16:9 memotong menara/badan masjid sehingga dipasang utuh 1200x900 di kanvas 1600x900 berlatar buram.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 460,
+ "sources": [
+  "https://www.kompas.com/properti/read/2026/02/11/131650421/sosok-dian-al-mahri-pendiri-masjid-kubah-emas-depok (LINK KELUAR; Kompas.com 11/2/2026: pendiri, tanah 1996, bangun 2001, emas 24 karat, enam menara ~40 m, marmer impor, haji ke-34, diresmikan akhir 2006, ribuan pengunjung/hari)",
+  "https://www.detik.com/jabar/wisata/d-7093230/masjid-kubah-emas-depok-sejarah-daya-tarik-dan-informasi-kunjungan (tanpa link; detikJabar 16/12/2023: lahir 1949, ~1.000 masjid, wafat Maret 2019 dimakamkan di halaman, lima kubah, tiga teknik emas, skripsi Mirza Shahrani, alamat, jam buka)",
+  "https://www.detik.com/hikmah/foto/d-8378657/pesona-masjid-kubah-emas-destinasi-religi-andalan-depok (tanpa link; detikHikmah 3/3/2026: 8.000 m2, lahan ~50 ha, 20 ribu jemaah)"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "Wisata Halal evergreen Indonesia (Jabodetabek). Belum pernah ditulis: search WP 'kubah emas'/'Dian Al Mahri' tanpa artikel; 15964 At-Thohir Depok (masjid beda) jadi link internal. Beda dari c[31] 14 hari, 19722 Baqi, 19732 Atareek. Angka yang beda antarsumber (luas lahan 50 vs 70 ha, 22 vs 24 karat di ringkasan pencarian) -> dipakai yang terbaca langsung (detik 50 ha, Kompas 24 karat). Jam buka dari detikJabar Des 2023 -> diberi paragraf kehati-hatian. Kapasitas ditulis 'hingga 20 ribu' (detikHikmah). Gambar: hanya 1 foto (Commons kategori Masjid Dian Al-Mahri hanya 2 file; Pexels terblokir Cloudflare), foto 2008 agak berkabut; tanpa sisipan. Digugurkan: Masjid Hassan II Casablanca & Selimiye Edirne (sumber allowlist belum dibaca, waktu)."
+}

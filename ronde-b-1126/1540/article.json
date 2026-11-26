@@ -1,0 +1,36 @@
+{
+ "slot": "2026-11-26T15:40:00",
+ "category": 23,
+ "title": "Muhammadiyah Minta RUU Keuangan Haji Jamin Nilai Manfaat Adil bagi 5,7 Juta Jemaah Antre",
+ "excerpt": "PP Muhammadiyah meminta RUU Pengelolaan Keuangan Haji mengatur pembagian nilai manfaat yang adil, termasuk bagi jemaah yang masih menunggu keberangkatan.",
+ "tags": [
+  34,
+  600,
+  151,
+  876,
+  697
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1126/1540/dana-haji-rombongan-jemaah-tenda-utama.jpg",
+   "alt": "Rombongan jemaah haji berpakaian ihram beristirahat di dalam tenda berpendingin udara pada musim haji",
+   "caption": "",
+   "seen": "Belasan jemaah pria berkain ihram putih duduk berselonjor di lorong tenda putih berpendingin (dua unit AC berdiri), kasur sofa abu-abu, tas & karung bawaan; beberapa memakai tanda pengenal di leher, satu di depan mengacungkan jempol; tidak ada spanduk travel lain.",
+   "evidence": "Drive Elharamain 'HAJI 2026 > FOTO ALBUM HAJJ 1447 H' (1vD09YXp1ae-7-rfp3OSL0gcomkDpCSiR) indeks 336 file 1lbd9tUQN8e2gi6uRNToQ26a8NA_bFFUu (1600x900); ilustrasi tanpa caption. Tidak ada di article.json ronde 7 hari; beda adegan dari featured 19663 (rombongan berdiri berpose) & 19529 (jemaah perempuan).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 469,
+ "sources": [
+  "https://www.antaranews.com/berita/5877911/ruu-keuangan-haji-harus-jamin-keadilan-nilai-manfaat-bagi-jamaah (sumber utama, satu-satunya link keluar; Antara Rabu 25/11/2026 17:06 WIB; kutipan Muhammad Ziyad & isi PERSIS Jeje Zaenudin)",
+  "https://www.bpkh.go.id/publikasi/siaran-pers/nilai-manfaat-va-jemaah-haji-meningkat-bpkh-gandeng-kbihu-perluas-edukasi (BPKH 18/11/2026: Rp8,83 T = 44,50% BPIH 2027, NM VA rata-rata Rp3,4 juta dari Rp2,76 juta; tanpa link)",
+  "https://www.antaranews.com/berita/5873919/dpd-dorong-penguatan-pengawasan-pengelolaan-keuangan-haji (Antara Selasa 24/11/2026, Komite III DPD di Makassar; tanpa link)",
+  "internal 19116, 19464"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "https://www.bpkh.go.id/publikasi/siaran-pers/nilai-manfaat-va-jemaah-haji-meningkat-bpkh-gandeng-kbihu-perluas-edukasi (angka konteks saja; berita utama Antara)",
+ "notes": "Slot 1540 brief: rilis BPKH terbaru yang belum ditulis -> TIDAK ADA. Indeks siaran pers www.bpkh.go.id dicek 11:0x WIB: ISO 9001/37001 (25 Nov) = 19723; KBIHU/NM VA Rp3,4 juta (18 Nov) = 19464; Aset Rp195,7 T/lima strategi (16 Nov) = 18668; Muhammadiyah Tanwir Palu (14 Nov) seremoni >7 hari; perluas akses informasi (10 Nov) = 18630; BPIH 2027 (7 Okt) & Gontor (5 Sep) lama. Maka dipakai fallback: berita dana haji 48 jam (Antara 25 Nov). Topik dana haji umum (reguler + khusus), kebijakan nasional (RUU), bukan haji reguler daerah; dihitung LAIN (bukan jatah haji reguler). 'Rakernas dan Mudzakarah Perhajian' tanggalnya tidak disebut Antara ('belum lama ini') sehingga artikel memakai tanggal terbit Antara. Kutipan Ziyad langsung dari Antara; kutipan PERSIS ditulis tak langsung. Calon digugurkan: DPD Komite III Makassar 24 Nov (dipakai sebagai konteks saja; fokus Embarkasi Makassar/reguler daerah); feature Antara BPKH Apps Bandung Barat 24 Nov (isi mengulang 19464/18630); Revisi UU Zakat fraud ZIS (dobel 19666); Pesantren Award/Masyayikh (dipakai S2 di 1740)."
+}

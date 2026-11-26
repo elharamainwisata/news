@@ -1,0 +1,43 @@
+{
+ "slot": "2026-11-26T19:00:00",
+ "category": 29,
+ "title": "Tips HIMPUH Lempar Jumrah: Aqabah di Hari Nahar, Tiga Jumrah Berurutan saat Hari Tasyrik",
+ "excerpt": "HIMPUH membagikan tata cara lempar jumrah bagi calon jemaah haji, dari urutan Ula, Wustha, dan Aqabah, tujuh kerikil satu per satu, hingga adab melempar.",
+ "tags": [
+  34,
+  1478,
+  184,
+  123,
+  139
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1126/1900/utama-rombongan-haji-menuju-jamarat-mina-malam.jpg",
+   "alt": "Rombongan jemaah haji berompi putih dan bertopi biru berjalan malam hari menuju kawasan Jamarat di Mina di bawah papan penunjuk arah",
+   "caption": "",
+   "seen": "Rombongan jemaah (tampak belakang, rompi putih seragam, topi navy, satu perempuan berkerudung motif) berjalan malam hari di jalan berpaving menuju kompleks bertingkat Jamarat; di atasnya papan biru bertuliskan 'MAJAR AL KABSH ZONE', 'KING FAHD ROAD', 'ALSHOAYBAIN/MOAISEM', bendera biru rombongan, kerumunan jemaah di depan gedung. Tanpa wajah close-up, tanpa kursi roda, tanpa logo travel lain.",
+   "evidence": "Drive perpustakaan 1cg353egFOuGmZVuvhLQ3KhUdHNiv-3x9 > MINA 2 > 'Melontar jumroh 2' (folder 1YDcfDgZJvDlZKRlOVgty5NG5L3ify6oT), file IMG_2634.JPG (id 15o6k2Z_MPDz1Z1fcYxddC8QPCEeDiSJU), tegak 2400x3200 di-crop 16:9 (y1480-2830) -> 1600x900. Bukan foto 19027 (rombongan pagi depan gedung Jamarat, sesi lain) dan bukan 19528 (payung siang). Ilustrasi -> tanpa caption.",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1126/1900/sisipan-rombongan-haji-depan-gedung-jamarat-malam.jpg",
+   "alt": "Rombongan jemaah haji berompi putih berfoto bersama malam hari di depan gedung silinder kompleks Jamarat Mina",
+   "caption": "",
+   "seen": "Puluhan jemaah haji berompi putih bertuliskan Haji 1447 dan berkartu identitas berfoto bersama (berdiri dan jongkok) malam hari di pelataran berpaving depan gedung silinder dan jembatan bertingkat kompleks Jamarat; papan 'NO WAY UP'. Tepi kanan memotong separuh badan dua jemaah (kepala utuh); kursi roda di foto asli sengaja dipotong.",
+   "evidence": "Drive perpustakaan > MINA 2 > 'Melontar jumroh 2', file IMG_2629.JPG (id 1zaKxxHZy2Nxo4Xa-LRr53OecIFyYKKv7), 2400x1800 di-crop x0-1880 bagian bawah (16:9) -> 1600x900. Ilustrasi -> tanpa caption. Bila redaktur menilai potongan tepi kanan kurang rapi, sisipan boleh dibuang (hapus baris %%IMG2%%).",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "HAJI PLUS",
+ "word_count": 488,
+ "sources": [
+  "https://himpuh.or.id/blog/detail/5384/tata-cara-lempar-jumrah-lengkap-urutan-waktu-dan-doanya (link keluar; HIMPUH, kategori Khazanah, tertulis 26/11/2026 12:00)",
+  "https://islam.nu.or.id/syariah/lempar-jamrah-hikmah-kesunnahan-dan-tata-caranya-f9ynT (Bushiri, 14/6/2024; wajib/dam, Busyral Karim hlm 107, menghadap kiblat hari tasyrik, perempuan & al-Adzra'i; tanpa link)",
+  "https://islam.nu.or.id/syariah/melempar-jumrah-bagi-jamaah-haji-lansia-dan-penyandang-disabilitas-2tuGN (nafar awal, Al-Majmu' juz VIII hlm 244 mewakilkan, Ar-Raudhah wakil melempar untuk diri dulu; tanpa link)"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "TIPS HIMPUH (S7, slot grid Nusuk-cadangan 19:00, jalur (1)). Topik haji plus (manasik lempar jumrah), bukan tawaf/ihram; tidak ada judul jumrah/jamarat dalam 14 hari (cek judul_14hari). Beda dari seri 2115 (tujuh tahapan/rukun haji: jumrah hanya disinggung), 19528 (isi tas Armuzna, link internal), 16178 (badal jumrah, lama, link internal). Fakta dicek ke NU Online; judul HIMPUH memuat 'doanya' tetapi isi HIMPUH hanya menyebut takbir, jadi artikel tidak memuat doa lain. Bacaan takbir lengkap versi Mughnil Muhtaj di NU tidak dimuat (cukup 'membaca takbir'). Detail nama buku Hasan Muhammad Ayyub disingkat 'buku karya'. Gambar sesuai aturan 26 Nov (rombongan, momen khas haji jamarat Mina). Calon digugurkan: lihat notes 1620."
+}

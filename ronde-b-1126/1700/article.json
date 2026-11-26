@@ -1,0 +1,44 @@
+{
+ "slot": "2026-11-26T17:00:00",
+ "category": 25,
+ "title": "Kafilah Darb Zubaydah ke-11 Diikuti 265 Peserta dari 20 Negara, Telusuri Jalur Haji Kufah-Makkah",
+ "excerpt": "Sebanyak 265 peserta dari 20 negara menempuh 60 km Kafilah Darb Zubaydah ke-11 di Hail, menelusuri jalur haji kuno Kufah-Makkah yang berjaya di masa Abbasiyah.",
+ "tags": [
+  34,
+  517,
+  1530,
+  71,
+  1162
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1126/1700/darb-zubaydah-utama.jpg",
+   "alt": "Peserta Kafilah Darb Zubaydah ke-11 berjalan kaki membawa tongkat di jalur gurun dekat Faid, Hail",
+   "caption": "",
+   "seen": "Barisan peserta pria berjalan kaki di dataran gurun berkerikil di bawah langit biru; di depan dua pria (satu bertopi koboi dan bermasker kain, satu berbandana dan berkacamata hitam), di belakangnya peserta lain bertongkat kayu dan rombongan panjang hingga ke cakrawala, satu mobil putih di kejauhan. Logo SPA kiri atas terpotong; kredit kecil 'Foto: SPA' kanan bawah.",
+   "evidence": "Foto SPA rilis N2736235 (media_images, caption '11th Darb Zubaydah Caravan Sets Off with 265 Participants from 20 Countries'): https://portalcdn.spa.gov.sa/backend/original/202611/M11317205.jpeg (crop 0,115,1279,834)",
+   "ai_prompt": ""
+  },
+  "2": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1126/1700/darb-zubaydah-pelepasan-faid.jpg",
+   "alt": "Peserta Kafilah Darb Zubaydah ke-11 berfoto bersama di depan spanduk pelepasan di Faid, Hail",
+   "caption": "",
+   "seen": "Sekitar 40 peserta pria berpakaian outdoor dan bertopi berdiri berjajar di jalan aspal, memegang spanduk putih bertuliskan Arab 'Fa'aliyat Qafilat Darb Zubaydah al-Hadiyah 'Asyar 24-26 November 2026'; di belakang tiang-tiang bendera Saudi, bukit cokelat, dan bangunan menara bata. Logo SPA kiri atas terpotong (orang paling kiri sedikit terpotong di tepi); kredit 'Foto: SPA' kanan bawah.",
+   "evidence": "Foto SPA rilis N2736235: https://portalcdn.spa.gov.sa/backend/original/202611/M11317201.jpeg (crop 160,35,1280,665); nama kegiatan tertulis di spanduk",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "LAIN",
+ "word_count": 510,
+ "sources": [
+  "https://www.spa.gov.sa/en/N2736235",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2101532?locale=en",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2571729?locale=en",
+  "https://portalapi.spa.gov.sa/api/v1/news/N2732711?locale=en"
+ ],
+ "haji_go_id": "tidak (SPA)",
+ "bpkh": "tidak",
+ "notes": "MEDIA ARAB, Dunia islam (25). Sumber utama SPA N2736235 (Hail, 25 Nov 2026 18:07 waktu Saudi; kafilah berangkat 'Tuesday' = 24/11/2026; spanduk 24-26 Nov 2026). Latar sejarah: SPA N2101532 (12 Mei 2024: tujuh rute, Zubaidah binti Ja'far istri Harun Ar-Rasyid, >1.400 km di wilayah Saudi, 5 wilayah, fasilitas Abbasiyah, jalan dilapisi batu), SPA N2571729 (26 Apr 2026: jemaah haji Irak kini via Pelabuhan Darat Jadidat Arar), SPA N2732711 (21 Nov 2026: lokakarya astronomi Musim Dingin di Darb Zubaida 19-22 Nov). 1 link keluar (SPA N2736235), 1 link internal 19597 (Ain Zubaidah di menu Nusuk). Tag: 34, 517 sejarah haji, 1530 Jalur Haji, 71 Arab Saudi, 1162 SPA. Foto: 2 foto SPA rilis yang sama, logo SPA dipotong, kredit 'Foto: SPA' di gambar, caption WP kosong. Kabar Nusuk baru SPA N2736600 (capaian Kemenhaj Saudi 2026) diserahkan ke S8 (1600) -> nusuk.txt. Calon DIGUGURKAN: Jalan Lingkar Ketiga Makkah (Arab News 23 Nov 3013719) = sudah 16836 (3 Nov); Dar Al-Qalam (Arab News/SPA N2736146) = dobel 16886; prakiraan hujan petir Makkah (SPA N2736631) = mirip 19172; RGA keselamatan jalan antarkota (N2736615) = untuk warga, tipis; Kemenkes Saudi 109 juta layanan, rencana resistansi antimikroba = tak spesifik jemaah; Kepala Otoritas Haji Lebanon & Dubes Saudi = seremoni; serangan Houthi/rudal = militer; Maqra'ah, Atareek, Gunung Madinah, gerbang Makkah, Museum Al-Qur'an, 124 menit umrah, Jabal Tsur = sudah ditulis."
+}

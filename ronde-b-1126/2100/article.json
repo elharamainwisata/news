@@ -1,0 +1,34 @@
+{
+ "slot": "2026-11-26T21:00:00",
+ "category": 23,
+ "title": "Libur Lebaran-Nyepi 2027 Bisa 10 Hari, Visa Umrah Terakhir Terbit 9 Maret",
+ "excerpt": "Libur Lebaran dan Nyepi 2027 bisa 10 hari pada 6–15 Maret, bertepatan dengan batas akhir penerbitan visa umrah 1448 H dari Saudi pada 9 Maret 2027.",
+ "tags": [
+  34,
+  69,
+  1254
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "/home/khaeruddien/elharamain-news/ronde-b-1126/2100/jemaah-umrah-berihram-mataf-malam.jpg",
+   "alt": "Rombongan jemaah umrah berihram dan berabaya hitam di pelataran Masjidil Haram pada malam hari",
+   "caption": "",
+   "seen": "Rombongan sekitar 17 jemaah umrah (pria berkain ihram putih, wanita berabaya/khimar hitam dengan lanyard biru) berfoto bersama di mataf Masjidil Haram pada malam hari, latar menara masjid dan Menara Jam Makkah; bukan atribut haji.",
+   "evidence": "Drive album grup 1cmzsm7 > folder '11 MARET 2026 I'TIKAF' (raw/itk.txt, raw/pick.txt #8), file 1t8z727OG-frg-NbHC8UCsIY67VcWA0wp 'WhatsApp Image 2026-03-15 at 04.24.44.jpeg'; ilustrasi Elharamain tanpa caption. Di-crop ulang: tas berlogo travel lain ('DOUI VOYAGE') di tepi kiri dibuang. Tidak ditemukan di paket 7 hari maupun featured WP sejak 19 Nov.",
+   "ai_prompt": ""
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 506,
+ "sources": [
+  "https://www.detik.com/hikmah/khazanah/d-8767771/libur-nasional-dan-cuti-bersama-2027-nyepi-idul-fitri-bisa-10-hari",
+  "https://aceh.kemenag.go.id/index.php/informasi/skb-tiga-menteri-tentang-hari-libur-nasional-dan-cuti-bersama-tahun-2027",
+  "https://haj.gov.sa/en/Media-Center/Ministry-News/2026/Ministry-of-Hajj-and-Umrah-Announces-the-Umrah-Season-Calendar-for-1448-AH",
+  "internal: https://news.elharamainwisata.com/kalender-umrah-1448-h-visa-umrah-terakhir-terbit-9-maret-2027-jemaah-harus-keluar-saudi-7-april/ (19662)"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "S3 lanjutan (12:4x WIB). Explainer berita umrah: libur Lebaran-Nyepi 2027 (SKB 3 Menteri 1205/3/2 Th 2026) vs kalender umrah 1448 H haj.gov.sa. Link keluar 1 (detikHikmah 25/11); Kanwil Kemenag Aceh & haj.gov.sa hanya disebut. Semua tanggal dicek ke raw/libur.html, raw/aceh.html, raw/hajcal.html. Dibuang: klaim cuti bersama swasta ikut kebijakan perusahaan & tips paspor (tak ada sumber), klaim 'belum ada perpanjangan' diganti fakta laman masih memuat tanggal (last updated 15/11/2026). Catatan redaktur: Saudi 1 Syawal = 9 Mar 2027, libur Idulfitri RI 10-11 Mar (penetapan final via Keputusan Menag) – sudah disebut di artikel. Digugurkan sebelumnya: Pesantren Award (sudah dimuat S2 1740). Foto: tas berlogo travel lain di-crop keluar; Read final OK."
+}

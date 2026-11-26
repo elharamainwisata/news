@@ -1,0 +1,3 @@
+S4 1700 MEDIA ARAB (11:15, REVISI): Kafilah Darb Zubaydah ke-11 (SPA N2736235, 25 Nov): 265 peserta 20 negara, Faid-Al-Jaffaliyah 60 km, jalur haji bersejarah Kufah-Makkah. Kategori 25. Foto SPA. (Jalan Lingkar Ketiga Makkah GUGUR: sudah 16836, 3 Nov.)
+Kabar Nusuk baru (SPA N2736600 capaian 2026 Kemenhaj Saudi) DISERAHKAN ke S8 -> lihat ../nusuk.txt. S4 tidak memakai N2736600.
+-> SELESAI 11:08: paket 1700/article.json, 2 foto SPA (utama peserta berjalan di gurun, sisipan spanduk pelepasan), kategori 25.

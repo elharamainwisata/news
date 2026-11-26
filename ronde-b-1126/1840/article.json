@@ -1,0 +1,35 @@
+{
+ "slot": "2026-11-26T18:40:00",
+ "category": 29,
+ "title": "Paspor Hilang atau Hotel Bermasalah saat Umrah? Ini Jalur Aduan Resmi Kementerian Haji Saudi",
+ "excerpt": "Kementerian Haji dan Umrah Saudi merinci jalur aduan jemaah umrah, dari paspor hilang lewat Pusat Enaya 920002814 hingga keluhan hotel ke nomor 930.",
+ "tags": [
+  34,
+  1060,
+  687,
+  182,
+  714
+ ],
+ "content_file": "content.html",
+ "images": {
+  "1": {
+   "file": "",
+   "alt": "Jemaah umrah perempuan Indonesia berkonsultasi dengan petugas di meja layanan sambil memegang paspor tertutup",
+   "caption": "Ilustrasi",
+   "seen": "(belum ada; dibuat induk dari ai_prompt, wajib dilihat setelah jadi)",
+   "evidence": "Topik memuat paspor hilang & keluhan layanan (nada cenderung negatif) -> tanpa foto Elharamain/stok orang sungguhan, ilustrasi sesuai aturan A.",
+   "ai_prompt": "Ultra-realistic documentary news photograph, shot on full-frame DSLR with 50mm lens, natural available light. A middle-aged Indonesian Southeast Asian woman with tan brown skin wearing a modest beige hijab and long grey abaya stands at a clean service help desk inside a modern hotel-style lobby in Makkah, Saudi Arabia, holding a closed dark green passport and a smartphone, calmly explaining to a Saudi Arab male service officer in a white thobe and red-white shemagh who is listening and typing on a computer. A middle-aged Indonesian man in white shirt and black peci stands beside her. Calm, helpful atmosphere, candid unposed moment, realistic skin texture with pores and fine wrinkles, natural imperfect expressions, slight film grain, shallow depth of field, true-to-life colors, not CGI, not 3D render, not painting, not illustration, not plastic or airbrushed skin. No readable text, no logos, no brand names, no flags, no Kaaba, no Masjid al-Haram, no Masjid an-Nabawi, no mosque visible, all people fictional, no Caucasian, no Western-looking people. 16:9."
+  }
+ },
+ "sensitive": false,
+ "topic_type": "UMROH",
+ "word_count": 469,
+ "sources": [
+  "https://haj.gov.sa/en/FAQ (Last updated 15/11/2026; bagian umum/Umrah: paspor hilang, keluhan rombongan & hotel, kontak 920002814/@MOHU_Care, tak ada biaya di luar kontrak, visa umrah wajib paket akomodasi-transportasi, 9 pusat bimbingan, visa 90 hari tanpa perpanjangan, visa ditolak -> Kemenlu Saudi 920033334; dibaca curl 26/11 11:05 WIB) - SATU-SATUNYA link keluar",
+  "https://www.spa.gov.sa/en/N2736600 (41 pusat Nusuk Care, 5,7 juta layanan, 11 bahasa; disebut tanpa link)",
+  "internal 19724 (akun Nusuk, 920002814), 17851 (cek travel berizin)"
+ ],
+ "haji_go_id": "tidak",
+ "bpkh": "tidak",
+ "notes": "ULASAN LAYANAN NUSUK/KEMENHAJ SAUDI (slot tengah S8, cadangan karena kabar Nusuk baru hanya 1 = dipakai 1600). Memakai halaman FAQ haj.gov.sa yang sama dengan 0800 & 1040 pagi ini, tetapi bagian BERBEDA (aduan/paspor hilang/keluhan hotel/biaya di luar kontrak), bukan izin/akun Nusuk. Butir FAQ era COVID & haji domestik sengaja tidak dipakai. Sengaja TIDAK membahas orang hilang/barang hilang/penitipan anak agar tak dobel dengan S9 2120 (pusat layanan tamu Masjidil Haram). 'Enaya Center' (FAQ) tidak disamakan dengan 'Nusuk Care' (SPA) karena sumber tidak menyatakan keduanya sama. Gambar: ilustrasi (aduan/paspor hilang) -> induk membuat dari ai_prompt; bila redaktur menilai netral, alternatif foto Drive tidak disiapkan. Digugurkan: haj.gov.sa berita fitur Nusuk 2024-2025 (mushaf elektronik, waktu salat, eksplorasi: lama & sudah ditulis), Nusuk Masar/integrated digital (haji domestik), umrah.nusuk.sa /TermsOfUse (paket individu tanpa perantara, sensitif PPIU), /notifications (perlu login), Umrah and Visit Guide (hanya tombol unduh PDF), SPA hal.1-70 (item Haramain/umrah semua sudah dipakai: N2734579, N2726815, N2731056, N2733578, N2731652, N2730885 dll.)."
+}
